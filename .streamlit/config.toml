@@ -3,7 +3,8 @@ enableStaticServing = true
 headless = true
 maxUploadSize = 200
 enableXsrfProtection = true
-address = "127.0.0.1"   # local-only by default; see docs/DEPLOYMENT.md before exposing on a network
+# server.address is not set here, so hosted demos (Streamlit Community Cloud) can serve the app.
+# run_windows.bat still binds to 127.0.0.1 (local-only) with --server.address.
 
 [browser]
 gatherUsageStats = false

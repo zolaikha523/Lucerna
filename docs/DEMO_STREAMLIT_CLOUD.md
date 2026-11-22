@@ -4,7 +4,7 @@ This is for showing Lucerna with **synthetic data only**. Never put real or pers
 
 1. Push the repository to GitHub. In Streamlit Community Cloud choose **New app**, pick the repository, and set:
    - **Main file path:** `app/main.py`
-   - **Python version:** 3.13 (or 3.12)
+   - **Python version:** 3.13, 3.12 or 3.11 (the 91 tests also pass on 3.11)
 2. Under **Advanced settings › Secrets** add one line: `LUCERNA_DEMO_MODE = "1"`
 3. Deploy. On the first start (about 20–60 seconds) Lucerna builds the synthetic demo workspace (see `tests/seed_demo.py`).
    The login page then shows the demo sign-in: `admin` / `Lucerna-Demo-2026!`.
