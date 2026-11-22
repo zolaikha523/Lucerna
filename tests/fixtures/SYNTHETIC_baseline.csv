@@ -1,0 +1,251 @@
+respondent_id,survey_round,survey_date,district,sex,age,monthly_income_afn,has_savings,knowledge_score,meals_per_day
+B-0000,Baseline,2025-06-15,Behsud,Male,58,5440.0,No,58.0,3
+B-0001,Baseline,2025-06-15,Surkh Rod,Male,46,7280.0,No,57.0,1
+B-0002,Baseline,2025-06-15,Surkh Rod,Male,39,4880.0,No,55.0,2
+B-0003,Baseline,2025-06-15,Behsud,Female,56,4980.0,No,41.0,2
+B-0004,Baseline,2025-06-15,Behsud,Female,18,3960.0,No,69.0,3
+B-0005,Baseline,2025-06-15,Surkh Rod,Female,35,11890.0,No,23.0,1
+B-0006,Baseline,2025-06-15,Jalalabad,Male,59,2540.0,No,56.0,2
+B-0007,Baseline,2025-06-15,Surkh Rod,Female,47,5490.0,No,59.0,1
+B-0008,Baseline,2025-06-15,Behsud,Female,60,3150.0,No,41.0,3
+B-0009,Baseline,2025-06-15,Jalalabad,Female,48,3100.0,No,53.0,2
+B-0010,Baseline,2025-06-15,Surkh Rod,Male,25,13850.0,No,61.0,2
+B-0011,Baseline,2025-06-15,Behsud,Female,38,8470.0,No,60.0,2
+B-0012,Baseline,2025-06-15,Jalalabad,Male,40,3650.0,No,47.0,2
+B-0013,Baseline,2025-06-15,Behsud,Male,52,1590.0,No,67.0,3
+B-0014,Baseline,2025-06-15,Surkh Rod,Female,48,7210.0,No,54.0,2
+B-0015,Baseline,2025-06-15,Behsud,Female,61,8940.0,No,55.0,2
+B-0016,Baseline,2025-06-15,Jalalabad,Male,18,5020.0,No,73.0,2
+B-0017,Baseline,2025-06-15,Jalalabad,Female,47,8810.0,No,33.0,3
+B-0018,Baseline,2025-06-15,Surkh Rod,Female,52,4840.0,No,47.0,2
+B-0019,Baseline,2025-06-15,Surkh Rod,Male,31,6870.0,No,27.0,2
+B-0020,Baseline,2025-06-15,Behsud,Female,21,3840.0,No,47.0,2
+B-0021,Baseline,2025-06-15,Jalalabad,Male,38,3380.0,No,48.0,3
+B-0022,Baseline,2025-06-15,Surkh Rod,Male,26,6120.0,No,49.0,2
+B-0023,Baseline,2025-06-15,Jalalabad,Male,53,4800.0,No,47.0,2
+B-0024,Baseline,2025-06-15,Jalalabad,Male,31,5260.0,Yes,45.0,3
+B-0025,Baseline,2025-06-15,Jalalabad,Female,60,5500.0,No,55.0,2
+B-0026,Baseline,2025-06-15,Behsud,Female,37,10820.0,Yes,47.0,3
+B-0027,Baseline,2025-06-15,Behsud,Female,39,4500.0,No,44.0,1
+B-0028,Baseline,2025-06-15,Surkh Rod,Female,23,3100.0,Yes,47.0,2
+B-0029,Baseline,2025-06-15,Behsud,Male,32,7600.0,No,73.0,2
+B-0030,Baseline,2025-06-15,Surkh Rod,Male,53,10260.0,No,71.0,2
+B-0031,Baseline,2025-06-15,Behsud,Male,54,8090.0,No,57.0,2
+B-0032,Baseline,2025-06-15,Jalalabad,Male,58,6370.0,No,24.0,2
+B-0033,Baseline,2025-06-15,Surkh Rod,Female,59,2240.0,No,52.0,3
+B-0034,Baseline,2025-06-15,Jalalabad,Female,55,6300.0,No,54.0,3
+B-0035,Baseline,2025-06-15,Behsud,Female,45,6040.0,No,58.0,3
+B-0036,Baseline,2025-06-15,Behsud,Female,59,7130.0,No,48.0,1
+B-0037,Baseline,2025-06-15,Behsud,Male,53,5870.0,Yes,44.0,2
+B-0038,Baseline,2025-06-15,Jalalabad,Female,64,7190.0,Yes,24.0,2
+B-0039,Baseline,2025-06-15,Behsud,Female,25,5040.0,No,42.0,3
+B-0040,Baseline,2025-06-15,Surkh Rod,Female,22,2600.0,No,64.0,2
+B-0041,Baseline,2025-06-15,Behsud,Male,55,6910.0,No,58.0,3
+B-0042,Baseline,2025-06-15,Behsud,Male,44,5910.0,Yes,52.0,3
+B-0043,Baseline,2025-06-15,Jalalabad,Female,48,4130.0,No,70.0,3
+B-0044,Baseline,2025-06-15,Behsud,Female,46,4470.0,Yes,61.0,2
+B-0045,Baseline,2025-06-15,Behsud,Female,59,7220.0,Yes,46.0,3
+B-0046,Baseline,2025-06-15,Jalalabad,Male,43,8190.0,No,57.0,2
+B-0047,Baseline,2025-06-15,Behsud,Female,61,2870.0,Yes,41.0,3
+B-0048,Baseline,2025-06-15,Behsud,Male,60,7240.0,No,58.0,1
+B-0049,Baseline,2025-06-15,Jalalabad,Male,46,3590.0,Yes,29.0,2
+B-0050,Baseline,2025-06-15,Behsud,Male,49,4410.0,Yes,56.0,2
+B-0051,Baseline,2025-06-15,Behsud,Female,43,5270.0,No,67.0,2
+B-0052,Baseline,2025-06-15,Surkh Rod,Female,59,5940.0,Yes,34.0,1
+B-0053,Baseline,2025-06-15,Jalalabad,Female,63,4770.0,No,71.0,3
+B-0054,Baseline,2025-06-15,Surkh Rod,Female,37,7530.0,No,56.0,2
+B-0055,Baseline,2025-06-15,Jalalabad,Female,46,6080.0,No,44.0,1
+B-0056,Baseline,2025-06-15,Surkh Rod,Male,61,2320.0,Yes,42.0,2
+B-0057,Baseline,2025-06-15,Surkh Rod,Male,33,5660.0,No,36.0,2
+B-0058,Baseline,2025-06-15,Surkh Rod,Female,46,2530.0,No,61.0,1
+B-0059,Baseline,2025-06-15,Surkh Rod,Female,37,6680.0,No,39.0,2
+B-0060,Baseline,2025-06-15,Surkh Rod,Female,36,4240.0,Yes,34.0,1
+B-0061,Baseline,2025-06-15,Behsud,Male,28,5930.0,No,55.0,2
+B-0062,Baseline,2025-06-15,Surkh Rod,Female,60,8960.0,No,49.0,2
+B-0063,Baseline,2025-06-15,Jalalabad,Female,24,1930.0,Yes,68.0,1
+B-0064,Baseline,2025-06-15,Behsud,Female,56,4710.0,Yes,55.0,1
+B-0065,Baseline,2025-06-15,Jalalabad,Male,58,4910.0,No,75.0,2
+B-0066,Baseline,2025-06-15,Behsud,Female,35,2490.0,No,64.0,2
+B-0067,Baseline,2025-06-15,Surkh Rod,Female,34,3610.0,Yes,53.0,1
+B-0068,Baseline,2025-06-15,Behsud,Female,19,9370.0,No,54.0,3
+B-0069,Baseline,2025-06-15,Behsud,Female,57,3520.0,No,58.0,2
+B-0070,Baseline,2025-06-15,Jalalabad,Female,45,5210.0,Yes,71.0,2
+B-0071,Baseline,2025-06-15,Behsud,Male,45,6460.0,Yes,77.0,3
+B-0072,Baseline,2025-06-15,Surkh Rod,Female,21,3780.0,No,42.0,2
+B-0073,Baseline,2025-06-15,Jalalabad,Female,43,19130.0,No,40.0,1
+B-0074,Baseline,2025-06-15,Behsud,Female,23,4850.0,No,36.0,1
+B-0075,Baseline,2025-06-15,Surkh Rod,Male,18,3420.0,No,31.0,2
+B-0076,Baseline,2025-06-15,Jalalabad,Female,56,2150.0,No,55.0,2
+B-0077,Baseline,2025-06-15,Jalalabad,Male,63,1850.0,No,60.0,3
+B-0078,Baseline,2025-06-15,Behsud,Female,50,10870.0,No,54.0,2
+B-0079,Baseline,2025-06-15,Behsud,Female,39,6060.0,No,33.0,1
+B-0080,Baseline,2025-06-15,Surkh Rod,Male,64,6160.0,Yes,22.0,1
+B-0081,Baseline,2025-06-15,Jalalabad,Male,59,4110.0,No,42.0,1
+B-0082,Baseline,2025-06-15,Jalalabad,Female,61,3460.0,No,37.0,2
+B-0083,Baseline,2025-06-15,Behsud,Male,31,4170.0,No,51.0,2
+B-0084,Baseline,2025-06-15,Surkh Rod,Female,61,5720.0,No,48.0,2
+B-0085,Baseline,2025-06-15,Surkh Rod,Female,56,7530.0,Yes,58.0,2
+B-0086,Baseline,2025-06-15,Jalalabad,Female,57,8430.0,No,53.0,1
+B-0087,Baseline,2025-06-15,Behsud,Male,20,7290.0,No,48.0,2
+B-0088,Baseline,2025-06-15,Surkh Rod,Female,64,4930.0,No,64.0,2
+B-0089,Baseline,2025-06-15,Behsud,Male,60,3740.0,Yes,31.0,2
+B-0090,Baseline,2025-06-15,Behsud,Male,50,8360.0,No,41.0,3
+B-0091,Baseline,2025-06-15,Behsud,Female,61,3620.0,No,21.0,2
+B-0092,Baseline,2025-06-15,Surkh Rod,Female,55,2700.0,No,55.0,3
+B-0093,Baseline,2025-06-15,Behsud,Male,43,6450.0,Yes,25.0,2
+B-0094,Baseline,2025-06-15,Surkh Rod,Male,28,1860.0,Yes,42.0,2
+B-0095,Baseline,2025-06-15,Jalalabad,Female,50,5370.0,No,43.0,3
+B-0096,Baseline,2025-06-15,Surkh Rod,Female,56,3060.0,No,36.0,3
+B-0097,Baseline,2025-06-15,Behsud,Female,40,3600.0,No,61.0,2
+B-0098,Baseline,2025-06-15,Surkh Rod,Female,54,4480.0,No,42.0,3
+B-0099,Baseline,2025-06-15,Surkh Rod,Male,53,5990.0,No,33.0,1
+B-0100,Baseline,2025-06-15,Behsud,Female,21,7810.0,No,37.0,2
+B-0101,Baseline,2025-06-15,Behsud,Male,18,4600.0,No,45.0,1
+B-0102,Baseline,2025-06-15,Behsud,Male,42,10380.0,No,48.0,2
+B-0103,Baseline,2025-06-15,Behsud,Male,20,1960.0,No,86.0,2
+B-0104,Baseline,2025-06-15,Surkh Rod,Male,34,7200.0,No,44.0,2
+B-0105,Baseline,2025-06-15,Jalalabad,Female,39,8880.0,Yes,43.0,2
+B-0106,Baseline,2025-06-15,Surkh Rod,Female,43,4930.0,No,34.0,3
+B-0107,Baseline,2025-06-15,Behsud,Male,38,2930.0,Yes,50.0,1
+B-0108,Baseline,2025-06-15,Behsud,Male,44,4470.0,No,38.0,3
+B-0109,Baseline,2025-06-15,Jalalabad,Female,30,3910.0,No,50.0,2
+B-0110,Baseline,2025-06-15,Surkh Rod,Male,24,6030.0,No,48.0,1
+B-0111,Baseline,2025-06-15,Behsud,Female,32,8640.0,No,40.0,1
+B-0112,Baseline,2025-06-15,Behsud,Female,59,6330.0,No,86.0,1
+B-0113,Baseline,2025-06-15,Behsud,Male,33,3080.0,Yes,51.0,2
+B-0114,Baseline,2025-06-15,Jalalabad,Male,20,8490.0,No,26.0,1
+B-0115,Baseline,2025-06-15,Surkh Rod,Male,40,7270.0,No,51.0,3
+B-0116,Baseline,2025-06-15,Behsud,Male,60,4670.0,No,73.0,2
+B-0117,Baseline,2025-06-15,Behsud,Female,37,4900.0,No,94.0,2
+B-0118,Baseline,2025-06-15,Surkh Rod,Male,40,4150.0,No,55.0,2
+B-0119,Baseline,2025-06-15,Jalalabad,Female,24,4910.0,No,69.0,3
+B-0120,Baseline,2025-06-15,Surkh Rod,Female,62,2230.0,No,53.0,3
+B-0121,Baseline,2025-06-15,Surkh Rod,Male,29,6750.0,No,57.0,3
+B-0122,Baseline,2025-06-15,Surkh Rod,Male,57,6050.0,Yes,68.0,3
+B-0123,Baseline,2025-06-15,Behsud,Female,35,8530.0,No,52.0,2
+B-0124,Baseline,2025-06-15,Behsud,Male,55,2440.0,No,37.0,2
+B-0125,Baseline,2025-06-15,Behsud,Female,60,5920.0,Yes,69.0,2
+B-0126,Baseline,2025-06-15,Behsud,Male,22,2650.0,No,60.0,1
+B-0127,Baseline,2025-06-15,Surkh Rod,Male,57,4870.0,No,43.0,3
+B-0128,Baseline,2025-06-15,Jalalabad,Female,45,6810.0,Yes,46.0,2
+B-0129,Baseline,2025-06-15,Jalalabad,Male,27,8360.0,Yes,50.0,2
+B-0130,Baseline,2025-06-15,Behsud,Male,40,4870.0,No,66.0,2
+B-0131,Baseline,2025-06-15,Jalalabad,Female,64,10350.0,No,58.0,1
+B-0132,Baseline,2025-06-15,Jalalabad,Female,21,3800.0,Yes,58.0,2
+B-0133,Baseline,2025-06-15,Behsud,Female,32,7330.0,Yes,63.0,3
+B-0134,Baseline,2025-06-15,Surkh Rod,Male,40,8290.0,No,51.0,2
+B-0135,Baseline,2025-06-15,Surkh Rod,Female,30,20470.0,No,33.0,3
+B-0136,Baseline,2025-06-15,Surkh Rod,Female,50,8510.0,No,63.0,2
+B-0137,Baseline,2025-06-15,Behsud,Male,54,5340.0,No,61.0,2
+B-0138,Baseline,2025-06-15,Behsud,Male,51,6600.0,No,52.0,2
+B-0139,Baseline,2025-06-15,Jalalabad,Female,26,9000.0,Yes,59.0,2
+B-0140,Baseline,2025-06-15,Surkh Rod,Male,30,4920.0,Yes,61.0,1
+B-0141,Baseline,2025-06-15,Surkh Rod,Female,42,3040.0,Yes,51.0,3
+B-0142,Baseline,2025-06-15,Jalalabad,Female,34,2870.0,No,55.0,2
+B-0143,Baseline,2025-06-15,Surkh Rod,Female,37,5920.0,No,48.0,3
+B-0144,Baseline,2025-06-15,Surkh Rod,Female,22,3430.0,No,74.0,1
+B-0145,Baseline,2025-06-15,Surkh Rod,Female,59,6150.0,Yes,47.0,2
+B-0146,Baseline,2025-06-15,Behsud,Male,41,4840.0,No,44.0,3
+B-0147,Baseline,2025-06-15,Jalalabad,Female,49,4960.0,No,17.0,1
+B-0148,Baseline,2025-06-15,Surkh Rod,Female,61,8230.0,No,42.0,1
+B-0149,Baseline,2025-06-15,Jalalabad,Female,48,3750.0,Yes,59.0,1
+B-0150,Baseline,2025-06-15,Surkh Rod,Male,19,6120.0,No,46.0,2
+B-0151,Baseline,2025-06-15,Behsud,Male,50,3930.0,No,48.0,2
+B-0152,Baseline,2025-06-15,Jalalabad,Male,63,3460.0,No,48.0,3
+B-0153,Baseline,2025-06-15,Behsud,Male,45,4320.0,No,59.0,2
+B-0154,Baseline,2025-06-15,Behsud,Female,57,2930.0,Yes,37.0,1
+B-0155,Baseline,2025-06-15,Behsud,Male,64,4360.0,Yes,54.0,3
+B-0156,Baseline,2025-06-15,Behsud,Female,37,9120.0,No,47.0,2
+B-0157,Baseline,2025-06-15,Surkh Rod,Female,44,10690.0,Yes,66.0,3
+B-0158,Baseline,2025-06-15,Jalalabad,Male,29,2840.0,Yes,65.0,1
+B-0159,Baseline,2025-06-15,Jalalabad,Female,50,7470.0,No,47.0,2
+B-0160,Baseline,2025-06-15,Jalalabad,Female,46,7540.0,No,53.0,1
+B-0161,Baseline,2025-06-15,Behsud,Female,56,8800.0,Yes,53.0,2
+B-0162,Baseline,2025-06-15,Behsud,Male,35,4900.0,No,64.0,3
+B-0163,Baseline,2025-06-15,Jalalabad,Male,20,7150.0,No,81.0,2
+B-0164,Baseline,2025-06-15,Jalalabad,Female,40,5350.0,No,71.0,2
+B-0165,Baseline,2025-06-15,Behsud,Female,30,5040.0,No,76.0,3
+B-0166,Baseline,2025-06-15,Jalalabad,Male,47,4040.0,No,75.0,1
+B-0167,Baseline,2025-06-15,Surkh Rod,Female,40,4150.0,No,38.0,3
+B-0168,Baseline,2025-06-15,Jalalabad,Female,43,10260.0,No,44.0,2
+B-0169,Baseline,2025-06-15,Behsud,Female,39,3890.0,Yes,46.0,3
+B-0170,Baseline,2025-06-15,Surkh Rod,Female,59,4230.0,Yes,61.0,2
+B-0171,Baseline,2025-06-15,Jalalabad,Female,35,4780.0,Yes,50.0,1
+B-0172,Baseline,2025-06-15,Jalalabad,Female,53,18830.0,No,51.0,3
+B-0173,Baseline,2025-06-15,Surkh Rod,Male,63,1960.0,No,44.0,3
+B-0174,Baseline,2025-06-15,Surkh Rod,Female,29,5050.0,No,52.0,1
+B-0175,Baseline,2025-06-15,Behsud,Female,42,5530.0,No,65.0,1
+B-0176,Baseline,2025-06-15,Jalalabad,Male,51,9440.0,No,46.0,2
+B-0177,Baseline,2025-06-15,Behsud,Female,31,11930.0,No,100.0,2
+B-0178,Baseline,2025-06-15,Surkh Rod,Male,62,5530.0,No,24.0,2
+B-0179,Baseline,2025-06-15,Jalalabad,Male,61,3760.0,Yes,59.0,3
+B-0180,Baseline,2025-06-15,Behsud,Male,36,3620.0,No,46.0,1
+B-0181,Baseline,2025-06-15,Jalalabad,Male,22,4890.0,No,93.0,2
+B-0182,Baseline,2025-06-15,Jalalabad,Female,29,19830.0,No,42.0,3
+B-0183,Baseline,2025-06-15,Behsud,Male,45,11640.0,No,22.0,3
+B-0184,Baseline,2025-06-15,Jalalabad,Male,31,4710.0,Yes,29.0,2
+B-0185,Baseline,2025-06-15,Behsud,Female,25,4780.0,No,46.0,3
+B-0186,Baseline,2025-06-15,Behsud,Female,31,3730.0,No,40.0,1
+B-0187,Baseline,2025-06-15,Surkh Rod,Male,40,7350.0,No,74.0,1
+B-0188,Baseline,2025-06-15,Surkh Rod,Male,63,7240.0,No,53.0,2
+B-0189,Baseline,2025-06-15,Surkh Rod,Female,59,9330.0,No,59.0,2
+B-0190,Baseline,2025-06-15,Jalalabad,Male,29,4390.0,No,49.0,3
+B-0191,Baseline,2025-06-15,Jalalabad,Male,33,2670.0,No,44.0,3
+B-0192,Baseline,2025-06-15,Behsud,Female,61,2650.0,Yes,65.0,1
+B-0193,Baseline,2025-06-15,Behsud,Female,52,8580.0,No,39.0,3
+B-0194,Baseline,2025-06-15,Behsud,Male,25,4260.0,No,53.0,2
+B-0195,Baseline,2025-06-15,Surkh Rod,Male,20,11330.0,No,63.0,3
+B-0196,Baseline,2025-06-15,Jalalabad,Female,41,5860.0,Yes,63.0,2
+B-0197,Baseline,2025-06-15,Behsud,Male,53,2610.0,No,28.0,2
+B-0198,Baseline,2025-06-15,Jalalabad,Female,63,4860.0,No,45.0,3
+B-0199,Baseline,2025-06-15,Jalalabad,Male,39,3450.0,No,54.0,2
+B-0200,Baseline,2025-06-15,Behsud,Female,46,6280.0,No,46.0,2
+B-0201,Baseline,2025-06-15,Jalalabad,Female,31,11280.0,No,32.0,3
+B-0202,Baseline,2025-06-15,Surkh Rod,Male,43,4030.0,No,63.0,2
+B-0203,Baseline,2025-06-15,Surkh Rod,Male,33,3370.0,No,43.0,2
+B-0204,Baseline,2025-06-15,Behsud,Male,42,4280.0,No,31.0,3
+B-0205,Baseline,2025-06-15,Jalalabad,Female,28,4780.0,No,31.0,2
+B-0206,Baseline,2025-06-15,Behsud,Male,62,5600.0,No,39.0,2
+B-0207,Baseline,2025-06-15,Jalalabad,Male,26,4480.0,Yes,30.0,3
+B-0208,Baseline,2025-06-15,Jalalabad,Male,20,4760.0,No,45.0,2
+B-0209,Baseline,2025-06-15,Behsud,Female,30,7750.0,No,69.0,2
+B-0210,Baseline,2025-06-15,Behsud,Male,47,7900.0,No,46.0,3
+B-0211,Baseline,2025-06-15,Jalalabad,Male,29,5860.0,No,48.0,2
+B-0212,Baseline,2025-06-15,Surkh Rod,Male,49,6500.0,No,43.0,2
+B-0213,Baseline,2025-06-15,Behsud,Female,53,11030.0,No,57.0,2
+B-0214,Baseline,2025-06-15,Behsud,Female,55,2020.0,No,72.0,3
+B-0215,Baseline,2025-06-15,Jalalabad,Male,33,7090.0,Yes,48.0,1
+B-0216,Baseline,2025-06-15,Behsud,Female,54,5950.0,No,56.0,3
+B-0217,Baseline,2025-06-15,Jalalabad,Female,30,6390.0,No,74.0,3
+B-0218,Baseline,2025-06-15,Behsud,Male,55,10030.0,No,26.0,3
+B-0219,Baseline,2025-06-15,Behsud,Male,55,8510.0,Yes,60.0,2
+B-0220,Baseline,2025-06-15,Behsud,Female,19,3300.0,Yes,63.0,2
+B-0221,Baseline,2025-06-15,Jalalabad,Male,62,4170.0,No,49.0,3
+B-0222,Baseline,2025-06-15,Surkh Rod,Male,38,5560.0,No,54.0,2
+B-0223,Baseline,2025-06-15,Jalalabad,Female,54,3280.0,No,40.0,2
+B-0224,Baseline,2025-06-15,Jalalabad,Male,24,5420.0,No,90.0,1
+B-0225,Baseline,2025-06-15,Behsud,Male,52,4470.0,No,56.0,1
+B-0226,Baseline,2025-06-15,Jalalabad,Female,27,6970.0,No,51.0,2
+B-0227,Baseline,2025-06-15,Jalalabad,Male,29,5580.0,Yes,46.0,1
+B-0228,Baseline,2025-06-15,Behsud,Male,55,5480.0,No,45.0,2
+B-0229,Baseline,2025-06-15,Surkh Rod,Female,27,11830.0,No,64.0,3
+B-0230,Baseline,2025-06-15,Jalalabad,Female,22,2140.0,No,29.0,3
+B-0231,Baseline,2025-06-15,Surkh Rod,Male,63,5610.0,No,60.0,1
+B-0232,Baseline,2025-06-15,Surkh Rod,Female,55,6020.0,No,50.0,2
+B-0233,Baseline,2025-06-15,Surkh Rod,Female,53,8530.0,No,48.0,3
+B-0234,Baseline,2025-06-15,Behsud,Male,25,6800.0,No,46.0,3
+B-0235,Baseline,2025-06-15,Jalalabad,Female,60,3950.0,No,56.0,3
+B-0236,Baseline,2025-06-15,Jalalabad,Female,45,13650.0,Yes,41.0,3
+B-0237,Baseline,2025-06-15,Behsud,Male,50,2890.0,No,70.0,2
+B-0238,Baseline,2025-06-15,Jalalabad,Male,35,4130.0,Yes,50.0,3
+B-0239,Baseline,2025-06-15,Jalalabad,Female,39,3870.0,No,65.0,1
+B-0240,Baseline,2025-06-15,Jalalabad,Male,56,3700.0,Yes,51.0,2
+B-0241,Baseline,2025-06-15,Behsud,Male,37,8820.0,Yes,38.0,2
+B-0242,Baseline,2025-06-15,Behsud,Female,47,1830.0,No,44.0,2
+B-0243,Baseline,2025-06-15,Surkh Rod,Male,59,3160.0,Yes,36.0,3
+B-0244,Baseline,2025-06-15,Behsud,Female,50,7880.0,Yes,63.0,1
+B-0245,Baseline,2025-06-15,Behsud,Male,63,7400.0,No,45.0,1
+B-0246,Baseline,2025-06-15,Surkh Rod,Male,47,3790.0,No,66.0,2
+B-0247,Baseline,2025-06-15,Surkh Rod,Female,56,6360.0,No,41.0,3
+B-0248,Baseline,2025-06-15,Jalalabad,Female,29,12540.0,No,71.0,1
+B-0249,Baseline,2025-06-15,Jalalabad,Male,33,7560.0,No,55.0,2

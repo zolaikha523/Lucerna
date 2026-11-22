@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64.0 64.0" role="img" aria-label="Lucerna"><title>Lucerna</title><g transform="translate(0 0) scale(1.0)">
+  <defs>
+    <linearGradient id="f-tile" x1="6" y1="4" x2="60" y2="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F6BFF"/><stop offset="1" stop-color="#16C2B0"/>
+    </linearGradient>
+    <linearGradient id="f-beam" x1="18" y1="40" x2="45" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".45"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#f-tile)"/>
+  <rect x="2.5" y="2.5" width="59" height="59" rx="15.5" fill="none" stroke="#FFFFFF" stroke-opacity=".18"/>
+  <path d="M14 18.5a4.5 4.5 0 0 1 9 0V40.2L41.6 33.4A2.2 2.2 0 0 1 44.6 35.5V47.8A2.2 2.2 0 0 1 42.4 50H18.5A4.5 4.5 0 0 1 14 45.5Z" fill="url(#f-beam)"/>
+  <circle cx="46.5" cy="19.5" r="5.5" fill="#FFC56B"/>
+</g></svg>

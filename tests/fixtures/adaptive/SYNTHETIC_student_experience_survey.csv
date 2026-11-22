@@ -1,0 +1,421 @@
+participant,age_years,gender,study_programme,years_enrolled,q1_the_course_content_was_r,q2_teaching_staff_were_appr,q3_workload_was_manageable,q4_feedback_on_assignments_,q5_i_would_recommend_this_p,weekly_study_hours,open_comment
+0,58,Woman,Business,4,Agree,Strongly disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,23.0,More practical sessions please.
+1,67,Man,Engineering,4,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly agree,Agree,14.0,Great lecturers.
+2,31,Woman,Humanities,2,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,18.0,Great lecturers.
+3,28,Woman,Humanities,1,Neither agree nor disagree,Disagree,Strongly disagree,Strongly agree,Agree,5.0,Library hours are too short.
+4,59,Woman,Sciences,5,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,24.0,
+5,61,Man,Business,5,Disagree,Strongly agree,Agree,Neither agree nor disagree,Strongly disagree,19.0,Library hours are too short.
+6,44,Woman,Medicine,1,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,19.0,
+7,25,Man,Engineering,5,Strongly disagree,Agree,Strongly agree,Agree,Neither agree nor disagree,23.0,More practical sessions please.
+8,61,Woman,Sciences,2,Strongly disagree,Agree,Agree,Disagree,Neither agree nor disagree,20.0,Library hours are too short.
+9,44,Man,Engineering,2,Strongly agree,Strongly agree,Neither agree nor disagree,Disagree,Strongly agree,12.0,Library hours are too short.
+10,25,Woman,Medicine,1,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,14.0,Great lecturers.
+11,25,Man,Business,3,Disagree,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,21.0,
+12,39,Woman,Sciences,4,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,25.0,More practical sessions please.
+13,53,Man,Engineering,3,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly disagree,9.0,Library hours are too short.
+14,38,Woman,Humanities,2,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,18.0,Great lecturers.
+15,61,Man,Sciences,2,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Agree,9.0,More practical sessions please.
+16,18,Woman,Humanities,1,Strongly agree,Neither agree nor disagree,Agree,Disagree,Strongly agree,27.0,Great lecturers.
+17,40,Man,Engineering,3,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Strongly agree,24.0,Library hours are too short.
+18,45,Woman,Medicine,3,Agree,Agree,Agree,Agree,Strongly disagree,10.0,
+19,67,Non-binary,Engineering,4,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,27.0,
+20,30,Man,Humanities,1,Agree,Agree,Disagree,Strongly disagree,Agree,10.0,Library hours are too short.
+21,60,Woman,Medicine,2,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,15.0,Library hours are too short.
+22,21,Woman,Humanities,5,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,Disagree,22.0,Great lecturers.
+23,35,Woman,Business,1,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,29.0,
+24,56,Non-binary,Medicine,4,Strongly agree,Disagree,Disagree,Agree,Agree,10.0,
+25,47,Woman,Engineering,2,Agree,Agree,Strongly disagree,Agree,Agree,26.0,Library hours are too short.
+26,66,Man,Business,2,Agree,Disagree,Strongly agree,Agree,Strongly agree,18.0,More practical sessions please.
+27,57,Woman,Medicine,4,Agree,Agree,Agree,Agree,Neither agree nor disagree,15.0,Library hours are too short.
+28,65,Woman,Medicine,1,Strongly agree,Disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,15.0,Library hours are too short.
+29,61,Man,Medicine,5,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,17.0,More practical sessions please.
+30,25,Woman,Medicine,5,Neither agree nor disagree,Agree,Agree,Disagree,Agree,16.0,Great lecturers.
+31,66,Woman,Humanities,4,Disagree,Agree,Agree,Disagree,Neither agree nor disagree,15.0,
+32,61,Man,Sciences,1,Strongly agree,Agree,Agree,Agree,Agree,19.0,Library hours are too short.
+33,25,Man,Sciences,5,Agree,Agree,Strongly disagree,Neither agree nor disagree,Strongly agree,14.0,
+34,68,Woman,Engineering,2,Agree,Neither agree nor disagree,Strongly disagree,Strongly disagree,Agree,27.0,More practical sessions please.
+35,56,Man,Engineering,2,Strongly agree,Strongly disagree,Disagree,Strongly agree,Strongly agree,28.0,
+36,34,Non-binary,Medicine,4,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Strongly agree,22.0,More practical sessions please.
+37,25,Woman,Sciences,2,Strongly disagree,Agree,Agree,Agree,Neither agree nor disagree,19.0,
+38,38,Woman,Humanities,3,Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,26.0,
+39,65,Man,Engineering,4,Strongly disagree,Disagree,Neither agree nor disagree,Strongly agree,Disagree,12.0,Great lecturers.
+40,58,Man,Sciences,4,Agree,Neither agree nor disagree,Disagree,Agree,Disagree,21.0,Great lecturers.
+41,29,Man,Sciences,1,Agree,Strongly agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,20.0,More practical sessions please.
+42,43,Man,Humanities,1,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,29.0,Library hours are too short.
+43,62,Woman,Business,5,Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,8.0,More practical sessions please.
+44,51,Woman,Engineering,1,Strongly agree,Agree,Agree,Strongly agree,Agree,21.0,More practical sessions please.
+45,33,Man,Medicine,1,Neither agree nor disagree,Strongly disagree,Agree,Agree,Disagree,26.0,
+46,23,Man,Sciences,5,Disagree,Strongly agree,Disagree,Neither agree nor disagree,Strongly agree,17.0,Library hours are too short.
+47,68,Woman,Humanities,5,Agree,Neither agree nor disagree,Strongly disagree,Strongly agree,Strongly agree,20.0,Great lecturers.
+48,30,Man,Sciences,5,Strongly disagree,Agree,Agree,Strongly agree,Strongly disagree,18.0,
+49,44,Non-binary,Engineering,1,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,Agree,7.0,More practical sessions please.
+50,53,Man,Sciences,5,Strongly disagree,Disagree,Strongly agree,Strongly agree,Disagree,11.0,Library hours are too short.
+51,34,Prefer not to say,Medicine,2,Agree,Strongly agree,Neither agree nor disagree,Agree,Disagree,20.0,Great lecturers.
+52,44,Man,Medicine,3,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,29.0,Great lecturers.
+53,32,Man,Sciences,4,Strongly agree,Strongly agree,Agree,Agree,Agree,6.0,Great lecturers.
+54,61,Woman,Medicine,2,Agree,Agree,Agree,Agree,Strongly agree,15.0,More practical sessions please.
+55,49,Woman,Business,1,Strongly agree,Disagree,Strongly agree,Disagree,Agree,27.0,
+56,27,Woman,Medicine,4,Neither agree nor disagree,Agree,Disagree,Strongly agree,Disagree,19.0,Great lecturers.
+57,35,Woman,Sciences,4,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,19.0,Great lecturers.
+58,53,Man,Humanities,5,Agree,Neither agree nor disagree,Strongly disagree,Disagree,Agree,18.0,
+59,53,Woman,Humanities,1,Neither agree nor disagree,Agree,Strongly agree,Disagree,Strongly disagree,12.0,Great lecturers.
+60,34,Woman,Business,1,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,Agree,5.0,
+61,26,Man,Business,3,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,Agree,22.0,
+62,25,Man,Engineering,4,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Agree,25.0,More practical sessions please.
+63,30,Woman,Sciences,4,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,32.0,More practical sessions please.
+64,59,Woman,Humanities,4,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,Disagree,25.0,
+65,63,Woman,Humanities,1,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,0.0,Great lecturers.
+66,35,Non-binary,Engineering,5,Agree,Strongly disagree,Disagree,Disagree,Strongly agree,19.0,Library hours are too short.
+67,49,Woman,Business,3,Strongly agree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Agree,12.0,
+68,43,Woman,Engineering,1,Disagree,Disagree,Agree,Neither agree nor disagree,Agree,20.0,More practical sessions please.
+69,31,Woman,Humanities,2,Strongly agree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,23.0,Library hours are too short.
+70,45,Man,Sciences,2,Strongly disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,9.0,
+71,25,Woman,Humanities,2,Strongly agree,Strongly disagree,Disagree,Disagree,Strongly agree,23.0,
+72,43,Woman,Humanities,1,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,19.0,
+73,25,Woman,Engineering,1,Strongly agree,Agree,Agree,Strongly agree,Agree,24.0,Great lecturers.
+74,30,Man,Medicine,5,Strongly agree,Strongly disagree,Agree,Disagree,Neither agree nor disagree,22.0,Library hours are too short.
+75,30,Prefer not to say,Engineering,2,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,22.0,More practical sessions please.
+76,19,Man,Engineering,3,Agree,Agree,Strongly disagree,Agree,Strongly agree,10.0,Great lecturers.
+77,37,Woman,Business,3,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,18.0,More practical sessions please.
+78,55,Man,Business,5,Neither agree nor disagree,Agree,Strongly disagree,Agree,Agree,24.0,Library hours are too short.
+79,51,Man,Engineering,5,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Agree,Strongly disagree,16.0,
+80,58,Man,Engineering,1,Neither agree nor disagree,Strongly disagree,Agree,Disagree,Agree,27.0,
+81,61,Woman,Business,2,Neither agree nor disagree,Disagree,Disagree,Strongly agree,Agree,9.0,Library hours are too short.
+82,21,Man,Engineering,4,Agree,Neither agree nor disagree,Agree,Strongly agree,Disagree,18.0,Great lecturers.
+83,58,Man,Business,4,Disagree,Strongly disagree,Agree,Neither agree nor disagree,Agree,23.0,
+84,23,Man,Medicine,3,Strongly agree,Agree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,27.0,Great lecturers.
+85,35,Man,Sciences,3,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Disagree,Strongly agree,16.0,Library hours are too short.
+86,22,Man,Engineering,3,Agree,Neither agree nor disagree,Agree,Disagree,Strongly agree,39.0,More practical sessions please.
+87,25,Man,Humanities,5,Strongly disagree,Agree,Strongly disagree,Neither agree nor disagree,Agree,21.0,
+88,43,Woman,Sciences,4,Strongly disagree,Strongly disagree,Disagree,Agree,Agree,12.0,
+89,41,Man,Sciences,3,Neither agree nor disagree,Strongly agree,Agree,Disagree,Strongly agree,8.0,Great lecturers.
+90,36,Man,Humanities,1,Agree,Agree,Strongly agree,Disagree,Strongly disagree,11.0,
+91,40,Man,Business,4,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,15.0,
+92,39,Woman,Engineering,5,Strongly agree,Strongly agree,Disagree,Neither agree nor disagree,Agree,20.0,Great lecturers.
+93,47,Woman,Medicine,1,Neither agree nor disagree,Agree,Strongly agree,Agree,Neither agree nor disagree,16.0,
+94,50,Man,Sciences,2,Neither agree nor disagree,Disagree,Strongly disagree,Agree,Strongly agree,31.0,
+95,37,Man,Medicine,5,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Disagree,29.0,
+96,57,Man,Engineering,3,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly disagree,26.0,Library hours are too short.
+97,50,Man,Medicine,2,Agree,Agree,Neither agree nor disagree,Agree,Agree,32.0,
+98,43,Man,Sciences,3,Disagree,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,14.0,Library hours are too short.
+99,23,Woman,Sciences,1,Disagree,Agree,Disagree,Agree,Strongly agree,15.0,
+100,61,Man,Sciences,3,Agree,Strongly disagree,Neither agree nor disagree,Agree,Agree,20.0,More practical sessions please.
+101,30,Woman,Sciences,1,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,19.0,Great lecturers.
+102,35,Man,Engineering,1,Strongly disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,20.0,
+103,57,Man,Business,1,Disagree,Agree,Agree,Agree,Neither agree nor disagree,32.0,Great lecturers.
+104,62,Man,Engineering,4,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,30.0,Great lecturers.
+105,69,Man,Medicine,2,Disagree,Disagree,Agree,Strongly agree,Strongly agree,20.0,Great lecturers.
+106,60,Woman,Humanities,2,Agree,Agree,Strongly agree,Strongly agree,Neither agree nor disagree,12.0,Great lecturers.
+107,60,Woman,Medicine,2,Strongly agree,Strongly agree,Disagree,Strongly agree,Neither agree nor disagree,7.0,
+108,56,Woman,Medicine,4,Neither agree nor disagree,Strongly agree,Agree,Agree,Neither agree nor disagree,25.0,Library hours are too short.
+109,61,Woman,Medicine,2,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly disagree,35.0,Great lecturers.
+110,47,Man,Medicine,4,Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,23.0,
+111,59,Man,Sciences,1,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly disagree,Strongly disagree,16.0,Library hours are too short.
+112,30,Woman,Business,5,Strongly agree,Disagree,Agree,Agree,Agree,15.0,Great lecturers.
+113,41,Woman,Humanities,4,Strongly agree,Disagree,Agree,Agree,Agree,13.0,
+114,59,Man,Medicine,2,Strongly agree,Agree,Strongly disagree,Agree,Neither agree nor disagree,22.0,
+115,56,Woman,Business,1,Agree,Disagree,Strongly agree,Strongly disagree,Agree,16.0,
+116,39,Prefer not to say,Business,1,Strongly agree,Disagree,Neither agree nor disagree,Agree,Agree,28.0,Great lecturers.
+117,48,Man,Engineering,4,Agree,Agree,Agree,Agree,Strongly agree,3.0,Library hours are too short.
+118,37,Woman,Business,1,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,15.0,Library hours are too short.
+119,41,Man,Sciences,5,Agree,Agree,Strongly disagree,Disagree,Agree,23.0,More practical sessions please.
+120,19,Woman,Sciences,4,Strongly disagree,Strongly agree,Strongly agree,Agree,Agree,15.0,Great lecturers.
+121,32,Man,Business,1,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,16.0,Library hours are too short.
+122,56,Man,Sciences,4,Agree,Strongly agree,Strongly agree,Agree,Agree,20.0,Library hours are too short.
+123,62,Woman,Business,2,Strongly disagree,Disagree,Agree,Disagree,Agree,19.0,Library hours are too short.
+124,59,Woman,Humanities,4,Agree,Agree,Agree,Neither agree nor disagree,Disagree,9.0,
+125,21,Man,Sciences,1,Strongly agree,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,18.0,
+126,26,Man,Humanities,5,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,14.0,
+127,60,Woman,Medicine,3,Strongly agree,Agree,Agree,Agree,Disagree,20.0,Great lecturers.
+128,52,Woman,Medicine,4,Strongly agree,Strongly disagree,Disagree,Agree,Agree,7.0,Great lecturers.
+129,63,Man,Engineering,1,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,18.0,
+130,41,Woman,Sciences,5,Neither agree nor disagree,Disagree,Agree,Agree,Agree,7.0,More practical sessions please.
+131,40,Man,Humanities,2,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,7.0,
+132,30,Non-binary,Humanities,5,Neither agree nor disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,16.0,
+133,61,Man,Sciences,1,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,16.0,Great lecturers.
+134,26,Woman,Humanities,4,Disagree,Agree,Agree,Agree,Disagree,31.0,More practical sessions please.
+135,35,Woman,Engineering,2,Agree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,18.0,
+136,21,Prefer not to say,Business,1,Strongly disagree,Agree,Agree,Agree,Agree,27.0,More practical sessions please.
+137,45,Woman,Engineering,5,Strongly agree,Strongly agree,Strongly agree,Neither agree nor disagree,Disagree,31.0,
+138,49,Man,Sciences,3,Agree,Agree,Agree,Disagree,Neither agree nor disagree,11.0,
+139,46,Man,Sciences,3,Disagree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,23.0,
+140,46,Woman,Sciences,2,Agree,Agree,Agree,Agree,Neither agree nor disagree,19.0,Library hours are too short.
+141,28,Woman,Engineering,5,Disagree,Agree,Disagree,Agree,Agree,9.0,
+142,37,Man,Sciences,3,Strongly agree,Strongly disagree,Disagree,Disagree,Agree,18.0,Library hours are too short.
+143,35,Man,Engineering,1,Strongly disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,14.0,Library hours are too short.
+144,53,Woman,Humanities,2,Agree,Agree,Agree,Strongly agree,Agree,5.0,Great lecturers.
+145,32,Man,Engineering,2,Disagree,Disagree,Disagree,Neither agree nor disagree,Strongly disagree,21.0,Great lecturers.
+146,50,Man,Business,4,Strongly agree,Strongly agree,Disagree,Disagree,Strongly disagree,20.0,
+147,41,Woman,Sciences,1,Disagree,Agree,Strongly disagree,Agree,Agree,18.0,Library hours are too short.
+148,68,Man,Engineering,3,Strongly agree,Agree,Disagree,Strongly agree,Neither agree nor disagree,17.0,
+149,53,Woman,Engineering,2,Strongly agree,Strongly agree,Agree,Agree,Agree,19.0,Library hours are too short.
+150,27,Man,Business,5,Disagree,Strongly disagree,Neither agree nor disagree,Strongly agree,Agree,21.0,
+151,53,Man,Business,3,Neither agree nor disagree,Agree,Agree,Strongly agree,Agree,4.0,Library hours are too short.
+152,34,Woman,Business,4,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,24.0,Library hours are too short.
+153,45,Woman,Business,2,Strongly agree,Neither agree nor disagree,Disagree,Disagree,Agree,11.0,
+154,28,Man,Engineering,2,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,26.0,
+155,42,Non-binary,Medicine,3,Disagree,Agree,Neither agree nor disagree,Disagree,Agree,17.0,Great lecturers.
+156,20,Woman,Humanities,1,Disagree,Disagree,Strongly agree,Disagree,Neither agree nor disagree,16.0,
+157,44,Man,Medicine,3,Agree,Strongly disagree,Strongly disagree,Agree,Neither agree nor disagree,17.0,
+158,45,Man,Humanities,3,Neither agree nor disagree,Strongly disagree,Disagree,Agree,Disagree,31.0,Great lecturers.
+159,34,Man,Sciences,5,Agree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,28.0,More practical sessions please.
+160,44,Man,Humanities,3,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,16.0,
+161,26,Man,Engineering,4,Agree,Disagree,Neither agree nor disagree,Strongly agree,Strongly agree,18.0,
+162,65,Man,Sciences,2,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,22.0,More practical sessions please.
+163,33,Man,Engineering,2,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,17.0,Library hours are too short.
+164,59,Woman,Sciences,3,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,18.0,More practical sessions please.
+165,51,Man,Engineering,1,Disagree,Strongly agree,Strongly agree,Disagree,Agree,14.0,Great lecturers.
+166,55,Woman,Humanities,4,Neither agree nor disagree,Disagree,Agree,Strongly disagree,Strongly agree,30.0,
+167,21,Man,Medicine,4,Disagree,Neither agree nor disagree,Disagree,Agree,Agree,9.0,More practical sessions please.
+168,56,Woman,Engineering,4,Agree,Disagree,Disagree,Strongly disagree,Strongly agree,7.0,Great lecturers.
+169,50,Man,Humanities,1,Agree,Agree,Strongly agree,Disagree,Neither agree nor disagree,10.0,
+170,22,Woman,Medicine,3,Agree,Agree,Neither agree nor disagree,Disagree,Strongly disagree,14.0,Great lecturers.
+171,32,Woman,Sciences,5,Strongly agree,Agree,Neither agree nor disagree,Disagree,Agree,17.0,Great lecturers.
+172,64,Man,Engineering,4,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,14.0,More practical sessions please.
+173,27,Woman,Business,3,Neither agree nor disagree,Agree,Strongly disagree,Disagree,Agree,27.0,Library hours are too short.
+174,60,Man,Business,1,Strongly agree,Strongly agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,8.0,
+175,43,Woman,Humanities,2,Agree,Agree,Strongly agree,Disagree,Strongly disagree,12.0,More practical sessions please.
+176,35,Man,Sciences,4,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,Agree,26.0,Great lecturers.
+177,36,Man,Sciences,1,Neither agree nor disagree,Strongly agree,Agree,Strongly disagree,Neither agree nor disagree,16.0,More practical sessions please.
+178,22,Woman,Business,1,Neither agree nor disagree,Strongly agree,Agree,Agree,Disagree,20.0,More practical sessions please.
+179,23,Man,Medicine,1,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,27.0,Great lecturers.
+180,61,Man,Business,5,Strongly disagree,Strongly agree,Strongly disagree,Agree,Agree,14.0,Library hours are too short.
+181,54,Man,Medicine,4,Agree,Disagree,Disagree,Agree,Disagree,20.0,
+182,24,Woman,Medicine,2,Strongly agree,Neither agree nor disagree,Disagree,Disagree,Agree,14.0,
+183,59,Woman,Humanities,5,Strongly agree,Strongly disagree,Disagree,Neither agree nor disagree,Disagree,8.0,More practical sessions please.
+184,58,Man,Humanities,5,Agree,Neither agree nor disagree,Agree,Agree,Agree,13.0,Great lecturers.
+185,20,Woman,Medicine,1,Disagree,Disagree,Disagree,Agree,Disagree,17.0,Great lecturers.
+186,64,Man,Sciences,3,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,26.0,
+187,50,Woman,Business,3,Agree,Strongly agree,Disagree,Agree,Agree,24.0,
+188,49,Woman,Business,4,Neither agree nor disagree,Agree,Agree,Agree,Agree,23.0,More practical sessions please.
+189,30,Woman,Sciences,2,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,22.0,Library hours are too short.
+190,57,Man,Medicine,3,Strongly disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,17.0,Great lecturers.
+191,40,Woman,Sciences,5,Neither agree nor disagree,Disagree,Strongly agree,Agree,Disagree,18.0,Library hours are too short.
+192,58,Woman,Business,5,Agree,Strongly agree,Strongly agree,Agree,Neither agree nor disagree,16.0,Library hours are too short.
+193,59,Man,Business,3,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,19.0,More practical sessions please.
+194,49,Woman,Business,1,Agree,Strongly agree,Agree,Agree,Neither agree nor disagree,32.0,More practical sessions please.
+195,45,Woman,Medicine,1,Neither agree nor disagree,Agree,Disagree,Disagree,Strongly agree,20.0,
+196,42,Man,Medicine,4,Neither agree nor disagree,Agree,Agree,Agree,Agree,19.0,Library hours are too short.
+197,18,Woman,Humanities,2,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neither agree nor disagree,24.0,Library hours are too short.
+198,50,Man,Sciences,5,Strongly agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,20.0,More practical sessions please.
+199,19,Man,Sciences,1,Disagree,Strongly agree,Strongly agree,Agree,Agree,11.0,
+200,62,Woman,Sciences,3,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Agree,17.0,
+201,38,Man,Sciences,3,Agree,Strongly disagree,Agree,Agree,Strongly agree,25.0,
+202,51,Man,Humanities,1,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,21.0,More practical sessions please.
+203,64,Man,Humanities,5,Disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,18.0,
+204,64,Prefer not to say,Humanities,4,Strongly disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,14.0,
+205,30,Woman,Medicine,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Disagree,13.0,More practical sessions please.
+206,33,Man,Sciences,4,Agree,Agree,Strongly agree,Strongly agree,Agree,16.0,Great lecturers.
+207,41,Man,Humanities,3,Agree,Agree,Strongly agree,Strongly disagree,Agree,19.0,Great lecturers.
+208,39,Man,Medicine,1,Strongly agree,Neither agree nor disagree,Strongly disagree,Disagree,Neither agree nor disagree,12.0,
+209,25,Woman,Sciences,2,Strongly disagree,Agree,Neither agree nor disagree,Disagree,Disagree,21.0,More practical sessions please.
+210,25,Man,Business,2,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,25.0,More practical sessions please.
+211,60,Woman,Medicine,5,Neither agree nor disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,0.0,Great lecturers.
+212,27,Man,Medicine,4,Agree,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,27.0,More practical sessions please.
+213,37,Man,Medicine,3,Strongly agree,Strongly agree,Strongly agree,Disagree,Disagree,21.0,Great lecturers.
+214,63,Man,Medicine,4,Agree,Strongly disagree,Agree,Strongly agree,Neither agree nor disagree,20.0,
+215,36,Man,Humanities,5,Disagree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,23.0,
+216,35,Woman,Business,1,Neither agree nor disagree,Strongly agree,Strongly agree,Disagree,Disagree,10.0,More practical sessions please.
+217,31,Woman,Business,5,Strongly disagree,Agree,Neither agree nor disagree,Disagree,Strongly agree,22.0,More practical sessions please.
+218,66,Man,Sciences,4,Disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10.0,Library hours are too short.
+219,61,Woman,Engineering,2,Disagree,Strongly agree,Disagree,Agree,Disagree,17.0,Library hours are too short.
+220,59,Woman,Engineering,4,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,14.0,Library hours are too short.
+221,40,Woman,Sciences,2,Strongly agree,Disagree,Disagree,Strongly agree,Agree,23.0,Great lecturers.
+222,39,Woman,Medicine,3,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,21.0,
+223,20,Man,Medicine,4,Strongly disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,20.0,Great lecturers.
+224,34,Prefer not to say,Humanities,5,Neither agree nor disagree,Agree,Strongly agree,Agree,Strongly agree,22.0,
+225,59,Man,Medicine,3,Disagree,Strongly agree,Disagree,Agree,Agree,27.0,
+226,62,Man,Humanities,2,Disagree,Disagree,Strongly agree,Agree,Agree,22.0,Library hours are too short.
+227,31,Man,Business,5,Strongly disagree,Strongly agree,Strongly agree,Disagree,Neither agree nor disagree,18.0,Great lecturers.
+228,24,Woman,Humanities,1,Agree,Disagree,Neither agree nor disagree,Strongly agree,Strongly agree,26.0,Great lecturers.
+229,27,Woman,Sciences,5,Strongly agree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,18.0,Library hours are too short.
+230,52,Woman,Sciences,4,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,15.0,
+231,30,Woman,Engineering,2,Strongly disagree,Neither agree nor disagree,Disagree,Agree,Agree,24.0,More practical sessions please.
+232,39,Man,Engineering,1,Disagree,Strongly agree,Strongly agree,Neither agree nor disagree,Agree,23.0,Library hours are too short.
+233,46,Woman,Engineering,4,Strongly agree,Disagree,Neither agree nor disagree,Agree,Disagree,27.0,
+234,63,Woman,Humanities,4,Agree,Strongly disagree,Strongly agree,Agree,Disagree,12.0,Great lecturers.
+235,68,Woman,Sciences,1,Agree,Neither agree nor disagree,Disagree,Strongly disagree,Neither agree nor disagree,13.0,
+236,24,Woman,Business,5,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,16.0,Great lecturers.
+237,32,Man,Sciences,2,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,25.0,Library hours are too short.
+238,45,Woman,Humanities,1,Strongly agree,Neither agree nor disagree,Disagree,Disagree,Agree,28.0,More practical sessions please.
+239,41,Man,Business,1,Disagree,Neither agree nor disagree,Agree,Disagree,Agree,24.0,More practical sessions please.
+240,21,Man,Engineering,4,Strongly agree,Agree,Disagree,Agree,Strongly agree,18.0,
+241,49,Man,Medicine,1,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,14.0,Great lecturers.
+242,52,Man,Medicine,2,Neither agree nor disagree,Disagree,Agree,Disagree,Disagree,13.0,
+243,68,Woman,Humanities,4,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,0.0,Great lecturers.
+244,67,Man,Sciences,2,Strongly agree,Neither agree nor disagree,Disagree,Strongly agree,Agree,20.0,Library hours are too short.
+245,67,Woman,Sciences,4,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,6.0,Great lecturers.
+246,31,Man,Sciences,1,Strongly agree,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,10.0,Great lecturers.
+247,38,Woman,Engineering,2,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,14.0,
+248,34,Woman,Humanities,4,Strongly disagree,Disagree,Strongly agree,Strongly disagree,Neither agree nor disagree,26.0,Library hours are too short.
+249,37,Non-binary,Sciences,2,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Disagree,Strongly agree,16.0,
+250,38,Man,Sciences,5,Agree,Strongly disagree,Agree,Strongly agree,Agree,21.0,Library hours are too short.
+251,40,Man,Engineering,3,Strongly agree,Neither agree nor disagree,Disagree,Disagree,Agree,30.0,
+252,60,Woman,Medicine,3,Agree,Agree,Strongly disagree,Strongly agree,Strongly disagree,18.0,Library hours are too short.
+253,23,Woman,Sciences,2,Neither agree nor disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,12.0,Great lecturers.
+254,62,Man,Humanities,1,Agree,Disagree,Disagree,Disagree,Disagree,25.0,Library hours are too short.
+255,61,Woman,Sciences,4,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,24.0,More practical sessions please.
+256,47,Man,Business,3,Agree,Strongly disagree,Agree,Neither agree nor disagree,Strongly agree,15.0,Great lecturers.
+257,64,Man,Humanities,2,Agree,Agree,Neither agree nor disagree,Disagree,Agree,32.0,Library hours are too short.
+258,67,Woman,Medicine,1,Agree,Disagree,Strongly agree,Neither agree nor disagree,Strongly agree,15.0,
+259,37,Man,Sciences,1,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,20.0,More practical sessions please.
+260,54,Man,Humanities,3,Neither agree nor disagree,Agree,Agree,Strongly agree,Strongly agree,21.0,Library hours are too short.
+261,55,Woman,Sciences,3,Neither agree nor disagree,Disagree,Agree,Agree,Strongly agree,11.0,Library hours are too short.
+262,46,Man,Humanities,2,Strongly agree,Agree,Strongly disagree,Neither agree nor disagree,Agree,13.0,
+263,56,Woman,Sciences,4,Agree,Strongly agree,Agree,Agree,Disagree,17.0,
+264,60,Woman,Medicine,2,Neither agree nor disagree,Disagree,Disagree,Strongly disagree,Disagree,24.0,
+265,40,Man,Sciences,5,Agree,Neither agree nor disagree,Agree,Strongly agree,Disagree,24.0,Library hours are too short.
+266,69,Man,Medicine,5,Agree,Agree,Agree,Strongly disagree,Strongly disagree,21.0,Great lecturers.
+267,62,Prefer not to say,Sciences,5,Neither agree nor disagree,Agree,Strongly agree,Strongly disagree,Strongly disagree,6.0,Library hours are too short.
+268,41,Man,Engineering,4,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Disagree,19.0,
+269,68,Woman,Medicine,4,Strongly disagree,Disagree,Disagree,Disagree,Strongly agree,18.0,
+270,36,Woman,Business,1,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,Disagree,27.0,Library hours are too short.
+271,67,Prefer not to say,Medicine,2,Neither agree nor disagree,Strongly agree,Agree,Agree,Agree,19.0,More practical sessions please.
+272,47,Woman,Humanities,3,Neither agree nor disagree,Agree,Strongly agree,Disagree,Neither agree nor disagree,30.0,
+273,40,Man,Humanities,4,Agree,Agree,Strongly agree,Agree,Agree,24.0,
+274,30,Man,Engineering,1,Neither agree nor disagree,Disagree,Agree,Agree,Agree,20.0,Great lecturers.
+275,27,Man,Engineering,1,Agree,Disagree,Agree,Neither agree nor disagree,Disagree,15.0,Library hours are too short.
+276,29,Prefer not to say,Business,4,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,20.0,More practical sessions please.
+277,58,Woman,Medicine,5,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,Agree,14.0,More practical sessions please.
+278,55,Woman,Medicine,3,Neither agree nor disagree,Agree,Strongly agree,Strongly disagree,Agree,23.0,Library hours are too short.
+279,67,Man,Humanities,4,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,Agree,6.0,Library hours are too short.
+280,44,Woman,Humanities,3,Strongly agree,Agree,Agree,Agree,Strongly disagree,15.0,
+281,44,Woman,Humanities,2,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Disagree,17.0,
+282,64,Man,Business,5,Neither agree nor disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,Agree,5.0,
+283,32,Man,Sciences,1,Neither agree nor disagree,Agree,Agree,Agree,Agree,20.0,
+284,56,Man,Medicine,3,Strongly agree,Agree,Agree,Strongly agree,Neither agree nor disagree,23.0,
+285,65,Woman,Engineering,4,Agree,Strongly agree,Agree,Disagree,Agree,22.0,Great lecturers.
+286,53,Woman,Humanities,1,Disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,19.0,
+287,63,Man,Engineering,3,Strongly agree,Strongly disagree,Neither agree nor disagree,Strongly agree,Agree,13.0,Great lecturers.
+288,44,Prefer not to say,Engineering,4,Disagree,Agree,Agree,Disagree,Strongly agree,13.0,More practical sessions please.
+289,43,Woman,Sciences,1,Agree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Strongly agree,19.0,Library hours are too short.
+290,62,Woman,Medicine,1,Agree,Agree,Agree,Disagree,Strongly agree,24.0,Library hours are too short.
+291,63,Man,Business,4,Strongly agree,Disagree,Neither agree nor disagree,Strongly agree,Agree,19.0,
+292,61,Woman,Engineering,4,Disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,6.0,More practical sessions please.
+293,38,Woman,Sciences,2,Agree,Strongly agree,Agree,Strongly agree,Agree,15.0,Great lecturers.
+294,23,Man,Medicine,2,Strongly agree,Neither agree nor disagree,Agree,Strongly disagree,Disagree,16.0,Library hours are too short.
+295,19,Man,Medicine,1,Neither agree nor disagree,Agree,Agree,Agree,Agree,20.0,Library hours are too short.
+296,59,Man,Sciences,2,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,13.0,
+297,22,Woman,Business,3,Neither agree nor disagree,Disagree,Agree,Strongly agree,Disagree,18.0,
+298,33,Woman,Sciences,2,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,19.0,More practical sessions please.
+299,42,Man,Engineering,5,Agree,Neither agree nor disagree,Agree,Disagree,Strongly agree,16.0,Great lecturers.
+300,34,Man,Humanities,4,Disagree,Neither agree nor disagree,Agree,Disagree,Strongly disagree,27.0,More practical sessions please.
+301,32,Woman,Sciences,3,Disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,21.0,
+302,61,Man,Business,3,Strongly agree,Strongly agree,Agree,Neither agree nor disagree,Strongly disagree,23.0,
+303,18,Woman,Business,3,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,14.0,
+304,62,Woman,Business,2,Strongly agree,Neither agree nor disagree,Disagree,Agree,Disagree,20.0,Library hours are too short.
+305,28,Woman,Humanities,1,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neither agree nor disagree,4.0,Library hours are too short.
+306,63,Man,Engineering,1,Agree,Strongly disagree,Strongly agree,Strongly agree,Agree,30.0,
+307,58,Woman,Medicine,1,Disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,16.0,Great lecturers.
+308,26,Woman,Humanities,3,Strongly agree,Neither agree nor disagree,Agree,Agree,Strongly agree,23.0,Library hours are too short.
+309,27,Man,Engineering,3,Agree,Agree,Strongly agree,Disagree,Disagree,10.0,Library hours are too short.
+310,36,Woman,Sciences,2,Strongly agree,Agree,Disagree,Strongly agree,Agree,30.0,
+311,28,Man,Medicine,2,Strongly agree,Neither agree nor disagree,Agree,Disagree,Strongly disagree,10.0,More practical sessions please.
+312,40,Woman,Engineering,1,Agree,Agree,Strongly disagree,Agree,Agree,13.0,
+313,65,Man,Sciences,5,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,17.0,Great lecturers.
+314,60,Woman,Engineering,1,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Neither agree nor disagree,17.0,More practical sessions please.
+315,23,Man,Business,3,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly disagree,Agree,11.0,Library hours are too short.
+316,34,Man,Engineering,4,Agree,Agree,Strongly agree,Disagree,Disagree,16.0,Library hours are too short.
+317,37,Woman,Business,2,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,27.0,Library hours are too short.
+318,53,Woman,Business,4,Agree,Agree,Neither agree nor disagree,Disagree,Agree,20.0,Library hours are too short.
+319,24,Man,Sciences,2,Neither agree nor disagree,Strongly agree,Disagree,Disagree,Neither agree nor disagree,27.0,Great lecturers.
+320,20,Woman,Sciences,5,Agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,26.0,Great lecturers.
+321,53,Woman,Business,2,Strongly disagree,Neither agree nor disagree,Agree,Disagree,Disagree,19.0,
+322,27,Woman,Business,3,Agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,21.0,Great lecturers.
+323,19,Man,Humanities,5,Strongly agree,Strongly disagree,Agree,Neither agree nor disagree,Strongly agree,20.0,Library hours are too short.
+324,68,Woman,Humanities,5,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,13.0,More practical sessions please.
+325,61,Woman,Business,2,Strongly agree,Agree,Strongly disagree,Neither agree nor disagree,Strongly agree,19.0,
+326,40,Man,Business,3,Strongly disagree,Agree,Strongly disagree,Agree,Neither agree nor disagree,23.0,Great lecturers.
+327,25,Woman,Sciences,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,16.0,Library hours are too short.
+328,35,Woman,Engineering,5,Disagree,Agree,Agree,Agree,Disagree,20.0,
+329,62,Man,Medicine,2,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,10.0,Great lecturers.
+330,36,Woman,Humanities,5,Strongly disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,26.0,
+331,48,Non-binary,Sciences,5,Strongly agree,Strongly agree,Neither agree nor disagree,Agree,Agree,15.0,
+332,27,Woman,Business,2,Strongly agree,Strongly disagree,Agree,Strongly agree,Agree,9.0,Great lecturers.
+333,38,Woman,Sciences,1,Neither agree nor disagree,Strongly disagree,Agree,Agree,Neither agree nor disagree,25.0,Great lecturers.
+334,25,Woman,Medicine,5,Strongly agree,Disagree,Disagree,Neither agree nor disagree,Strongly disagree,24.0,
+335,43,Woman,Medicine,3,Strongly agree,Agree,Disagree,Strongly agree,Neither agree nor disagree,19.0,
+336,57,Woman,Engineering,2,Disagree,Strongly agree,Agree,Disagree,Disagree,22.0,Great lecturers.
+337,38,Woman,Humanities,5,Agree,Strongly agree,Agree,Strongly disagree,Agree,22.0,
+338,32,Prefer not to say,Humanities,2,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Agree,18.0,Library hours are too short.
+339,33,Woman,Sciences,2,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,20.0,
+340,30,Woman,Business,4,Agree,Disagree,Agree,Neither agree nor disagree,Agree,19.0,Library hours are too short.
+341,68,Non-binary,Humanities,1,Disagree,Disagree,Agree,Neither agree nor disagree,Strongly agree,30.0,Great lecturers.
+342,30,Man,Humanities,1,Agree,Strongly agree,Strongly disagree,Agree,Strongly agree,17.0,Library hours are too short.
+343,39,Man,Sciences,4,Strongly agree,Agree,Disagree,Disagree,Agree,6.0,
+344,57,Prefer not to say,Sciences,3,Strongly agree,Agree,Agree,Neither agree nor disagree,Disagree,17.0,
+345,43,Woman,Medicine,2,Strongly agree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,31.0,
+346,50,Man,Business,1,Agree,Strongly agree,Agree,Agree,Strongly agree,13.0,
+347,62,Man,Humanities,2,Agree,Agree,Agree,Strongly disagree,Neither agree nor disagree,9.0,Great lecturers.
+348,45,Woman,Business,4,Agree,Agree,Strongly disagree,Disagree,Disagree,17.0,Great lecturers.
+349,22,Man,Humanities,3,Disagree,Strongly agree,Neither agree nor disagree,Agree,Disagree,32.0,
+350,58,Woman,Business,5,Agree,Agree,Strongly agree,Disagree,Agree,11.0,Great lecturers.
+351,23,Woman,Humanities,4,Strongly agree,Neither agree nor disagree,Agree,Agree,Disagree,19.0,
+352,51,Woman,Medicine,1,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,2.0,
+353,68,Man,Engineering,2,Strongly agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,18.0,Great lecturers.
+354,65,Woman,Engineering,2,Neither agree nor disagree,Agree,Strongly disagree,Neither agree nor disagree,Strongly agree,11.0,Library hours are too short.
+355,53,Woman,Business,2,Agree,Disagree,Disagree,Agree,Strongly disagree,28.0,Library hours are too short.
+356,56,Man,Business,3,Disagree,Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,7.0,More practical sessions please.
+357,36,Man,Sciences,2,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Agree,15.0,
+358,58,Man,Humanities,2,Disagree,Agree,Strongly agree,Neither agree nor disagree,Agree,11.0,
+359,68,Man,Medicine,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,26.0,
+360,25,Woman,Engineering,2,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,29.0,Great lecturers.
+361,44,Woman,Medicine,3,Strongly agree,Agree,Neither agree nor disagree,Agree,Strongly agree,15.0,
+362,24,Woman,Sciences,3,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,19.0,More practical sessions please.
+363,41,Woman,Medicine,5,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,18.0,
+364,35,Man,Business,2,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,Neither agree nor disagree,22.0,More practical sessions please.
+365,29,Man,Business,4,Agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,12.0,
+366,25,Man,Sciences,3,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,3.0,Library hours are too short.
+367,46,Woman,Business,1,Neither agree nor disagree,Strongly agree,Disagree,Neither agree nor disagree,Agree,16.0,
+368,33,Woman,Engineering,4,Neither agree nor disagree,Agree,Agree,Agree,Neither agree nor disagree,14.0,
+369,34,Man,Humanities,5,Strongly agree,Strongly agree,Disagree,Neither agree nor disagree,Strongly agree,13.0,
+370,19,Man,Humanities,5,Agree,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly agree,13.0,Library hours are too short.
+371,52,Man,Engineering,1,Agree,Strongly disagree,Strongly agree,Neither agree nor disagree,Disagree,9.0,Library hours are too short.
+372,41,Prefer not to say,Engineering,2,Neither agree nor disagree,Agree,Agree,Agree,Neither agree nor disagree,21.0,
+373,31,Woman,Medicine,3,Agree,Strongly disagree,Strongly agree,Neither agree nor disagree,Strongly agree,19.0,More practical sessions please.
+374,47,Man,Sciences,4,Neither agree nor disagree,Agree,Agree,Agree,Strongly disagree,17.0,More practical sessions please.
+375,52,Woman,Business,4,Strongly disagree,Agree,Agree,Disagree,Disagree,15.0,Library hours are too short.
+376,23,Woman,Sciences,1,Strongly agree,Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,14.0,
+377,40,Woman,Business,4,Disagree,Agree,Neither agree nor disagree,Agree,Agree,10.0,Library hours are too short.
+378,34,Man,Engineering,5,Strongly disagree,Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,24.0,
+379,37,Woman,Engineering,2,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,27.0,
+380,24,Woman,Sciences,2,Disagree,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,11.0,More practical sessions please.
+381,23,Non-binary,Sciences,3,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Disagree,14.0,More practical sessions please.
+382,28,Woman,Sciences,4,Agree,Disagree,Strongly agree,Neither agree nor disagree,Strongly agree,7.0,Library hours are too short.
+383,25,Woman,Humanities,2,Disagree,Strongly disagree,Agree,Strongly disagree,Disagree,19.0,
+384,64,Man,Medicine,3,Disagree,Neither agree nor disagree,Disagree,Strongly agree,Neither agree nor disagree,28.0,
+385,37,Woman,Humanities,5,Disagree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,18.0,Library hours are too short.
+386,48,Man,Humanities,3,Agree,Agree,Strongly disagree,Agree,Strongly agree,24.0,
+387,67,Woman,Medicine,2,Neither agree nor disagree,Strongly agree,Strongly disagree,Agree,Disagree,1.0,More practical sessions please.
+388,40,Woman,Business,2,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.0,More practical sessions please.
+389,48,Man,Engineering,5,Neither agree nor disagree,Strongly disagree,Agree,Agree,Agree,28.0,Library hours are too short.
+390,25,Man,Business,3,Agree,Agree,Agree,Agree,Neither agree nor disagree,11.0,
+391,24,Woman,Sciences,3,Neither agree nor disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,14.0,Library hours are too short.
+392,30,Woman,Engineering,2,Agree,Disagree,Agree,Strongly agree,Disagree,14.0,Library hours are too short.
+393,45,Woman,Medicine,1,Agree,Strongly agree,Agree,Neither agree nor disagree,Agree,30.0,More practical sessions please.
+394,66,Man,Humanities,5,Disagree,Strongly agree,Strongly agree,Disagree,Agree,13.0,
+395,36,Man,Business,3,Agree,Strongly agree,Agree,Disagree,Neither agree nor disagree,9.0,Great lecturers.
+396,57,Woman,Business,3,Disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,31.0,
+397,23,Woman,Humanities,5,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,18.0,
+398,39,Woman,Business,3,Agree,Disagree,Agree,Agree,Agree,18.0,More practical sessions please.
+399,36,Woman,Business,3,Disagree,Neither agree nor disagree,Agree,Strongly disagree,Strongly disagree,8.0,Library hours are too short.
+400,32,Man,Business,5,Agree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,24.0,Great lecturers.
+401,28,Woman,Engineering,4,Agree,Agree,Disagree,Agree,Agree,21.0,Great lecturers.
+402,38,Woman,Business,1,Neither agree nor disagree,Agree,Agree,Agree,Disagree,17.0,
+403,59,Man,Medicine,5,Strongly agree,Disagree,Agree,Agree,Agree,13.0,
+404,29,Man,Humanities,1,Strongly agree,Strongly disagree,Strongly agree,Agree,Strongly disagree,23.0,
+405,54,Woman,Sciences,5,Strongly agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Strongly agree,19.0,More practical sessions please.
+406,59,Man,Humanities,2,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,16.0,
+407,33,Man,Sciences,5,Agree,Agree,Agree,Agree,Neither agree nor disagree,7.0,
+408,57,Man,Medicine,4,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,20.0,
+409,58,Non-binary,Humanities,2,Strongly disagree,Agree,Neither agree nor disagree,Strongly agree,Disagree,32.0,
+410,58,Man,Sciences,2,Strongly disagree,Disagree,Agree,Disagree,Neither agree nor disagree,18.0,Library hours are too short.
+411,40,Man,Sciences,1,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Agree,23.0,Great lecturers.
+412,39,Man,Humanities,3,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,18.0,Great lecturers.
+413,69,Man,Sciences,2,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,17.0,
+414,18,Woman,Medicine,3,Agree,Disagree,Strongly agree,Disagree,Agree,23.0,More practical sessions please.
+415,58,Woman,Business,1,Agree,Strongly disagree,Strongly agree,Agree,Disagree,14.0,Library hours are too short.
+416,68,Man,Humanities,4,Agree,Strongly agree,Strongly agree,Disagree,Agree,13.0,Great lecturers.
+417,37,Woman,Business,1,Agree,Neither agree nor disagree,Agree,Strongly agree,Disagree,9.0,More practical sessions please.
+418,33,Woman,Medicine,4,Disagree,Agree,Strongly agree,Strongly agree,Disagree,22.0,
+419,43,Man,Humanities,4,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Strongly agree,29.0,Great lecturers.

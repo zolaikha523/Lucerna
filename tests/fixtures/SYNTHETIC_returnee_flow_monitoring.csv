@@ -1,0 +1,1818 @@
+record_id;crossing_date;border_point;origin_country;destination_province;returnee_type;group_size;males;females;children_under_5;vulnerabilities;priority_need
+FM-000001;2025-01-01;Islam Qala;Iran;Nangarhar;Documented;5;2;3;2;"chronic illness;female-headed";Cash
+FM-000002;2025-01-01;Islam Qala;Iran;Kabul;Undocumented;3;0;3;0;chronic illness;Food
+FM-000003;2025-01-02;Torkham;Pakistan;Nangarhar;Undocumented;5;2;3;0;unaccompanied child;Transport
+FM-000004;2025-01-02;Torkham;Iran;Herat;Documented;5;5;0;1;female-headed;Shelter
+FM-000005;2025-01-03;Torkham;Pakistan;Nangarhar;Deportee;8;1;7;4;female-headed;Transport
+FM-000006;2025-01-03;Torkham;Iran;Herat;Documented;2;1;1;0;"female-headed;none";Food
+FM-000007;2025-01-03;Islam Qala;Pakistan;Nangarhar;Deportee;8;0;8;1;chronic illness;Transport
+FM-000008;2025-01-03;Islam Qala;Iran;Balkh;Undocumented;3;1;2;0;disability;Health
+FM-000009;2025-01-03;Torkham;Iran;Nangarhar;Undocumented;7;0;7;1;"disability;unaccompanied child";Cash
+FM-000010;2025-01-03;Islam Qala;Iran;Nangarhar;Undocumented;1;0;1;0;unaccompanied child;Transport
+FM-000011;2025-01-04;Spin Boldak;Pakistan;Nangarhar;Undocumented;3;0;3;0;none;Health
+FM-000012;2025-01-05;Torkham;Pakistan;Balkh;Deportee;1;0;1;1;unaccompanied child;Shelter
+FM-000013;2025-01-05;Islam Qala;Pakistan;Balkh;Documented;4;3;1;0;disability;Health
+FM-000014;2025-01-05;Islam Qala;Iran;Herat;Undocumented;1;1;0;0;chronic illness;Food
+FM-000015;2025-01-07;Islam Qala;Iran;Kabul;Documented;7;5;2;0;"none;unaccompanied child";Transport
+FM-000016;2025-01-07;Torkham;Iran;Nangarhar;Documented;4;1;3;1;unaccompanied child;Transport
+FM-000017;2025-01-07;Torkham;Pakistan;Herat;Deportee;8;0;8;1;disability;Transport
+FM-000018;2025-01-07;Torkham;Pakistan;Herat;Documented;2;0;2;1;unaccompanied child;Health
+FM-000019;2025-01-08;Islam Qala;Iran;Nangarhar;Undocumented;1;1;0;0;female-headed;Shelter
+FM-000020;2025-01-08;Islam Qala;Pakistan;Nangarhar;Undocumented;5;3;2;1;"none;unaccompanied child";Shelter
+FM-000021;2025-01-09;Islam Qala;Iran;Kabul;Documented;2;2;0;1;none;Transport
+FM-000022;2025-01-09;Islam Qala;Pakistan;Kabul;Undocumented;3;1;2;0;female-headed;Shelter
+FM-000023;2025-01-09;Spin Boldak;Iran;Kabul;Undocumented;6;1;5;2;chronic illness;Health
+FM-000024;2025-01-10;Islam Qala;Iran;Nangarhar;Undocumented;7;5;2;1;none;Shelter
+FM-000025;2025-01-11;Islam Qala;Iran;Herat;Undocumented;6;0;6;3;"disability;female-headed";Cash
+FM-000026;2025-01-11;Islam Qala;Pakistan;Kabul;Deportee;7;1;6;3;unaccompanied child;Cash
+FM-000027;2025-01-11;Islam Qala;Iran;Balkh;Undocumented;4;3;1;0;"chronic illness;disability";Shelter
+FM-000028;2025-01-11;Islam Qala;Iran;Kabul;Documented;2;1;1;0;"female-headed;none";Shelter
+FM-000029;2025-01-11;Islam Qala;Pakistan;Balkh;Undocumented;6;5;1;1;disability;Food
+FM-000030;2025-01-12;Islam Qala;Iran;Herat;Deportee;2;1;1;1;chronic illness;Shelter
+FM-000031;2025-01-12;Islam Qala;Iran;Balkh;Undocumented;5;1;4;0;unaccompanied child;Shelter
+FM-000032;2025-01-12;Islam Qala;Pakistan;Nangarhar;Undocumented;7;1;6;0;disability;Health
+FM-000033;2025-01-12;Islam Qala;Pakistan;Nangarhar;Undocumented;2;2;0;0;chronic illness;Health
+FM-000034;2025-01-12;Islam Qala;Pakistan;Herat;Undocumented;8;8;0;0;female-headed;Food
+FM-000035;2025-01-13;Islam Qala;Pakistan;Herat;Documented;4;2;2;1;"chronic illness;unaccompanied child";Cash
+FM-000036;2025-01-13;Islam Qala;Iran;Herat;Documented;6;0;6;0;unaccompanied child;Cash
+FM-000037;2025-01-13;Spin Boldak;Iran;Kabul;Deportee;1;0;1;0;female-headed;Health
+FM-000038;2025-01-13;Islam Qala;Pakistan;Nangarhar;Undocumented;7;4;3;3;"chronic illness;none";Shelter
+FM-000039;2025-01-13;Islam Qala;Iran;Kabul;Deportee;1;1;0;0;disability;Shelter
+FM-000040;2025-01-13;Spin Boldak;Pakistan;Herat;Documented;3;1;2;1;"disability;unaccompanied child";Health
+FM-000041;2025-01-13;Islam Qala;Pakistan;Herat;Documented;4;0;4;2;unaccompanied child;Food
+FM-000042;2025-01-14;Islam Qala;Iran;Kabul;Undocumented;2;1;1;0;female-headed;Food
+FM-000043;2025-01-14;Islam Qala;Pakistan;Kabul;Undocumented;1;0;1;1;female-headed;Transport
+FM-000044;2025-01-14;Spin Boldak;Pakistan;Herat;Undocumented;2;2;0;0;"disability;none";Shelter
+FM-000045;2025-01-14;Islam Qala;Iran;Herat;Undocumented;1;0;1;0;female-headed;Cash
+FM-000046;2025-01-14;Torkham;Iran;Kabul;Documented;6;2;4;0;none;Food
+FM-000047;2025-01-15;Islam Qala;Pakistan;Nangarhar;Undocumented;3;2;1;1;"disability;female-headed";Food
+FM-000048;2025-01-16;Islam Qala;Iran;Kabul;Undocumented;6;0;6;0;"disability;unaccompanied child";Shelter
+FM-000049;2025-01-17;Torkham;Pakistan;Herat;Undocumented;1;1;0;0;female-headed;Health
+FM-000050;2025-01-17;Torkham;Pakistan;Herat;Deportee;5;5;0;1;"female-headed;unaccompanied child";Cash
+FM-000051;2025-01-17;Torkham;Pakistan;Kabul;Documented;3;3;0;1;chronic illness;Shelter
+FM-000052;2025-01-18;Islam Qala;Iran;Herat;Undocumented;7;6;1;2;"chronic illness;disability";Shelter
+FM-000053;2025-01-18;Torkham;Iran;Nangarhar;Deportee;3;0;3;0;"disability;none";Food
+FM-000054;2025-01-18;Islam Qala;Pakistan;Kabul;Deportee;7;6;1;0;"female-headed;unaccompanied child";Cash
+FM-000055;2025-01-18;Islam Qala;Pakistan;Nangarhar;Deportee;2;2;0;0;"chronic illness;none";Health
+FM-000056;2025-01-18;Islam Qala;Iran;Kabul;Documented;7;2;5;3;chronic illness;Transport
+FM-000057;2025-01-18;Torkham;Iran;Balkh;Undocumented;6;3;3;2;disability;Cash
+FM-000058;2025-01-18;Islam Qala;Iran;Herat;Undocumented;4;3;1;0;female-headed;Transport
+FM-000059;2025-01-18;Spin Boldak;Iran;Nangarhar;Deportee;3;0;3;1;"none;unaccompanied child";Shelter
+FM-000060;2025-01-18;Islam Qala;Iran;Kabul;Deportee;7;4;3;0;"chronic illness;none";Transport
+FM-000061;2025-01-19;Spin Boldak;Pakistan;Kabul;Documented;6;3;3;3;unaccompanied child;Health
+FM-000062;2025-01-19;Islam Qala;Pakistan;Kabul;Deportee;3;0;3;1;none;Health
+FM-000063;2025-01-20;Islam Qala;Iran;Kabul;Deportee;2;1;1;1;"female-headed;unaccompanied child";Cash
+FM-000064;2025-01-20;Torkham;Pakistan;Herat;Undocumented;3;1;2;1;unaccompanied child;Food
+FM-000065;2025-01-20;Islam Qala;Iran;Nangarhar;Documented;4;4;0;0;"female-headed;unaccompanied child";Food
+FM-000066;2025-01-20;Torkham;Pakistan;Herat;Undocumented;2;0;2;0;chronic illness;Food
+FM-000067;2025-01-21;Spin Boldak;Pakistan;Nangarhar;Deportee;6;2;4;3;"chronic illness;unaccompanied child";Health
+FM-000068;2025-01-21;Spin Boldak;Iran;Nangarhar;Documented;6;0;6;0;"chronic illness;unaccompanied child";Shelter
+FM-000069;2025-01-21;Torkham;Iran;Kabul;Deportee;1;1;0;0;"chronic illness;female-headed";Food
+FM-000070;2025-01-21;Islam Qala;Iran;Balkh;Undocumented;2;1;1;0;"chronic illness;none";Transport
+FM-000071;2025-01-21;Islam Qala;Iran;Herat;Undocumented;5;5;0;0;"female-headed;unaccompanied child";Cash
+FM-000072;2025-01-22;Islam Qala;Iran;Nangarhar;Undocumented;3;2;1;1;female-headed;Cash
+FM-000073;2025-01-22;Islam Qala;Pakistan;Kabul;Undocumented;2;2;0;1;"disability;female-headed";Health
+FM-000074;2025-01-23;Spin Boldak;Pakistan;Herat;Documented;6;4;2;0;chronic illness;Health
+FM-000075;2025-01-23;Islam Qala;Iran;Herat;Documented;2;2;0;1;chronic illness;Transport
+FM-000076;2025-01-23;Torkham;Pakistan;Herat;Undocumented;3;2;1;1;unaccompanied child;Health
+FM-000077;2025-01-23;Islam Qala;Iran;Balkh;Undocumented;3;1;2;1;"chronic illness;female-headed";Cash
+FM-000078;2025-01-24;Spin Boldak;Iran;Kabul;Undocumented;7;0;7;2;unaccompanied child;Shelter
+FM-000079;2025-01-24;Torkham;Pakistan;Herat;Deportee;5;3;2;2;none;Food
+FM-000080;2025-01-24;Spin Boldak;Iran;Balkh;Undocumented;2;0;2;0;disability;Shelter
+FM-000081;2025-01-24;Islam Qala;Iran;Nangarhar;Undocumented;6;3;3;0;disability;Transport
+FM-000082;2025-01-24;Islam Qala;Pakistan;Herat;Undocumented;1;0;1;0;female-headed;Health
+FM-000083;2025-01-24;Spin Boldak;Pakistan;Nangarhar;Documented;8;1;7;1;"disability;none";Cash
+FM-000084;2025-01-25;Spin Boldak;Iran;Herat;Documented;1;0;1;0;"female-headed;none";Cash
+FM-000085;2025-01-25;Islam Qala;Iran;Nangarhar;Undocumented;8;3;5;4;disability;Cash
+FM-000086;2025-01-25;Islam Qala;Iran;Kabul;Undocumented;7;4;3;2;disability;Transport
+FM-000087;2025-01-25;Islam Qala;Pakistan;Kabul;Documented;8;2;6;0;unaccompanied child;Food
+FM-000088;2025-01-26;Islam Qala;Iran;Balkh;Deportee;5;2;3;0;disability;Food
+FM-000089;2025-01-26;Islam Qala;Pakistan;Nangarhar;Deportee;8;2;6;1;none;Food
+FM-000090;2025-01-26;Spin Boldak;Iran;Nangarhar;Deportee;7;6;1;2;"chronic illness;unaccompanied child";Transport
+FM-000091;2025-01-26;Spin Boldak;Iran;Nangarhar;Undocumented;8;3;5;3;"disability;female-headed";Shelter
+FM-000092;2025-01-26;Spin Boldak;Iran;Herat;Undocumented;1;1;0;0;female-headed;Cash
+FM-000093;2025-01-27;Islam Qala;Iran;Kabul;Undocumented;6;6;0;2;disability;Food
+FM-000094;2025-01-27;Torkham;Pakistan;Herat;Deportee;5;2;3;0;"disability;unaccompanied child";Health
+FM-000095;2025-01-27;Torkham;Iran;Herat;Undocumented;6;3;3;1;disability;Cash
+FM-000096;2025-01-27;Islam Qala;Iran;Nangarhar;Deportee;8;0;8;0;"none;unaccompanied child";Shelter
+FM-000097;2025-01-27;Torkham;Iran;Kabul;Undocumented;8;8;0;4;"disability;female-headed";Cash
+FM-000098;2025-01-27;Torkham;Iran;Balkh;Undocumented;1;1;0;0;female-headed;Transport
+FM-000099;2025-01-28;Spin Boldak;Pakistan;Kabul;Deportee;1;1;0;1;"chronic illness;none";Cash
+FM-000100;2025-01-28;Spin Boldak;Pakistan;Herat;Deportee;2;2;0;0;"chronic illness;none";Shelter
+FM-000101;2025-01-28;Islam Qala;Iran;Nangarhar;Undocumented;1;0;1;1;none;Transport
+FM-000102;2025-01-28;Islam Qala;Iran;Nangarhar;Deportee;7;5;2;3;"disability;none";Shelter
+FM-000103;2025-01-28;Islam Qala;Pakistan;Kabul;Documented;1;1;0;1;none;Food
+FM-000104;2025-01-28;Torkham;Iran;Nangarhar;Undocumented;7;7;0;2;"female-headed;unaccompanied child";Cash
+FM-000105;2025-01-29;Islam Qala;Pakistan;Kabul;Documented;3;3;0;0;"female-headed;unaccompanied child";Health
+FM-000106;2025-01-29;Spin Boldak;Iran;Nangarhar;Deportee;3;3;0;1;unaccompanied child;Health
+FM-000107;2025-01-29;Torkham;Iran;Balkh;Undocumented;3;0;3;0;none;Health
+FM-000108;2025-01-30;Torkham;Pakistan;Nangarhar;Undocumented;5;4;1;0;unaccompanied child;Shelter
+FM-000109;2025-01-31;Islam Qala;Pakistan;Nangarhar;Undocumented;5;5;0;2;"female-headed;unaccompanied child";Shelter
+FM-000110;2025-01-31;Islam Qala;Pakistan;Herat;Deportee;3;0;3;1;"chronic illness;disability";Shelter
+FM-000111;2025-01-31;Islam Qala;Iran;Nangarhar;Undocumented;1;0;1;1;"chronic illness;female-headed";Shelter
+FM-000112;2025-02-01;Torkham;Pakistan;Herat;Deportee;8;8;0;3;none;Health
+FM-000113;2025-02-01;Torkham;Iran;Herat;Undocumented;8;8;0;1;chronic illness;Food
+FM-000114;2025-02-01;Islam Qala;Iran;Kabul;Deportee;6;4;2;0;"chronic illness;unaccompanied child";Shelter
+FM-000115;2025-02-01;Islam Qala;Iran;Herat;Undocumented;2;1;1;0;disability;Cash
+FM-000116;2025-02-01;Torkham;Iran;Nangarhar;Undocumented;8;7;1;2;"disability;female-headed";Cash
+FM-000117;2025-02-01;Spin Boldak;Iran;Herat;Documented;8;8;0;2;"none;unaccompanied child";Shelter
+FM-000118;2025-02-01;Torkham;Pakistan;Herat;Undocumented;5;1;4;2;none;Food
+FM-000119;2025-02-02;Torkham;Iran;Herat;Undocumented;1;0;1;1;"none;unaccompanied child";Food
+FM-000120;2025-02-02;Islam Qala;Pakistan;Herat;Undocumented;1;1;0;1;none;Food
+FM-000121;2025-02-03;Islam Qala;Pakistan;Balkh;Undocumented;4;2;2;0;"disability;unaccompanied child";Cash
+FM-000122;2025-02-03;Torkham;Pakistan;Nangarhar;Undocumented;2;1;1;1;"female-headed;unaccompanied child";Shelter
+FM-000123;2025-02-03;Islam Qala;Pakistan;Nangarhar;Undocumented;3;2;1;0;"disability;none";Cash
+FM-000124;2025-02-04;Spin Boldak;Pakistan;Herat;Undocumented;4;1;3;2;unaccompanied child;Transport
+FM-000125;2025-02-04;Torkham;Iran;Herat;Deportee;6;6;0;1;"chronic illness;none";Transport
+FM-000126;2025-02-04;Islam Qala;Pakistan;Nangarhar;Documented;7;5;2;0;female-headed;Cash
+FM-000127;2025-02-06;Spin Boldak;Pakistan;Nangarhar;Documented;2;2;0;0;none;Cash
+FM-000128;2025-02-06;Islam Qala;Pakistan;Kabul;Deportee;4;0;4;2;"none;unaccompanied child";Transport
+FM-000129;2025-02-06;Islam Qala;Iran;Balkh;Deportee;2;2;0;0;none;Transport
+FM-000130;2025-02-06;Islam Qala;Pakistan;Nangarhar;Deportee;1;0;1;0;none;Cash
+FM-000131;2025-02-06;Spin Boldak;Iran;Balkh;Deportee;7;6;1;0;none;Shelter
+FM-000132;2025-02-07;Spin Boldak;Pakistan;Nangarhar;Documented;5;5;0;0;"chronic illness;female-headed";Food
+FM-000133;2025-02-07;Islam Qala;Iran;Kabul;Deportee;1;1;0;0;"disability;female-headed";Transport
+FM-000134;2025-02-07;Islam Qala;Iran;Herat;Undocumented;1;1;0;1;"female-headed;none";Health
+FM-000135;2025-02-07;Spin Boldak;Iran;Kabul;Documented;8;4;4;1;chronic illness;Cash
+FM-000136;2025-02-07;Spin Boldak;Pakistan;Nangarhar;Deportee;8;5;3;0;"chronic illness;none";Transport
+FM-000137;2025-02-08;Islam Qala;Iran;Nangarhar;Undocumented;6;5;1;2;none;Cash
+FM-000138;2025-02-08;Torkham;Iran;Nangarhar;Documented;8;7;1;2;"chronic illness;none";Transport
+FM-000139;2025-02-08;Islam Qala;Pakistan;Nangarhar;Documented;8;7;1;2;chronic illness;Transport
+FM-000140;2025-02-09;Islam Qala;Iran;Herat;Undocumented;2;1;1;1;female-headed;Health
+FM-000141;2025-02-09;Torkham;Pakistan;Herat;Undocumented;5;2;3;2;"none;unaccompanied child";Transport
+FM-000142;2025-02-09;Torkham;Iran;Kabul;Documented;5;0;5;0;female-headed;Shelter
+FM-000143;2025-02-09;Islam Qala;Pakistan;Nangarhar;Deportee;8;8;0;1;"female-headed;none";Health
+FM-000144;2025-02-09;Islam Qala;Iran;Herat;Undocumented;6;1;5;0;"female-headed;unaccompanied child";Health
+FM-000145;2025-02-10;Islam Qala;Iran;Balkh;Undocumented;6;2;4;3;"female-headed;none";Food
+FM-000146;2025-02-11;Spin Boldak;Iran;Kabul;Deportee;6;2;4;2;unaccompanied child;Food
+FM-000147;2025-02-11;Torkham;Pakistan;Herat;Documented;4;4;0;0;unaccompanied child;Food
+FM-000148;2025-02-11;Spin Boldak;Pakistan;Balkh;Undocumented;2;1;1;0;female-headed;Food
+FM-000149;2025-02-11;Spin Boldak;Iran;Kabul;Deportee;3;0;3;1;unaccompanied child;Shelter
+FM-000150;2025-02-11;Torkham;Pakistan;Nangarhar;Undocumented;5;5;0;0;disability;Food
+FM-000151;2025-02-12;Spin Boldak;Iran;Kabul;Undocumented;4;3;1;0;disability;Food
+FM-000152;2025-02-12;Torkham;Iran;Herat;Undocumented;3;2;1;1;"chronic illness;none";Transport
+FM-000153;2025-02-12;Islam Qala;Pakistan;Herat;Undocumented;4;3;1;2;unaccompanied child;Transport
+FM-000154;2025-02-12;Islam Qala;Iran;Nangarhar;Documented;8;5;3;2;"female-headed;none";Health
+FM-000155;2025-02-12;Torkham;Iran;Kabul;Documented;8;2;6;0;none;Shelter
+FM-000156;2025-02-12;Torkham;Pakistan;Herat;Undocumented;4;2;2;1;"chronic illness;disability";Health
+FM-000157;2025-02-13;Torkham;Pakistan;Balkh;Undocumented;5;4;1;1;chronic illness;Cash
+FM-000158;2025-02-13;Islam Qala;Iran;Nangarhar;Documented;8;2;6;0;disability;Transport
+FM-000159;2025-02-13;Torkham;Pakistan;Balkh;Documented;1;1;0;0;"chronic illness;female-headed";Shelter
+FM-000160;2025-02-14;Islam Qala;Iran;Herat;Documented;1;1;0;1;unaccompanied child;Health
+FM-000161;2025-02-14;Torkham;Iran;Kabul;Deportee;7;1;6;1;unaccompanied child;Shelter
+FM-000162;2025-02-14;Islam Qala;Pakistan;Herat;Undocumented;2;0;2;1;none;Shelter
+FM-000163;2025-02-14;Torkham;Iran;Balkh;Deportee;1;1;0;0;none;Transport
+FM-000164;2025-02-14;Torkham;Iran;Nangarhar;Deportee;8;7;1;4;"disability;unaccompanied child";Transport
+FM-000165;2025-02-14;Spin Boldak;Pakistan;Balkh;Undocumented;1;1;0;0;female-headed;Transport
+FM-000166;2025-02-14;Spin Boldak;Pakistan;Herat;Undocumented;3;2;1;0;none;Health
+FM-000167;2025-02-14;Islam Qala;Iran;Nangarhar;Undocumented;2;1;1;1;disability;Cash
+FM-000168;2025-02-14;Islam Qala;Iran;Nangarhar;Deportee;2;0;2;1;none;Shelter
+FM-000169;2025-02-14;Torkham;Iran;Balkh;Documented;2;0;2;1;female-headed;Health
+FM-000170;2025-02-15;Torkham;Iran;Nangarhar;Undocumented;6;4;2;2;none;Food
+FM-000171;2025-02-15;Islam Qala;Iran;Herat;Documented;8;2;6;3;female-headed;Food
+FM-000172;2025-02-16;Islam Qala;Iran;Kabul;Documented;7;0;7;3;disability;Transport
+FM-000173;2025-02-16;Islam Qala;Iran;Herat;Documented;3;0;3;1;chronic illness;Cash
+FM-000174;2025-02-16;Islam Qala;Pakistan;Kabul;Undocumented;1;1;0;0;"chronic illness;none";Health
+FM-000175;2025-02-16;Islam Qala;Iran;Herat;Undocumented;7;4;3;2;"chronic illness;female-headed";Shelter
+FM-000176;2025-02-16;Torkham;Iran;Nangarhar;Documented;3;1;2;0;"disability;female-headed";Shelter
+FM-000177;2025-02-17;Islam Qala;Iran;Kabul;Undocumented;6;4;2;2;chronic illness;Health
+FM-000178;2025-02-17;Islam Qala;Iran;Herat;Undocumented;1;0;1;1;"chronic illness;disability";Food
+FM-000179;2025-02-17;Islam Qala;Iran;Nangarhar;Deportee;7;4;3;0;female-headed;Health
+FM-000180;2025-02-18;Spin Boldak;Iran;Nangarhar;Undocumented;3;0;3;1;female-headed;Health
+FM-000181;2025-02-18;Islam Qala;Iran;Balkh;Deportee;8;7;1;3;chronic illness;Food
+FM-000182;2025-02-18;Torkham;Iran;Kabul;Deportee;2;2;0;0;none;Cash
+FM-000183;2025-02-18;Spin Boldak;Pakistan;Nangarhar;Deportee;4;1;3;2;disability;Transport
+FM-000184;2025-02-18;Torkham;Iran;Kabul;Documented;6;3;3;0;"disability;unaccompanied child";Health
+FM-000185;2025-02-18;Islam Qala;Iran;Herat;Documented;7;2;5;2;chronic illness;Transport
+FM-000186;2025-02-19;Spin Boldak;Iran;Kabul;Undocumented;5;3;2;1;chronic illness;Transport
+FM-000187;2025-02-20;Islam Qala;Iran;Kabul;Undocumented;3;3;0;1;female-headed;Food
+FM-000188;2025-02-20;Islam Qala;Iran;Herat;Documented;1;0;1;1;"none;unaccompanied child";Food
+FM-000189;2025-02-20;Torkham;Pakistan;Herat;Documented;3;1;2;1;"chronic illness;none";Health
+FM-000190;2025-02-20;Islam Qala;Pakistan;Balkh;Undocumented;6;5;1;2;"chronic illness;female-headed";Transport
+FM-000191;2025-02-21;Torkham;Pakistan;Kabul;Documented;4;2;2;0;chronic illness;Transport
+FM-000192;2025-02-21;Torkham;Pakistan;Herat;Deportee;4;0;4;2;"female-headed;unaccompanied child";Transport
+FM-000193;2025-02-21;Islam Qala;Pakistan;Kabul;Undocumented;5;2;3;0;"chronic illness;unaccompanied child";Transport
+FM-000194;2025-02-21;Torkham;Pakistan;Balkh;Deportee;6;1;5;0;none;Shelter
+FM-000195;2025-02-21;Torkham;Iran;Herat;Deportee;2;2;0;1;disability;Transport
+FM-000196;2025-02-22;Islam Qala;Iran;Herat;Undocumented;4;1;3;1;"disability;none";Transport
+FM-000197;2025-02-22;Spin Boldak;Pakistan;Nangarhar;Documented;8;6;2;4;female-headed;Shelter
+FM-000198;2025-02-22;Islam Qala;Iran;Nangarhar;Documented;3;1;2;1;unaccompanied child;Cash
+FM-000199;2025-02-22;Islam Qala;Pakistan;Herat;Undocumented;5;0;5;0;none;Transport
+FM-000200;2025-02-22;Islam Qala;Pakistan;Nangarhar;Documented;8;3;5;1;none;Shelter
+FM-000201;2025-02-23;Torkham;Iran;Balkh;Undocumented;1;0;1;1;none;Transport
+FM-000202;2025-02-23;Islam Qala;Iran;Kabul;Documented;1;0;1;0;"chronic illness;unaccompanied child";Shelter
+FM-000203;2025-02-24;Islam Qala;Iran;Kabul;Undocumented;1;0;1;0;"female-headed;unaccompanied child";Cash
+FM-000204;2025-02-24;Islam Qala;Iran;Balkh;Deportee;6;1;5;3;"none;unaccompanied child";Transport
+FM-000205;2025-02-24;Islam Qala;Iran;Herat;Documented;8;3;5;3;unaccompanied child;Food
+FM-000206;2025-02-25;Torkham;Iran;Herat;Deportee;4;2;2;1;chronic illness;Cash
+FM-000207;2025-02-25;Islam Qala;Pakistan;Herat;Deportee;5;3;2;1;"female-headed;none";Cash
+FM-000208;2025-02-25;Spin Boldak;Iran;Kabul;Documented;7;5;2;1;unaccompanied child;Food
+FM-000209;2025-02-26;Islam Qala;Iran;Nangarhar;Documented;5;0;5;1;disability;Cash
+FM-000210;2025-02-26;Islam Qala;Pakistan;Nangarhar;Deportee;8;2;6;3;disability;Transport
+FM-000211;2025-02-26;Islam Qala;Iran;Kabul;Undocumented;4;0;4;2;female-headed;Shelter
+FM-000212;2025-02-26;Torkham;Iran;Kabul;Deportee;8;1;7;0;none;Health
+FM-000213;2025-02-26;Islam Qala;Pakistan;Kabul;Documented;5;1;4;2;"chronic illness;unaccompanied child";Cash
+FM-000214;2025-02-27;Islam Qala;Iran;Kabul;Documented;4;2;2;1;"female-headed;none";Food
+FM-000215;2025-02-27;Torkham;Iran;Kabul;Documented;3;0;3;0;chronic illness;Cash
+FM-000216;2025-02-27;Torkham;Pakistan;Kabul;Deportee;6;2;4;2;"disability;unaccompanied child";Health
+FM-000217;2025-02-28;Spin Boldak;Iran;Kabul;Undocumented;6;3;3;1;unaccompanied child;Shelter
+FM-000218;2025-02-28;Spin Boldak;Iran;Nangarhar;Undocumented;4;0;4;1;"chronic illness;unaccompanied child";Shelter
+FM-000219;2025-02-28;Islam Qala;Pakistan;Kabul;Documented;2;2;0;0;disability;Cash
+FM-000220;2025-02-28;Islam Qala;Pakistan;Kabul;Documented;6;5;1;1;disability;Food
+FM-000221;2025-02-28;Islam Qala;Iran;Herat;Deportee;6;4;2;3;"disability;unaccompanied child";Food
+FM-000222;2025-02-28;Torkham;Pakistan;Kabul;Deportee;5;3;2;2;female-headed;Shelter
+FM-000223;2025-02-28;Islam Qala;Pakistan;Kabul;Undocumented;8;1;7;1;"chronic illness;none";Transport
+FM-000224;2025-02-28;Torkham;Pakistan;Kabul;Deportee;6;4;2;1;unaccompanied child;Food
+FM-000225;2025-03-01;Torkham;Iran;Kabul;Documented;5;5;0;2;"none;unaccompanied child";Shelter
+FM-000226;2025-03-01;Islam Qala;Iran;Kabul;Undocumented;3;0;3;1;unaccompanied child;Cash
+FM-000227;2025-03-01;Islam Qala;Iran;Nangarhar;Documented;6;0;6;1;unaccompanied child;Transport
+FM-000228;2025-03-02;Spin Boldak;Pakistan;Balkh;Documented;8;6;2;1;female-headed;Food
+FM-000229;2025-03-02;Torkham;Pakistan;Kabul;Deportee;5;1;4;1;unaccompanied child;Health
+FM-000230;2025-03-02;Islam Qala;Iran;Nangarhar;Undocumented;3;3;0;1;none;Cash
+FM-000231;2025-03-03;Torkham;Pakistan;Balkh;Undocumented;3;1;2;0;unaccompanied child;Food
+FM-000232;2025-03-03;Islam Qala;Iran;Balkh;Undocumented;6;1;5;1;unaccompanied child;Food
+FM-000233;2025-03-03;Torkham;Iran;Nangarhar;Deportee;1;0;1;0;chronic illness;Shelter
+FM-000234;2025-03-03;Islam Qala;Pakistan;Balkh;Documented;6;3;3;1;"disability;unaccompanied child";Food
+FM-000235;2025-03-03;Islam Qala;Pakistan;Nangarhar;Documented;2;0;2;0;disability;Cash
+FM-000236;2025-03-03;Islam Qala;Iran;Kabul;Undocumented;6;0;6;1;disability;Shelter
+FM-000237;2025-03-03;Islam Qala;Iran;Nangarhar;Documented;3;3;0;1;"disability;none";Cash
+FM-000238;2025-03-03;Islam Qala;Iran;Herat;Deportee;4;2;2;0;"none;unaccompanied child";Cash
+FM-000239;2025-03-04;Torkham;Iran;Herat;Documented;2;2;0;1;"female-headed;none";Transport
+FM-000240;2025-03-04;Spin Boldak;Pakistan;Nangarhar;Deportee;4;4;0;1;chronic illness;Transport
+FM-000241;2025-03-04;Torkham;Iran;Balkh;Documented;1;1;0;0;none;Shelter
+FM-000242;2025-03-04;Torkham;Iran;Kabul;Undocumented;3;2;1;0;female-headed;Health
+FM-000243;2025-03-04;Torkham;Pakistan;Herat;Undocumented;7;2;5;2;none;Health
+FM-000244;2025-03-04;Spin Boldak;Pakistan;Balkh;Undocumented;5;1;4;2;chronic illness;Shelter
+FM-000245;2025-03-04;Islam Qala;Pakistan;Herat;Undocumented;6;2;4;3;female-headed;Food
+FM-000246;2025-03-04;Spin Boldak;Iran;Herat;Documented;8;1;7;1;"chronic illness;disability";Health
+FM-000247;2025-03-04;Islam Qala;Iran;Kabul;Undocumented;2;2;0;1;female-headed;Food
+FM-000248;2025-03-05;Torkham;Pakistan;Kabul;Documented;6;0;6;0;"none;unaccompanied child";Shelter
+FM-000249;2025-03-05;Islam Qala;Iran;Nangarhar;Deportee;2;2;0;1;"female-headed;none";Health
+FM-000250;2025-03-05;Torkham;Iran;Herat;Undocumented;2;2;0;1;unaccompanied child;Food
+FM-000251;2025-03-05;Islam Qala;Pakistan;Herat;Undocumented;7;3;4;3;unaccompanied child;Shelter
+FM-000252;2025-03-05;Spin Boldak;Iran;Balkh;Undocumented;2;0;2;1;disability;Cash
+FM-000253;2025-03-05;Torkham;Iran;Kabul;Documented;1;1;0;1;none;Food
+FM-000254;2025-03-05;Islam Qala;Pakistan;Herat;Deportee;1;1;0;1;"none;unaccompanied child";Transport
+FM-000255;2025-03-05;Spin Boldak;Pakistan;Nangarhar;Documented;5;2;3;0;none;Shelter
+FM-000256;2025-03-06;Islam Qala;Pakistan;Nangarhar;Documented;5;5;0;1;"disability;none";Food
+FM-000257;2025-03-06;Torkham;Iran;Herat;Undocumented;6;5;1;1;"chronic illness;female-headed";Shelter
+FM-000258;2025-03-06;Torkham;Iran;Balkh;Undocumented;5;4;1;0;chronic illness;Transport
+FM-000259;2025-03-06;Islam Qala;Iran;Nangarhar;Undocumented;8;7;1;3;"none;unaccompanied child";Transport
+FM-000260;2025-03-06;Torkham;Pakistan;Kabul;Undocumented;5;2;3;1;"female-headed;unaccompanied child";Transport
+FM-000261;2025-03-07;Torkham;Pakistan;Nangarhar;Undocumented;2;0;2;0;chronic illness;Shelter
+FM-000262;2025-03-07;Islam Qala;Iran;Herat;Documented;7;5;2;2;"chronic illness;none";Cash
+FM-000263;2025-03-07;Islam Qala;Iran;Herat;Undocumented;5;3;2;1;"chronic illness;none";Food
+FM-000264;2025-03-07;Islam Qala;Pakistan;Balkh;Undocumented;5;2;3;2;none;Shelter
+FM-000265;2025-03-08;Islam Qala;Pakistan;Nangarhar;Undocumented;4;2;2;0;none;Health
+FM-000266;2025-03-08;Islam Qala;Pakistan;Kabul;Undocumented;5;4;1;1;"chronic illness;none";Transport
+FM-000267;2025-03-08;Islam Qala;Pakistan;Nangarhar;Undocumented;8;2;6;4;chronic illness;Cash
+FM-000268;2025-03-08;Spin Boldak;Iran;Nangarhar;Undocumented;5;4;1;1;chronic illness;Health
+FM-000269;2025-03-08;Islam Qala;Iran;Herat;Deportee;3;3;0;0;"disability;none";Health
+FM-000270;2025-03-08;Islam Qala;Pakistan;Herat;Undocumented;4;2;2;1;"disability;female-headed";Food
+FM-000271;2025-03-08;Torkham;Iran;Kabul;Undocumented;3;1;2;1;disability;Transport
+FM-000272;2025-03-09;Torkham;Iran;Kabul;Documented;5;2;3;2;"disability;unaccompanied child";Cash
+FM-000273;2025-03-09;Islam Qala;Pakistan;Herat;Documented;6;1;5;1;"chronic illness;disability";Cash
+FM-000274;2025-03-09;Islam Qala;Iran;Herat;Undocumented;5;3;2;1;"chronic illness;unaccompanied child";Transport
+FM-000275;2025-03-09;Torkham;Iran;Kabul;Documented;3;1;2;1;female-headed;Shelter
+FM-000276;2025-03-10;Torkham;Pakistan;Kabul;Undocumented;3;0;3;1;"disability;unaccompanied child";Health
+FM-000277;2025-03-10;Islam Qala;Iran;Nangarhar;Deportee;5;3;2;2;"disability;none";Shelter
+FM-000278;2025-03-10;Islam Qala;Pakistan;Nangarhar;Undocumented;6;5;1;1;"disability;female-headed";Food
+FM-000279;2025-03-10;Torkham;Pakistan;Herat;Deportee;3;3;0;1;none;Transport
+FM-000280;2025-03-10;Torkham;Pakistan;Kabul;Documented;3;1;2;0;"chronic illness;unaccompanied child";Shelter
+FM-000281;2025-03-10;Spin Boldak;Pakistan;Kabul;Undocumented;6;3;3;3;chronic illness;Transport
+FM-000282;2025-03-11;Islam Qala;Pakistan;Herat;Documented;7;1;6;2;unaccompanied child;Food
+FM-000283;2025-03-11;Islam Qala;Pakistan;Kabul;Undocumented;8;6;2;4;"chronic illness;disability";Transport
+FM-000284;2025-03-11;Torkham;Iran;Herat;Documented;6;4;2;1;"chronic illness;unaccompanied child";Transport
+FM-000285;2025-03-11;Spin Boldak;Pakistan;Balkh;Documented;2;0;2;0;female-headed;Shelter
+FM-000286;2025-03-12;Islam Qala;Pakistan;Herat;Undocumented;6;5;1;3;disability;Cash
+FM-000287;2025-03-12;Islam Qala;Pakistan;Nangarhar;Documented;2;2;0;1;disability;Cash
+FM-000288;2025-03-13;Islam Qala;Pakistan;Kabul;Undocumented;4;3;1;0;"none;unaccompanied child";Food
+FM-000289;2025-03-13;Torkham;Pakistan;Herat;Documented;7;0;7;1;chronic illness;Health
+FM-000290;2025-03-13;Islam Qala;Iran;Herat;Documented;2;0;2;1;"chronic illness;female-headed";Health
+FM-000291;2025-03-13;Islam Qala;Pakistan;Kabul;Undocumented;3;2;1;1;chronic illness;Food
+FM-000292;2025-03-13;Torkham;Iran;Kabul;Documented;6;6;0;3;"chronic illness;unaccompanied child";Health
+FM-000293;2025-03-14;Islam Qala;Iran;Herat;Deportee;1;0;1;0;disability;Health
+FM-000294;2025-03-14;Spin Boldak;Iran;Nangarhar;Undocumented;4;4;0;0;chronic illness;Cash
+FM-000295;2025-03-14;Torkham;Pakistan;Balkh;Undocumented;6;4;2;2;"chronic illness;unaccompanied child";Shelter
+FM-000296;2025-03-15;Torkham;Pakistan;Nangarhar;Documented;6;2;4;3;unaccompanied child;Shelter
+FM-000297;2025-03-15;Spin Boldak;Pakistan;Herat;Undocumented;7;1;6;2;none;Cash
+FM-000298;2025-03-15;Islam Qala;Iran;Herat;Undocumented;1;1;0;1;unaccompanied child;Shelter
+FM-000299;2025-03-15;Torkham;Pakistan;Nangarhar;Undocumented;5;4;1;1;female-headed;Food
+FM-000300;2025-03-15;Islam Qala;Pakistan;Balkh;Undocumented;4;0;4;1;chronic illness;Food
+FM-000301;2025-03-15;Islam Qala;Iran;Herat;Documented;8;7;1;4;unaccompanied child;Food
+FM-000302;2025-03-16;Islam Qala;Iran;Herat;Undocumented;8;4;4;4;unaccompanied child;Food
+FM-000303;2025-03-16;Islam Qala;Iran;Nangarhar;Undocumented;6;5;1;2;"female-headed;unaccompanied child";Transport
+FM-000304;2025-03-16;Islam Qala;Pakistan;Herat;Undocumented;6;3;3;2;unaccompanied child;Health
+FM-000305;2025-03-17;Islam Qala;Pakistan;Kabul;Documented;8;8;0;4;disability;Health
+FM-000306;2025-03-17;Torkham;Iran;Kabul;Undocumented;6;1;5;1;"chronic illness;female-headed";Food
+FM-000307;2025-03-18;Islam Qala;Iran;Herat;Deportee;7;4;3;1;"disability;none";Shelter
+FM-000308;2025-03-18;Torkham;Pakistan;Nangarhar;Deportee;1;0;1;1;unaccompanied child;Cash
+FM-000309;2025-03-18;Islam Qala;Iran;Kabul;Undocumented;8;3;5;4;"disability;unaccompanied child";Health
+FM-000310;2025-03-18;Torkham;Pakistan;Kabul;Deportee;3;1;2;1;chronic illness;Health
+FM-000311;2025-03-18;Islam Qala;Pakistan;Nangarhar;Deportee;8;8;0;2;"chronic illness;none";Food
+FM-000312;2025-03-19;Spin Boldak;Pakistan;Kabul;Undocumented;4;3;1;2;unaccompanied child;Shelter
+FM-000313;2025-03-19;Torkham;Pakistan;Nangarhar;Documented;5;1;4;0;"chronic illness;none";Food
+FM-000314;2025-03-19;Islam Qala;Pakistan;Nangarhar;Deportee;6;4;2;0;none;Health
+FM-000315;2025-03-19;Torkham;Pakistan;Kabul;Documented;5;3;2;0;"chronic illness;disability";Food
+FM-000316;2025-03-20;Spin Boldak;Pakistan;Balkh;Undocumented;4;1;3;0;disability;Cash
+FM-000317;2025-03-20;Islam Qala;Iran;Kabul;Deportee;1;1;0;0;"disability;unaccompanied child";Transport
+FM-000318;2025-03-20;Islam Qala;Pakistan;Kabul;Documented;7;5;2;2;"female-headed;unaccompanied child";Cash
+FM-000319;2025-03-20;Torkham;Pakistan;Kabul;Documented;2;2;0;0;disability;Health
+FM-000320;2025-03-21;Torkham;Iran;Kabul;Deportee;5;2;3;2;"disability;female-headed";Transport
+FM-000321;2025-03-21;Torkham;Iran;Herat;Undocumented;1;1;0;1;disability;Food
+FM-000322;2025-03-21;Spin Boldak;Pakistan;Herat;Documented;6;2;4;2;chronic illness;Cash
+FM-000323;2025-03-21;Torkham;Iran;Kabul;Undocumented;1;1;0;0;none;Shelter
+FM-000324;2025-03-21;Islam Qala;Iran;Kabul;Undocumented;6;4;2;3;"chronic illness;female-headed";Shelter
+FM-000325;2025-03-21;Spin Boldak;Iran;Nangarhar;Undocumented;7;0;7;1;"chronic illness;none";Shelter
+FM-000326;2025-03-22;Islam Qala;Pakistan;Kabul;Deportee;7;7;0;0;unaccompanied child;Transport
+FM-000327;2025-03-22;Torkham;Iran;Herat;Undocumented;5;3;2;1;"female-headed;unaccompanied child";Shelter
+FM-000328;2025-03-22;Torkham;Pakistan;Kabul;Undocumented;4;1;3;2;female-headed;Cash
+FM-000329;2025-03-22;Islam Qala;Pakistan;Herat;Undocumented;6;2;4;1;"chronic illness;disability";Food
+FM-000330;2025-03-23;Islam Qala;Iran;Balkh;Undocumented;3;2;1;0;disability;Food
+FM-000331;2025-03-24;Torkham;Iran;Herat;Deportee;2;2;0;0;female-headed;Health
+FM-000332;2025-03-24;Islam Qala;Iran;Herat;Deportee;2;1;1;1;unaccompanied child;Shelter
+FM-000333;2025-03-24;Torkham;Iran;Herat;Undocumented;2;0;2;0;female-headed;Health
+FM-000334;2025-03-25;Islam Qala;Iran;Balkh;Undocumented;1;0;1;0;"chronic illness;unaccompanied child";Cash
+FM-000335;2025-03-25;Islam Qala;Iran;Herat;Undocumented;7;1;6;1;unaccompanied child;Food
+FM-000336;2025-03-25;Islam Qala;Iran;Herat;Deportee;6;6;0;1;female-headed;Transport
+FM-000337;2025-03-25;Islam Qala;Iran;Nangarhar;Documented;5;2;3;2;unaccompanied child;Shelter
+FM-000338;2025-03-25;Islam Qala;Pakistan;Herat;Undocumented;4;1;3;2;"chronic illness;female-headed";Shelter
+FM-000339;2025-03-26;Islam Qala;Iran;Herat;Undocumented;8;2;6;1;"chronic illness;none";Health
+FM-000340;2025-03-27;Islam Qala;Pakistan;Kabul;Deportee;6;2;4;3;"disability;none";Food
+FM-000341;2025-03-27;Spin Boldak;Iran;Balkh;Documented;4;0;4;0;"chronic illness;unaccompanied child";Shelter
+FM-000342;2025-03-27;Spin Boldak;Pakistan;Balkh;Undocumented;7;1;6;2;"disability;unaccompanied child";Shelter
+FM-000343;2025-03-27;Islam Qala;Pakistan;Nangarhar;Deportee;8;5;3;4;"disability;none";Health
+FM-000344;2025-03-28;Islam Qala;Iran;Herat;Undocumented;4;4;0;2;disability;Health
+FM-000345;2025-03-28;Spin Boldak;Pakistan;Kabul;Deportee;4;1;3;2;disability;Food
+FM-000346;2025-03-28;Torkham;Iran;Herat;Deportee;7;0;7;1;disability;Cash
+FM-000347;2025-03-29;Islam Qala;Pakistan;Kabul;Documented;5;2;3;1;"disability;female-headed";Cash
+FM-000348;2025-03-29;Islam Qala;Iran;Kabul;Undocumented;1;1;0;1;unaccompanied child;Transport
+FM-000349;2025-03-29;Islam Qala;Pakistan;Balkh;Deportee;5;5;0;0;none;Cash
+FM-000350;2025-03-29;Spin Boldak;Pakistan;Nangarhar;Documented;8;8;0;0;disability;Cash
+FM-000351;2025-03-30;Islam Qala;Pakistan;Kabul;Undocumented;1;0;1;1;none;Food
+FM-000352;2025-03-30;Torkham;Iran;Kabul;Deportee;3;3;0;1;"disability;unaccompanied child";Transport
+FM-000353;2025-03-30;Islam Qala;Pakistan;Herat;Documented;6;6;0;1;disability;Cash
+FM-000354;2025-03-30;Islam Qala;Iran;Nangarhar;Deportee;2;1;1;0;chronic illness;Transport
+FM-000355;2025-03-30;Torkham;Pakistan;Kabul;Documented;8;2;6;3;female-headed;Transport
+FM-000356;2025-03-30;Spin Boldak;Iran;Nangarhar;Deportee;7;1;6;3;"chronic illness;unaccompanied child";Shelter
+FM-000357;2025-03-31;Islam Qala;Iran;Kabul;Undocumented;2;1;1;0;unaccompanied child;Health
+FM-000358;2025-03-31;Torkham;Iran;Herat;Undocumented;3;2;1;0;"disability;none";Shelter
+FM-000359;2025-03-31;Torkham;Pakistan;Nangarhar;Undocumented;3;3;0;0;none;Health
+FM-000360;2025-03-31;Torkham;Pakistan;Herat;Undocumented;5;3;2;1;none;Food
+FM-000361;2025-04-01;Spin Boldak;Pakistan;Herat;Undocumented;1;0;1;0;none;Food
+FM-000362;2025-04-02;Torkham;Iran;Kabul;Undocumented;2;2;0;1;unaccompanied child;Food
+FM-000363;2025-04-02;Torkham;Pakistan;Herat;Undocumented;6;0;6;3;"female-headed;none";Transport
+FM-000364;2025-04-02;Torkham;Iran;Balkh;Documented;2;1;1;0;chronic illness;Health
+FM-000365;2025-04-03;Islam Qala;Iran;Herat;Undocumented;3;1;2;1;"none;unaccompanied child";Shelter
+FM-000366;2025-04-03;Islam Qala;Pakistan;Nangarhar;Documented;1;1;0;0;unaccompanied child;Health
+FM-000367;2025-04-03;Spin Boldak;Iran;Balkh;Undocumented;7;0;7;2;"female-headed;none";Food
+FM-000368;2025-04-03;Torkham;Pakistan;Herat;Undocumented;3;1;2;0;chronic illness;Food
+FM-000369;2025-04-03;Islam Qala;Iran;Nangarhar;Undocumented;8;3;5;1;"chronic illness;female-headed";Shelter
+FM-000370;2025-04-04;Torkham;Pakistan;Herat;Documented;6;6;0;3;"disability;female-headed";Shelter
+FM-000371;2025-04-04;Islam Qala;Iran;Herat;Deportee;4;1;3;1;chronic illness;Transport
+FM-000372;2025-04-04;Spin Boldak;Pakistan;Nangarhar;Undocumented;4;3;1;1;"female-headed;unaccompanied child";Transport
+FM-000373;2025-04-04;Spin Boldak;Iran;Nangarhar;Undocumented;7;0;7;2;"disability;unaccompanied child";Cash
+FM-000374;2025-04-05;Islam Qala;Pakistan;Nangarhar;Undocumented;1;1;0;1;none;Cash
+FM-000375;2025-04-05;Islam Qala;Iran;Kabul;Undocumented;3;1;2;1;female-headed;Shelter
+FM-000376;2025-04-05;Islam Qala;Iran;Balkh;Documented;2;0;2;0;unaccompanied child;Health
+FM-000377;2025-04-05;Spin Boldak;Pakistan;Kabul;Documented;5;4;1;1;"disability;unaccompanied child";Shelter
+FM-000378;2025-04-05;Torkham;Iran;Herat;Documented;6;2;4;3;female-headed;Shelter
+FM-000379;2025-04-05;Islam Qala;Iran;Nangarhar;Undocumented;3;0;3;0;unaccompanied child;Shelter
+FM-000380;2025-04-06;Torkham;Iran;Herat;Undocumented;3;3;0;1;disability;Food
+FM-000381;2025-04-06;Spin Boldak;Pakistan;Nangarhar;Undocumented;2;1;1;0;"female-headed;unaccompanied child";Transport
+FM-000382;2025-04-06;Spin Boldak;Iran;Kabul;Undocumented;7;1;6;0;unaccompanied child;Health
+FM-000383;2025-04-06;Islam Qala;Pakistan;Herat;Documented;1;0;1;0;"female-headed;unaccompanied child";Food
+FM-000384;2025-04-07;Torkham;Iran;Nangarhar;Documented;1;1;0;1;"disability;unaccompanied child";Transport
+FM-000385;2025-04-07;Islam Qala;Pakistan;Balkh;Deportee;6;2;4;1;female-headed;Cash
+FM-000386;2025-04-07;Islam Qala;Pakistan;Kabul;Undocumented;3;2;1;1;female-headed;Transport
+FM-000387;2025-04-07;Islam Qala;Iran;Nangarhar;Undocumented;1;1;0;1;unaccompanied child;Transport
+FM-000388;2025-04-08;Torkham;Pakistan;Kabul;Undocumented;7;2;5;2;"female-headed;none";Transport
+FM-000389;2025-04-08;Islam Qala;Pakistan;Herat;Undocumented;8;2;6;0;"disability;unaccompanied child";Transport
+FM-000390;2025-04-08;Torkham;Pakistan;Kabul;Undocumented;3;0;3;1;chronic illness;Cash
+FM-000391;2025-04-08;Torkham;Iran;Nangarhar;Deportee;2;1;1;1;female-headed;Food
+FM-000392;2025-04-09;Spin Boldak;Iran;Kabul;Documented;2;2;0;1;"female-headed;unaccompanied child";Cash
+FM-000393;2025-04-09;Islam Qala;Pakistan;Nangarhar;Documented;2;0;2;1;disability;Health
+FM-000394;2025-04-10;Torkham;Iran;Herat;Undocumented;7;3;4;3;none;Cash
+FM-000395;2025-04-10;Torkham;Iran;Balkh;Undocumented;4;4;0;2;female-headed;Food
+FM-000396;2025-04-10;Torkham;Pakistan;Herat;Documented;2;1;1;1;unaccompanied child;Health
+FM-000397;2025-04-10;Islam Qala;Pakistan;Kabul;Documented;2;0;2;0;unaccompanied child;Health
+FM-000398;2025-04-11;Islam Qala;Pakistan;Kabul;Documented;4;2;2;0;"chronic illness;female-headed";Transport
+FM-000399;2025-04-11;Islam Qala;Pakistan;Balkh;Undocumented;4;3;1;0;chronic illness;Food
+FM-000400;2025-04-11;Torkham;Pakistan;Herat;Deportee;2;0;2;0;"chronic illness;female-headed";Transport
+FM-000401;2025-04-11;Spin Boldak;Pakistan;Herat;Deportee;7;1;6;0;none;Health
+FM-000402;2025-04-12;Islam Qala;Iran;Herat;Deportee;2;1;1;0;none;Shelter
+FM-000403;2025-04-12;Torkham;Pakistan;Kabul;Deportee;6;2;4;1;unaccompanied child;Transport
+FM-000404;2025-04-12;Islam Qala;Iran;Kabul;Documented;1;1;0;0;"female-headed;none";Food
+FM-000405;2025-04-12;Islam Qala;Pakistan;Herat;Undocumented;6;4;2;2;"disability;unaccompanied child";Food
+FM-000406;2025-04-12;Spin Boldak;Iran;Balkh;Deportee;2;0;2;1;disability;Food
+FM-000407;2025-04-12;Torkham;Pakistan;Nangarhar;Documented;1;1;0;0;unaccompanied child;Transport
+FM-000408;2025-04-12;Islam Qala;Pakistan;Nangarhar;Undocumented;4;4;0;1;disability;Health
+FM-000409;2025-04-13;Islam Qala;Pakistan;Kabul;Undocumented;7;5;2;2;chronic illness;Food
+FM-000410;2025-04-13;Torkham;Pakistan;Kabul;Undocumented;8;5;3;4;"disability;none";Health
+FM-000411;2025-04-13;Islam Qala;Iran;Nangarhar;Documented;8;6;2;0;none;Food
+FM-000412;2025-04-13;Islam Qala;Pakistan;Balkh;Undocumented;5;2;3;2;none;Food
+FM-000413;2025-04-13;Spin Boldak;Pakistan;Balkh;Undocumented;2;1;1;0;disability;Cash
+FM-000414;2025-04-13;Torkham;Iran;Herat;Undocumented;6;1;5;1;"disability;female-headed";Shelter
+FM-000415;2025-04-13;Islam Qala;Iran;Balkh;Undocumented;1;0;1;1;disability;Health
+FM-000416;2025-04-14;Islam Qala;Pakistan;Kabul;Undocumented;1;1;0;1;female-headed;Transport
+FM-000417;2025-04-14;Torkham;Pakistan;Nangarhar;Undocumented;6;2;4;2;"chronic illness;none";Shelter
+FM-000418;2025-04-15;Spin Boldak;Iran;Nangarhar;Documented;7;1;6;0;disability;Health
+FM-000419;2025-04-15;Torkham;Pakistan;Kabul;Documented;8;0;8;3;"female-headed;none";Transport
+FM-000420;2025-04-15;Torkham;Pakistan;Herat;Documented;3;1;2;0;disability;Food
+FM-000421;2025-04-15;Islam Qala;Pakistan;Kabul;Undocumented;8;4;4;2;none;Cash
+FM-000422;2025-04-16;Torkham;Pakistan;Kabul;Documented;3;0;3;0;disability;Transport
+FM-000423;2025-04-16;Torkham;Pakistan;Balkh;Documented;8;8;0;1;"chronic illness;disability";Food
+FM-000424;2025-04-16;Torkham;Pakistan;Nangarhar;Documented;7;5;2;2;"chronic illness;none";Transport
+FM-000425;2025-04-16;Spin Boldak;Pakistan;Balkh;Documented;5;4;1;1;chronic illness;Cash
+FM-000426;2025-04-16;Islam Qala;Pakistan;Nangarhar;Documented;2;0;2;1;unaccompanied child;Cash
+FM-000427;2025-04-16;Torkham;Pakistan;Herat;Undocumented;2;1;1;1;"none;unaccompanied child";Shelter
+FM-000428;2025-04-17;Spin Boldak;Pakistan;Nangarhar;Deportee;3;2;1;0;female-headed;Health
+FM-000429;2025-04-17;Torkham;Pakistan;Balkh;Documented;6;2;4;0;unaccompanied child;Shelter
+FM-000430;2025-04-17;Torkham;Iran;Herat;Deportee;6;4;2;3;"chronic illness;female-headed";Food
+FM-000431;2025-04-17;Spin Boldak;Iran;Nangarhar;Documented;8;0;8;3;"chronic illness;unaccompanied child";Food
+FM-000432;2025-04-18;Islam Qala;Pakistan;Kabul;Documented;2;0;2;1;"disability;none";Food
+FM-000433;2025-04-18;Torkham;Iran;Herat;Undocumented;4;2;2;0;"disability;unaccompanied child";Transport
+FM-000434;2025-04-18;Islam Qala;Iran;Balkh;Documented;7;7;0;1;unaccompanied child;Cash
+FM-000435;2025-04-19;Torkham;Iran;Nangarhar;Documented;2;0;2;0;"chronic illness;unaccompanied child";Health
+FM-000436;2025-04-19;Islam Qala;Iran;Balkh;Deportee;6;1;5;1;disability;Shelter
+FM-000437;2025-04-19;Islam Qala;Iran;Nangarhar;Documented;7;5;2;2;"chronic illness;disability";Health
+FM-000438;2025-04-19;Islam Qala;Iran;Balkh;Undocumented;4;0;4;2;unaccompanied child;Shelter
+FM-000439;2025-04-20;Islam Qala;Pakistan;Herat;Deportee;2;2;0;1;"female-headed;unaccompanied child";Food
+FM-000440;2025-04-20;Torkham;Iran;Herat;Undocumented;1;1;0;1;unaccompanied child;Shelter
+FM-000441;2025-04-20;Torkham;Pakistan;Kabul;Deportee;5;2;3;0;disability;Shelter
+FM-000442;2025-04-20;Torkham;Pakistan;Nangarhar;Deportee;2;0;2;0;unaccompanied child;Food
+FM-000443;2025-04-21;Islam Qala;Iran;Balkh;Undocumented;2;0;2;1;"female-headed;unaccompanied child";Cash
+FM-000444;2025-04-21;Islam Qala;Pakistan;Herat;Deportee;5;1;4;1;"chronic illness;none";Transport
+FM-000445;2025-04-21;Islam Qala;Iran;Herat;Undocumented;2;0;2;1;unaccompanied child;Health
+FM-000446;2025-04-21;Islam Qala;Pakistan;Kabul;Documented;4;0;4;1;disability;Food
+FM-000447;2025-04-21;Torkham;Iran;Kabul;Undocumented;5;4;1;2;disability;Transport
+FM-000448;2025-04-21;Islam Qala;Pakistan;Balkh;Undocumented;1;1;0;1;none;Health
+FM-000449;2025-04-21;Torkham;Iran;Nangarhar;Undocumented;7;0;7;3;none;Transport
+FM-000450;2025-04-22;Spin Boldak;Pakistan;Kabul;Deportee;7;3;4;3;"disability;female-headed";Food
+FM-000451;2025-04-22;Spin Boldak;Iran;Kabul;Undocumented;8;4;4;2;chronic illness;Health
+FM-000452;2025-04-22;Spin Boldak;Iran;Kabul;Deportee;1;0;1;1;disability;Food
+FM-000453;2025-04-22;Islam Qala;Pakistan;Herat;Documented;5;3;2;2;"female-headed;unaccompanied child";Cash
+FM-000454;2025-04-22;Torkham;Pakistan;Kabul;Deportee;2;2;0;0;chronic illness;Cash
+FM-000455;2025-04-22;Torkham;Pakistan;Balkh;Undocumented;6;5;1;0;female-headed;Transport
+FM-000456;2025-04-23;Islam Qala;Pakistan;Nangarhar;Deportee;7;2;5;2;female-headed;Shelter
+FM-000457;2025-04-23;Islam Qala;Iran;Nangarhar;Documented;1;1;0;0;"chronic illness;female-headed";Health
+FM-000458;2025-04-23;Islam Qala;Pakistan;Nangarhar;Documented;8;6;2;2;"chronic illness;female-headed";Food
+FM-000459;2025-04-23;Torkham;Iran;Nangarhar;Documented;3;3;0;0;"none;unaccompanied child";Transport
+FM-000460;2025-04-24;Islam Qala;Iran;Kabul;Deportee;1;1;0;1;none;Food
+FM-000461;2025-04-24;Torkham;Iran;Balkh;Undocumented;6;1;5;2;none;Shelter
+FM-000462;2025-04-24;Torkham;Iran;Herat;Undocumented;8;8;0;1;"none;unaccompanied child";Shelter
+FM-000463;2025-04-24;Spin Boldak;Pakistan;Kabul;Documented;8;8;0;1;"disability;female-headed";Cash
+FM-000464;2025-04-24;Spin Boldak;Pakistan;Balkh;Deportee;4;1;3;2;unaccompanied child;Transport
+FM-000465;2025-04-25;Torkham;Pakistan;Nangarhar;Undocumented;8;0;8;4;none;Food
+FM-000466;2025-04-25;Islam Qala;Iran;Kabul;Documented;6;6;0;1;unaccompanied child;Shelter
+FM-000467;2025-04-26;Islam Qala;Iran;Balkh;Undocumented;4;0;4;0;female-headed;Shelter
+FM-000468;2025-04-26;Islam Qala;Pakistan;Nangarhar;Documented;1;1;0;1;unaccompanied child;Shelter
+FM-000469;2025-04-27;Islam Qala;Iran;Nangarhar;Undocumented;7;2;5;0;female-headed;Food
+FM-000470;2025-04-28;Islam Qala;Pakistan;Herat;Deportee;3;1;2;0;unaccompanied child;Food
+FM-000471;2025-04-28;Torkham;Pakistan;Herat;Documented;8;5;3;0;"female-headed;unaccompanied child";Cash
+FM-000472;2025-04-28;Torkham;Iran;Nangarhar;Undocumented;4;3;1;1;"chronic illness;female-headed";Cash
+FM-000473;2025-04-28;Torkham;Pakistan;Kabul;Deportee;7;1;6;0;"none;unaccompanied child";Shelter
+FM-000474;2025-04-28;Islam Qala;Iran;Balkh;Deportee;1;0;1;1;chronic illness;Cash
+FM-000475;2025-04-28;Torkham;Iran;Herat;Documented;8;2;6;2;none;Shelter
+FM-000476;2025-04-29;Torkham;Iran;Herat;Documented;6;5;1;3;none;Health
+FM-000477;2025-04-29;Islam Qala;Pakistan;Nangarhar;Deportee;3;3;0;0;disability;Health
+FM-000478;2025-04-29;Torkham;Iran;Herat;Deportee;8;8;0;2;unaccompanied child;Food
+FM-000479;2025-04-29;Torkham;Pakistan;Kabul;Undocumented;3;1;2;0;none;Food
+FM-000480;2025-04-29;Islam Qala;Pakistan;Herat;Undocumented;8;1;7;2;disability;Cash
+FM-000481;2025-04-29;Islam Qala;Pakistan;Nangarhar;Documented;1;1;0;0;disability;Health
+FM-000482;2025-04-30;Islam Qala;Pakistan;Nangarhar;Deportee;1;0;1;1;"chronic illness;unaccompanied child";Transport
+FM-000483;2025-04-30;Torkham;Iran;Kabul;Undocumented;3;3;0;0;"disability;unaccompanied child";Transport
+FM-000484;2025-04-30;Islam Qala;Iran;Kabul;Documented;7;6;1;3;"chronic illness;disability";Health
+FM-000485;2025-04-30;Islam Qala;Pakistan;Herat;Undocumented;7;6;1;0;female-headed;Transport
+FM-000486;2025-04-30;Spin Boldak;Iran;Nangarhar;Deportee;2;0;2;0;"chronic illness;female-headed";Cash
+FM-000487;2025-04-30;Islam Qala;Pakistan;Balkh;Undocumented;6;0;6;3;chronic illness;Health
+FM-000488;2025-05-01;Islam Qala;Iran;Nangarhar;Documented;6;4;2;2;female-headed;Transport
+FM-000489;2025-05-01;Torkham;Iran;Herat;Deportee;2;1;1;0;"chronic illness;female-headed";Cash
+FM-000490;2025-05-01;Spin Boldak;Iran;Nangarhar;Undocumented;3;0;3;0;"none;unaccompanied child";Transport
+FM-000491;2025-05-02;Islam Qala;Iran;Nangarhar;Undocumented;1;0;1;0;disability;Cash
+FM-000492;2025-05-02;Islam Qala;Iran;Herat;Undocumented;6;4;2;1;female-headed;Transport
+FM-000493;2025-05-02;Islam Qala;Pakistan;Herat;Documented;1;1;0;1;"female-headed;none";Shelter
+FM-000494;2025-05-02;Islam Qala;Iran;Herat;Deportee;5;4;1;2;disability;Shelter
+FM-000495;2025-05-02;Torkham;Pakistan;Balkh;Documented;8;3;5;0;"disability;unaccompanied child";Transport
+FM-000496;2025-05-03;Torkham;Pakistan;Herat;Undocumented;7;5;2;1;female-headed;Transport
+FM-000497;2025-05-03;Torkham;Pakistan;Balkh;Documented;2;1;1;1;disability;Cash
+FM-000498;2025-05-03;Islam Qala;Pakistan;Nangarhar;Deportee;2;1;1;0;"female-headed;unaccompanied child";Health
+FM-000499;2025-05-03;Islam Qala;Iran;Herat;Undocumented;7;7;0;2;"chronic illness;none";Shelter
+FM-000500;2025-05-04;Islam Qala;Iran;Balkh;Documented;4;4;0;2;unaccompanied child;Health
+FM-000501;2025-05-04;Torkham;Iran;Balkh;Documented;6;2;4;1;chronic illness;Cash
+FM-000502;2025-05-04;Islam Qala;Pakistan;Herat;Undocumented;4;2;2;0;chronic illness;Food
+FM-000503;2025-05-04;Torkham;Iran;Nangarhar;Undocumented;6;0;6;3;unaccompanied child;Cash
+FM-000504;2025-05-04;Islam Qala;Pakistan;Balkh;Deportee;7;0;7;3;unaccompanied child;Shelter
+FM-000505;2025-05-04;Torkham;Iran;Herat;Undocumented;2;1;1;0;"disability;unaccompanied child";Food
+FM-000506;2025-05-05;Islam Qala;Iran;Herat;Undocumented;3;3;0;1;"chronic illness;none";Health
+FM-000507;2025-05-05;Islam Qala;Pakistan;Herat;Deportee;5;4;1;2;"chronic illness;disability";Cash
+FM-000508;2025-05-05;Torkham;Iran;Herat;Undocumented;8;6;2;1;disability;Cash
+FM-000509;2025-05-05;Spin Boldak;Pakistan;Kabul;Undocumented;7;6;1;0;"disability;none";Health
+FM-000510;2025-05-06;Islam Qala;Iran;Herat;Deportee;6;3;3;1;"chronic illness;none";Food
+FM-000511;2025-05-06;Islam Qala;Iran;Herat;Undocumented;6;1;5;0;disability;Shelter
+FM-000512;2025-05-06;Islam Qala;Pakistan;Balkh;Documented;3;0;3;1;female-headed;Health
+FM-000513;2025-05-06;Spin Boldak;Iran;Kabul;Deportee;5;4;1;0;disability;Cash
+FM-000514;2025-05-07;Islam Qala;Iran;Herat;Deportee;4;0;4;0;"chronic illness;none";Health
+FM-000515;2025-05-07;Torkham;Iran;Nangarhar;Documented;6;2;4;2;disability;Shelter
+FM-000516;2025-05-07;Islam Qala;Iran;Kabul;Deportee;2;1;1;1;"disability;none";Health
+FM-000517;2025-05-07;Spin Boldak;Iran;Herat;Undocumented;7;0;7;3;"chronic illness;disability";Food
+FM-000518;2025-05-07;Islam Qala;Iran;Herat;Undocumented;3;0;3;1;"chronic illness;disability";Cash
+FM-000519;2025-05-08;Islam Qala;Pakistan;Nangarhar;Deportee;8;1;7;1;"disability;none";Food
+FM-000520;2025-05-08;Torkham;Iran;Kabul;Undocumented;6;5;1;2;disability;Transport
+FM-000521;2025-05-08;Torkham;Pakistan;Herat;Deportee;6;3;3;0;"none;unaccompanied child";Shelter
+FM-000522;2025-05-08;Spin Boldak;Pakistan;Nangarhar;Documented;1;1;0;0;"disability;female-headed";Food
+FM-000523;2025-05-08;Islam Qala;Iran;Nangarhar;Undocumented;1;0;1;1;none;Transport
+FM-000524;2025-05-08;Spin Boldak;Pakistan;Balkh;Undocumented;8;1;7;1;"disability;none";Cash
+FM-000525;2025-05-08;Torkham;Pakistan;Kabul;Undocumented;3;2;1;0;female-headed;Cash
+FM-000526;2025-05-08;Islam Qala;Pakistan;Nangarhar;Undocumented;6;6;0;3;"disability;female-headed";Food
+FM-000527;2025-05-08;Torkham;Iran;Herat;Undocumented;7;1;6;3;"disability;female-headed";Shelter
+FM-000528;2025-05-08;Torkham;Pakistan;Herat;Documented;7;2;5;3;"disability;female-headed";Shelter
+FM-000529;2025-05-08;Islam Qala;Pakistan;Herat;Undocumented;6;4;2;1;female-headed;Shelter
+FM-000530;2025-05-08;Islam Qala;Iran;Balkh;Deportee;8;5;3;0;chronic illness;Transport
+FM-000531;2025-05-09;Islam Qala;Pakistan;Herat;Undocumented;6;5;1;0;"chronic illness;female-headed";Health
+FM-000532;2025-05-09;Torkham;Pakistan;Nangarhar;Deportee;5;2;3;0;female-headed;Food
+FM-000533;2025-05-09;Torkham;Iran;Herat;Documented;8;2;6;3;"chronic illness;unaccompanied child";Transport
+FM-000534;2025-05-09;Spin Boldak;Iran;Balkh;Undocumented;1;0;1;0;chronic illness;Shelter
+FM-000535;2025-05-09;Torkham;Pakistan;Herat;Documented;7;5;2;2;female-headed;Shelter
+FM-000536;2025-05-09;Islam Qala;Pakistan;Kabul;Undocumented;2;2;0;1;none;Transport
+FM-000537;2025-05-10;Islam Qala;Iran;Kabul;Undocumented;5;5;0;2;disability;Shelter
+FM-000538;2025-05-10;Islam Qala;Pakistan;Nangarhar;Undocumented;1;0;1;0;none;Transport
+FM-000539;2025-05-10;Spin Boldak;Iran;Herat;Undocumented;3;1;2;1;"disability;none";Transport
+FM-000540;2025-05-10;Spin Boldak;Iran;Balkh;Deportee;8;3;5;2;female-headed;Transport
+FM-000541;2025-05-11;Spin Boldak;Pakistan;Herat;Undocumented;8;6;2;1;"female-headed;unaccompanied child";Food
+FM-000542;2025-05-11;Islam Qala;Pakistan;Kabul;Undocumented;4;0;4;1;unaccompanied child;Health
+FM-000543;2025-05-11;Torkham;Iran;Herat;Documented;8;1;7;1;unaccompanied child;Shelter
+FM-000544;2025-05-11;Torkham;Pakistan;Nangarhar;Deportee;6;5;1;2;none;Transport
+FM-000545;2025-05-11;Islam Qala;Iran;Kabul;Deportee;2;2;0;0;"disability;unaccompanied child";Food
+FM-000546;2025-05-12;Torkham;Pakistan;Balkh;Deportee;7;4;3;1;disability;Cash
+FM-000547;2025-05-12;Islam Qala;Iran;Herat;Documented;2;2;0;0;chronic illness;Food
+FM-000548;2025-05-12;Spin Boldak;Iran;Kabul;Deportee;4;3;1;0;unaccompanied child;Food
+FM-000549;2025-05-12;Torkham;Iran;Kabul;Documented;3;2;1;1;"chronic illness;none";Shelter
+FM-000550;2025-05-13;Spin Boldak;Iran;Nangarhar;Undocumented;8;0;8;1;disability;Food
+FM-000551;2025-05-13;Islam Qala;Iran;Nangarhar;Documented;8;7;1;3;none;Shelter
+FM-000552;2025-05-13;Spin Boldak;Iran;Kabul;Undocumented;6;6;0;0;none;Cash
+FM-000553;2025-05-13;Torkham;Iran;Kabul;Documented;7;6;1;1;disability;Food
+FM-000554;2025-05-13;Torkham;Iran;Kabul;Undocumented;3;3;0;1;chronic illness;Shelter
+FM-000555;2025-05-14;Islam Qala;Pakistan;Nangarhar;Undocumented;8;5;3;3;"disability;unaccompanied child";Cash
+FM-000556;2025-05-14;Islam Qala;Pakistan;Nangarhar;Deportee;5;0;5;2;"chronic illness;none";Cash
+FM-000557;2025-05-14;Spin Boldak;Pakistan;Balkh;Deportee;1;0;1;1;"chronic illness;none";Transport
+FM-000558;2025-05-14;Spin Boldak;Iran;Kabul;Deportee;7;6;1;2;"disability;none";Cash
+FM-000559;2025-05-14;Islam Qala;Pakistan;Herat;Documented;6;3;3;1;female-headed;Health
+FM-000560;2025-05-15;Islam Qala;Iran;Nangarhar;Documented;4;2;2;1;"chronic illness;none";Food
+FM-000561;2025-05-15;Torkham;Iran;Herat;Undocumented;2;0;2;1;"chronic illness;disability";Shelter
+FM-000562;2025-05-15;Torkham;Iran;Balkh;Documented;2;2;0;1;disability;Food
+FM-000563;2025-05-15;Spin Boldak;Iran;Herat;Undocumented;7;4;3;3;female-headed;Health
+FM-000564;2025-05-16;Islam Qala;Iran;Herat;Undocumented;5;0;5;0;"chronic illness;unaccompanied child";Cash
+FM-000565;2025-05-16;Islam Qala;Iran;Herat;Documented;7;4;3;2;none;Transport
+FM-000566;2025-05-16;Spin Boldak;Pakistan;Kabul;Documented;8;6;2;4;"disability;female-headed";Transport
+FM-000567;2025-05-16;Islam Qala;Iran;Balkh;Undocumented;8;0;8;4;"chronic illness;female-headed";Transport
+FM-000568;2025-05-17;Torkham;Pakistan;Balkh;Documented;4;0;4;0;"chronic illness;disability";Transport
+FM-000569;2025-05-17;Islam Qala;Pakistan;Kabul;Deportee;7;1;6;0;unaccompanied child;Health
+FM-000570;2025-05-17;Islam Qala;Pakistan;Herat;Documented;6;2;4;0;"disability;unaccompanied child";Food
+FM-000571;2025-05-17;Torkham;Pakistan;Kabul;Undocumented;7;5;2;1;disability;Health
+FM-000572;2025-05-17;Islam Qala;Pakistan;Nangarhar;Deportee;3;3;0;1;female-headed;Transport
+FM-000573;2025-05-17;Torkham;Pakistan;Herat;Undocumented;3;3;0;1;disability;Health
+FM-000574;2025-05-17;Islam Qala;Iran;Herat;Undocumented;5;3;2;0;"none;unaccompanied child";Transport
+FM-000575;2025-05-17;Islam Qala;Pakistan;Kabul;Deportee;6;6;0;3;unaccompanied child;Health
+FM-000576;2025-05-17;Torkham;Pakistan;Balkh;Undocumented;5;0;5;2;"none;unaccompanied child";Food
+FM-000577;2025-05-17;Torkham;Pakistan;Nangarhar;Documented;5;5;0;1;disability;Cash
+FM-000578;2025-05-18;Spin Boldak;Iran;Herat;Undocumented;1;1;0;1;chronic illness;Food
+FM-000579;2025-05-18;Islam Qala;Iran;Kabul;Undocumented;4;4;0;0;"chronic illness;unaccompanied child";Food
+FM-000580;2025-05-19;Islam Qala;Iran;Herat;Deportee;1;1;0;1;none;Transport
+FM-000581;2025-05-19;Islam Qala;Pakistan;Balkh;Undocumented;6;3;3;0;"none;unaccompanied child";Shelter
+FM-000582;2025-05-19;Spin Boldak;Pakistan;Nangarhar;Undocumented;8;5;3;0;female-headed;Health
+FM-000583;2025-05-20;Islam Qala;Pakistan;Herat;Undocumented;1;1;0;0;"chronic illness;none";Shelter
+FM-000584;2025-05-20;Islam Qala;Iran;Nangarhar;Documented;2;0;2;1;"chronic illness;none";Shelter
+FM-000585;2025-05-20;Islam Qala;Pakistan;Nangarhar;Undocumented;2;2;0;1;chronic illness;Shelter
+FM-000586;2025-05-21;Islam Qala;Iran;Balkh;Documented;5;4;1;2;none;Transport
+FM-000587;2025-05-21;Torkham;Iran;Herat;Documented;1;0;1;0;female-headed;Transport
+FM-000588;2025-05-21;Torkham;Iran;Kabul;Deportee;6;6;0;1;"chronic illness;disability";Health
+FM-000589;2025-05-21;Islam Qala;Pakistan;Herat;Documented;8;3;5;0;female-headed;Cash
+FM-000590;2025-05-22;Torkham;Iran;Kabul;Deportee;6;1;5;1;chronic illness;Health
+FM-000591;2025-05-22;Spin Boldak;Iran;Balkh;Undocumented;1;0;1;0;"chronic illness;female-headed";Food
+FM-000592;2025-05-22;Islam Qala;Iran;Kabul;Documented;4;1;3;2;"chronic illness;unaccompanied child";Food
+FM-000593;2025-05-22;Islam Qala;Iran;Nangarhar;Undocumented;7;0;7;2;"chronic illness;unaccompanied child";Cash
+FM-000594;2025-05-23;Islam Qala;Pakistan;Herat;Undocumented;2;2;0;1;unaccompanied child;Food
+FM-000595;2025-05-23;Spin Boldak;Iran;Nangarhar;Undocumented;1;1;0;0;none;Food
+FM-000596;2025-05-23;Torkham;Pakistan;Kabul;Undocumented;8;2;6;3;"female-headed;unaccompanied child";Transport
+FM-000597;2025-05-23;Torkham;Pakistan;Kabul;Documented;3;0;3;0;none;Cash
+FM-000598;2025-05-23;Islam Qala;Pakistan;Nangarhar;Deportee;6;4;2;0;disability;Transport
+FM-000599;2025-05-23;Islam Qala;Iran;Nangarhar;Documented;2;0;2;0;chronic illness;Health
+FM-000600;2025-05-23;Islam Qala;Iran;Kabul;Deportee;8;6;2;2;"none;unaccompanied child";Cash
+FM-000601;2025-05-23;Islam Qala;Iran;Kabul;Documented;1;1;0;1;"female-headed;none";Cash
+FM-000602;2025-05-24;Torkham;Pakistan;Kabul;Undocumented;4;4;0;0;disability;Shelter
+FM-000603;2025-05-24;Torkham;Iran;Kabul;Deportee;8;3;5;2;unaccompanied child;Health
+FM-000604;2025-05-25;Spin Boldak;Iran;Kabul;Deportee;6;3;3;0;"chronic illness;unaccompanied child";Shelter
+FM-000605;2025-05-25;Islam Qala;Pakistan;Kabul;Undocumented;7;2;5;3;"female-headed;none";Shelter
+FM-000606;2025-05-25;Torkham;Pakistan;Balkh;Deportee;8;5;3;2;"chronic illness;unaccompanied child";Transport
+FM-000607;2025-05-25;Spin Boldak;Pakistan;Balkh;Undocumented;1;1;0;1;unaccompanied child;Food
+FM-000608;2025-05-25;Torkham;Pakistan;Kabul;Deportee;2;2;0;0;unaccompanied child;Transport
+FM-000609;2025-05-25;Islam Qala;Iran;Herat;Undocumented;1;0;1;0;none;Health
+FM-000610;2025-05-26;Torkham;Pakistan;Balkh;Undocumented;7;0;7;2;female-headed;Shelter
+FM-000611;2025-05-26;Islam Qala;Iran;Balkh;Undocumented;2;2;0;1;none;Cash
+FM-000612;2025-05-26;Spin Boldak;Iran;Kabul;Undocumented;3;3;0;0;disability;Cash
+FM-000613;2025-05-26;Islam Qala;Pakistan;Herat;Undocumented;6;4;2;0;"chronic illness;disability";Health
+FM-000614;2025-05-26;Torkham;Iran;Nangarhar;Undocumented;5;4;1;0;"none;unaccompanied child";Shelter
+FM-000615;2025-05-26;Torkham;Pakistan;Kabul;Deportee;6;1;5;2;"female-headed;none";Shelter
+FM-000616;2025-05-26;Islam Qala;Iran;Nangarhar;Undocumented;1;0;1;0;"disability;unaccompanied child";Shelter
+FM-000617;2025-05-26;Islam Qala;Iran;Kabul;Undocumented;4;4;0;1;none;Shelter
+FM-000618;2025-05-27;Torkham;Iran;Kabul;Undocumented;5;1;4;0;none;Shelter
+FM-000619;2025-05-27;Islam Qala;Pakistan;Herat;Documented;5;1;4;2;chronic illness;Health
+FM-000620;2025-05-28;Islam Qala;Pakistan;Kabul;Undocumented;3;3;0;1;"chronic illness;disability";Cash
+FM-000621;2025-05-28;Torkham;Pakistan;Kabul;Undocumented;1;0;1;1;disability;Health
+FM-000622;2025-05-28;Torkham;Pakistan;Herat;Documented;1;0;1;1;"disability;none";Health
+FM-000623;2025-05-28;Islam Qala;Pakistan;Nangarhar;Documented;4;0;4;1;"disability;female-headed";Health
+FM-000624;2025-05-29;Islam Qala;Iran;Kabul;Undocumented;4;4;0;2;chronic illness;Cash
+FM-000625;2025-05-29;Islam Qala;Iran;Balkh;Documented;4;0;4;0;"chronic illness;female-headed";Transport
+FM-000626;2025-05-29;Torkham;Iran;Herat;Undocumented;8;1;7;2;"disability;female-headed";Shelter
+FM-000627;2025-05-29;Islam Qala;Iran;Balkh;Undocumented;8;1;7;3;none;Health
+FM-000628;2025-05-29;Spin Boldak;Iran;Kabul;Undocumented;7;2;5;0;"chronic illness;female-headed";Health
+FM-000629;2025-05-29;Spin Boldak;Iran;Kabul;Undocumented;2;1;1;1;"none;unaccompanied child";Health
+FM-000630;2025-05-29;Islam Qala;Iran;Kabul;Undocumented;1;0;1;0;none;Health
+FM-000631;2025-05-29;Torkham;Iran;Nangarhar;Undocumented;5;2;3;2;none;Transport
+FM-000632;2025-05-30;Spin Boldak;Pakistan;Kabul;Undocumented;4;0;4;0;disability;Food
+FM-000633;2025-05-30;Islam Qala;Pakistan;Kabul;Deportee;2;2;0;0;unaccompanied child;Cash
+FM-000634;2025-05-30;Islam Qala;Pakistan;Kabul;Undocumented;4;4;0;0;"female-headed;unaccompanied child";Transport
+FM-000635;2025-05-31;Torkham;Iran;Nangarhar;Undocumented;7;2;5;3;unaccompanied child;Food
+FM-000636;2025-05-31;Islam Qala;Pakistan;Kabul;Deportee;5;5;0;2;"female-headed;unaccompanied child";Cash
+FM-000637;2025-05-31;Torkham;Iran;Kabul;Documented;7;3;4;2;"female-headed;unaccompanied child";Health
+FM-000638;2025-05-31;Spin Boldak;Iran;Kabul;Documented;6;1;5;0;chronic illness;Shelter
+FM-000639;2025-06-01;Torkham;Pakistan;Balkh;Undocumented;4;1;3;2;chronic illness;Food
+FM-000640;2025-06-01;Torkham;Iran;Kabul;Undocumented;6;3;3;0;unaccompanied child;Food
+FM-000641;2025-06-01;Spin Boldak;Iran;Kabul;Undocumented;7;0;7;1;none;Health
+FM-000642;2025-06-01;Torkham;Pakistan;Kabul;Deportee;8;0;8;0;"chronic illness;unaccompanied child";Cash
+FM-000643;2025-06-02;Torkham;Pakistan;Kabul;Deportee;5;5;0;1;female-headed;Cash
+FM-000644;2025-06-02;Islam Qala;Iran;Kabul;Documented;3;0;3;1;"disability;none";Cash
+FM-000645;2025-06-02;Islam Qala;Iran;Nangarhar;Documented;5;1;4;1;chronic illness;Shelter
+FM-000646;2025-06-04;Torkham;Iran;Kabul;Documented;4;1;3;1;female-headed;Transport
+FM-000647;2025-06-04;Torkham;Iran;Herat;Deportee;8;5;3;1;unaccompanied child;Health
+FM-000648;2025-06-04;Islam Qala;Iran;Nangarhar;Undocumented;1;0;1;1;"disability;female-headed";Transport
+FM-000649;2025-06-04;Islam Qala;Iran;Herat;Undocumented;6;4;2;3;unaccompanied child;Cash
+FM-000650;2025-06-04;Spin Boldak;Iran;Nangarhar;Deportee;8;5;3;0;"none;unaccompanied child";Transport
+FM-000651;2025-06-04;Spin Boldak;Pakistan;Herat;Documented;1;0;1;1;disability;Cash
+FM-000652;2025-06-05;Islam Qala;Iran;Kabul;Documented;6;5;1;1;unaccompanied child;Transport
+FM-000653;2025-06-05;Spin Boldak;Iran;Herat;Undocumented;1;0;1;0;"chronic illness;disability";Transport
+FM-000654;2025-06-05;Islam Qala;Pakistan;Kabul;Deportee;8;0;8;1;disability;Cash
+FM-000655;2025-06-05;Torkham;Iran;Nangarhar;Documented;8;2;6;1;"female-headed;none";Cash
+FM-000656;2025-06-05;Torkham;Pakistan;Herat;Undocumented;8;5;3;4;none;Shelter
+FM-000657;2025-06-05;Torkham;Pakistan;Herat;Undocumented;2;0;2;1;female-headed;Health
+FM-000658;2025-06-05;Torkham;Pakistan;Kabul;Documented;1;1;0;0;chronic illness;Cash
+FM-000659;2025-06-05;Islam Qala;Iran;Balkh;Undocumented;8;3;5;1;"chronic illness;none";Cash
+FM-000660;2025-06-05;Islam Qala;Iran;Nangarhar;Deportee;4;4;0;2;unaccompanied child;Cash
+FM-000661;2025-06-06;Islam Qala;Iran;Herat;Undocumented;2;2;0;0;female-headed;Cash
+FM-000662;2025-06-06;Islam Qala;Pakistan;Herat;Documented;1;1;0;1;none;Health
+FM-000663;2025-06-06;Spin Boldak;Iran;Herat;Undocumented;3;2;1;1;"disability;unaccompanied child";Transport
+FM-000664;2025-06-06;Spin Boldak;Pakistan;Kabul;Documented;6;6;0;1;unaccompanied child;Shelter
+FM-000665;2025-06-06;Torkham;Iran;Kabul;Documented;8;2;6;4;chronic illness;Shelter
+FM-000666;2025-06-06;Torkham;Iran;Nangarhar;Documented;2;0;2;1;female-headed;Shelter
+FM-000667;2025-06-07;Torkham;Iran;Kabul;Documented;7;1;6;3;"chronic illness;none";Transport
+FM-000668;2025-06-07;Torkham;Iran;Herat;Undocumented;7;7;0;2;disability;Shelter
+FM-000669;2025-06-07;Spin Boldak;Iran;Balkh;Undocumented;5;0;5;2;"chronic illness;unaccompanied child";Food
+FM-000670;2025-06-08;Islam Qala;Pakistan;Nangarhar;Deportee;4;2;2;1;"female-headed;none";Food
+FM-000671;2025-06-09;Islam Qala;Pakistan;Nangarhar;Undocumented;4;3;1;1;"female-headed;none";Transport
+FM-000672;2025-06-09;Torkham;Pakistan;Kabul;Deportee;4;4;0;0;none;Cash
+FM-000673;2025-06-09;Spin Boldak;Iran;Balkh;Documented;8;7;1;4;disability;Shelter
+FM-000674;2025-06-10;Islam Qala;Iran;Kabul;Undocumented;2;2;0;0;"chronic illness;female-headed";Transport
+FM-000675;2025-06-10;Spin Boldak;Iran;Herat;Undocumented;6;6;0;2;female-headed;Food
+FM-000676;2025-06-10;Spin Boldak;Pakistan;Balkh;Undocumented;5;2;3;0;unaccompanied child;Cash
+FM-000677;2025-06-11;Islam Qala;Iran;Herat;Deportee;3;1;2;0;"disability;female-headed";Shelter
+FM-000678;2025-06-11;Islam Qala;Iran;Kabul;Undocumented;7;3;4;3;unaccompanied child;Health
+FM-000679;2025-06-12;Spin Boldak;Pakistan;Balkh;Undocumented;2;0;2;0;none;Health
+FM-000680;2025-06-12;Islam Qala;Pakistan;Nangarhar;Undocumented;5;3;2;2;"disability;unaccompanied child";Health
+FM-000681;2025-06-12;Islam Qala;Pakistan;Nangarhar;Undocumented;2;1;1;1;none;Cash
+FM-000682;2025-06-12;Spin Boldak;Pakistan;Herat;Undocumented;4;0;4;0;"chronic illness;disability";Shelter
+FM-000683;2025-06-12;Islam Qala;Iran;Herat;Undocumented;2;1;1;1;"disability;female-headed";Transport
+FM-000684;2025-06-12;Torkham;Pakistan;Herat;Deportee;3;3;0;0;"disability;female-headed";Food
+FM-000685;2025-06-12;Spin Boldak;Pakistan;Kabul;Undocumented;5;4;1;1;"chronic illness;female-headed";Health
+FM-000686;2025-06-12;Torkham;Pakistan;Kabul;Deportee;4;0;4;1;"disability;unaccompanied child";Cash
+FM-000687;2025-06-13;Islam Qala;Iran;Herat;Undocumented;3;0;3;0;disability;Cash
+FM-000688;2025-06-13;Torkham;Pakistan;Herat;Deportee;3;3;0;1;chronic illness;Transport
+FM-000689;2025-06-13;Islam Qala;Iran;Kabul;Deportee;7;4;3;2;female-headed;Health
+FM-000690;2025-06-14;Spin Boldak;Pakistan;Herat;Deportee;6;5;1;0;"chronic illness;female-headed";Transport
+FM-000691;2025-06-15;Torkham;Iran;Balkh;Undocumented;3;0;3;0;none;Cash
+FM-000692;2025-06-15;Islam Qala;Pakistan;Herat;Undocumented;6;3;3;2;none;Shelter
+FM-000693;2025-06-16;Islam Qala;Iran;Herat;Undocumented;3;2;1;0;unaccompanied child;Health
+FM-000694;2025-06-16;Islam Qala;Iran;Balkh;Documented;6;0;6;3;unaccompanied child;Shelter
+FM-000695;2025-06-16;Islam Qala;Iran;Nangarhar;Documented;3;1;2;1;chronic illness;Shelter
+FM-000696;2025-06-16;Spin Boldak;Pakistan;Nangarhar;Documented;6;2;4;2;"none;unaccompanied child";Food
+FM-000697;2025-06-18;Islam Qala;Pakistan;Herat;Undocumented;6;6;0;2;female-headed;Shelter
+FM-000698;2025-06-18;Torkham;Iran;Kabul;Documented;7;6;1;2;chronic illness;Cash
+FM-000699;2025-06-18;Spin Boldak;Iran;Herat;Documented;3;2;1;1;chronic illness;Food
+FM-000700;2025-06-19;Torkham;Iran;Nangarhar;Undocumented;7;1;6;3;female-headed;Shelter
+FM-000701;2025-06-19;Torkham;Pakistan;Balkh;Documented;5;4;1;2;"disability;unaccompanied child";Transport
+FM-000702;2025-06-20;Torkham;Iran;Herat;Undocumented;1;1;0;0;"disability;female-headed";Shelter
+FM-000703;2025-06-20;Islam Qala;Iran;Balkh;Undocumented;2;0;2;1;"disability;female-headed";Shelter
+FM-000704;2025-06-20;Torkham;Pakistan;Balkh;Deportee;7;6;1;0;unaccompanied child;Cash
+FM-000705;2025-06-20;Torkham;Iran;Kabul;Undocumented;6;6;0;1;"chronic illness;disability";Shelter
+FM-000706;2025-06-20;Islam Qala;Iran;Balkh;Deportee;4;1;3;1;unaccompanied child;Transport
+FM-000707;2025-06-21;Islam Qala;Iran;Balkh;Undocumented;1;1;0;0;"disability;unaccompanied child";Cash
+FM-000708;2025-06-21;Torkham;Iran;Nangarhar;Documented;7;6;1;1;female-headed;Cash
+FM-000709;2025-06-22;Islam Qala;Pakistan;Nangarhar;Deportee;3;3;0;1;"chronic illness;female-headed";Food
+FM-000710;2025-06-22;Islam Qala;Iran;Kabul;Documented;5;1;4;1;disability;Cash
+FM-000711;2025-06-22;Torkham;Iran;Herat;Documented;1;0;1;0;none;Shelter
+FM-000712;2025-06-22;Torkham;Iran;Kabul;Undocumented;1;1;0;1;unaccompanied child;Food
+FM-000713;2025-06-23;Spin Boldak;Iran;Balkh;Undocumented;2;2;0;1;none;Health
+FM-000714;2025-06-23;Spin Boldak;Iran;Nangarhar;Documented;3;2;1;0;"disability;unaccompanied child";Health
+FM-000715;2025-06-23;Torkham;Pakistan;Balkh;Deportee;8;7;1;4;female-headed;Food
+FM-000716;2025-06-23;Torkham;Iran;Herat;Undocumented;2;1;1;0;female-headed;Food
+FM-000717;2025-06-23;Spin Boldak;Iran;Herat;Deportee;1;0;1;1;disability;Cash
+FM-000718;2025-06-24;Torkham;Iran;Herat;Undocumented;2;2;0;1;disability;Transport
+FM-000719;2025-06-25;Islam Qala;Pakistan;Herat;Deportee;1;0;1;1;"chronic illness;unaccompanied child";Transport
+FM-000720;2025-06-25;Islam Qala;Pakistan;Nangarhar;Undocumented;1;0;1;0;none;Transport
+FM-000721;2025-06-25;Islam Qala;Iran;Kabul;Undocumented;3;0;3;0;"chronic illness;female-headed";Shelter
+FM-000722;2025-06-26;Spin Boldak;Iran;Kabul;Undocumented;3;2;1;0;"chronic illness;disability";Cash
+FM-000723;2025-06-26;Islam Qala;Pakistan;Kabul;Undocumented;2;0;2;0;"disability;unaccompanied child";Cash
+FM-000724;2025-06-26;Torkham;Iran;Kabul;Documented;1;0;1;1;"none;unaccompanied child";Shelter
+FM-000725;2025-06-27;Spin Boldak;Iran;Kabul;Deportee;5;3;2;0;none;Shelter
+FM-000726;2025-06-27;Spin Boldak;Iran;Balkh;Undocumented;3;1;2;1;chronic illness;Cash
+FM-000727;2025-06-27;Torkham;Pakistan;Herat;Documented;6;0;6;1;"chronic illness;female-headed";Food
+FM-000728;2025-06-27;Spin Boldak;Iran;Nangarhar;Undocumented;4;4;0;0;"disability;none";Food
+FM-000729;2025-06-28;Islam Qala;Pakistan;Kabul;Undocumented;1;1;0;1;"chronic illness;none";Shelter
+FM-000730;2025-06-28;Islam Qala;Pakistan;Herat;Undocumented;6;0;6;2;disability;Transport
+FM-000731;2025-06-28;Torkham;Iran;Nangarhar;Undocumented;7;0;7;1;female-headed;Transport
+FM-000732;2025-06-28;Islam Qala;Pakistan;Balkh;Documented;5;3;2;0;"disability;none";Shelter
+FM-000733;2025-06-28;Islam Qala;Pakistan;Herat;Undocumented;8;4;4;0;chronic illness;Transport
+FM-000734;2025-06-28;Islam Qala;Pakistan;Kabul;Undocumented;2;0;2;0;"disability;female-headed";Transport
+FM-000735;2025-06-29;Islam Qala;Iran;Kabul;Deportee;1;0;1;1;"disability;female-headed";Food
+FM-000736;2025-06-30;Islam Qala;Pakistan;Balkh;Documented;4;1;3;0;disability;Shelter
+FM-000737;2025-06-30;Islam Qala;Iran;Kabul;Documented;1;1;0;0;disability;Cash
+FM-000738;2025-07-01;Spin Boldak;Pakistan;Herat;Undocumented;3;0;3;1;none;Food
+FM-000739;2025-07-01;Torkham;Iran;Herat;Deportee;2;2;0;0;"disability;female-headed";Health
+FM-000740;2025-07-01;Islam Qala;Iran;Herat;Undocumented;2;0;2;0;chronic illness;Health
+FM-000741;2025-07-01;Islam Qala;Pakistan;Kabul;Documented;8;5;3;2;"disability;none";Cash
+FM-000742;2025-07-01;Torkham;Iran;Nangarhar;Documented;1;1;0;0;"none;unaccompanied child";Health
+FM-000743;2025-07-01;Islam Qala;Iran;Nangarhar;Undocumented;8;3;5;2;disability;Food
+FM-000744;2025-07-01;Islam Qala;Iran;Nangarhar;Undocumented;2;1;1;1;"disability;none";Cash
+FM-000745;2025-07-02;Islam Qala;Pakistan;Nangarhar;Deportee;2;2;0;0;unaccompanied child;Shelter
+FM-000746;2025-07-02;Torkham;Pakistan;Nangarhar;Undocumented;8;8;0;3;none;Food
+FM-000747;2025-07-03;Islam Qala;Pakistan;Kabul;Documented;6;3;3;1;"disability;none";Shelter
+FM-000748;2025-07-04;Islam Qala;Pakistan;Nangarhar;Undocumented;1;1;0;1;"chronic illness;female-headed";Cash
+FM-000749;2025-07-04;Torkham;Pakistan;Kabul;Documented;8;5;3;0;female-headed;Shelter
+FM-000750;2025-07-04;Islam Qala;Iran;Nangarhar;Undocumented;8;0;8;0;chronic illness;Shelter
+FM-000751;2025-07-04;Spin Boldak;Iran;Balkh;Documented;4;3;1;1;"none;unaccompanied child";Food
+FM-000752;2025-07-04;Torkham;Pakistan;Nangarhar;Deportee;7;7;0;1;none;Food
+FM-000753;2025-07-04;Torkham;Iran;Nangarhar;Documented;3;2;1;0;disability;Transport
+FM-000754;2025-07-04;Torkham;Pakistan;Balkh;Undocumented;7;1;6;1;none;Cash
+FM-000755;2025-07-04;Spin Boldak;Pakistan;Herat;Documented;1;1;0;1;"none;unaccompanied child";Transport
+FM-000756;2025-07-05;Spin Boldak;Pakistan;Kabul;Deportee;6;3;3;3;female-headed;Shelter
+FM-000757;2025-07-05;Islam Qala;Pakistan;Kabul;Undocumented;1;0;1;1;"disability;female-headed";Transport
+FM-000758;2025-07-06;Torkham;Iran;Nangarhar;Documented;1;1;0;1;"chronic illness;unaccompanied child";Shelter
+FM-000759;2025-07-06;Torkham;Pakistan;Herat;Documented;3;1;2;1;"chronic illness;none";Food
+FM-000760;2025-07-07;Islam Qala;Pakistan;Kabul;Deportee;3;1;2;0;"chronic illness;female-headed";Transport
+FM-000761;2025-07-07;Islam Qala;Iran;Kabul;Documented;5;5;0;0;"female-headed;none";Food
+FM-000762;2025-07-07;Torkham;Iran;Balkh;Documented;3;3;0;1;chronic illness;Health
+FM-000763;2025-07-07;Spin Boldak;Iran;Nangarhar;Documented;8;1;7;0;"chronic illness;unaccompanied child";Cash
+FM-000764;2025-07-07;Islam Qala;Pakistan;Nangarhar;Documented;3;3;0;0;unaccompanied child;Food
+FM-000765;2025-07-07;Torkham;Pakistan;Herat;Undocumented;8;4;4;3;"chronic illness;none";Cash
+FM-000766;2025-07-08;Torkham;Iran;Kabul;Deportee;8;5;3;2;"female-headed;unaccompanied child";Transport
+FM-000767;2025-07-08;Islam Qala;Pakistan;Herat;Deportee;3;1;2;0;unaccompanied child;Food
+FM-000768;2025-07-09;Islam Qala;Pakistan;Balkh;Documented;1;0;1;0;disability;Food
+FM-000769;2025-07-09;Torkham;Iran;Kabul;Documented;3;3;0;0;disability;Food
+FM-000770;2025-07-09;Islam Qala;Iran;Kabul;Documented;4;3;1;1;"chronic illness;female-headed";Cash
+FM-000771;2025-07-09;Islam Qala;Pakistan;Balkh;Deportee;1;1;0;0;"female-headed;unaccompanied child";Shelter
+FM-000772;2025-07-09;Islam Qala;Iran;Nangarhar;Documented;3;1;2;0;chronic illness;Cash
+FM-000773;2025-07-09;Torkham;Pakistan;Herat;Deportee;7;6;1;3;disability;Cash
+FM-000774;2025-07-09;Spin Boldak;Iran;Herat;Deportee;5;5;0;2;female-headed;Cash
+FM-000775;2025-07-10;Islam Qala;Pakistan;Herat;Undocumented;2;1;1;0;"chronic illness;female-headed";Cash
+FM-000776;2025-07-10;Torkham;Pakistan;Balkh;Undocumented;3;1;2;1;"disability;female-headed";Transport
+FM-000777;2025-07-10;Islam Qala;Iran;Herat;Undocumented;7;6;1;3;disability;Cash
+FM-000778;2025-07-10;Spin Boldak;Pakistan;Herat;Documented;3;2;1;0;unaccompanied child;Health
+FM-000779;2025-07-10;Torkham;Pakistan;Kabul;Undocumented;6;1;5;3;female-headed;Shelter
+FM-000780;2025-07-10;Torkham;Iran;Kabul;Undocumented;3;2;1;1;"female-headed;unaccompanied child";Food
+FM-000781;2025-07-11;Islam Qala;Iran;Nangarhar;Undocumented;3;1;2;1;none;Food
+FM-000782;2025-07-11;Islam Qala;Pakistan;Nangarhar;Undocumented;3;0;3;0;unaccompanied child;Food
+FM-000783;2025-07-11;Torkham;Pakistan;Nangarhar;Documented;5;1;4;0;disability;Cash
+FM-000784;2025-07-12;Torkham;Iran;Nangarhar;Deportee;8;7;1;2;unaccompanied child;Shelter
+FM-000785;2025-07-12;Islam Qala;Iran;Kabul;Undocumented;2;1;1;0;"disability;unaccompanied child";Cash
+FM-000786;2025-07-13;Spin Boldak;Pakistan;Kabul;Undocumented;1;1;0;0;"chronic illness;none";Shelter
+FM-000787;2025-07-13;Torkham;Pakistan;Kabul;Undocumented;1;0;1;1;chronic illness;Transport
+FM-000788;2025-07-14;Torkham;Iran;Herat;Deportee;3;1;2;0;disability;Cash
+FM-000789;2025-07-14;Torkham;Pakistan;Herat;Documented;1;0;1;0;"disability;none";Transport
+FM-000790;2025-07-14;Islam Qala;Iran;Kabul;Documented;8;2;6;4;"disability;none";Cash
+FM-000791;2025-07-15;Torkham;Iran;Herat;Documented;3;2;1;1;female-headed;Food
+FM-000792;2025-07-15;Islam Qala;Pakistan;Nangarhar;Deportee;8;6;2;3;female-headed;Shelter
+FM-000793;2025-07-16;Spin Boldak;Pakistan;Herat;Undocumented;4;4;0;1;"none;unaccompanied child";Transport
+FM-000794;2025-07-16;Islam Qala;Pakistan;Herat;Undocumented;6;6;0;3;"chronic illness;disability";Transport
+FM-000795;2025-07-16;Islam Qala;Iran;Herat;Documented;8;5;3;4;none;Shelter
+FM-000796;2025-07-16;Torkham;Iran;Kabul;Deportee;2;1;1;1;unaccompanied child;Shelter
+FM-000797;2025-07-17;Islam Qala;Pakistan;Nangarhar;Undocumented;3;1;2;1;disability;Shelter
+FM-000798;2025-07-17;Torkham;Iran;Kabul;Undocumented;2;0;2;1;unaccompanied child;Shelter
+FM-000799;2025-07-17;Islam Qala;Iran;Balkh;Deportee;3;0;3;1;"disability;none";Shelter
+FM-000800;2025-07-19;Spin Boldak;Iran;Balkh;Documented;2;1;1;0;chronic illness;Cash
+FM-000801;2025-07-20;Islam Qala;Pakistan;Herat;Deportee;3;0;3;0;unaccompanied child;Transport
+FM-000802;2025-07-21;Spin Boldak;Iran;Herat;Documented;4;1;3;1;none;Health
+FM-000803;2025-07-21;Torkham;Iran;Nangarhar;Undocumented;8;8;0;2;female-headed;Food
+FM-000804;2025-07-22;Spin Boldak;Iran;Kabul;Undocumented;4;0;4;0;unaccompanied child;Cash
+FM-000805;2025-07-22;Islam Qala;Pakistan;Balkh;Undocumented;5;0;5;1;"disability;female-headed";Health
+FM-000806;2025-07-22;Islam Qala;Pakistan;Balkh;Documented;4;2;2;0;none;Health
+FM-000807;2025-07-23;Islam Qala;Iran;Herat;Undocumented;2;2;0;0;"disability;none";Cash
+FM-000808;2025-07-23;Islam Qala;Iran;Kabul;Deportee;4;3;1;0;"none;unaccompanied child";Cash
+FM-000809;2025-07-23;Spin Boldak;Pakistan;Nangarhar;Documented;7;1;6;2;female-headed;Shelter
+FM-000810;2025-07-23;Torkham;Iran;Herat;Deportee;4;3;1;0;female-headed;Transport
+FM-000811;2025-07-23;Islam Qala;Iran;Kabul;Documented;3;1;2;1;disability;Cash
+FM-000812;2025-07-24;Torkham;Pakistan;Balkh;Documented;2;2;0;0;none;Shelter
+FM-000813;2025-07-24;Islam Qala;Pakistan;Balkh;Documented;5;5;0;1;"disability;none";Food
+FM-000814;2025-07-24;Islam Qala;Iran;Herat;Undocumented;3;3;0;1;"chronic illness;female-headed";Cash
+FM-000815;2025-07-25;Torkham;Iran;Nangarhar;Documented;1;1;0;1;female-headed;Cash
+FM-000816;2025-07-26;Islam Qala;Iran;Balkh;Undocumented;1;1;0;1;chronic illness;Health
+FM-000817;2025-07-26;Islam Qala;Iran;Herat;Deportee;7;2;5;2;female-headed;Food
+FM-000818;2025-07-26;Torkham;Pakistan;Kabul;Deportee;1;1;0;1;unaccompanied child;Shelter
+FM-000819;2025-07-26;Spin Boldak;Pakistan;Balkh;Documented;4;3;1;0;unaccompanied child;Food
+FM-000820;2025-07-26;Torkham;Iran;Kabul;Undocumented;7;4;3;0;unaccompanied child;Transport
+FM-000821;2025-07-27;Islam Qala;Iran;Kabul;Undocumented;2;0;2;1;chronic illness;Cash
+FM-000822;2025-07-27;Torkham;Pakistan;Herat;Documented;7;1;6;3;chronic illness;Health
+FM-000823;2025-07-27;Torkham;Iran;Kabul;Documented;7;7;0;0;"chronic illness;disability";Food
+FM-000824;2025-07-28;Torkham;Pakistan;Balkh;Undocumented;2;1;1;1;none;Transport
+FM-000825;2025-07-28;Islam Qala;Iran;Balkh;Undocumented;5;5;0;0;female-headed;Food
+FM-000826;2025-07-29;Spin Boldak;Iran;Kabul;Undocumented;3;2;1;0;chronic illness;Transport
+FM-000827;2025-07-29;Spin Boldak;Pakistan;Nangarhar;Deportee;4;2;2;2;female-headed;Cash
+FM-000828;2025-07-30;Islam Qala;Pakistan;Herat;Undocumented;7;2;5;2;"chronic illness;female-headed";Food
+FM-000829;2025-07-31;Torkham;Pakistan;Nangarhar;Documented;6;0;6;1;"female-headed;none";Health
+FM-000830;2025-08-01;Torkham;Pakistan;Balkh;Deportee;6;1;5;1;female-headed;Cash
+FM-000831;2025-08-01;Spin Boldak;Iran;Herat;Undocumented;5;0;5;1;unaccompanied child;Cash
+FM-000832;2025-08-01;Islam Qala;Pakistan;Nangarhar;Deportee;1;1;0;0;chronic illness;Cash
+FM-000833;2025-08-02;Islam Qala;Pakistan;Kabul;Undocumented;5;3;2;2;unaccompanied child;Food
+FM-000834;2025-08-02;Torkham;Pakistan;Herat;Undocumented;6;1;5;0;"disability;unaccompanied child";Shelter
+FM-000835;2025-08-03;Torkham;Pakistan;Kabul;Undocumented;2;0;2;0;"none;unaccompanied child";Food
+FM-000836;2025-08-04;Islam Qala;Iran;Herat;Undocumented;8;3;5;1;"disability;none";Food
+FM-000837;2025-08-04;Islam Qala;Iran;Balkh;Undocumented;6;3;3;2;chronic illness;Transport
+FM-000838;2025-08-05;Torkham;Iran;Herat;Documented;2;1;1;0;none;Health
+FM-000839;2025-08-06;Spin Boldak;Pakistan;Nangarhar;Undocumented;4;3;1;2;none;Food
+FM-000840;2025-08-06;Islam Qala;Pakistan;Balkh;Undocumented;8;2;6;4;unaccompanied child;Transport
+FM-000841;2025-08-07;Islam Qala;Iran;Kabul;Undocumented;5;0;5;0;female-headed;Food
+FM-000842;2025-08-08;Torkham;Iran;Herat;Deportee;2;2;0;1;"disability;unaccompanied child";Transport
+FM-000843;2025-08-09;Spin Boldak;Iran;Nangarhar;Documented;1;1;0;1;female-headed;Food
+FM-000844;2025-08-09;Spin Boldak;Iran;Nangarhar;Documented;4;0;4;0;"none;unaccompanied child";Transport
+FM-000845;2025-08-09;Islam Qala;Pakistan;Kabul;Documented;7;4;3;3;chronic illness;Shelter
+FM-000846;2025-08-09;Torkham;Iran;Balkh;Documented;6;2;4;2;disability;Cash
+FM-000847;2025-08-09;Islam Qala;Pakistan;Kabul;Documented;7;4;3;3;"chronic illness;female-headed";Health
+FM-000848;2025-08-09;Islam Qala;Iran;Herat;Documented;5;4;1;2;"chronic illness;disability";Health
+FM-000849;2025-08-10;Torkham;Pakistan;Kabul;Undocumented;7;5;2;2;"disability;female-headed";Transport
+FM-000850;2025-08-10;Islam Qala;Iran;Herat;Undocumented;2;2;0;0;unaccompanied child;Health
+FM-000851;2025-08-10;Torkham;Pakistan;Nangarhar;Deportee;2;1;1;0;"chronic illness;none";Health
+FM-000852;2025-08-12;Islam Qala;Iran;Nangarhar;Undocumented;6;5;1;1;"disability;none";Food
+FM-000853;2025-08-12;Islam Qala;Pakistan;Nangarhar;Undocumented;7;7;0;0;"chronic illness;unaccompanied child";Shelter
+FM-000854;2025-08-13;Torkham;Pakistan;Balkh;Undocumented;4;4;0;2;disability;Cash
+FM-000855;2025-08-14;Torkham;Iran;Herat;Undocumented;5;4;1;2;female-headed;Transport
+FM-000856;2025-08-15;Islam Qala;Pakistan;Herat;Documented;3;0;3;0;chronic illness;Cash
+FM-000857;2025-08-15;Islam Qala;Pakistan;Kabul;Documented;7;3;4;2;"chronic illness;unaccompanied child";Health
+FM-000858;2025-08-16;Islam Qala;Pakistan;Herat;Undocumented;5;1;4;2;"chronic illness;female-headed";Transport
+FM-000859;2025-08-16;Islam Qala;Iran;Kabul;Undocumented;2;2;0;0;"female-headed;unaccompanied child";Health
+FM-000860;2025-08-16;Torkham;Iran;Balkh;Deportee;1;0;1;0;"female-headed;unaccompanied child";Food
+FM-000861;2025-08-18;Torkham;Pakistan;Kabul;Deportee;2;0;2;0;female-headed;Cash
+FM-000862;2025-08-18;Islam Qala;Iran;Nangarhar;Deportee;4;2;2;0;"chronic illness;female-headed";Transport
+FM-000863;2025-08-19;Islam Qala;Pakistan;Kabul;Undocumented;8;2;6;4;"chronic illness;none";Food
+FM-000864;2025-08-19;Islam Qala;Pakistan;Herat;Documented;3;0;3;1;"chronic illness;unaccompanied child";Shelter
+FM-000865;2025-08-20;Torkham;Iran;Herat;Deportee;8;5;3;1;"chronic illness;disability";Transport
+FM-000866;2025-08-20;Islam Qala;Iran;Nangarhar;Documented;6;1;5;3;"chronic illness;unaccompanied child";Shelter
+FM-000867;2025-08-21;Torkham;Pakistan;Nangarhar;Undocumented;1;1;0;0;female-headed;Shelter
+FM-000868;2025-08-22;Islam Qala;Pakistan;Nangarhar;Deportee;2;0;2;0;"none;unaccompanied child";Shelter
+FM-000869;2025-08-22;Spin Boldak;Iran;Herat;Undocumented;5;1;4;2;disability;Transport
+FM-000870;2025-08-22;Islam Qala;Iran;Herat;Deportee;1;0;1;0;none;Cash
+FM-000871;2025-08-22;Islam Qala;Iran;Nangarhar;Documented;6;2;4;3;"chronic illness;unaccompanied child";Shelter
+FM-000872;2025-08-22;Torkham;Pakistan;Balkh;Undocumented;6;2;4;0;none;Cash
+FM-000873;2025-08-23;Islam Qala;Iran;Nangarhar;Undocumented;1;0;1;0;"disability;none";Shelter
+FM-000874;2025-08-23;Spin Boldak;Iran;Nangarhar;Documented;8;3;5;0;"disability;unaccompanied child";Shelter
+FM-000875;2025-08-23;Torkham;Pakistan;Herat;Undocumented;5;0;5;1;"chronic illness;female-headed";Shelter
+FM-000876;2025-08-23;Islam Qala;Iran;Kabul;Deportee;6;4;2;0;none;Transport
+FM-000877;2025-08-24;Islam Qala;Iran;Kabul;Documented;6;4;2;2;female-headed;Shelter
+FM-000878;2025-08-24;Islam Qala;Iran;Kabul;Documented;3;0;3;1;chronic illness;Health
+FM-000879;2025-08-25;Torkham;Pakistan;Kabul;Documented;4;4;0;0;unaccompanied child;Shelter
+FM-000880;2025-08-26;Torkham;Pakistan;Balkh;Deportee;5;5;0;2;"female-headed;none";Shelter
+FM-000881;2025-08-26;Islam Qala;Iran;Herat;Undocumented;5;4;1;2;"disability;unaccompanied child";Food
+FM-000882;2025-08-26;Islam Qala;Iran;Herat;Documented;1;0;1;1;chronic illness;Food
+FM-000883;2025-08-27;Islam Qala;Pakistan;Herat;Documented;7;2;5;0;"disability;unaccompanied child";Cash
+FM-000884;2025-08-28;Islam Qala;Pakistan;Kabul;Documented;8;3;5;4;"disability;none";Food
+FM-000885;2025-08-28;Islam Qala;Iran;Kabul;Undocumented;5;0;5;2;"chronic illness;unaccompanied child";Food
+FM-000886;2025-08-28;Torkham;Pakistan;Herat;Documented;7;2;5;1;"female-headed;unaccompanied child";Shelter
+FM-000887;2025-08-29;Islam Qala;Pakistan;Herat;Undocumented;3;3;0;0;unaccompanied child;Cash
+FM-000888;2025-08-29;Torkham;Pakistan;Herat;Undocumented;7;6;1;3;"disability;none";Cash
+FM-000889;2025-08-31;Spin Boldak;Iran;Balkh;Undocumented;2;1;1;1;none;Transport
+FM-000890;2025-08-31;Spin Boldak;Pakistan;Nangarhar;Documented;6;6;0;0;disability;Shelter
+FM-000891;2025-09-01;Islam Qala;Iran;Herat;Undocumented;7;7;0;3;disability;Transport
+FM-000892;2025-09-01;Torkham;Iran;Nangarhar;Deportee;4;4;0;1;"disability;unaccompanied child";Cash
+FM-000893;2025-09-01;Torkham;Pakistan;Kabul;Documented;3;0;3;0;"female-headed;none";Shelter
+FM-000894;2025-09-03;Torkham;Pakistan;Herat;Undocumented;5;5;0;2;none;Transport
+FM-000895;2025-09-03;Islam Qala;Iran;Kabul;Documented;1;1;0;0;"none;unaccompanied child";Shelter
+FM-000896;2025-09-04;Islam Qala;Iran;Nangarhar;Documented;1;1;0;0;chronic illness;Cash
+FM-000897;2025-09-04;Spin Boldak;Iran;Balkh;Documented;1;1;0;0;none;Shelter
+FM-000898;2025-09-07;Torkham;Pakistan;Herat;Undocumented;1;1;0;1;disability;Transport
+FM-000899;2025-09-07;Islam Qala;Pakistan;Nangarhar;Documented;7;0;7;3;"chronic illness;disability";Food
+FM-000900;2025-09-08;Islam Qala;Pakistan;Herat;Undocumented;1;0;1;1;unaccompanied child;Transport
+FM-000901;2025-09-08;Torkham;Iran;Nangarhar;Undocumented;3;0;3;1;unaccompanied child;Health
+FM-000902;2025-09-08;Torkham;Iran;Nangarhar;Deportee;1;1;0;0;"chronic illness;none";Health
+FM-000903;2025-09-08;Islam Qala;Iran;Herat;Documented;7;0;7;2;disability;Food
+FM-000904;2025-09-10;Islam Qala;Iran;Balkh;Deportee;3;1;2;0;"chronic illness;unaccompanied child";Shelter
+FM-000905;2025-09-11;Torkham;Iran;Nangarhar;Documented;5;2;3;0;unaccompanied child;Cash
+FM-000906;2025-09-11;Islam Qala;Iran;Nangarhar;Undocumented;2;2;0;1;"disability;none";Health
+FM-000907;2025-09-11;Spin Boldak;Iran;Nangarhar;Deportee;8;6;2;4;disability;Food
+FM-000908;2025-09-12;Torkham;Iran;Kabul;Undocumented;3;0;3;1;disability;Cash
+FM-000909;2025-09-12;Islam Qala;Iran;Nangarhar;Documented;4;1;3;2;"female-headed;unaccompanied child";Shelter
+FM-000910;2025-09-13;Islam Qala;Pakistan;Nangarhar;Undocumented;6;4;2;0;female-headed;Shelter
+FM-000911;2025-09-13;Spin Boldak;Iran;Balkh;Undocumented;1;0;1;1;"disability;unaccompanied child";Transport
+FM-000912;2025-09-15;Spin Boldak;Iran;Herat;Undocumented;5;0;5;1;unaccompanied child;Food
+FM-000913;2025-09-15;Spin Boldak;Pakistan;Kabul;Deportee;4;1;3;2;disability;Food
+FM-000914;2025-09-16;Islam Qala;Iran;Herat;Documented;2;0;2;0;disability;Cash
+FM-000915;2025-09-16;Islam Qala;Iran;Kabul;Undocumented;5;5;0;2;"chronic illness;none";Cash
+FM-000916;2025-09-16;Islam Qala;Iran;Kabul;Documented;6;6;0;1;female-headed;Cash
+FM-000917;2025-09-16;Islam Qala;Pakistan;Herat;Undocumented;8;5;3;1;"chronic illness;unaccompanied child";Transport
+FM-000918;2025-09-18;Torkham;Pakistan;Kabul;Deportee;5;1;4;1;"female-headed;none";Cash
+FM-000919;2025-09-19;Spin Boldak;Iran;Herat;Deportee;4;3;1;2;female-headed;Health
+FM-000920;2025-09-19;Torkham;Iran;Balkh;Undocumented;7;5;2;0;"disability;female-headed";Cash
+FM-000921;2025-09-20;Torkham;Iran;Kabul;Documented;5;0;5;0;chronic illness;Shelter
+FM-000922;2025-09-20;Islam Qala;Iran;Balkh;Undocumented;1;1;0;0;"chronic illness;none";Cash
+FM-000923;2025-09-21;Torkham;Pakistan;Balkh;Documented;6;2;4;0;"disability;unaccompanied child";Cash
+FM-000924;2025-09-22;Islam Qala;Pakistan;Herat;Undocumented;6;0;6;2;female-headed;Food
+FM-000925;2025-09-22;Torkham;Pakistan;Kabul;Undocumented;3;2;1;1;female-headed;Food
+FM-000926;2025-09-22;Torkham;Iran;Nangarhar;Undocumented;3;1;2;1;female-headed;Transport
+FM-000927;2025-09-23;Islam Qala;Pakistan;Herat;Undocumented;6;0;6;1;"female-headed;none";Health
+FM-000928;2025-09-23;Islam Qala;Pakistan;Herat;Undocumented;1;0;1;0;female-headed;Health
+FM-000929;2025-09-25;Islam Qala;Iran;Nangarhar;Documented;8;4;4;3;"chronic illness;female-headed";Shelter
+FM-000930;2025-09-25;Islam Qala;Pakistan;Kabul;Documented;4;0;4;2;disability;Health
+FM-000931;2025-09-27;Islam Qala;Pakistan;Kabul;Deportee;4;1;3;0;female-headed;Transport
+FM-000932;2025-09-28;Islam Qala;Pakistan;Nangarhar;Undocumented;3;3;0;0;chronic illness;Transport
+FM-000933;2025-09-29;Islam Qala;Iran;Kabul;Documented;1;0;1;0;"disability;none";Transport
+FM-000934;2025-09-29;Islam Qala;Iran;Balkh;Documented;8;1;7;4;unaccompanied child;Shelter
+FM-000935;2025-09-29;Torkham;Iran;Herat;Documented;3;2;1;1;"chronic illness;none";Transport
+FM-000936;2025-10-01;Spin Boldak;Pakistan;Herat;Deportee;4;2;2;2;"disability;unaccompanied child";Cash
+FM-000937;2025-10-02;Spin Boldak;Iran;Kabul;Deportee;1;0;1;0;unaccompanied child;Cash
+FM-000938;2025-10-02;Spin Boldak;Iran;Nangarhar;Deportee;2;0;2;1;disability;Shelter
+FM-000939;2025-10-04;Islam Qala;Pakistan;Herat;Undocumented;2;2;0;0;"disability;none";Food
+FM-000940;2025-10-04;Torkham;Iran;Nangarhar;Undocumented;5;2;3;2;chronic illness;Food
+FM-000941;2025-10-04;Torkham;Iran;Balkh;Undocumented;8;1;7;1;chronic illness;Transport
+FM-000942;2025-10-04;Islam Qala;Iran;Herat;Deportee;3;2;1;0;"chronic illness;disability";Food
+FM-000943;2025-10-06;Spin Boldak;Pakistan;Balkh;Deportee;8;8;0;4;none;Cash
+FM-000944;2025-10-07;Torkham;Pakistan;Kabul;Deportee;1;1;0;0;none;Food
+FM-000945;2025-10-08;Torkham;Iran;Kabul;Documented;8;5;3;0;unaccompanied child;Food
+FM-000946;2025-10-08;Islam Qala;Pakistan;Kabul;Undocumented;5;5;0;2;"female-headed;none";Cash
+FM-000947;2025-10-08;Spin Boldak;Pakistan;Balkh;Deportee;7;6;1;3;none;Cash
+FM-000948;2025-10-09;Islam Qala;Pakistan;Nangarhar;Undocumented;7;0;7;0;chronic illness;Health
+FM-000949;2025-10-09;Islam Qala;Iran;Kabul;Undocumented;2;2;0;0;female-headed;Cash
+FM-000950;2025-10-11;Islam Qala;Iran;Herat;Undocumented;8;8;0;4;"disability;unaccompanied child";Shelter
+FM-000951;2025-10-11;Islam Qala;Pakistan;Nangarhar;Documented;7;1;6;3;none;Transport
+FM-000952;2025-10-12;Torkham;Iran;Kabul;Documented;4;1;3;2;"chronic illness;none";Shelter
+FM-000953;2025-10-12;Torkham;Iran;Nangarhar;Documented;2;2;0;1;"disability;female-headed";Shelter
+FM-000954;2025-10-13;Torkham;Iran;Balkh;Undocumented;5;0;5;1;"chronic illness;disability";Cash
+FM-000955;2025-10-13;Islam Qala;Iran;Kabul;Undocumented;4;4;0;0;"none;unaccompanied child";Cash
+FM-000956;2025-10-14;Islam Qala;Iran;Balkh;Documented;3;1;2;0;unaccompanied child;Transport
+FM-000957;2025-10-14;Islam Qala;Pakistan;Herat;Deportee;8;6;2;3;"female-headed;none";Food
+FM-000958;2025-10-15;Islam Qala;Pakistan;Kabul;Deportee;5;4;1;0;none;Shelter
+FM-000959;2025-10-16;Torkham;Pakistan;Kabul;Deportee;5;2;3;1;"disability;none";Health
+FM-000960;2025-10-17;Islam Qala;Iran;Nangarhar;Deportee;5;3;2;2;chronic illness;Transport
+FM-000961;2025-10-18;Islam Qala;Iran;Herat;Undocumented;8;1;7;0;unaccompanied child;Transport
+FM-000962;2025-10-18;Spin Boldak;Iran;Herat;Documented;5;5;0;2;"none;unaccompanied child";Shelter
+FM-000963;2025-10-19;Islam Qala;Iran;Nangarhar;Undocumented;7;6;1;3;"female-headed;none";Food
+FM-000964;2025-10-19;Islam Qala;Pakistan;Nangarhar;Undocumented;3;1;2;1;female-headed;Shelter
+FM-000965;2025-10-20;Torkham;Iran;Herat;Undocumented;7;5;2;0;disability;Food
+FM-000966;2025-10-20;Islam Qala;Pakistan;Nangarhar;Documented;3;2;1;0;unaccompanied child;Food
+FM-000967;2025-10-23;Islam Qala;Iran;Kabul;Undocumented;5;3;2;2;disability;Food
+FM-000968;2025-10-23;Spin Boldak;Pakistan;Herat;Undocumented;4;2;2;0;unaccompanied child;Cash
+FM-000969;2025-10-24;Torkham;Iran;Kabul;Documented;3;1;2;1;"chronic illness;female-headed";Cash
+FM-000970;2025-10-24;Islam Qala;Iran;Herat;Undocumented;7;6;1;1;female-headed;Transport
+FM-000971;2025-10-24;Torkham;Iran;Kabul;Undocumented;7;6;1;3;"chronic illness;disability";Food
+FM-000972;2025-10-25;Spin Boldak;Pakistan;Nangarhar;Undocumented;5;2;3;1;unaccompanied child;Health
+FM-000973;2025-10-27;Islam Qala;Pakistan;Balkh;Deportee;5;2;3;0;female-headed;Health
+FM-000974;2025-10-27;Spin Boldak;Iran;Herat;Documented;8;6;2;1;"disability;none";Health
+FM-000975;2025-10-28;Islam Qala;Iran;Herat;Undocumented;6;4;2;2;unaccompanied child;Shelter
+FM-000976;2025-10-31;Islam Qala;Iran;Nangarhar;Undocumented;8;6;2;4;chronic illness;Shelter
+FM-000977;2025-10-31;Torkham;Iran;Nangarhar;Documented;6;4;2;0;"disability;none";Food
+FM-000978;2025-11-01;Torkham;Pakistan;Kabul;Deportee;8;3;5;3;disability;Cash
+FM-000979;2025-11-01;Islam Qala;Pakistan;Kabul;Documented;3;2;1;1;"disability;unaccompanied child";Food
+FM-000980;2025-11-02;Torkham;Iran;Nangarhar;Deportee;5;0;5;1;"chronic illness;unaccompanied child";Health
+FM-000981;2025-11-03;Torkham;Pakistan;Nangarhar;Undocumented;4;3;1;0;"disability;female-headed";Shelter
+FM-000982;2025-11-03;Torkham;Pakistan;Nangarhar;Deportee;4;3;1;2;"none;unaccompanied child";Food
+FM-000983;2025-11-03;Spin Boldak;Iran;Kabul;Deportee;7;7;0;2;"disability;unaccompanied child";Health
+FM-000984;2025-11-04;Islam Qala;Pakistan;Herat;Undocumented;2;0;2;0;"none;unaccompanied child";Shelter
+FM-000985;2025-11-05;Spin Boldak;Pakistan;Balkh;Deportee;8;3;5;4;"chronic illness;female-headed";Shelter
+FM-000986;2025-11-05;Torkham;Pakistan;Herat;Deportee;4;0;4;2;"disability;female-headed";Health
+FM-000987;2025-11-05;Spin Boldak;Iran;Nangarhar;Deportee;3;1;2;1;female-headed;Food
+FM-000988;2025-11-06;Islam Qala;Pakistan;Balkh;Documented;7;1;6;1;"chronic illness;female-headed";Cash
+FM-000989;2025-11-06;Torkham;Iran;Herat;Undocumented;3;0;3;0;none;Shelter
+FM-000990;2025-11-07;Torkham;Iran;Herat;Deportee;6;3;3;0;chronic illness;Health
+FM-000991;2025-11-08;Torkham;Iran;Balkh;Documented;2;0;2;1;"disability;unaccompanied child";Shelter
+FM-000992;2025-11-08;Islam Qala;Iran;Balkh;Undocumented;2;0;2;1;none;Food
+FM-000993;2025-11-09;Torkham;Pakistan;Kabul;Undocumented;4;4;0;0;"none;unaccompanied child";Transport
+FM-000994;2025-11-09;Islam Qala;Iran;Kabul;Documented;3;0;3;1;"disability;female-headed";Health
+FM-000995;2025-11-12;Torkham;Pakistan;Balkh;Undocumented;1;1;0;1;female-headed;Shelter
+FM-000996;2025-11-13;Islam Qala;Iran;Balkh;Deportee;3;1;2;0;"chronic illness;none";Food
+FM-000997;2025-11-13;Islam Qala;Pakistan;Kabul;Documented;6;6;0;1;unaccompanied child;Cash
+FM-000998;2025-11-15;Islam Qala;Pakistan;Balkh;Deportee;8;8;0;3;none;Food
+FM-000999;2025-11-15;Islam Qala;Iran;Herat;Undocumented;5;0;5;2;"disability;unaccompanied child";Cash
+FM-001000;2025-11-15;Spin Boldak;Pakistan;Herat;Undocumented;2;2;0;0;"female-headed;unaccompanied child";Transport
+FM-001001;2025-11-15;Torkham;Pakistan;Kabul;Documented;8;2;6;1;unaccompanied child;Food
+FM-001002;2025-11-15;Torkham;Iran;Balkh;Undocumented;2;2;0;1;none;Cash
+FM-001003;2025-11-17;Torkham;Iran;Herat;Documented;6;3;3;1;chronic illness;Health
+FM-001004;2025-11-18;Islam Qala;Iran;Herat;Documented;4;3;1;2;chronic illness;Transport
+FM-001005;2025-11-18;Torkham;Iran;Herat;Undocumented;7;2;5;3;"disability;none";Health
+FM-001006;2025-11-18;Islam Qala;Iran;Herat;Undocumented;3;0;3;1;"chronic illness;female-headed";Transport
+FM-001007;2025-11-19;Islam Qala;Pakistan;Kabul;Undocumented;3;2;1;1;disability;Shelter
+FM-001008;2025-11-19;Islam Qala;Pakistan;Nangarhar;Documented;2;2;0;1;"chronic illness;none";Transport
+FM-001009;2025-11-19;Islam Qala;Iran;Herat;Undocumented;1;1;0;1;"female-headed;none";Food
+FM-001010;2025-11-20;Torkham;Pakistan;Kabul;Undocumented;5;5;0;1;none;Food
+FM-001011;2025-11-21;Islam Qala;Pakistan;Nangarhar;Undocumented;3;0;3;0;none;Transport
+FM-001012;2025-11-21;Torkham;Iran;Herat;Undocumented;8;0;8;3;chronic illness;Cash
+FM-001013;2025-11-21;Islam Qala;Pakistan;Balkh;Undocumented;8;5;3;2;"disability;none";Cash
+FM-001014;2025-11-22;Islam Qala;Iran;Balkh;Undocumented;8;3;5;0;disability;Health
+FM-001015;2025-11-22;Islam Qala;Pakistan;Kabul;Undocumented;6;1;5;0;unaccompanied child;Transport
+FM-001016;2025-11-22;Spin Boldak;Iran;Nangarhar;Deportee;5;2;3;2;disability;Health
+FM-001017;2025-11-22;Torkham;Iran;Herat;Deportee;2;2;0;0;chronic illness;Health
+FM-001018;2025-11-23;Islam Qala;Iran;Kabul;Documented;7;0;7;2;"chronic illness;none";Transport
+FM-001019;2025-11-24;Spin Boldak;Iran;Nangarhar;Undocumented;1;1;0;0;"female-headed;none";Cash
+FM-001020;2025-11-26;Islam Qala;Pakistan;Kabul;Deportee;7;6;1;2;chronic illness;Transport
+FM-001021;2025-11-26;Torkham;Iran;Herat;Undocumented;3;1;2;1;"female-headed;none";Shelter
+FM-001022;2025-11-27;Islam Qala;Pakistan;Balkh;Documented;8;6;2;2;unaccompanied child;Food
+FM-001023;2025-11-27;Spin Boldak;Pakistan;Herat;Undocumented;1;0;1;1;"disability;unaccompanied child";Cash
+FM-001024;2025-11-28;Spin Boldak;Iran;Herat;Documented;3;1;2;0;chronic illness;Health
+FM-001025;2025-11-28;Islam Qala;Iran;Kabul;Undocumented;4;1;3;2;none;Shelter
+FM-001026;2025-11-28;Torkham;Pakistan;Kabul;Deportee;1;0;1;0;"none;unaccompanied child";Food
+FM-001027;2025-11-29;Islam Qala;Iran;Kabul;Undocumented;2;1;1;1;female-headed;Cash
+FM-001028;2025-11-29;Spin Boldak;Iran;Kabul;Deportee;7;3;4;2;"female-headed;none";Food
+FM-001029;2025-11-30;Torkham;Iran;Kabul;Deportee;2;1;1;0;"none;unaccompanied child";Cash
+FM-001030;2025-11-30;Torkham;Pakistan;Kabul;Documented;3;1;2;0;disability;Transport
+FM-001031;2025-11-30;Islam Qala;Iran;Balkh;Undocumented;3;0;3;0;female-headed;Shelter
+FM-001032;2025-12-01;Islam Qala;Iran;Herat;Documented;2;2;0;0;none;Health
+FM-001033;2025-12-01;Islam Qala;Pakistan;Balkh;Documented;2;2;0;0;"chronic illness;unaccompanied child";Shelter
+FM-001034;2025-12-01;Torkham;Pakistan;Herat;Deportee;8;8;0;4;female-headed;Transport
+FM-001035;2025-12-01;Islam Qala;Pakistan;Herat;Deportee;6;0;6;2;unaccompanied child;Cash
+FM-001036;2025-12-01;Spin Boldak;Pakistan;Kabul;Deportee;4;3;1;1;female-headed;Food
+FM-001037;2025-12-01;Islam Qala;Iran;Balkh;Undocumented;6;6;0;1;female-headed;Shelter
+FM-001038;2025-12-02;Islam Qala;Pakistan;Herat;Undocumented;8;1;7;2;chronic illness;Cash
+FM-001039;2025-12-02;Torkham;Pakistan;Kabul;Documented;3;1;2;0;none;Cash
+FM-001040;2025-12-02;Torkham;Iran;Herat;Documented;1;0;1;0;chronic illness;Cash
+FM-001041;2025-12-02;Islam Qala;Iran;Herat;Deportee;5;4;1;1;disability;Shelter
+FM-001042;2025-12-03;Islam Qala;Pakistan;Balkh;Documented;8;2;6;1;disability;Health
+FM-001043;2025-12-03;Islam Qala;Pakistan;Kabul;Undocumented;3;3;0;1;"none;unaccompanied child";Health
+FM-001044;2025-12-04;Islam Qala;Iran;Nangarhar;Undocumented;8;2;6;1;unaccompanied child;Cash
+FM-001045;2025-12-04;Islam Qala;Iran;Balkh;Documented;4;0;4;0;disability;Cash
+FM-001046;2025-12-04;Islam Qala;Iran;Herat;Documented;8;1;7;1;"female-headed;unaccompanied child";Food
+FM-001047;2025-12-04;Torkham;Iran;Herat;Documented;3;0;3;0;"disability;female-headed";Shelter
+FM-001048;2025-12-04;Torkham;Pakistan;Kabul;Deportee;3;3;0;0;none;Transport
+FM-001049;2025-12-05;Islam Qala;Pakistan;Herat;Deportee;4;3;1;0;none;Shelter
+FM-001050;2025-12-05;Torkham;Iran;Kabul;Undocumented;2;0;2;0;"disability;female-headed";Cash
+FM-001051;2025-12-06;Torkham;Iran;Kabul;Documented;4;0;4;1;"disability;none";Shelter
+FM-001052;2025-12-06;Islam Qala;Iran;Kabul;Documented;8;0;8;3;"chronic illness;disability";Food
+FM-001053;2025-12-06;Islam Qala;Pakistan;Balkh;Deportee;1;1;0;1;"disability;none";Food
+FM-001054;2025-12-07;Islam Qala;Pakistan;Kabul;Documented;2;1;1;0;chronic illness;Food
+FM-001055;2025-12-08;Torkham;Iran;Nangarhar;Deportee;7;1;6;3;none;Shelter
+FM-001056;2025-12-08;Islam Qala;Pakistan;Herat;Documented;1;1;0;0;"chronic illness;disability";Health
+FM-001057;2025-12-08;Torkham;Iran;Nangarhar;Undocumented;1;1;0;1;disability;Health
+FM-001058;2025-12-09;Islam Qala;Pakistan;Kabul;Undocumented;8;2;6;0;"disability;unaccompanied child";Transport
+FM-001059;2025-12-10;Torkham;Pakistan;Herat;Undocumented;1;1;0;1;unaccompanied child;Health
+FM-001060;2025-12-10;Torkham;Iran;Herat;Documented;3;1;2;1;"disability;female-headed";Food
+FM-001061;2025-12-10;Torkham;Iran;Kabul;Documented;8;6;2;1;none;Shelter
+FM-001062;2025-12-12;Islam Qala;Iran;Kabul;Undocumented;7;3;4;2;unaccompanied child;Cash
+FM-001063;2025-12-12;Islam Qala;Pakistan;Herat;Documented;1;1;0;0;"chronic illness;none";Shelter
+FM-001064;2025-12-12;Islam Qala;Pakistan;Balkh;Deportee;5;2;3;1;chronic illness;Cash
+FM-001065;2025-12-12;Torkham;Iran;Kabul;Undocumented;5;0;5;0;"chronic illness;disability";Cash
+FM-001066;2025-12-13;Spin Boldak;Iran;Nangarhar;Undocumented;2;1;1;0;unaccompanied child;Food
+FM-001067;2025-12-13;Torkham;Pakistan;Nangarhar;Documented;2;2;0;0;"disability;none";Food
+FM-001068;2025-12-13;Islam Qala;Iran;Balkh;Undocumented;8;7;1;2;"none;unaccompanied child";Health
+FM-001069;2025-12-13;Islam Qala;Iran;Nangarhar;Deportee;2;2;0;0;"chronic illness;none";Food
+FM-001070;2025-12-14;Islam Qala;Pakistan;Kabul;Documented;5;2;3;0;disability;Transport
+FM-001071;2025-12-14;Torkham;Iran;Nangarhar;Documented;8;6;2;4;unaccompanied child;Cash
+FM-001072;2025-12-14;Islam Qala;Iran;Herat;Deportee;1;1;0;0;"disability;unaccompanied child";Transport
+FM-001073;2025-12-14;Islam Qala;Iran;Nangarhar;Undocumented;7;1;6;0;"chronic illness;none";Cash
+FM-001074;2025-12-15;Islam Qala;Pakistan;Kabul;Undocumented;6;4;2;3;"chronic illness;none";Food
+FM-001075;2025-12-15;Torkham;Iran;Balkh;Undocumented;5;2;3;1;disability;Cash
+FM-001076;2025-12-15;Islam Qala;Iran;Herat;Deportee;7;2;5;3;unaccompanied child;Cash
+FM-001077;2025-12-16;Islam Qala;Iran;Herat;Undocumented;3;2;1;0;female-headed;Shelter
+FM-001078;2025-12-16;Islam Qala;Pakistan;Balkh;Undocumented;8;3;5;0;"chronic illness;female-headed";Cash
+FM-001079;2025-12-16;Spin Boldak;Iran;Kabul;Undocumented;3;2;1;0;chronic illness;Shelter
+FM-001080;2025-12-17;Islam Qala;Iran;Herat;Undocumented;2;0;2;1;chronic illness;Shelter
+FM-001081;2025-12-18;Torkham;Iran;Balkh;Documented;2;0;2;0;disability;Cash
+FM-001082;2025-12-18;Spin Boldak;Iran;Kabul;Documented;7;0;7;0;chronic illness;Food
+FM-001083;2025-12-19;Spin Boldak;Pakistan;Kabul;Documented;8;7;1;2;chronic illness;Shelter
+FM-001084;2025-12-19;Islam Qala;Iran;Kabul;Undocumented;4;2;2;2;"disability;female-headed";Health
+FM-001085;2025-12-20;Torkham;Iran;Herat;Documented;2;0;2;0;"chronic illness;female-headed";Transport
+FM-001086;2025-12-20;Torkham;Iran;Nangarhar;Deportee;1;1;0;0;"chronic illness;unaccompanied child";Food
+FM-001087;2025-12-20;Torkham;Pakistan;Kabul;Documented;5;5;0;1;"chronic illness;unaccompanied child";Shelter
+FM-001088;2025-12-20;Torkham;Pakistan;Nangarhar;Documented;5;4;1;2;female-headed;Food
+FM-001089;2025-12-21;Islam Qala;Iran;Herat;Undocumented;4;0;4;0;female-headed;Transport
+FM-001090;2025-12-21;Spin Boldak;Pakistan;Balkh;Undocumented;8;6;2;4;chronic illness;Transport
+FM-001091;2025-12-21;Islam Qala;Pakistan;Nangarhar;Undocumented;8;1;7;3;female-headed;Cash
+FM-001092;2025-12-22;Torkham;Pakistan;Balkh;Undocumented;7;0;7;1;unaccompanied child;Transport
+FM-001093;2025-12-22;Torkham;Iran;Kabul;Undocumented;2;2;0;1;"chronic illness;unaccompanied child";Food
+FM-001094;2025-12-22;Torkham;Iran;Nangarhar;Deportee;7;0;7;0;disability;Transport
+FM-001095;2025-12-23;Islam Qala;Pakistan;Nangarhar;Undocumented;1;1;0;1;unaccompanied child;Transport
+FM-001096;2025-12-23;Spin Boldak;Iran;Kabul;Undocumented;6;1;5;1;unaccompanied child;Shelter
+FM-001097;2025-12-24;Torkham;Pakistan;Balkh;Deportee;3;3;0;1;chronic illness;Food
+FM-001098;2025-12-24;Spin Boldak;Pakistan;Herat;Documented;4;1;3;1;female-headed;Health
+FM-001099;2025-12-24;Spin Boldak;Iran;Kabul;Deportee;2;0;2;1;"chronic illness;female-headed";Cash
+FM-001100;2025-12-25;Islam Qala;Iran;Nangarhar;Undocumented;2;2;0;0;"disability;female-headed";Food
+FM-001101;2025-12-25;Torkham;Iran;Balkh;Documented;3;0;3;0;unaccompanied child;Transport
+FM-001102;2025-12-26;Islam Qala;Iran;Nangarhar;Documented;2;0;2;0;chronic illness;Transport
+FM-001103;2025-12-26;Spin Boldak;Pakistan;Herat;Deportee;7;3;4;3;disability;Shelter
+FM-001104;2025-12-27;Spin Boldak;Pakistan;Kabul;Undocumented;2;0;2;1;"female-headed;none";Shelter
+FM-001105;2025-12-27;Torkham;Pakistan;Balkh;Documented;4;3;1;1;chronic illness;Transport
+FM-001106;2025-12-29;Islam Qala;Pakistan;Herat;Deportee;7;3;4;0;"chronic illness;unaccompanied child";Cash
+FM-001107;2025-12-29;Islam Qala;Iran;Nangarhar;Deportee;5;5;0;1;"disability;none";Shelter
+FM-001108;2025-12-30;Torkham;Pakistan;Herat;Deportee;1;0;1;1;"disability;none";Transport
+FM-001109;2025-12-30;Torkham;Iran;Nangarhar;Deportee;2;1;1;1;chronic illness;Transport
+FM-001110;2025-12-30;Islam Qala;Iran;Balkh;Undocumented;7;2;5;2;"chronic illness;unaccompanied child";Food
+FM-001111;2025-12-30;Torkham;Pakistan;Kabul;Documented;6;3;3;3;chronic illness;Health
+FM-001112;2025-12-30;Torkham;Pakistan;Kabul;Documented;7;2;5;1;disability;Food
+FM-001113;2025-12-31;Islam Qala;Iran;Herat;Undocumented;7;4;3;1;"female-headed;none";Food
+FM-001114;2025-12-31;Islam Qala;Iran;Nangarhar;Undocumented;6;1;5;0;disability;Food
+FM-001115;2025-12-31;Spin Boldak;Iran;Kabul;Undocumented;7;4;3;0;female-headed;Cash
+FM-001116;2025-12-31;Torkham;Iran;Nangarhar;Undocumented;1;1;0;1;chronic illness;Health
+FM-001117;2025-12-31;Torkham;Iran;Balkh;Undocumented;6;0;6;2;disability;Food
+FM-001118;2026-01-01;Islam Qala;Pakistan;Herat;Undocumented;2;2;0;1;"disability;none";Shelter
+FM-001119;2026-01-01;Torkham;Pakistan;Kabul;Undocumented;7;5;2;3;none;Transport
+FM-001120;2026-01-02;Islam Qala;Pakistan;Herat;Undocumented;4;2;2;1;disability;Cash
+FM-001121;2026-01-02;Spin Boldak;Iran;Balkh;Undocumented;7;7;0;0;unaccompanied child;Food
+FM-001122;2026-01-02;Islam Qala;Pakistan;Nangarhar;Undocumented;7;7;0;0;"disability;none";Cash
+FM-001123;2026-01-02;Islam Qala;Pakistan;Kabul;Documented;4;0;4;2;"chronic illness;disability";Health
+FM-001124;2026-01-03;Islam Qala;Iran;Herat;Documented;2;1;1;0;unaccompanied child;Cash
+FM-001125;2026-01-03;Torkham;Pakistan;Kabul;Documented;3;0;3;1;unaccompanied child;Transport
+FM-001126;2026-01-04;Islam Qala;Pakistan;Herat;Undocumented;5;3;2;2;disability;Transport
+FM-001127;2026-01-05;Islam Qala;Iran;Nangarhar;Deportee;8;0;8;1;"female-headed;none";Transport
+FM-001128;2026-01-06;Islam Qala;Iran;Herat;Undocumented;6;0;6;1;"disability;female-headed";Food
+FM-001129;2026-01-06;Torkham;Iran;Herat;Documented;4;2;2;0;"female-headed;unaccompanied child";Transport
+FM-001130;2026-01-06;Islam Qala;Pakistan;Kabul;Documented;1;0;1;1;none;Food
+FM-001131;2026-01-06;Islam Qala;Pakistan;Balkh;Undocumented;2;2;0;1;unaccompanied child;Shelter
+FM-001132;2026-01-07;Spin Boldak;Iran;Nangarhar;Undocumented;3;2;1;0;"disability;female-headed";Food
+FM-001133;2026-01-07;Torkham;Iran;Kabul;Deportee;6;5;1;1;"chronic illness;unaccompanied child";Cash
+FM-001134;2026-01-07;Torkham;Pakistan;Herat;Deportee;7;3;4;2;unaccompanied child;Shelter
+FM-001135;2026-01-07;Torkham;Iran;Nangarhar;Deportee;8;6;2;3;"chronic illness;female-headed";Cash
+FM-001136;2026-01-08;Spin Boldak;Iran;Herat;Undocumented;4;4;0;2;female-headed;Transport
+FM-001137;2026-01-08;Torkham;Pakistan;Herat;Undocumented;5;1;4;1;"disability;unaccompanied child";Shelter
+FM-001138;2026-01-08;Spin Boldak;Pakistan;Herat;Undocumented;6;3;3;2;"disability;female-headed";Health
+FM-001139;2026-01-09;Spin Boldak;Pakistan;Herat;Undocumented;7;1;6;0;"chronic illness;disability";Transport
+FM-001140;2026-01-09;Torkham;Pakistan;Herat;Documented;7;4;3;2;none;Transport
+FM-001141;2026-01-09;Spin Boldak;Pakistan;Herat;Undocumented;7;0;7;0;"chronic illness;none";Cash
+FM-001142;2026-01-09;Spin Boldak;Iran;Balkh;Documented;3;1;2;0;chronic illness;Food
+FM-001143;2026-01-10;Islam Qala;Iran;Kabul;Undocumented;1;0;1;0;disability;Cash
+FM-001144;2026-01-10;Islam Qala;Pakistan;Herat;Documented;6;2;4;3;chronic illness;Food
+FM-001145;2026-01-10;Islam Qala;Pakistan;Balkh;Deportee;2;2;0;1;none;Shelter
+FM-001146;2026-01-11;Islam Qala;Pakistan;Kabul;Undocumented;2;2;0;1;none;Health
+FM-001147;2026-01-11;Islam Qala;Iran;Nangarhar;Deportee;1;1;0;1;female-headed;Shelter
+FM-001148;2026-01-11;Spin Boldak;Iran;Kabul;Documented;4;2;2;1;"disability;unaccompanied child";Transport
+FM-001149;2026-01-12;Spin Boldak;Iran;Nangarhar;Documented;1;1;0;1;chronic illness;Health
+FM-001150;2026-01-12;Torkham;Iran;Herat;Undocumented;7;3;4;1;disability;Shelter
+FM-001151;2026-01-12;Torkham;Pakistan;Kabul;Undocumented;4;3;1;2;female-headed;Health
+FM-001152;2026-01-12;Islam Qala;Pakistan;Kabul;Undocumented;8;6;2;0;unaccompanied child;Transport
+FM-001153;2026-01-13;Islam Qala;Iran;Herat;Deportee;4;3;1;2;chronic illness;Cash
+FM-001154;2026-01-13;Torkham;Pakistan;Kabul;Deportee;4;1;3;0;"chronic illness;female-headed";Shelter
+FM-001155;2026-01-13;Islam Qala;Iran;Nangarhar;Deportee;3;0;3;0;unaccompanied child;Food
+FM-001156;2026-01-14;Torkham;Iran;Herat;Undocumented;8;3;5;2;"chronic illness;disability";Cash
+FM-001157;2026-01-14;Islam Qala;Iran;Herat;Undocumented;6;2;4;2;none;Transport
+FM-001158;2026-01-14;Torkham;Pakistan;Herat;Documented;3;0;3;1;"chronic illness;unaccompanied child";Cash
+FM-001159;2026-01-14;Spin Boldak;Pakistan;Kabul;Undocumented;1;1;0;1;"female-headed;unaccompanied child";Health
+FM-001160;2026-01-14;Spin Boldak;Iran;Kabul;Undocumented;2;0;2;1;disability;Shelter
+FM-001161;2026-01-14;Torkham;Iran;Herat;Undocumented;2;0;2;0;chronic illness;Shelter
+FM-001162;2026-01-15;Islam Qala;Pakistan;Herat;Undocumented;6;1;5;0;female-headed;Cash
+FM-001163;2026-01-15;Islam Qala;Pakistan;Balkh;Documented;5;3;2;1;disability;Shelter
+FM-001164;2026-01-15;Torkham;Iran;Herat;Deportee;7;2;5;2;"chronic illness;disability";Transport
+FM-001165;2026-01-15;Spin Boldak;Pakistan;Herat;Documented;4;4;0;1;"disability;female-headed";Shelter
+FM-001166;2026-01-15;Islam Qala;Pakistan;Nangarhar;Documented;3;3;0;1;unaccompanied child;Food
+FM-001167;2026-01-15;Torkham;Pakistan;Balkh;Documented;1;1;0;1;"none;unaccompanied child";Health
+FM-001168;2026-01-15;Torkham;Pakistan;Herat;Deportee;8;2;6;4;"female-headed;unaccompanied child";Transport
+FM-001169;2026-01-15;Torkham;Iran;Nangarhar;Undocumented;5;5;0;2;unaccompanied child;Shelter
+FM-001170;2026-01-16;Torkham;Pakistan;Kabul;Documented;4;3;1;0;unaccompanied child;Shelter
+FM-001171;2026-01-17;Torkham;Iran;Kabul;Undocumented;6;0;6;2;none;Health
+FM-001172;2026-01-17;Torkham;Iran;Kabul;Documented;6;2;4;2;none;Transport
+FM-001173;2026-01-18;Torkham;Iran;Kabul;Documented;3;2;1;0;unaccompanied child;Transport
+FM-001174;2026-01-18;Spin Boldak;Iran;Herat;Undocumented;2;0;2;0;"chronic illness;none";Shelter
+FM-001175;2026-01-18;Torkham;Pakistan;Herat;Undocumented;8;7;1;0;"disability;female-headed";Shelter
+FM-001176;2026-01-19;Islam Qala;Pakistan;Nangarhar;Undocumented;5;4;1;2;"female-headed;none";Shelter
+FM-001177;2026-01-19;Torkham;Iran;Kabul;Undocumented;3;2;1;1;"chronic illness;none";Shelter
+FM-001178;2026-01-19;Islam Qala;Iran;Kabul;Undocumented;5;2;3;1;none;Shelter
+FM-001179;2026-01-20;Islam Qala;Iran;Kabul;Documented;1;0;1;1;"female-headed;unaccompanied child";Shelter
+FM-001180;2026-01-20;Torkham;Iran;Nangarhar;Documented;5;2;3;0;"chronic illness;female-headed";Health
+FM-001181;2026-01-20;Torkham;Pakistan;Balkh;Documented;8;3;5;2;chronic illness;Health
+FM-001182;2026-01-20;Islam Qala;Iran;Kabul;Deportee;2;2;0;1;chronic illness;Health
+FM-001183;2026-01-21;Islam Qala;Iran;Nangarhar;Undocumented;7;7;0;0;female-headed;Food
+FM-001184;2026-01-21;Islam Qala;Iran;Herat;Undocumented;4;3;1;1;"none;unaccompanied child";Health
+FM-001185;2026-01-21;Islam Qala;Pakistan;Kabul;Documented;8;6;2;1;unaccompanied child;Shelter
+FM-001186;2026-01-22;Spin Boldak;Iran;Kabul;Undocumented;1;0;1;0;female-headed;Cash
+FM-001187;2026-01-24;Islam Qala;Pakistan;Kabul;Undocumented;7;0;7;0;chronic illness;Cash
+FM-001188;2026-01-24;Torkham;Iran;Herat;Deportee;8;0;8;3;chronic illness;Health
+FM-001189;2026-01-24;Spin Boldak;Iran;Kabul;Documented;8;0;8;3;female-headed;Food
+FM-001190;2026-01-24;Spin Boldak;Iran;Kabul;Documented;3;1;2;1;chronic illness;Transport
+FM-001191;2026-01-24;Torkham;Iran;Kabul;Deportee;8;5;3;2;"female-headed;none";Food
+FM-001192;2026-01-25;Torkham;Pakistan;Herat;Deportee;3;1;2;1;none;Shelter
+FM-001193;2026-01-25;Torkham;Pakistan;Herat;Deportee;2;2;0;0;"female-headed;none";Health
+FM-001194;2026-01-25;Islam Qala;Pakistan;Kabul;Undocumented;7;7;0;1;"chronic illness;disability";Shelter
+FM-001195;2026-01-25;Spin Boldak;Iran;Nangarhar;Undocumented;7;4;3;1;"chronic illness;disability";Transport
+FM-001196;2026-01-25;Islam Qala;Iran;Balkh;Deportee;7;1;6;1;"disability;unaccompanied child";Shelter
+FM-001197;2026-01-25;Torkham;Iran;Nangarhar;Undocumented;8;4;4;1;none;Transport
+FM-001198;2026-01-25;Islam Qala;Pakistan;Nangarhar;Deportee;4;1;3;2;unaccompanied child;Food
+FM-001199;2026-01-26;Torkham;Iran;Kabul;Deportee;2;0;2;0;"chronic illness;unaccompanied child";Transport
+FM-001200;2026-01-26;Islam Qala;Iran;Nangarhar;Deportee;5;3;2;2;"chronic illness;unaccompanied child";Health
+FM-001201;2026-01-27;Islam Qala;Iran;Nangarhar;Documented;3;1;2;1;"disability;unaccompanied child";Health
+FM-001202;2026-01-27;Islam Qala;Pakistan;Kabul;Undocumented;8;4;4;2;"female-headed;unaccompanied child";Transport
+FM-001203;2026-01-27;Torkham;Pakistan;Nangarhar;Deportee;7;0;7;2;"chronic illness;unaccompanied child";Cash
+FM-001204;2026-01-27;Spin Boldak;Iran;Balkh;Undocumented;8;1;7;0;"disability;unaccompanied child";Transport
+FM-001205;2026-01-27;Spin Boldak;Iran;Nangarhar;Deportee;6;4;2;1;chronic illness;Transport
+FM-001206;2026-01-27;Torkham;Iran;Nangarhar;Undocumented;5;1;4;0;female-headed;Shelter
+FM-001207;2026-01-28;Islam Qala;Iran;Kabul;Undocumented;8;2;6;2;none;Health
+FM-001208;2026-01-29;Spin Boldak;Pakistan;Kabul;Undocumented;6;5;1;3;"disability;female-headed";Cash
+FM-001209;2026-01-29;Islam Qala;Pakistan;Herat;Documented;2;2;0;0;disability;Health
+FM-001210;2026-01-30;Spin Boldak;Pakistan;Nangarhar;Undocumented;4;1;3;2;chronic illness;Shelter
+FM-001211;2026-01-30;Islam Qala;Pakistan;Herat;Undocumented;5;4;1;0;disability;Shelter
+FM-001212;2026-01-31;Torkham;Pakistan;Nangarhar;Documented;5;4;1;2;"disability;unaccompanied child";Food
+FM-001213;2026-02-01;Spin Boldak;Iran;Nangarhar;Undocumented;1;1;0;0;"chronic illness;none";Health
+FM-001214;2026-02-01;Spin Boldak;Pakistan;Balkh;Undocumented;5;2;3;2;"disability;female-headed";Health
+FM-001215;2026-02-01;Spin Boldak;Iran;Nangarhar;Undocumented;7;3;4;0;disability;Shelter
+FM-001216;2026-02-01;Torkham;Iran;Balkh;Documented;7;1;6;2;unaccompanied child;Cash
+FM-001217;2026-02-02;Torkham;Iran;Nangarhar;Undocumented;2;1;1;1;"chronic illness;none";Cash
+FM-001218;2026-02-03;Islam Qala;Iran;Kabul;Undocumented;8;1;7;2;none;Cash
+FM-001219;2026-02-03;Torkham;Iran;Nangarhar;Deportee;2;0;2;0;disability;Cash
+FM-001220;2026-02-03;Islam Qala;Iran;Kabul;Deportee;1;0;1;1;"chronic illness;female-headed";Transport
+FM-001221;2026-02-03;Islam Qala;Iran;Herat;Undocumented;7;6;1;0;"female-headed;unaccompanied child";Health
+FM-001222;2026-02-03;Islam Qala;Iran;Kabul;Deportee;2;0;2;1;none;Cash
+FM-001223;2026-02-03;Spin Boldak;Iran;Nangarhar;Documented;4;2;2;2;female-headed;Food
+FM-001224;2026-02-04;Torkham;Iran;Herat;Documented;4;0;4;0;none;Shelter
+FM-001225;2026-02-04;Islam Qala;Iran;Nangarhar;Documented;2;1;1;0;none;Health
+FM-001226;2026-02-04;Torkham;Iran;Herat;Undocumented;1;0;1;1;"none;unaccompanied child";Health
+FM-001227;2026-02-05;Spin Boldak;Pakistan;Balkh;Undocumented;7;6;1;3;disability;Food
+FM-001228;2026-02-05;Spin Boldak;Pakistan;Nangarhar;Deportee;3;2;1;1;chronic illness;Cash
+FM-001229;2026-02-05;Islam Qala;Pakistan;Nangarhar;Documented;2;1;1;0;female-headed;Shelter
+FM-001230;2026-02-06;Islam Qala;Iran;Kabul;Undocumented;2;1;1;1;unaccompanied child;Food
+FM-001231;2026-02-06;Torkham;Pakistan;Kabul;Documented;1;0;1;0;"chronic illness;none";Shelter
+FM-001232;2026-02-07;Islam Qala;Pakistan;Herat;Undocumented;5;1;4;2;"chronic illness;unaccompanied child";Cash
+FM-001233;2026-02-07;Islam Qala;Pakistan;Herat;Undocumented;7;1;6;3;disability;Transport
+FM-001234;2026-02-07;Torkham;Iran;Herat;Deportee;6;4;2;0;unaccompanied child;Shelter
+FM-001235;2026-02-07;Islam Qala;Iran;Balkh;Documented;3;3;0;0;disability;Shelter
+FM-001236;2026-02-07;Islam Qala;Iran;Kabul;Deportee;8;6;2;3;chronic illness;Transport
+FM-001237;2026-02-08;Islam Qala;Pakistan;Kabul;Documented;1;0;1;1;unaccompanied child;Food
+FM-001238;2026-02-08;Spin Boldak;Pakistan;Herat;Undocumented;6;6;0;2;none;Transport
+FM-001239;2026-02-08;Islam Qala;Iran;Herat;Undocumented;1;1;0;0;female-headed;Shelter
+FM-001240;2026-02-08;Islam Qala;Pakistan;Herat;Deportee;2;2;0;1;"disability;none";Cash
+FM-001241;2026-02-08;Torkham;Pakistan;Nangarhar;Documented;4;4;0;1;unaccompanied child;Shelter
+FM-001242;2026-02-08;Torkham;Iran;Kabul;Documented;8;3;5;0;none;Transport
+FM-001243;2026-02-09;Islam Qala;Iran;Herat;Documented;2;0;2;1;"chronic illness;female-headed";Health
+FM-001244;2026-02-09;Torkham;Pakistan;Nangarhar;Undocumented;5;5;0;0;unaccompanied child;Health
+FM-001245;2026-02-09;Spin Boldak;Pakistan;Herat;Deportee;4;1;3;0;female-headed;Shelter
+FM-001246;2026-02-09;Islam Qala;Pakistan;Herat;Deportee;3;1;2;0;chronic illness;Health
+FM-001247;2026-02-09;Torkham;Iran;Kabul;Undocumented;8;0;8;4;disability;Food
+FM-001248;2026-02-09;Torkham;Pakistan;Nangarhar;Documented;2;1;1;1;chronic illness;Health
+FM-001249;2026-02-10;Torkham;Iran;Kabul;Documented;1;0;1;0;"female-headed;unaccompanied child";Cash
+FM-001250;2026-02-10;Islam Qala;Iran;Nangarhar;Deportee;3;2;1;0;"disability;none";Health
+FM-001251;2026-02-10;Islam Qala;Iran;Nangarhar;Undocumented;2;2;0;1;chronic illness;Shelter
+FM-001252;2026-02-10;Torkham;Pakistan;Balkh;Deportee;3;0;3;0;disability;Food
+FM-001253;2026-02-10;Islam Qala;Iran;Kabul;Undocumented;1;1;0;1;female-headed;Transport
+FM-001254;2026-02-11;Torkham;Iran;Kabul;Deportee;2;0;2;1;"none;unaccompanied child";Health
+FM-001255;2026-02-11;Torkham;Pakistan;Kabul;Documented;1;1;0;0;"chronic illness;female-headed";Food
+FM-001256;2026-02-12;Torkham;Pakistan;Kabul;Documented;5;5;0;1;disability;Transport
+FM-001257;2026-02-12;Spin Boldak;Iran;Nangarhar;Undocumented;6;5;1;1;none;Health
+FM-001258;2026-02-12;Islam Qala;Iran;Herat;Deportee;6;2;4;2;"female-headed;none";Cash
+FM-001259;2026-02-12;Torkham;Iran;Herat;Documented;5;1;4;1;unaccompanied child;Health
+FM-001260;2026-02-12;Islam Qala;Iran;Balkh;Undocumented;2;2;0;0;chronic illness;Transport
+FM-001261;2026-02-12;Torkham;Pakistan;Nangarhar;Undocumented;2;2;0;1;chronic illness;Health
+FM-001262;2026-02-13;Islam Qala;Iran;Kabul;Documented;8;2;6;0;disability;Health
+FM-001263;2026-02-13;Islam Qala;Pakistan;Balkh;Documented;3;3;0;1;"female-headed;unaccompanied child";Transport
+FM-001264;2026-02-14;Islam Qala;Iran;Balkh;Deportee;8;7;1;0;"none;unaccompanied child";Food
+FM-001265;2026-02-14;Torkham;Iran;Herat;Undocumented;3;0;3;0;female-headed;Health
+FM-001266;2026-02-14;Torkham;Iran;Herat;Undocumented;4;3;1;2;"none;unaccompanied child";Shelter
+FM-001267;2026-02-15;Torkham;Pakistan;Balkh;Deportee;7;1;6;2;"none;unaccompanied child";Shelter
+FM-001268;2026-02-15;Spin Boldak;Iran;Balkh;Documented;4;2;2;0;female-headed;Transport
+FM-001269;2026-02-15;Torkham;Iran;Herat;Documented;4;2;2;2;"female-headed;unaccompanied child";Health
+FM-001270;2026-02-16;Islam Qala;Iran;Herat;Documented;3;1;2;0;disability;Shelter
+FM-001271;2026-02-16;Torkham;Iran;Balkh;Deportee;2;0;2;0;female-headed;Food
+FM-001272;2026-02-17;Islam Qala;Iran;Herat;Undocumented;5;3;2;0;female-headed;Shelter
+FM-001273;2026-02-17;Spin Boldak;Iran;Kabul;Documented;8;1;7;4;"chronic illness;disability";Health
+FM-001274;2026-02-17;Spin Boldak;Iran;Herat;Documented;3;3;0;0;disability;Transport
+FM-001275;2026-02-17;Torkham;Pakistan;Herat;Documented;8;5;3;3;disability;Cash
+FM-001276;2026-02-19;Islam Qala;Pakistan;Kabul;Deportee;6;6;0;2;chronic illness;Cash
+FM-001277;2026-02-19;Islam Qala;Iran;Balkh;Undocumented;8;2;6;0;none;Health
+FM-001278;2026-02-19;Torkham;Iran;Herat;Deportee;2;0;2;0;"female-headed;unaccompanied child";Shelter
+FM-001279;2026-02-19;Islam Qala;Pakistan;Kabul;Undocumented;2;0;2;0;unaccompanied child;Food
+FM-001280;2026-02-19;Spin Boldak;Iran;Balkh;Undocumented;2;1;1;0;chronic illness;Shelter
+FM-001281;2026-02-20;Spin Boldak;Pakistan;Nangarhar;Undocumented;5;1;4;1;chronic illness;Health
+FM-001282;2026-02-20;Torkham;Iran;Balkh;Deportee;8;0;8;4;unaccompanied child;Transport
+FM-001283;2026-02-20;Spin Boldak;Iran;Nangarhar;Undocumented;4;1;3;0;female-headed;Cash
+FM-001284;2026-02-21;Islam Qala;Pakistan;Kabul;Documented;5;2;3;0;chronic illness;Shelter
+FM-001285;2026-02-21;Islam Qala;Pakistan;Kabul;Undocumented;2;2;0;1;female-headed;Food
+FM-001286;2026-02-21;Islam Qala;Iran;Kabul;Undocumented;6;2;4;2;none;Shelter
+FM-001287;2026-02-21;Torkham;Pakistan;Balkh;Undocumented;6;0;6;2;"female-headed;none";Cash
+FM-001288;2026-02-22;Islam Qala;Iran;Nangarhar;Deportee;3;1;2;0;none;Shelter
+FM-001289;2026-02-22;Spin Boldak;Iran;Herat;Deportee;8;0;8;3;none;Health
+FM-001290;2026-02-22;Torkham;Iran;Kabul;Documented;6;1;5;2;chronic illness;Health
+FM-001291;2026-02-22;Spin Boldak;Iran;Kabul;Undocumented;2;2;0;1;"disability;unaccompanied child";Transport
+FM-001292;2026-02-22;Islam Qala;Pakistan;Herat;Deportee;6;4;2;0;"chronic illness;unaccompanied child";Health
+FM-001293;2026-02-22;Islam Qala;Iran;Herat;Undocumented;7;5;2;0;"none;unaccompanied child";Shelter
+FM-001294;2026-02-22;Torkham;Pakistan;Herat;Undocumented;5;4;1;0;none;Food
+FM-001295;2026-02-23;Islam Qala;Iran;Nangarhar;Deportee;6;2;4;3;unaccompanied child;Transport
+FM-001296;2026-02-23;Islam Qala;Pakistan;Nangarhar;Documented;3;2;1;0;unaccompanied child;Health
+FM-001297;2026-02-23;Islam Qala;Pakistan;Kabul;Deportee;2;1;1;0;"chronic illness;none";Health
+FM-001298;2026-02-23;Torkham;Pakistan;Kabul;Deportee;8;6;2;1;"female-headed;unaccompanied child";Transport
+FM-001299;2026-02-23;Spin Boldak;Iran;Kabul;Undocumented;6;5;1;2;female-headed;Health
+FM-001300;2026-02-23;Torkham;Iran;Kabul;Documented;1;1;0;1;disability;Transport
+FM-001301;2026-02-23;Torkham;Iran;Herat;Deportee;1;0;1;0;chronic illness;Transport
+FM-001302;2026-02-23;Islam Qala;Iran;Nangarhar;Undocumented;2;0;2;1;disability;Shelter
+FM-001303;2026-02-24;Spin Boldak;Iran;Herat;Undocumented;5;2;3;1;none;Cash
+FM-001304;2026-02-24;Torkham;Iran;Herat;Documented;7;7;0;2;"chronic illness;female-headed";Food
+FM-001305;2026-02-24;Spin Boldak;Iran;Kabul;Undocumented;5;4;1;1;"none;unaccompanied child";Shelter
+FM-001306;2026-02-24;Islam Qala;Iran;Balkh;Undocumented;7;2;5;2;"disability;unaccompanied child";Food
+FM-001307;2026-02-25;Torkham;Iran;Herat;Undocumented;8;7;1;4;female-headed;Transport
+FM-001308;2026-02-25;Torkham;Pakistan;Kabul;Undocumented;8;6;2;0;none;Cash
+FM-001309;2026-02-26;Islam Qala;Pakistan;Balkh;Undocumented;6;3;3;3;"disability;female-headed";Transport
+FM-001310;2026-02-26;Torkham;Iran;Kabul;Undocumented;6;6;0;0;none;Cash
+FM-001311;2026-02-27;Torkham;Iran;Nangarhar;Documented;7;0;7;2;unaccompanied child;Transport
+FM-001312;2026-02-27;Islam Qala;Pakistan;Balkh;Documented;1;0;1;1;none;Shelter
+FM-001313;2026-02-27;Islam Qala;Iran;Herat;Documented;6;0;6;1;female-headed;Transport
+FM-001314;2026-02-27;Torkham;Pakistan;Herat;Undocumented;1;0;1;0;"female-headed;none";Shelter
+FM-001315;2026-02-27;Torkham;Pakistan;Balkh;Undocumented;1;1;0;1;none;Health
+FM-001316;2026-02-28;Torkham;Pakistan;Nangarhar;Deportee;6;5;1;3;"disability;none";Shelter
+FM-001317;2026-03-01;Islam Qala;Pakistan;Herat;Documented;7;3;4;3;chronic illness;Transport
+FM-001318;2026-03-01;Islam Qala;Pakistan;Balkh;Deportee;5;4;1;0;chronic illness;Health
+FM-001319;2026-03-01;Islam Qala;Pakistan;Nangarhar;Deportee;4;1;3;1;chronic illness;Food
+FM-001320;2026-03-01;Torkham;Pakistan;Kabul;Documented;1;0;1;1;disability;Food
+FM-001321;2026-03-02;Torkham;Iran;Kabul;Deportee;1;0;1;1;unaccompanied child;Health
+FM-001322;2026-03-02;Islam Qala;Iran;Kabul;Deportee;8;5;3;3;chronic illness;Health
+FM-001323;2026-03-02;Islam Qala;Iran;Kabul;Deportee;6;1;5;2;unaccompanied child;Cash
+FM-001324;2026-03-02;Torkham;Iran;Kabul;Deportee;5;2;3;0;"none;unaccompanied child";Health
+FM-001325;2026-03-02;Spin Boldak;Iran;Kabul;Deportee;3;2;1;0;unaccompanied child;Transport
+FM-001326;2026-03-02;Islam Qala;Iran;Kabul;Documented;7;5;2;2;"female-headed;unaccompanied child";Health
+FM-001327;2026-03-02;Torkham;Iran;Herat;Undocumented;3;1;2;1;"female-headed;unaccompanied child";Shelter
+FM-001328;2026-03-02;Islam Qala;Pakistan;Nangarhar;Deportee;8;5;3;2;none;Cash
+FM-001329;2026-03-02;Spin Boldak;Pakistan;Nangarhar;Documented;2;0;2;1;female-headed;Cash
+FM-001330;2026-03-03;Islam Qala;Iran;Nangarhar;Undocumented;7;0;7;2;"disability;unaccompanied child";Health
+FM-001331;2026-03-03;Islam Qala;Iran;Balkh;Deportee;2;0;2;0;disability;Cash
+FM-001332;2026-03-03;Spin Boldak;Pakistan;Nangarhar;Undocumented;4;1;3;2;none;Food
+FM-001333;2026-03-03;Islam Qala;Pakistan;Kabul;Deportee;5;2;3;0;"disability;female-headed";Shelter
+FM-001334;2026-03-03;Torkham;Pakistan;Kabul;Deportee;4;3;1;2;female-headed;Cash
+FM-001335;2026-03-03;Islam Qala;Iran;Kabul;Undocumented;5;2;3;2;female-headed;Transport
+FM-001336;2026-03-03;Torkham;Iran;Kabul;Undocumented;2;1;1;0;female-headed;Health
+FM-001337;2026-03-03;Islam Qala;Iran;Kabul;Deportee;7;1;6;1;"chronic illness;disability";Transport
+FM-001338;2026-03-04;Islam Qala;Iran;Kabul;Documented;8;7;1;1;"chronic illness;disability";Shelter
+FM-001339;2026-03-04;Islam Qala;Iran;Kabul;Undocumented;1;1;0;0;unaccompanied child;Food
+FM-001340;2026-03-04;Islam Qala;Pakistan;Herat;Undocumented;5;1;4;0;unaccompanied child;Shelter
+FM-001341;2026-03-05;Islam Qala;Iran;Kabul;Undocumented;3;2;1;1;"disability;unaccompanied child";Transport
+FM-001342;2026-03-05;Islam Qala;Pakistan;Herat;Documented;5;2;3;0;none;Cash
+FM-001343;2026-03-05;Spin Boldak;Iran;Kabul;Documented;4;1;3;1;chronic illness;Food
+FM-001344;2026-03-05;Islam Qala;Iran;Kabul;Undocumented;6;5;1;0;chronic illness;Transport
+FM-001345;2026-03-06;Islam Qala;Pakistan;Herat;Undocumented;8;6;2;1;"chronic illness;disability";Cash
+FM-001346;2026-03-06;Torkham;Iran;Nangarhar;Undocumented;7;1;6;0;unaccompanied child;Food
+FM-001347;2026-03-06;Torkham;Iran;Balkh;Undocumented;7;0;7;1;"disability;none";Shelter
+FM-001348;2026-03-06;Torkham;Iran;Balkh;Deportee;7;3;4;3;"chronic illness;disability";Food
+FM-001349;2026-03-06;Torkham;Iran;Kabul;Undocumented;7;1;6;3;disability;Food
+FM-001350;2026-03-07;Spin Boldak;Pakistan;Kabul;Undocumented;6;1;5;2;chronic illness;Shelter
+FM-001351;2026-03-07;Torkham;Pakistan;Herat;Documented;3;3;0;1;chronic illness;Transport
+FM-001352;2026-03-07;Torkham;Iran;Kabul;Undocumented;3;1;2;0;"disability;female-headed";Shelter
+FM-001353;2026-03-08;Torkham;Iran;Kabul;Undocumented;8;1;7;1;chronic illness;Transport
+FM-001354;2026-03-08;Islam Qala;Iran;Kabul;Undocumented;8;5;3;4;"female-headed;unaccompanied child";Cash
+FM-001355;2026-03-08;Islam Qala;Iran;Nangarhar;Undocumented;8;5;3;2;"none;unaccompanied child";Shelter
+FM-001356;2026-03-08;Islam Qala;Pakistan;Nangarhar;Undocumented;5;1;4;0;unaccompanied child;Transport
+FM-001357;2026-03-09;Spin Boldak;Iran;Herat;Undocumented;3;3;0;1;"none;unaccompanied child";Health
+FM-001358;2026-03-09;Torkham;Pakistan;Kabul;Deportee;1;0;1;0;disability;Shelter
+FM-001359;2026-03-09;Spin Boldak;Pakistan;Nangarhar;Documented;6;2;4;3;female-headed;Health
+FM-001360;2026-03-09;Islam Qala;Pakistan;Kabul;Documented;2;1;1;1;unaccompanied child;Transport
+FM-001361;2026-03-10;Islam Qala;Iran;Herat;Undocumented;4;2;2;2;"chronic illness;female-headed";Transport
+FM-001362;2026-03-10;Islam Qala;Iran;Balkh;Deportee;4;0;4;2;"female-headed;none";Shelter
+FM-001363;2026-03-10;Torkham;Pakistan;Nangarhar;Undocumented;4;3;1;2;"chronic illness;female-headed";Food
+FM-001364;2026-03-10;Islam Qala;Pakistan;Kabul;Documented;3;3;0;1;chronic illness;Cash
+FM-001365;2026-03-11;Islam Qala;Pakistan;Nangarhar;Undocumented;6;6;0;0;chronic illness;Transport
+FM-001366;2026-03-11;Islam Qala;Iran;Nangarhar;Undocumented;5;0;5;2;"chronic illness;none";Food
+FM-001367;2026-03-11;Islam Qala;Iran;Balkh;Deportee;1;0;1;0;disability;Cash
+FM-001368;2026-03-11;Islam Qala;Iran;Herat;Deportee;1;0;1;0;female-headed;Transport
+FM-001369;2026-03-11;Torkham;Pakistan;Herat;Documented;7;5;2;2;none;Health
+FM-001370;2026-03-12;Islam Qala;Iran;Herat;Deportee;7;4;3;3;unaccompanied child;Cash
+FM-001371;2026-03-12;Torkham;Iran;Nangarhar;Documented;2;0;2;1;unaccompanied child;Shelter
+FM-001372;2026-03-13;Islam Qala;Pakistan;Kabul;Documented;8;5;3;3;"female-headed;none";Health
+FM-001373;2026-03-13;Spin Boldak;Iran;Herat;Documented;3;3;0;0;"chronic illness;unaccompanied child";Shelter
+FM-001374;2026-03-13;Islam Qala;Iran;Kabul;Undocumented;3;2;1;1;disability;Cash
+FM-001375;2026-03-13;Spin Boldak;Pakistan;Kabul;Deportee;2;1;1;0;unaccompanied child;Food
+FM-001376;2026-03-14;Spin Boldak;Pakistan;Herat;Documented;8;8;0;0;"disability;unaccompanied child";Shelter
+FM-001377;2026-03-14;Torkham;Pakistan;Kabul;Undocumented;6;6;0;0;none;Food
+FM-001378;2026-03-14;Spin Boldak;Iran;Herat;Documented;6;3;3;3;"chronic illness;disability";Cash
+FM-001379;2026-03-14;Torkham;Iran;Herat;Documented;4;1;3;0;"chronic illness;female-headed";Shelter
+FM-001380;2026-03-14;Islam Qala;Pakistan;Balkh;Deportee;5;4;1;2;"female-headed;unaccompanied child";Transport
+FM-001381;2026-03-15;Torkham;Iran;Nangarhar;Deportee;4;1;3;1;female-headed;Shelter
+FM-001382;2026-03-15;Torkham;Iran;Herat;Documented;1;0;1;1;"chronic illness;disability";Shelter
+FM-001383;2026-03-15;Islam Qala;Pakistan;Kabul;Undocumented;8;5;3;0;"chronic illness;disability";Cash
+FM-001384;2026-03-16;Islam Qala;Pakistan;Nangarhar;Undocumented;2;2;0;0;chronic illness;Cash
+FM-001385;2026-03-16;Islam Qala;Pakistan;Kabul;Documented;5;0;5;1;unaccompanied child;Health
+FM-001386;2026-03-16;Islam Qala;Pakistan;Nangarhar;Undocumented;6;6;0;0;"chronic illness;unaccompanied child";Cash
+FM-001387;2026-03-16;Islam Qala;Pakistan;Herat;Documented;1;1;0;0;none;Cash
+FM-001388;2026-03-16;Islam Qala;Pakistan;Kabul;Documented;8;0;8;0;"chronic illness;unaccompanied child";Shelter
+FM-001389;2026-03-17;Spin Boldak;Iran;Herat;Undocumented;7;2;5;3;"female-headed;none";Shelter
+FM-001390;2026-03-17;Torkham;Pakistan;Herat;Undocumented;2;2;0;0;female-headed;Shelter
+FM-001391;2026-03-18;Torkham;Pakistan;Kabul;Deportee;5;4;1;0;disability;Shelter
+FM-001392;2026-03-18;Islam Qala;Iran;Herat;Undocumented;3;0;3;0;"none;unaccompanied child";Health
+FM-001393;2026-03-18;Torkham;Iran;Kabul;Documented;2;1;1;1;"female-headed;none";Cash
+FM-001394;2026-03-18;Torkham;Pakistan;Kabul;Undocumented;7;7;0;0;female-headed;Food
+FM-001395;2026-03-19;Torkham;Iran;Kabul;Documented;1;1;0;1;"chronic illness;female-headed";Health
+FM-001396;2026-03-19;Torkham;Pakistan;Kabul;Deportee;4;0;4;1;"chronic illness;disability";Food
+FM-001397;2026-03-19;Spin Boldak;Iran;Herat;Undocumented;8;0;8;4;chronic illness;Cash
+FM-001398;2026-03-19;Spin Boldak;Iran;Kabul;Undocumented;3;1;2;1;chronic illness;Transport
+FM-001399;2026-03-19;Torkham;Iran;Herat;Undocumented;4;1;3;1;"chronic illness;none";Food
+FM-001400;2026-03-19;Islam Qala;Pakistan;Herat;Documented;4;0;4;0;unaccompanied child;Shelter
+FM-001401;2026-03-20;Torkham;Iran;Kabul;Documented;2;0;2;1;"chronic illness;none";Health
+FM-001402;2026-03-20;Spin Boldak;Pakistan;Kabul;Undocumented;7;7;0;1;none;Shelter
+FM-001403;2026-03-20;Torkham;Iran;Herat;Undocumented;5;0;5;2;female-headed;Food
+FM-001404;2026-03-21;Islam Qala;Iran;Kabul;Documented;3;3;0;0;"disability;female-headed";Transport
+FM-001405;2026-03-21;Torkham;Iran;Herat;Undocumented;1;1;0;0;"chronic illness;disability";Health
+FM-001406;2026-03-22;Torkham;Pakistan;Nangarhar;Undocumented;6;3;3;3;"disability;unaccompanied child";Food
+FM-001407;2026-03-22;Islam Qala;Iran;Kabul;Deportee;1;1;0;1;"none;unaccompanied child";Transport
+FM-001408;2026-03-22;Spin Boldak;Iran;Balkh;Deportee;8;6;2;0;"chronic illness;disability";Shelter
+FM-001409;2026-03-22;Torkham;Iran;Balkh;Documented;5;3;2;0;female-headed;Transport
+FM-001410;2026-03-22;Torkham;Pakistan;Kabul;Documented;8;2;6;1;female-headed;Health
+FM-001411;2026-03-23;Islam Qala;Pakistan;Herat;Deportee;5;1;4;2;female-headed;Food
+FM-001412;2026-03-23;Torkham;Iran;Nangarhar;Documented;1;1;0;1;none;Cash
+FM-001413;2026-03-23;Islam Qala;Pakistan;Nangarhar;Undocumented;5;0;5;2;disability;Food
+FM-001414;2026-03-23;Islam Qala;Pakistan;Herat;Documented;4;0;4;2;chronic illness;Transport
+FM-001415;2026-03-23;Torkham;Iran;Nangarhar;Documented;6;5;1;1;female-headed;Health
+FM-001416;2026-03-24;Torkham;Pakistan;Nangarhar;Deportee;8;5;3;3;"chronic illness;unaccompanied child";Health
+FM-001417;2026-03-24;Islam Qala;Iran;Balkh;Deportee;1;0;1;0;"chronic illness;none";Health
+FM-001418;2026-03-24;Islam Qala;Pakistan;Herat;Deportee;2;1;1;1;"chronic illness;unaccompanied child";Health
+FM-001419;2026-03-24;Islam Qala;Iran;Balkh;Deportee;4;3;1;1;"chronic illness;female-headed";Cash
+FM-001420;2026-03-24;Torkham;Pakistan;Herat;Undocumented;5;1;4;1;female-headed;Transport
+FM-001421;2026-03-24;Torkham;Iran;Kabul;Undocumented;4;0;4;2;unaccompanied child;Food
+FM-001422;2026-03-25;Torkham;Iran;Herat;Documented;8;0;8;4;disability;Cash
+FM-001423;2026-03-25;Islam Qala;Iran;Nangarhar;Undocumented;3;2;1;1;female-headed;Food
+FM-001424;2026-03-25;Islam Qala;Pakistan;Herat;Undocumented;3;1;2;0;"female-headed;none";Shelter
+FM-001425;2026-03-25;Spin Boldak;Iran;Balkh;Undocumented;4;3;1;0;female-headed;Health
+FM-001426;2026-03-26;Spin Boldak;Iran;Nangarhar;Deportee;4;0;4;1;unaccompanied child;Shelter
+FM-001427;2026-03-26;Spin Boldak;Iran;Nangarhar;Undocumented;1;0;1;0;female-headed;Food
+FM-001428;2026-03-26;Torkham;Pakistan;Nangarhar;Undocumented;7;0;7;2;unaccompanied child;Food
+FM-001429;2026-03-26;Islam Qala;Iran;Nangarhar;Documented;1;1;0;0;none;Cash
+FM-001430;2026-03-26;Spin Boldak;Pakistan;Herat;Deportee;1;0;1;1;disability;Food
+FM-001431;2026-03-26;Torkham;Pakistan;Kabul;Documented;8;8;0;1;"chronic illness;none";Cash
+FM-001432;2026-03-27;Torkham;Pakistan;Kabul;Documented;5;2;3;0;none;Shelter
+FM-001433;2026-03-27;Islam Qala;Iran;Kabul;Undocumented;3;2;1;0;disability;Cash
+FM-001434;2026-03-27;Spin Boldak;Pakistan;Kabul;Deportee;5;2;3;0;"disability;female-headed";Cash
+FM-001435;2026-03-27;Spin Boldak;Iran;Herat;Undocumented;7;2;5;3;"female-headed;none";Cash
+FM-001436;2026-03-28;Spin Boldak;Iran;Nangarhar;Documented;8;2;6;0;female-headed;Health
+FM-001437;2026-03-28;Islam Qala;Iran;Balkh;Undocumented;1;1;0;1;chronic illness;Food
+FM-001438;2026-03-28;Islam Qala;Pakistan;Balkh;Documented;3;0;3;0;none;Food
+FM-001439;2026-03-28;Torkham;Iran;Nangarhar;Undocumented;8;0;8;0;none;Health
+FM-001440;2026-03-28;Torkham;Pakistan;Herat;Deportee;7;1;6;0;"female-headed;unaccompanied child";Transport
+FM-001441;2026-03-28;Spin Boldak;Pakistan;Nangarhar;Undocumented;8;6;2;2;female-headed;Food
+FM-001442;2026-03-28;Torkham;Pakistan;Kabul;Undocumented;6;0;6;3;chronic illness;Transport
+FM-001443;2026-03-28;Torkham;Pakistan;Nangarhar;Undocumented;1;0;1;1;chronic illness;Food
+FM-001444;2026-03-28;Islam Qala;Pakistan;Herat;Undocumented;6;1;5;1;unaccompanied child;Shelter
+FM-001445;2026-03-29;Torkham;Iran;Herat;Documented;8;5;3;1;disability;Cash
+FM-001446;2026-03-29;Spin Boldak;Pakistan;Nangarhar;Deportee;6;2;4;2;none;Transport
+FM-001447;2026-03-29;Torkham;Iran;Herat;Undocumented;8;7;1;4;"chronic illness;disability";Health
+FM-001448;2026-03-30;Torkham;Pakistan;Nangarhar;Deportee;8;8;0;2;"chronic illness;female-headed";Health
+FM-001449;2026-03-30;Spin Boldak;Pakistan;Nangarhar;Undocumented;4;1;3;1;disability;Health
+FM-001450;2026-03-30;Torkham;Pakistan;Herat;Documented;5;5;0;1;"disability;female-headed";Shelter
+FM-001451;2026-03-30;Islam Qala;Iran;Kabul;Undocumented;7;5;2;0;unaccompanied child;Shelter
+FM-001452;2026-03-30;Torkham;Pakistan;Kabul;Documented;2;2;0;1;"disability;unaccompanied child";Shelter
+FM-001453;2026-03-30;Spin Boldak;Iran;Herat;Documented;8;0;8;4;unaccompanied child;Cash
+FM-001454;2026-03-30;Torkham;Iran;Nangarhar;Documented;5;4;1;2;none;Cash
+FM-001455;2026-03-30;Islam Qala;Iran;Kabul;Undocumented;3;1;2;1;chronic illness;Cash
+FM-001456;2026-03-31;Spin Boldak;Iran;Balkh;Documented;1;1;0;1;disability;Shelter
+FM-001457;2026-03-31;Torkham;Iran;Herat;Deportee;7;3;4;3;"female-headed;none";Transport
+FM-001458;2026-03-31;Islam Qala;Pakistan;Kabul;Documented;4;4;0;2;"chronic illness;none";Shelter
+FM-001459;2026-03-31;Torkham;Pakistan;Nangarhar;Undocumented;7;5;2;1;female-headed;Health
+FM-001460;2026-03-31;Torkham;Iran;Nangarhar;Documented;7;3;4;0;"chronic illness;none";Shelter
+FM-001461;2026-04-01;Islam Qala;Iran;Kabul;Deportee;6;1;5;3;none;Shelter
+FM-001462;2026-04-01;Islam Qala;Iran;Nangarhar;Undocumented;8;7;1;1;female-headed;Health
+FM-001463;2026-04-01;Islam Qala;Iran;Herat;Undocumented;3;0;3;1;chronic illness;Food
+FM-001464;2026-04-02;Torkham;Pakistan;Balkh;Undocumented;3;1;2;1;"disability;unaccompanied child";Health
+FM-001465;2026-04-02;Islam Qala;Pakistan;Herat;Undocumented;5;1;4;1;female-headed;Health
+FM-001466;2026-04-02;Islam Qala;Iran;Kabul;Deportee;5;2;3;2;female-headed;Shelter
+FM-001467;2026-04-02;Spin Boldak;Iran;Kabul;Documented;3;2;1;0;"female-headed;none";Transport
+FM-001468;2026-04-02;Spin Boldak;Pakistan;Kabul;Documented;3;1;2;0;"female-headed;none";Shelter
+FM-001469;2026-04-03;Torkham;Pakistan;Balkh;Documented;7;7;0;1;unaccompanied child;Transport
+FM-001470;2026-04-03;Spin Boldak;Pakistan;Herat;Undocumented;1;0;1;0;unaccompanied child;Food
+FM-001471;2026-04-03;Islam Qala;Iran;Nangarhar;Undocumented;7;3;4;2;"chronic illness;disability";Food
+FM-001472;2026-04-03;Islam Qala;Pakistan;Nangarhar;Undocumented;4;2;2;2;"chronic illness;unaccompanied child";Food
+FM-001473;2026-04-03;Torkham;Pakistan;Nangarhar;Deportee;1;1;0;0;none;Shelter
+FM-001474;2026-04-03;Torkham;Iran;Herat;Undocumented;4;4;0;2;unaccompanied child;Transport
+FM-001475;2026-04-04;Torkham;Pakistan;Kabul;Documented;4;1;3;0;"disability;none";Food
+FM-001476;2026-04-04;Islam Qala;Iran;Herat;Documented;6;3;3;1;chronic illness;Health
+FM-001477;2026-04-05;Torkham;Iran;Nangarhar;Documented;7;5;2;0;"chronic illness;female-headed";Transport
+FM-001478;2026-04-05;Islam Qala;Iran;Kabul;Undocumented;1;1;0;0;none;Health
+FM-001479;2026-04-05;Torkham;Iran;Balkh;Undocumented;1;0;1;1;unaccompanied child;Food
+FM-001480;2026-04-05;Islam Qala;Pakistan;Balkh;Undocumented;6;3;3;1;unaccompanied child;Shelter
+FM-001481;2026-04-06;Spin Boldak;Pakistan;Nangarhar;Documented;2;2;0;1;"chronic illness;none";Cash
+FM-001482;2026-04-06;Islam Qala;Iran;Nangarhar;Documented;5;2;3;2;"female-headed;none";Shelter
+FM-001483;2026-04-06;Islam Qala;Iran;Nangarhar;Documented;6;5;1;3;unaccompanied child;Transport
+FM-001484;2026-04-06;Torkham;Pakistan;Kabul;Deportee;5;5;0;2;"disability;unaccompanied child";Transport
+FM-001485;2026-04-06;Islam Qala;Iran;Herat;Documented;2;0;2;1;"disability;unaccompanied child";Food
+FM-001486;2026-04-06;Spin Boldak;Pakistan;Kabul;Undocumented;7;6;1;0;disability;Transport
+FM-001487;2026-04-06;Islam Qala;Pakistan;Balkh;Undocumented;1;1;0;1;"chronic illness;unaccompanied child";Shelter
+FM-001488;2026-04-07;Spin Boldak;Iran;Herat;Undocumented;1;1;0;0;"disability;none";Shelter
+FM-001489;2026-04-07;Spin Boldak;Iran;Kabul;Documented;4;4;0;1;"disability;none";Transport
+FM-001490;2026-04-07;Spin Boldak;Pakistan;Herat;Documented;4;1;3;0;"female-headed;none";Food
+FM-001491;2026-04-07;Islam Qala;Pakistan;Balkh;Documented;2;1;1;1;none;Food
+FM-001492;2026-04-08;Torkham;Iran;Herat;Documented;8;3;5;4;"disability;unaccompanied child";Cash
+FM-001493;2026-04-08;Torkham;Iran;Kabul;Deportee;3;1;2;0;"chronic illness;disability";Cash
+FM-001494;2026-04-08;Islam Qala;Pakistan;Kabul;Undocumented;1;1;0;0;disability;Food
+FM-001495;2026-04-08;Islam Qala;Iran;Kabul;Documented;6;5;1;0;none;Health
+FM-001496;2026-04-08;Islam Qala;Iran;Herat;Undocumented;4;2;2;1;none;Shelter
+FM-001497;2026-04-08;Spin Boldak;Pakistan;Balkh;Undocumented;7;3;4;0;"chronic illness;disability";Cash
+FM-001498;2026-04-08;Islam Qala;Iran;Herat;Deportee;4;0;4;1;"disability;none";Shelter
+FM-001499;2026-04-08;Spin Boldak;Pakistan;Herat;Documented;3;3;0;0;none;Health
+FM-001500;2026-04-09;Islam Qala;Pakistan;Kabul;Undocumented;8;2;6;4;chronic illness;Cash
+FM-001501;2026-04-09;Torkham;Pakistan;Herat;Undocumented;2;0;2;0;disability;Shelter
+FM-001502;2026-04-09;Islam Qala;Pakistan;Herat;Deportee;7;5;2;1;disability;Food
+FM-001503;2026-04-09;Islam Qala;Iran;Kabul;Undocumented;1;1;0;1;female-headed;Shelter
+FM-001504;2026-04-09;Torkham;Iran;Nangarhar;Undocumented;8;7;1;3;disability;Food
+FM-001505;2026-04-09;Torkham;Pakistan;Herat;Documented;2;0;2;1;none;Food
+FM-001506;2026-04-09;Islam Qala;Iran;Herat;Undocumented;6;4;2;0;unaccompanied child;Health
+FM-001507;2026-04-10;Spin Boldak;Pakistan;Herat;Undocumented;5;5;0;2;none;Cash
+FM-001508;2026-04-10;Torkham;Iran;Herat;Undocumented;4;1;3;0;unaccompanied child;Cash
+FM-001509;2026-04-10;Torkham;Pakistan;Herat;Undocumented;4;4;0;1;"female-headed;none";Transport
+FM-001510;2026-04-10;Torkham;Pakistan;Herat;Undocumented;2;0;2;1;"chronic illness;none";Transport
+FM-001511;2026-04-10;Islam Qala;Iran;Kabul;Deportee;3;2;1;0;chronic illness;Shelter
+FM-001512;2026-04-10;Torkham;Pakistan;Kabul;Deportee;3;2;1;0;none;Food
+FM-001513;2026-04-11;Torkham;Pakistan;Balkh;Undocumented;8;6;2;0;"female-headed;unaccompanied child";Food
+FM-001514;2026-04-11;Torkham;Pakistan;Nangarhar;Deportee;1;0;1;1;none;Cash
+FM-001515;2026-04-11;Torkham;Iran;Nangarhar;Undocumented;8;7;1;4;disability;Transport
+FM-001516;2026-04-11;Islam Qala;Iran;Herat;Documented;3;2;1;1;female-headed;Health
+FM-001517;2026-04-11;Torkham;Iran;Herat;Undocumented;7;2;5;2;unaccompanied child;Cash
+FM-001518;2026-04-12;Torkham;Iran;Nangarhar;Undocumented;5;5;0;0;unaccompanied child;Food
+FM-001519;2026-04-12;Spin Boldak;Iran;Herat;Deportee;3;0;3;1;"chronic illness;disability";Food
+FM-001520;2026-04-13;Torkham;Iran;Kabul;Undocumented;1;0;1;1;unaccompanied child;Transport
+FM-001521;2026-04-13;Islam Qala;Pakistan;Nangarhar;Deportee;3;0;3;1;"chronic illness;unaccompanied child";Transport
+FM-001522;2026-04-13;Islam Qala;Iran;Herat;Documented;3;3;0;1;chronic illness;Shelter
+FM-001523;2026-04-13;Spin Boldak;Iran;Kabul;Documented;2;0;2;0;female-headed;Shelter
+FM-001524;2026-04-14;Spin Boldak;Iran;Herat;Undocumented;8;7;1;0;chronic illness;Food
+FM-001525;2026-04-14;Torkham;Pakistan;Nangarhar;Undocumented;4;2;2;1;unaccompanied child;Transport
+FM-001526;2026-04-14;Spin Boldak;Iran;Herat;Documented;6;4;2;1;none;Shelter
+FM-001527;2026-04-14;Islam Qala;Pakistan;Kabul;Documented;3;1;2;1;unaccompanied child;Cash
+FM-001528;2026-04-14;Islam Qala;Iran;Nangarhar;Deportee;8;2;6;1;none;Transport
+FM-001529;2026-04-15;Islam Qala;Iran;Kabul;Documented;6;1;5;1;"female-headed;unaccompanied child";Food
+FM-001530;2026-04-15;Spin Boldak;Iran;Herat;Undocumented;2;0;2;0;"disability;none";Shelter
+FM-001531;2026-04-15;Spin Boldak;Pakistan;Nangarhar;Documented;2;1;1;1;unaccompanied child;Transport
+FM-001532;2026-04-15;Torkham;Iran;Kabul;Undocumented;8;0;8;0;unaccompanied child;Food
+FM-001533;2026-04-15;Spin Boldak;Iran;Balkh;Deportee;2;2;0;1;chronic illness;Food
+FM-001534;2026-04-16;Spin Boldak;Pakistan;Kabul;Documented;5;2;3;0;none;Health
+FM-001535;2026-04-16;Spin Boldak;Pakistan;Kabul;Undocumented;3;3;0;0;unaccompanied child;Cash
+FM-001536;2026-04-17;Torkham;Pakistan;Herat;Undocumented;8;6;2;1;"none;unaccompanied child";Health
+FM-001537;2026-04-17;Islam Qala;Iran;Herat;Documented;4;0;4;0;unaccompanied child;Health
+FM-001538;2026-04-17;Islam Qala;Iran;Herat;Deportee;4;1;3;2;"disability;none";Cash
+FM-001539;2026-04-17;Islam Qala;Iran;Kabul;Documented;1;0;1;1;disability;Health
+FM-001540;2026-04-17;Islam Qala;Pakistan;Balkh;Documented;7;7;0;1;chronic illness;Health
+FM-001541;2026-04-18;Islam Qala;Pakistan;Nangarhar;Documented;8;4;4;0;"chronic illness;female-headed";Transport
+FM-001542;2026-04-18;Torkham;Iran;Kabul;Undocumented;2;0;2;1;"none;unaccompanied child";Cash
+FM-001543;2026-04-18;Torkham;Iran;Herat;Deportee;6;5;1;0;chronic illness;Food
+FM-001544;2026-04-19;Torkham;Pakistan;Kabul;Deportee;3;0;3;0;"disability;none";Food
+FM-001545;2026-04-19;Spin Boldak;Iran;Balkh;Documented;7;7;0;1;female-headed;Transport
+FM-001546;2026-04-20;Torkham;Iran;Nangarhar;Undocumented;4;0;4;1;none;Transport
+FM-001547;2026-04-20;Spin Boldak;Iran;Kabul;Undocumented;4;3;1;2;chronic illness;Cash
+FM-001548;2026-04-20;Spin Boldak;Iran;Herat;Undocumented;8;1;7;4;female-headed;Transport
+FM-001549;2026-04-21;Islam Qala;Pakistan;Nangarhar;Undocumented;3;3;0;0;female-headed;Food
+FM-001550;2026-04-21;Spin Boldak;Iran;Herat;Undocumented;5;5;0;2;chronic illness;Food
+FM-001551;2026-04-21;Torkham;Iran;Balkh;Documented;3;2;1;0;chronic illness;Shelter
+FM-001552;2026-04-21;Spin Boldak;Pakistan;Nangarhar;Deportee;2;0;2;0;unaccompanied child;Shelter
+FM-001553;2026-04-21;Islam Qala;Pakistan;Herat;Undocumented;2;0;2;0;none;Transport
+FM-001554;2026-04-21;Islam Qala;Pakistan;Kabul;Undocumented;1;1;0;0;"female-headed;unaccompanied child";Cash
+FM-001555;2026-04-21;Islam Qala;Iran;Herat;Documented;5;2;3;0;unaccompanied child;Transport
+FM-001556;2026-04-22;Islam Qala;Iran;Kabul;Undocumented;8;6;2;4;"female-headed;none";Shelter
+FM-001557;2026-04-22;Torkham;Pakistan;Kabul;Deportee;1;1;0;0;chronic illness;Shelter
+FM-001558;2026-04-22;Islam Qala;Iran;Herat;Undocumented;4;4;0;1;"female-headed;none";Health
+FM-001559;2026-04-22;Islam Qala;Pakistan;Kabul;Deportee;3;3;0;0;"chronic illness;female-headed";Cash
+FM-001560;2026-04-22;Spin Boldak;Pakistan;Kabul;Documented;1;0;1;0;"disability;female-headed";Health
+FM-001561;2026-04-22;Torkham;Iran;Kabul;Documented;7;2;5;0;unaccompanied child;Shelter
+FM-001562;2026-04-23;Torkham;Iran;Balkh;Documented;2;0;2;1;disability;Cash
+FM-001563;2026-04-23;Islam Qala;Pakistan;Nangarhar;Deportee;2;2;0;0;female-headed;Transport
+FM-001564;2026-04-23;Islam Qala;Pakistan;Herat;Documented;6;1;5;2;"chronic illness;disability";Cash
+FM-001565;2026-04-23;Islam Qala;Iran;Herat;Undocumented;8;2;6;3;female-headed;Cash
+FM-001566;2026-04-23;Torkham;Iran;Herat;Undocumented;6;4;2;2;"chronic illness;unaccompanied child";Health
+FM-001567;2026-04-23;Islam Qala;Iran;Nangarhar;Undocumented;3;3;0;1;none;Food
+FM-001568;2026-04-23;Spin Boldak;Iran;Herat;Deportee;2;1;1;0;"none;unaccompanied child";Shelter
+FM-001569;2026-04-24;Torkham;Pakistan;Herat;Undocumented;8;3;5;3;unaccompanied child;Transport
+FM-001570;2026-04-24;Torkham;Pakistan;Nangarhar;Deportee;5;3;2;1;"disability;female-headed";Shelter
+FM-001571;2026-04-24;Torkham;Pakistan;Herat;Undocumented;6;5;1;0;"chronic illness;female-headed";Cash
+FM-001572;2026-04-24;Islam Qala;Iran;Kabul;Undocumented;6;6;0;1;chronic illness;Health
+FM-001573;2026-04-24;Islam Qala;Pakistan;Balkh;Undocumented;2;0;2;0;female-headed;Shelter
+FM-001574;2026-04-25;Torkham;Iran;Kabul;Undocumented;4;3;1;2;disability;Transport
+FM-001575;2026-04-25;Islam Qala;Pakistan;Herat;Documented;8;4;4;2;female-headed;Health
+FM-001576;2026-04-25;Islam Qala;Iran;Herat;Undocumented;3;1;2;1;female-headed;Food
+FM-001577;2026-04-25;Spin Boldak;Pakistan;Nangarhar;Undocumented;8;0;8;2;disability;Cash
+FM-001578;2026-04-25;Islam Qala;Pakistan;Kabul;Documented;7;0;7;1;"chronic illness;female-headed";Cash
+FM-001579;2026-04-26;Islam Qala;Iran;Balkh;Deportee;6;5;1;3;female-headed;Transport
+FM-001580;2026-04-26;Torkham;Iran;Herat;Undocumented;4;3;1;1;chronic illness;Cash
+FM-001581;2026-04-26;Spin Boldak;Iran;Balkh;Undocumented;8;0;8;1;"disability;none";Cash
+FM-001582;2026-04-26;Islam Qala;Pakistan;Kabul;Deportee;5;1;4;0;"female-headed;unaccompanied child";Shelter
+FM-001583;2026-04-27;Islam Qala;Pakistan;Herat;Undocumented;3;2;1;0;female-headed;Transport
+FM-001584;2026-04-27;Islam Qala;Iran;Herat;Undocumented;1;1;0;0;"chronic illness;disability";Cash
+FM-001585;2026-04-27;Islam Qala;Iran;Kabul;Undocumented;1;0;1;0;chronic illness;Shelter
+FM-001586;2026-04-27;Spin Boldak;Iran;Kabul;Undocumented;7;7;0;3;disability;Food
+FM-001587;2026-04-27;Spin Boldak;Iran;Balkh;Documented;7;6;1;1;female-headed;Transport
+FM-001588;2026-04-27;Torkham;Iran;Nangarhar;Undocumented;5;1;4;2;"chronic illness;none";Shelter
+FM-001589;2026-04-28;Islam Qala;Iran;Nangarhar;Undocumented;8;6;2;4;"chronic illness;female-headed";Health
+FM-001590;2026-04-28;Islam Qala;Iran;Balkh;Documented;6;5;1;2;none;Shelter
+FM-001591;2026-04-28;Islam Qala;Iran;Nangarhar;Deportee;8;5;3;1;unaccompanied child;Transport
+FM-001592;2026-04-29;Spin Boldak;Pakistan;Balkh;Documented;6;3;3;2;"none;unaccompanied child";Shelter
+FM-001593;2026-04-29;Torkham;Pakistan;Nangarhar;Undocumented;6;1;5;2;none;Food
+FM-001594;2026-04-30;Torkham;Iran;Balkh;Documented;4;3;1;2;"chronic illness;disability";Cash
+FM-001595;2026-04-30;Islam Qala;Iran;Kabul;Undocumented;1;0;1;0;"chronic illness;unaccompanied child";Transport
+FM-001596;2026-04-30;Islam Qala;Iran;Balkh;Undocumented;2;0;2;1;female-headed;Health
+FM-001597;2026-05-01;Torkham;Iran;Nangarhar;Undocumented;5;4;1;0;none;Cash
+FM-001598;2026-05-01;Torkham;Iran;Balkh;Undocumented;5;4;1;0;chronic illness;Cash
+FM-001599;2026-05-01;Islam Qala;Pakistan;Balkh;Undocumented;7;4;3;0;"chronic illness;female-headed";Health
+FM-001600;2026-05-01;Spin Boldak;Iran;Kabul;Undocumented;4;0;4;1;female-headed;Cash
+FM-001601;2026-05-01;Spin Boldak;Iran;Herat;Undocumented;7;6;1;3;"none;unaccompanied child";Food
+FM-001602;2026-05-01;Spin Boldak;Pakistan;Herat;Deportee;5;0;5;0;"disability;unaccompanied child";Cash
+FM-001603;2026-05-02;Islam Qala;Iran;Kabul;Deportee;7;4;3;1;none;Cash
+FM-001604;2026-05-02;Spin Boldak;Pakistan;Kabul;Undocumented;4;0;4;0;chronic illness;Cash
+FM-001605;2026-05-03;Spin Boldak;Iran;Herat;Undocumented;4;2;2;2;"disability;unaccompanied child";Health
+FM-001606;2026-05-03;Torkham;Pakistan;Herat;Documented;5;1;4;2;"female-headed;unaccompanied child";Transport
+FM-001607;2026-05-03;Spin Boldak;Pakistan;Herat;Documented;5;2;3;1;disability;Transport
+FM-001608;2026-05-03;Spin Boldak;Pakistan;Herat;Documented;8;6;2;1;unaccompanied child;Cash
+FM-001609;2026-05-03;Spin Boldak;Pakistan;Herat;Documented;7;7;0;1;unaccompanied child;Transport
+FM-001610;2026-05-03;Torkham;Iran;Kabul;Documented;5;0;5;0;unaccompanied child;Food
+FM-001611;2026-05-04;Islam Qala;Pakistan;Herat;Deportee;2;2;0;0;"chronic illness;unaccompanied child";Transport
+FM-001612;2026-05-04;Spin Boldak;Iran;Balkh;Undocumented;7;3;4;1;"chronic illness;disability";Cash
+FM-001613;2026-05-04;Spin Boldak;Pakistan;Nangarhar;Undocumented;5;1;4;1;disability;Cash
+FM-001614;2026-05-04;Torkham;Pakistan;Kabul;Deportee;1;0;1;1;disability;Transport
+FM-001615;2026-05-04;Islam Qala;Pakistan;Kabul;Documented;5;1;4;2;female-headed;Food
+FM-001616;2026-05-05;Torkham;Iran;Kabul;Undocumented;2;0;2;1;unaccompanied child;Shelter
+FM-001617;2026-05-05;Spin Boldak;Iran;Nangarhar;Deportee;4;4;0;1;female-headed;Shelter
+FM-001618;2026-05-05;Islam Qala;Pakistan;Nangarhar;Documented;7;7;0;3;none;Transport
+FM-001619;2026-05-05;Islam Qala;Iran;Balkh;Undocumented;4;2;2;1;female-headed;Health
+FM-001620;2026-05-06;Torkham;Pakistan;Nangarhar;Deportee;8;6;2;4;"female-headed;none";Shelter
+FM-001621;2026-05-06;Torkham;Pakistan;Kabul;Undocumented;8;4;4;3;"female-headed;unaccompanied child";Transport
+FM-001622;2026-05-06;Spin Boldak;Iran;Kabul;Undocumented;4;4;0;2;"disability;female-headed";Cash
+FM-001623;2026-05-07;Islam Qala;Pakistan;Nangarhar;Undocumented;8;2;6;1;disability;Shelter
+FM-001624;2026-05-07;Torkham;Iran;Herat;Deportee;5;1;4;2;unaccompanied child;Health
+FM-001625;2026-05-07;Islam Qala;Iran;Kabul;Undocumented;1;1;0;1;unaccompanied child;Shelter
+FM-001626;2026-05-07;Islam Qala;Iran;Nangarhar;Documented;1;0;1;0;unaccompanied child;Cash
+FM-001627;2026-05-07;Torkham;Iran;Herat;Documented;8;3;5;3;chronic illness;Shelter
+FM-001628;2026-05-07;Islam Qala;Iran;Nangarhar;Undocumented;1;1;0;0;unaccompanied child;Health
+FM-001629;2026-05-07;Torkham;Iran;Nangarhar;Documented;7;4;3;0;"disability;none";Transport
+FM-001630;2026-05-08;Islam Qala;Iran;Herat;Documented;6;6;0;3;"disability;none";Cash
+FM-001631;2026-05-08;Islam Qala;Pakistan;Kabul;Undocumented;5;3;2;0;none;Shelter
+FM-001632;2026-05-08;Spin Boldak;Iran;Nangarhar;Undocumented;4;3;1;1;"disability;female-headed";Food
+FM-001633;2026-05-08;Islam Qala;Iran;Kabul;Undocumented;5;2;3;1;"female-headed;none";Food
+FM-001634;2026-05-08;Torkham;Pakistan;Kabul;Deportee;3;1;2;0;chronic illness;Transport
+FM-001635;2026-05-09;Islam Qala;Iran;Kabul;Deportee;2;2;0;0;chronic illness;Transport
+FM-001636;2026-05-09;Islam Qala;Iran;Balkh;Documented;6;1;5;0;"female-headed;unaccompanied child";Health
+FM-001637;2026-05-09;Spin Boldak;Pakistan;Balkh;Undocumented;1;0;1;1;female-headed;Food
+FM-001638;2026-05-09;Torkham;Pakistan;Nangarhar;Undocumented;2;1;1;0;"female-headed;none";Food
+FM-001639;2026-05-09;Spin Boldak;Iran;Balkh;Documented;4;4;0;2;"chronic illness;none";Cash
+FM-001640;2026-05-10;Islam Qala;Iran;Kabul;Undocumented;1;0;1;1;female-headed;Shelter
+FM-001641;2026-05-10;Islam Qala;Pakistan;Nangarhar;Undocumented;8;5;3;4;disability;Shelter
+FM-001642;2026-05-10;Torkham;Iran;Nangarhar;Deportee;5;3;2;1;chronic illness;Health
+FM-001643;2026-05-10;Torkham;Iran;Kabul;Deportee;3;1;2;1;none;Food
+FM-001644;2026-05-10;Islam Qala;Iran;Kabul;Undocumented;1;1;0;1;"female-headed;none";Shelter
+FM-001645;2026-05-10;Islam Qala;Pakistan;Nangarhar;Undocumented;6;5;1;1;"none;unaccompanied child";Shelter
+FM-001646;2026-05-11;Torkham;Iran;Kabul;Documented;5;5;0;2;chronic illness;Health
+FM-001647;2026-05-11;Torkham;Pakistan;Kabul;Undocumented;7;0;7;3;"disability;female-headed";Shelter
+FM-001648;2026-05-12;Torkham;Iran;Herat;Undocumented;1;0;1;1;"disability;none";Food
+FM-001649;2026-05-12;Islam Qala;Pakistan;Nangarhar;Documented;3;0;3;0;"none;unaccompanied child";Shelter
+FM-001650;2026-05-12;Torkham;Iran;Herat;Undocumented;5;3;2;2;female-headed;Shelter
+FM-001651;2026-05-12;Torkham;Iran;Balkh;Deportee;1;0;1;1;unaccompanied child;Health
+FM-001652;2026-05-12;Spin Boldak;Pakistan;Nangarhar;Undocumented;5;0;5;2;none;Transport
+FM-001653;2026-05-13;Torkham;Pakistan;Kabul;Undocumented;5;5;0;2;"female-headed;unaccompanied child";Shelter
+FM-001654;2026-05-13;Islam Qala;Iran;Kabul;Undocumented;1;0;1;0;"disability;female-headed";Shelter
+FM-001655;2026-05-13;Islam Qala;Pakistan;Herat;Undocumented;6;0;6;1;"chronic illness;unaccompanied child";Transport
+FM-001656;2026-05-14;Islam Qala;Iran;Herat;Deportee;3;0;3;1;chronic illness;Cash
+FM-001657;2026-05-14;Islam Qala;Iran;Herat;Deportee;8;4;4;4;"female-headed;none";Shelter
+FM-001658;2026-05-14;Torkham;Pakistan;Herat;Deportee;7;5;2;1;disability;Transport
+FM-001659;2026-05-15;Spin Boldak;Iran;Balkh;Deportee;4;1;3;1;"chronic illness;disability";Health
+FM-001660;2026-05-16;Torkham;Pakistan;Kabul;Deportee;5;5;0;1;"chronic illness;unaccompanied child";Health
+FM-001661;2026-05-16;Torkham;Pakistan;Nangarhar;Deportee;2;2;0;0;"disability;unaccompanied child";Health
+FM-001662;2026-05-16;Spin Boldak;Iran;Balkh;Documented;2;0;2;1;"disability;female-headed";Health
+FM-001663;2026-05-16;Islam Qala;Iran;Kabul;Undocumented;2;2;0;0;chronic illness;Shelter
+FM-001664;2026-05-17;Torkham;Iran;Kabul;Deportee;7;4;3;2;none;Cash
+FM-001665;2026-05-17;Islam Qala;Pakistan;Kabul;Deportee;6;3;3;3;"chronic illness;unaccompanied child";Cash
+FM-001666;2026-05-17;Spin Boldak;Iran;Herat;Undocumented;3;3;0;0;female-headed;Food
+FM-001667;2026-05-17;Torkham;Iran;Nangarhar;Deportee;1;0;1;1;none;Cash
+FM-001668;2026-05-17;Islam Qala;Iran;Nangarhar;Documented;4;1;3;2;none;Cash
+FM-001669;2026-05-17;Torkham;Iran;Balkh;Undocumented;4;0;4;0;none;Transport
+FM-001670;2026-05-19;Islam Qala;Pakistan;Nangarhar;Deportee;3;3;0;1;"female-headed;unaccompanied child";Cash
+FM-001671;2026-05-19;Spin Boldak;Pakistan;Kabul;Undocumented;3;2;1;0;"none;unaccompanied child";Cash
+FM-001672;2026-05-19;Islam Qala;Pakistan;Herat;Documented;3;1;2;0;female-headed;Health
+FM-001673;2026-05-20;Islam Qala;Iran;Kabul;Undocumented;3;2;1;1;none;Food
+FM-001674;2026-05-20;Islam Qala;Pakistan;Kabul;Documented;2;0;2;1;disability;Cash
+FM-001675;2026-05-20;Torkham;Iran;Balkh;Undocumented;8;2;6;2;"chronic illness;unaccompanied child";Health
+FM-001676;2026-05-20;Spin Boldak;Iran;Kabul;Undocumented;2;1;1;0;chronic illness;Health
+FM-001677;2026-05-20;Torkham;Iran;Herat;Undocumented;4;1;3;0;"none;unaccompanied child";Health
+FM-001678;2026-05-20;Torkham;Pakistan;Herat;Deportee;7;4;3;2;unaccompanied child;Transport
+FM-001679;2026-05-20;Islam Qala;Iran;Nangarhar;Documented;4;1;3;1;unaccompanied child;Transport
+FM-001680;2026-05-21;Torkham;Iran;Herat;Undocumented;1;0;1;1;"chronic illness;female-headed";Cash
+FM-001681;2026-05-21;Torkham;Pakistan;Kabul;Undocumented;2;2;0;1;female-headed;Food
+FM-001682;2026-05-21;Torkham;Pakistan;Herat;Undocumented;7;2;5;3;female-headed;Cash
+FM-001683;2026-05-22;Islam Qala;Iran;Herat;Undocumented;2;2;0;1;disability;Cash
+FM-001684;2026-05-22;Islam Qala;Pakistan;Herat;Documented;7;1;6;2;none;Health
+FM-001685;2026-05-22;Islam Qala;Iran;Balkh;Undocumented;2;1;1;0;female-headed;Cash
+FM-001686;2026-05-22;Torkham;Iran;Herat;Deportee;5;4;1;0;none;Health
+FM-001687;2026-05-23;Islam Qala;Pakistan;Balkh;Documented;3;1;2;1;unaccompanied child;Cash
+FM-001688;2026-05-23;Islam Qala;Iran;Nangarhar;Deportee;1;0;1;1;"female-headed;unaccompanied child";Health
+FM-001689;2026-05-23;Islam Qala;Pakistan;Balkh;Documented;6;6;0;3;none;Cash
+FM-001690;2026-05-23;Islam Qala;Pakistan;Balkh;Undocumented;8;8;0;0;unaccompanied child;Transport
+FM-001691;2026-05-24;Torkham;Pakistan;Herat;Documented;4;2;2;1;"chronic illness;unaccompanied child";Shelter
+FM-001692;2026-05-24;Islam Qala;Pakistan;Kabul;Undocumented;6;5;1;3;"chronic illness;unaccompanied child";Transport
+FM-001693;2026-05-24;Torkham;Iran;Kabul;Documented;2;1;1;1;"chronic illness;unaccompanied child";Food
+FM-001694;2026-05-24;Islam Qala;Pakistan;Kabul;Documented;3;3;0;0;"chronic illness;none";Shelter
+FM-001695;2026-05-24;Torkham;Pakistan;Kabul;Deportee;3;0;3;0;"female-headed;unaccompanied child";Cash
+FM-001696;2026-05-25;Torkham;Iran;Kabul;Undocumented;4;0;4;1;female-headed;Health
+FM-001697;2026-05-25;Islam Qala;Iran;Balkh;Deportee;8;1;7;3;"female-headed;unaccompanied child";Food
+FM-001698;2026-05-25;Islam Qala;Iran;Balkh;Deportee;3;1;2;0;disability;Health
+FM-001699;2026-05-26;Torkham;Iran;Kabul;Deportee;7;1;6;2;disability;Cash
+FM-001700;2026-05-26;Islam Qala;Iran;Kabul;Undocumented;8;3;5;1;female-headed;Transport
+FM-001701;2026-05-27;Islam Qala;Iran;Balkh;Deportee;2;0;2;0;"chronic illness;unaccompanied child";Food
+FM-001702;2026-05-27;Torkham;Iran;Kabul;Undocumented;5;1;4;2;none;Transport
+FM-001703;2026-05-27;Spin Boldak;Iran;Herat;Undocumented;1;0;1;1;female-headed;Food
+FM-001704;2026-05-27;Spin Boldak;Pakistan;Kabul;Deportee;6;5;1;3;"disability;female-headed";Transport
+FM-001705;2026-05-28;Islam Qala;Iran;Balkh;Undocumented;7;2;5;3;unaccompanied child;Cash
+FM-001706;2026-05-28;Islam Qala;Iran;Herat;Undocumented;1;1;0;0;"none;unaccompanied child";Shelter
+FM-001707;2026-05-28;Spin Boldak;Iran;Nangarhar;Deportee;7;5;2;2;disability;Shelter
+FM-001708;2026-05-28;Spin Boldak;Iran;Kabul;Undocumented;7;3;4;3;disability;Cash
+FM-001709;2026-05-28;Torkham;Pakistan;Herat;Documented;8;5;3;3;"female-headed;none";Cash
+FM-001710;2026-05-28;Islam Qala;Iran;Kabul;Documented;5;4;1;2;chronic illness;Health
+FM-001711;2026-05-29;Islam Qala;Pakistan;Herat;Undocumented;5;1;4;2;unaccompanied child;Food
+FM-001712;2026-05-29;Torkham;Iran;Kabul;Undocumented;8;0;8;3;chronic illness;Food
+FM-001713;2026-05-29;Islam Qala;Pakistan;Herat;Undocumented;4;0;4;0;disability;Cash
+FM-001714;2026-05-29;Torkham;Iran;Nangarhar;Undocumented;8;0;8;1;none;Transport
+FM-001715;2026-05-29;Islam Qala;Iran;Kabul;Documented;7;4;3;2;disability;Transport
+FM-001716;2026-05-29;Islam Qala;Iran;Balkh;Undocumented;5;0;5;0;"disability;none";Cash
+FM-001717;2026-05-29;Islam Qala;Pakistan;Herat;Documented;6;3;3;1;female-headed;Health
+FM-001718;2026-05-30;Spin Boldak;Iran;Kabul;Deportee;1;0;1;1;none;Cash
+FM-001719;2026-05-30;Islam Qala;Pakistan;Herat;Documented;8;4;4;2;chronic illness;Health
+FM-001720;2026-05-30;Spin Boldak;Pakistan;Kabul;Undocumented;6;3;3;2;"disability;female-headed";Health
+FM-001721;2026-05-30;Islam Qala;Iran;Kabul;Documented;7;5;2;1;"none;unaccompanied child";Health
+FM-001722;2026-05-30;Islam Qala;Iran;Kabul;Undocumented;4;0;4;2;"none;unaccompanied child";Shelter
+FM-001723;2026-05-30;Islam Qala;Iran;Nangarhar;Documented;5;2;3;1;"chronic illness;female-headed";Health
+FM-001724;2026-05-30;Torkham;Pakistan;Kabul;Undocumented;8;6;2;2;"chronic illness;none";Cash
+FM-001725;2026-05-31;Islam Qala;Iran;Kabul;Deportee;7;5;2;1;female-headed;Health
+FM-001726;2026-05-31;Torkham;Iran;Nangarhar;Undocumented;8;1;7;2;"chronic illness;female-headed";Transport
+FM-001727;2026-06-01;Spin Boldak;Pakistan;Kabul;Deportee;1;1;0;0;none;Transport
+FM-001728;2026-06-01;Torkham;Iran;Herat;Deportee;3;2;1;1;"disability;female-headed";Cash
+FM-001729;2026-06-01;Islam Qala;Iran;Kabul;Undocumented;4;4;0;1;unaccompanied child;Cash
+FM-001730;2026-06-02;Torkham;Iran;Nangarhar;Documented;6;6;0;3;chronic illness;Shelter
+FM-001731;2026-06-02;Islam Qala;Iran;Balkh;Documented;4;3;1;0;chronic illness;Cash
+FM-001732;2026-06-02;Torkham;Iran;Nangarhar;Documented;6;6;0;3;disability;Health
+FM-001733;2026-06-02;Torkham;Pakistan;Kabul;Undocumented;5;2;3;2;"chronic illness;unaccompanied child";Cash
+FM-001734;2026-06-03;Islam Qala;Pakistan;Nangarhar;Documented;5;5;0;1;unaccompanied child;Cash
+FM-001735;2026-06-04;Spin Boldak;Iran;Nangarhar;Documented;6;3;3;1;disability;Cash
+FM-001736;2026-06-04;Islam Qala;Iran;Kabul;Documented;2;0;2;1;"chronic illness;none";Shelter
+FM-001737;2026-06-04;Spin Boldak;Pakistan;Nangarhar;Deportee;7;2;5;1;disability;Health
+FM-001738;2026-06-04;Islam Qala;Pakistan;Herat;Documented;1;1;0;1;"disability;female-headed";Health
+FM-001739;2026-06-04;Torkham;Pakistan;Nangarhar;Deportee;3;3;0;1;chronic illness;Food
+FM-001740;2026-06-05;Spin Boldak;Iran;Nangarhar;Documented;6;4;2;3;unaccompanied child;Health
+FM-001741;2026-06-05;Spin Boldak;Pakistan;Nangarhar;Undocumented;5;0;5;0;"chronic illness;disability";Shelter
+FM-001742;2026-06-06;Spin Boldak;Iran;Herat;Undocumented;2;0;2;1;"disability;female-headed";Food
+FM-001743;2026-06-06;Islam Qala;Pakistan;Balkh;Undocumented;1;0;1;0;disability;Health
+FM-001744;2026-06-06;Islam Qala;Iran;Kabul;Undocumented;6;3;3;0;"disability;none";Health
+FM-001745;2026-06-08;Torkham;Iran;Herat;Deportee;5;1;4;0;"none;unaccompanied child";Transport
+FM-001746;2026-06-08;Islam Qala;Iran;Nangarhar;Documented;4;1;3;1;"none;unaccompanied child";Cash
+FM-001747;2026-06-08;Islam Qala;Iran;Nangarhar;Documented;4;3;1;2;unaccompanied child;Transport
+FM-001748;2026-06-08;Islam Qala;Pakistan;Nangarhar;Deportee;1;1;0;0;unaccompanied child;Transport
+FM-001749;2026-06-08;Torkham;Iran;Nangarhar;Undocumented;5;3;2;0;"female-headed;none";Shelter
+FM-001750;2026-06-08;Torkham;Iran;Kabul;Undocumented;7;7;0;3;"none;unaccompanied child";Transport
+FM-001751;2026-06-10;Torkham;Iran;Kabul;Documented;6;2;4;0;"chronic illness;unaccompanied child";Cash
+FM-001752;2026-06-10;Islam Qala;Pakistan;Kabul;Undocumented;1;0;1;0;"chronic illness;unaccompanied child";Health
+FM-001753;2026-06-11;Torkham;Iran;Nangarhar;Documented;8;4;4;2;none;Cash
+FM-001754;2026-06-11;Islam Qala;Pakistan;Nangarhar;Deportee;6;5;1;0;unaccompanied child;Transport
+FM-001755;2026-06-11;Torkham;Pakistan;Balkh;Undocumented;5;0;5;2;"chronic illness;disability";Cash
+FM-001756;2026-06-11;Islam Qala;Iran;Kabul;Deportee;5;5;0;1;none;Cash
+FM-001757;2026-06-11;Torkham;Iran;Balkh;Documented;8;6;2;0;"female-headed;unaccompanied child";Food
+FM-001758;2026-06-12;Torkham;Iran;Nangarhar;Deportee;7;2;5;0;none;Transport
+FM-001759;2026-06-12;Torkham;Iran;Kabul;Undocumented;5;0;5;1;"chronic illness;unaccompanied child";Cash
+FM-001760;2026-06-13;Spin Boldak;Pakistan;Nangarhar;Undocumented;1;1;0;1;"disability;female-headed";Cash
+FM-001761;2026-06-13;Torkham;Pakistan;Nangarhar;Deportee;5;1;4;2;"chronic illness;disability";Shelter
+FM-001762;2026-06-14;Torkham;Pakistan;Herat;Undocumented;2;1;1;1;"disability;female-headed";Transport
+FM-001763;2026-06-14;Torkham;Pakistan;Balkh;Documented;8;3;5;4;female-headed;Transport
+FM-001764;2026-06-14;Spin Boldak;Pakistan;Herat;Documented;8;4;4;4;"chronic illness;none";Health
+FM-001765;2026-06-15;Torkham;Pakistan;Kabul;Undocumented;8;3;5;4;"chronic illness;unaccompanied child";Transport
+FM-001766;2026-06-16;Torkham;Pakistan;Herat;Documented;6;6;0;0;chronic illness;Cash
+FM-001767;2026-06-16;Torkham;Pakistan;Herat;Undocumented;7;5;2;0;"none;unaccompanied child";Cash
+FM-001768;2026-06-16;Torkham;Pakistan;Herat;Deportee;3;1;2;1;"chronic illness;none";Food
+FM-001769;2026-06-16;Torkham;Iran;Herat;Undocumented;8;6;2;1;"female-headed;unaccompanied child";Food
+FM-001770;2026-06-16;Torkham;Iran;Kabul;Deportee;1;1;0;1;none;Shelter
+FM-001771;2026-06-17;Islam Qala;Iran;Nangarhar;Deportee;1;0;1;1;disability;Cash
+FM-001772;2026-06-17;Torkham;Iran;Herat;Documented;3;3;0;1;unaccompanied child;Shelter
+FM-001773;2026-06-17;Spin Boldak;Iran;Balkh;Deportee;6;4;2;0;"disability;unaccompanied child";Cash
+FM-001774;2026-06-17;Islam Qala;Pakistan;Kabul;Documented;4;2;2;2;"female-headed;none";Cash
+FM-001775;2026-06-18;Spin Boldak;Pakistan;Herat;Undocumented;6;1;5;2;"chronic illness;disability";Transport
+FM-001776;2026-06-18;Torkham;Pakistan;Nangarhar;Undocumented;6;5;1;2;none;Cash
+FM-001777;2026-06-18;Islam Qala;Pakistan;Balkh;Undocumented;7;4;3;0;"chronic illness;none";Health
+FM-001778;2026-06-19;Spin Boldak;Pakistan;Herat;Documented;5;0;5;2;chronic illness;Transport
+FM-001779;2026-06-19;Torkham;Iran;Kabul;Documented;1;0;1;1;disability;Health
+FM-001780;2026-06-20;Islam Qala;Pakistan;Nangarhar;Documented;3;2;1;1;"chronic illness;none";Food
+FM-001781;2026-06-20;Spin Boldak;Pakistan;Balkh;Deportee;7;4;3;1;disability;Shelter
+FM-001782;2026-06-20;Torkham;Iran;Nangarhar;Deportee;3;0;3;0;"chronic illness;unaccompanied child";Shelter
+FM-001783;2026-06-20;Islam Qala;Iran;Kabul;Undocumented;1;1;0;0;"disability;unaccompanied child";Transport
+FM-001784;2026-06-21;Islam Qala;Iran;Herat;Undocumented;4;4;0;1;female-headed;Transport
+FM-001785;2026-06-21;Torkham;Pakistan;Balkh;Documented;6;3;3;0;none;Health
+FM-001786;2026-06-21;Torkham;Iran;Nangarhar;Undocumented;4;2;2;2;none;Health
+FM-001787;2026-06-22;Spin Boldak;Pakistan;Kabul;Documented;4;3;1;2;none;Transport
+FM-001788;2026-06-22;Spin Boldak;Iran;Nangarhar;Deportee;2;2;0;0;none;Food
+FM-001789;2026-06-22;Islam Qala;Pakistan;Herat;Undocumented;4;0;4;0;unaccompanied child;Shelter
+FM-001790;2026-06-22;Islam Qala;Pakistan;Kabul;Documented;1;1;0;1;"chronic illness;female-headed";Transport
+FM-001791;2026-06-23;Torkham;Pakistan;Nangarhar;Undocumented;4;3;1;1;unaccompanied child;Transport
+FM-001792;2026-06-23;Islam Qala;Pakistan;Herat;Deportee;2;1;1;1;female-headed;Food
+FM-001793;2026-06-23;Spin Boldak;Pakistan;Herat;Deportee;1;1;0;0;"chronic illness;unaccompanied child";Food
+FM-001794;2026-06-23;Islam Qala;Pakistan;Herat;Deportee;1;0;1;0;chronic illness;Shelter
+FM-001795;2026-06-23;Islam Qala;Pakistan;Nangarhar;Deportee;2;0;2;1;female-headed;Shelter
+FM-001796;2026-06-23;Torkham;Pakistan;Kabul;Undocumented;2;1;1;0;"chronic illness;unaccompanied child";Shelter
+FM-001797;2026-06-23;Islam Qala;Iran;Kabul;Undocumented;1;1;0;0;"chronic illness;disability";Food
+FM-001798;2026-06-24;Spin Boldak;Pakistan;Herat;Documented;1;1;0;1;chronic illness;Health
+FM-001799;2026-06-24;Torkham;Pakistan;Herat;Documented;3;0;3;0;"female-headed;none";Shelter
+FM-001800;2026-06-25;Islam Qala;Pakistan;Kabul;Deportee;1;1;0;1;"female-headed;unaccompanied child";Food
+FM-001801;2026-06-25;Islam Qala;Iran;Balkh;Undocumented;4;3;1;0;"chronic illness;unaccompanied child";Food
+FM-001802;2026-06-25;Islam Qala;Iran;Herat;Documented;6;6;0;1;female-headed;Cash
+FM-001803;2026-06-26;Islam Qala;Pakistan;Herat;Undocumented;8;8;0;3;unaccompanied child;Shelter
+FM-001804;2026-06-26;Torkham;Iran;Herat;Undocumented;7;1;6;0;none;Cash
+FM-001805;2026-06-26;Islam Qala;Iran;Balkh;Undocumented;5;2;3;2;"female-headed;none";Transport
+FM-001806;2026-06-27;Torkham;Pakistan;Balkh;Undocumented;8;7;1;0;none;Transport
+FM-001807;2026-06-28;Islam Qala;Iran;Kabul;Deportee;7;3;4;0;chronic illness;Shelter
+FM-001808;2026-06-28;Islam Qala;Iran;Kabul;Undocumented;7;7;0;2;"disability;none";Transport
+FM-001809;2026-06-28;Spin Boldak;Iran;Balkh;Undocumented;3;3;0;1;chronic illness;Shelter
+FM-001810;2026-06-29;Spin Boldak;Iran;Kabul;Documented;5;0;5;1;chronic illness;Health
+FM-001811;2026-06-29;Torkham;Iran;Nangarhar;Undocumented;8;3;5;4;"chronic illness;female-headed";Cash
+FM-001812;2026-06-29;Torkham;Iran;Kabul;Deportee;6;5;1;2;chronic illness;Cash
+FM-001813;2026-06-30;Islam Qala;Iran;Herat;Documented;3;0;3;1;"none;unaccompanied child";Health
+FM-001814;2026-06-30;Torkham;Iran;Kabul;Undocumented;5;5;0;1;chronic illness;Food
+FM-001815;2026-06-30;Islam Qala;Iran;Kabul;Undocumented;7;0;7;0;chronic illness;Food
+FM-001816;2026-06-30;Islam Qala;Iran;Nangarhar;Deportee;4;0;4;0;"female-headed;unaccompanied child";Shelter
+FM-001817;2026-06-30;Torkham;Pakistan;Balkh;Deportee;6;0;6;3;chronic illness;Shelter

@@ -1,0 +1,361 @@
+survey_date,site_name,admin1,gps_latitude,gps_longitude,season,main_water_source,water_collection_minutes,litres_per_person_day,water_treated,latrine_type,handwashing_soap_available,water_point_functional
+01/12/2025,Camp A,Kabul,34.49259,69.16341,Wet,Unprotected well,35.0,14.9,yes,Improved,yes,yes
+15/05/2026,Settlement D,Balkh,36.70423,67.09593,Wet,Surface water,21.0,8.5,no,Improved,yes,yes
+09/11/2025,Camp A,Kabul,34.51048,69.18106,Wet,Protected well,3.0,14.9,no,Improved,yes,yes
+08/11/2025,Settlement D,Balkh,36.67268,67.11143,Wet,Unprotected well,17.0,17.1,yes,Improved,yes,yes
+18/04/2026,Camp B,Herat,34.35097,62.20297,Dry,Protected well,45.0,13.4,no,Improved,yes,yes
+28/04/2026,Settlement C,Nangarhar,34.43754,70.43913,Wet,Unprotected well,13.0,20.2,yes,Unimproved,yes,no
+21/01/2025,Camp A,Kabul,34.51799,69.1507,Dry,Piped,18.0,19.5,yes,Open defecation,yes,no
+15/01/2026,Camp A,Kabul,34.53443,69.14068,Wet,Piped,5.0,13.2,no,Improved,no,yes
+01/02/2025,Settlement C,Nangarhar,34.42365,70.44983,Wet,Protected well,8.0,10.4,yes,Improved,yes,yes
+09/11/2025,Camp B,Herat,34.35037,62.1937,Dry,Protected well,30.0,13.7,yes,Improved,no,yes
+11/02/2025,Settlement C,Nangarhar,34.42374,70.46857,Wet,Piped,78.0,15.3,no,Improved,yes,yes
+25/02/2025,Camp B,Herat,34.34624,62.22371,Dry,Water trucking,33.0,14.5,yes,Open defecation,yes,yes
+22/10/2025,Camp A,Kabul,34.51169,69.14585,Wet,Protected well,9.0,15.3,no,Unimproved,yes,no
+05/12/2025,Settlement D,Balkh,36.70677,67.12109,Dry,Water trucking,31.0,4.9,no,Open defecation,yes,yes
+29/10/2025,Camp B,Herat,34.31798,62.20228,Dry,Protected well,50.0,20.0,yes,Improved,yes,yes
+30/11/2025,Settlement C,Nangarhar,34.43561,70.45057,Dry,Protected well,40.0,18.1,no,Open defecation,no,yes
+24/02/2025,Camp B,Herat,34.36541,62.19952,Wet,Unprotected well,107.0,18.7,no,Open defecation,yes,no
+21/03/2026,Camp A,Kabul,34.50787,69.18247,Wet,Protected well,3.0,20.9,yes,Improved,no,no
+14/05/2026,Camp A,Kabul,34.54425,69.15746,Wet,Protected well,7.0,10.2,yes,Improved,no,no
+26/02/2026,Settlement C,Nangarhar,34.42394,70.45185,Dry,Unprotected well,20.0,3.4,no,Improved,yes,no
+19/05/2026,Settlement C,Nangarhar,34.43284,70.44108,Wet,Water trucking,36.0,10.4,no,Improved,no,yes
+08/03/2026,Camp A,Kabul,34.52003,69.17352,Dry,Piped,33.0,17.6,yes,Improved,yes,yes
+31/08/2025,Settlement D,Balkh,36.70629,67.11602,Dry,Unprotected well,17.0,20.4,no,Open defecation,no,no
+24/01/2025,Camp B,Herat,34.33923,62.22412,Dry,Protected well,79.0,13.1,yes,Unimproved,yes,yes
+01/05/2025,Settlement D,Balkh,36.68725,67.11983,Dry,Protected well,34.0,10.4,no,Improved,yes,yes
+02/03/2026,Settlement D,Balkh,36.69307,67.10859,Wet,Protected well,44.0,25.8,yes,Improved,yes,yes
+13/05/2025,Camp A,Kabul,34.51548,69.16412,Wet,Unprotected well,12.0,14.9,no,Improved,yes,yes
+08/05/2025,Camp A,Kabul,34.52405,69.19649,Dry,Protected well,54.0,6.4,yes,Unimproved,yes,yes
+16/08/2025,Camp A,Kabul,34.51074,69.17808,Wet,Piped,40.0,29.9,yes,Improved,no,yes
+13/06/2026,Settlement D,Balkh,36.70382,67.10008,Wet,Piped,24.0,18.7,no,Improved,yes,yes
+14/05/2026,Settlement D,Balkh,36.6897,67.11129,Wet,Piped,21.0,15.7,no,Improved,no,yes
+29/11/2025,Camp B,Herat,34.35441,62.21203,Wet,Piped,16.0,11.1,yes,Unimproved,yes,no
+26/06/2025,Settlement C,Nangarhar,34.4266,70.46758,Wet,Protected well,21.0,11.9,no,Improved,yes,no
+24/06/2025,Settlement D,Balkh,36.69038,67.11939,Dry,Unprotected well,32.0,7.7,yes,Improved,no,yes
+23/01/2026,Settlement C,Nangarhar,34.42195,70.44163,Dry,Water trucking,23.0,13.9,no,Improved,no,yes
+28/07/2025,Settlement D,Balkh,36.70364,67.11119,Wet,Protected well,16.0,8.4,yes,Unimproved,no,yes
+22/05/2025,Camp B,Herat,34.36693,62.18678,Wet,Surface water,10.0,5.4,yes,Improved,yes,yes
+25/10/2025,Settlement C,Nangarhar,34.42495,70.45302,Wet,Protected well,15.0,12.1,yes,Unimproved,yes,yes
+21/03/2026,Settlement C,Nangarhar,34.43386,70.44795,Wet,Protected well,51.0,11.2,no,Open defecation,yes,yes
+10/03/2026,Settlement D,Balkh,36.70167,67.10918,Dry,Water trucking,19.0,26.1,yes,Improved,no,yes
+17/01/2025,Camp B,Herat,34.35097,62.20612,Dry,Water trucking,24.0,10.4,no,Improved,yes,yes
+19/03/2025,Settlement C,Nangarhar,34.43806,70.44443,Wet,Protected well,35.0,7.9,no,Unimproved,no,yes
+21/01/2026,Camp B,Herat,34.36529,62.21178,Dry,Protected well,34.0,18.9,yes,Improved,yes,yes
+06/02/2025,Camp B,Herat,34.3459,62.18841,Dry,Surface water,29.0,13.4,yes,Improved,yes,no
+17/02/2026,Settlement D,Balkh,36.69465,67.10341,Wet,Surface water,54.0,19.0,no,Improved,yes,yes
+30/03/2025,Camp A,Kabul,34.53278,69.16768,Dry,Protected well,23.0,17.9,no,Unimproved,no,yes
+25/02/2026,Camp B,Herat,34.36421,62.20738,Wet,Protected well,15.0,12.9,no,Improved,yes,yes
+21/02/2025,Settlement C,Nangarhar,34.44096,70.44659,Dry,Surface water,29.0,18.8,no,Unimproved,no,yes
+31/01/2025,Settlement C,Nangarhar,34.42694,70.44525,Dry,Water trucking,40.0,14.8,no,Unimproved,no,yes
+20/01/2025,Camp A,Kabul,34.53447,69.16343,Dry,Piped,43.0,11.5,yes,Unimproved,no,yes
+10/05/2025,Camp A,Kabul,34.52465,69.18361,Dry,Unprotected well,35.0,15.0,yes,Open defecation,yes,yes
+23/08/2025,Settlement D,Balkh,36.7111,67.0936,Dry,Protected well,17.0,15.2,yes,Unimproved,yes,yes
+23/04/2025,Settlement D,Balkh,36.69915,67.09172,Dry,Water trucking,27.0,12.8,yes,Open defecation,yes,yes
+13/09/2025,Settlement D,Balkh,36.68947,67.11475,Wet,Protected well,21.0,16.9,no,Unimproved,no,yes
+21/09/2025,Camp B,Herat,34.3331,62.20589,Dry,Water trucking,45.0,14.5,no,Unimproved,no,yes
+05/10/2025,Settlement D,Balkh,36.71051,67.1276,Dry,Protected well,27.0,16.1,no,Open defecation,yes,yes
+16/09/2025,Settlement D,Balkh,36.71124,67.1133,Wet,Surface water,16.0,15.7,no,Improved,yes,yes
+31/01/2026,Settlement D,Balkh,36.70559,67.11278,Wet,Unprotected well,41.0,22.8,yes,Unimproved,no,yes
+15/08/2025,Camp B,Herat,34.35441,62.19219,Wet,Water trucking,27.0,9.3,no,Improved,yes,yes
+20/01/2025,Camp B,Herat,34.33879,62.19461,Dry,Water trucking,42.0,13.3,no,Unimproved,yes,yes
+21/07/2025,Settlement D,Balkh,36.68889,67.11814,Dry,Protected well,16.0,10.4,no,Unimproved,yes,yes
+28/05/2026,Settlement D,Balkh,36.71379,67.10979,Dry,Protected well,24.0,9.3,no,Improved,no,yes
+26/03/2026,Camp B,Herat,34.36299,62.19537,Dry,Unprotected well,42.0,14.3,yes,Improved,yes,yes
+22/05/2025,Camp B,Herat,34.34226,62.17304,Wet,Water trucking,12.0,18.9,no,Open defecation,yes,yes
+04/05/2026,Settlement D,Balkh,36.69169,67.10687,Wet,Protected well,84.0,20.4,yes,Improved,no,yes
+26/06/2025,Camp A,Kabul,34.54254,69.17295,Wet,Protected well,45.0,13.4,no,Improved,yes,yes
+19/01/2025,Camp A,Kabul,34.51421,69.16235,Wet,Protected well,32.0,14.3,no,Unimproved,no,yes
+29/03/2026,Settlement C,Nangarhar,34.42598,70.46854,Wet,Unprotected well,12.0,17.7,no,Improved,no,no
+10/09/2025,Camp B,Herat,34.34518,62.20327,Wet,Surface water,10.0,17.1,no,Improved,yes,yes
+13/04/2026,Camp B,Herat,34.35788,62.18266,Wet,Protected well,20.0,15.6,no,Unimproved,yes,yes
+12/02/2026,Camp B,Herat,34.36004,62.21344,Wet,Unprotected well,7.0,9.9,no,Improved,yes,yes
+29/01/2026,Settlement C,Nangarhar,34.42601,70.4468,Dry,Unprotected well,26.0,18.2,yes,Improved,yes,yes
+27/11/2025,Camp B,Herat,34.3346,62.19336,Dry,Protected well,30.0,14.0,no,Unimproved,yes,yes
+17/06/2025,Settlement C,Nangarhar,34.43126,70.44582,Dry,Water trucking,26.0,14.3,yes,Improved,no,yes
+08/09/2025,Settlement C,Nangarhar,34.44094,70.44367,Dry,Water trucking,29.0,8.8,yes,Improved,yes,no
+19/05/2025,Settlement D,Balkh,36.69276,67.10794,Dry,Piped,67.0,22.2,no,Improved,no,yes
+26/04/2025,Camp A,Kabul,34.52828,69.16068,Dry,Unprotected well,56.0,8.1,no,Improved,yes,yes
+23/01/2026,Settlement D,Balkh,36.70749,67.1079,Wet,Unprotected well,12.0,14.6,yes,Unimproved,no,yes
+29/05/2026,Camp A,Kabul,34.52428,69.17382,Dry,Protected well,34.0,9.5,no,Improved,yes,yes
+10/03/2026,Settlement D,Balkh,36.69885,67.1215,Dry,Protected well,58.0,13.7,yes,Improved,no,yes
+17/04/2026,Camp A,Kabul,34.52785,69.15035,Wet,Protected well,29.0,18.6,no,Unimproved,yes,no
+04/06/2026,Camp B,Herat,34.33832,62.20095,Dry,Protected well,34.0,17.3,no,Improved,no,yes
+05/12/2025,Settlement D,Balkh,36.69493,67.12224,Dry,Protected well,56.0,10.8,no,Improved,yes,no
+19/11/2025,Settlement C,Nangarhar,34.44791,70.44511,Dry,Piped,18.0,4.7,yes,Unimproved,no,yes
+09/01/2025,Camp A,Kabul,34.52761,69.18689,Wet,Piped,7.0,14.7,no,Unimproved,no,yes
+29/03/2025,Camp A,Kabul,34.51632,69.18002,Wet,Piped,16.0,13.3,yes,Improved,yes,yes
+03/05/2025,Camp B,Herat,34.36167,62.19143,Wet,Protected well,58.0,8.7,no,Improved,no,yes
+12/02/2026,Settlement D,Balkh,36.7272,67.11978,Wet,Protected well,49.0,12.4,no,Improved,yes,yes
+17/04/2026,Camp A,Kabul,34.53694,69.18065,Dry,Protected well,29.0,15.6,yes,Improved,no,yes
+16/09/2025,Camp A,Kabul,34.5075,69.15613,Dry,Water trucking,21.0,5.6,yes,Improved,yes,no
+03/11/2025,Settlement C,Nangarhar,34.42224,70.46714,Wet,Unprotected well,20.0,6.8,yes,Improved,yes,no
+19/06/2025,Settlement C,Nangarhar,34.42888,70.46116,Dry,Protected well,49.0,19.9,yes,Unimproved,no,yes
+26/09/2025,Settlement C,Nangarhar,34.42735,70.45854,Wet,Surface water,9.0,12.7,no,Unimproved,yes,yes
+27/07/2025,Settlement C,Nangarhar,34.43839,70.4601,Wet,Protected well,22.0,22.5,yes,Improved,yes,no
+27/07/2025,Camp B,Herat,34.32218,62.1846,Dry,Surface water,39.0,18.1,no,Improved,no,no
+18/09/2025,Camp B,Herat,34.36821,62.19349,Dry,Piped,17.0,6.0,yes,Unimproved,no,yes
+05/06/2026,Settlement C,Nangarhar,34.42211,70.45925,Wet,Water trucking,29.0,18.9,no,Improved,yes,no
+03/11/2025,Camp B,Herat,34.3507,62.19965,Dry,Protected well,27.0,12.5,no,Improved,yes,yes
+12/11/2025,Settlement C,Nangarhar,34.43829,70.45308,Dry,Unprotected well,27.0,11.6,no,Unimproved,yes,yes
+20/02/2026,Settlement D,Balkh,36.70805,67.10347,Dry,Surface water,17.0,14.0,no,Improved,no,yes
+08/08/2025,Settlement C,Nangarhar,34.42041,70.46701,Wet,Unprotected well,36.0,14.6,no,Unimproved,no,yes
+10/09/2025,Camp A,Kabul,34.51883,69.16162,Dry,Water trucking,26.0,15.2,yes,Open defecation,yes,yes
+16/02/2025,Camp A,Kabul,34.50336,69.15526,Wet,Unprotected well,5.0,11.7,yes,Open defecation,no,no
+12/01/2026,Settlement D,Balkh,36.69443,67.11062,Wet,Surface water,78.0,13.2,no,Unimproved,yes,yes
+04/01/2025,Settlement C,Nangarhar,34.41721,70.45368,Wet,Surface water,27.0,19.1,no,Improved,yes,yes
+04/05/2026,Settlement D,Balkh,36.70206,67.0944,Dry,Protected well,68.0,13.8,no,Improved,no,yes
+01/11/2025,Camp B,Herat,34.35363,62.20127,Dry,Surface water,46.0,9.9,yes,Unimproved,yes,yes
+25/03/2025,Settlement D,Balkh,36.6859,67.11656,Dry,Protected well,27.0,2.4,no,Unimproved,yes,yes
+27/12/2025,Settlement C,Nangarhar,34.43251,70.43623,Dry,Protected well,34.0,13.0,yes,Unimproved,yes,yes
+29/06/2025,Camp B,Herat,34.33016,62.21561,Dry,Unprotected well,25.0,13.9,yes,Improved,yes,yes
+27/12/2025,Camp B,Herat,34.33464,62.18851,Dry,Surface water,15.0,16.3,no,Unimproved,no,yes
+28/04/2025,Camp A,Kabul,34.51157,69.16973,Wet,Piped,38.0,12.2,yes,Improved,no,yes
+23/11/2025,Camp A,Kabul,34.50971,69.14986,Dry,Piped,18.0,8.4,no,Open defecation,no,yes
+11/07/2025,Camp A,Kabul,34.52868,69.16712,Wet,Unprotected well,25.0,10.4,yes,Unimproved,no,yes
+11/06/2025,Settlement D,Balkh,36.71699,67.11113,Dry,Piped,26.0,26.5,no,Improved,yes,yes
+25/08/2025,Camp B,Herat,34.33211,62.19308,Wet,Water trucking,52.0,17.5,yes,Open defecation,yes,no
+11/11/2025,Settlement C,Nangarhar,34.42693,70.44828,Wet,Water trucking,18.0,18.7,no,Improved,yes,yes
+26/02/2026,Settlement D,Balkh,36.69981,67.10327,Dry,Surface water,27.0,10.7,no,Open defecation,yes,yes
+07/11/2025,Camp B,Herat,34.34842,62.21833,Wet,Unprotected well,7.0,4.5,no,Unimproved,no,yes
+19/01/2026,Settlement D,Balkh,36.70465,67.11453,Wet,Protected well,53.0,19.5,yes,Unimproved,no,yes
+04/02/2026,Settlement C,Nangarhar,34.4423,70.46857,Wet,Water trucking,23.0,9.2,yes,Open defecation,no,yes
+02/06/2025,Settlement C,Nangarhar,34.41629,70.44786,Dry,Water trucking,23.0,10.7,no,Unimproved,yes,no
+25/05/2026,Settlement C,Nangarhar,34.43136,70.46255,Dry,Unprotected well,24.0,9.5,yes,Improved,yes,no
+28/10/2025,Settlement C,Nangarhar,34.43611,70.46904,Dry,Protected well,46.0,21.6,no,Unimproved,yes,no
+20/05/2026,Settlement D,Balkh,36.69565,67.10936,Dry,Piped,28.0,15.7,yes,Open defecation,no,yes
+27/01/2025,Settlement D,Balkh,36.70669,67.10548,Wet,Water trucking,45.0,19.6,yes,Open defecation,yes,yes
+04/02/2025,Settlement D,Balkh,36.70918,67.11889,Wet,Piped,11.0,16.6,no,Unimproved,yes,yes
+25/01/2026,Camp A,Kabul,34.51229,69.17439,Dry,Unprotected well,53.0,12.7,no,Improved,no,yes
+11/03/2025,Camp A,Kabul,34.51832,69.17324,Dry,Piped,54.0,9.5,no,Improved,yes,yes
+10/05/2025,Settlement C,Nangarhar,34.40736,70.43853,Dry,Water trucking,16.0,4.2,no,Unimproved,no,yes
+19/01/2025,Camp A,Kabul,34.53036,69.17231,Dry,Protected well,15.0,13.6,yes,Improved,yes,no
+06/05/2026,Settlement C,Nangarhar,34.42878,70.45519,Dry,Surface water,25.0,9.9,no,Improved,no,yes
+13/02/2026,Settlement C,Nangarhar,34.41769,70.45817,Wet,Water trucking,6.0,12.8,yes,Open defecation,no,no
+26/01/2025,Settlement D,Balkh,36.71417,67.10247,Wet,Protected well,11.0,16.9,no,Improved,no,yes
+26/07/2025,Settlement C,Nangarhar,34.43417,70.43927,Wet,Water trucking,11.0,10.4,yes,Improved,yes,yes
+28/06/2025,Camp B,Herat,34.34416,62.19415,Wet,Water trucking,14.0,22.6,no,Open defecation,yes,yes
+11/05/2025,Settlement C,Nangarhar,34.43727,70.44347,Wet,Piped,12.0,15.1,no,Unimproved,yes,yes
+28/06/2025,Settlement D,Balkh,36.6824,67.10652,Dry,Protected well,57.0,16.1,no,Unimproved,yes,yes
+28/10/2025,Settlement C,Nangarhar,34.44787,70.45211,Dry,Unprotected well,36.0,8.1,yes,Unimproved,no,yes
+14/11/2025,Settlement C,Nangarhar,34.4356,70.43184,Wet,Piped,40.0,12.9,no,Improved,yes,yes
+30/12/2025,Camp A,Kabul,34.52669,69.15372,Wet,Piped,16.0,11.2,yes,Improved,yes,yes
+14/01/2026,Camp B,Herat,34.35536,62.18778,Dry,Unprotected well,41.0,17.3,no,Unimproved,no,yes
+30/09/2025,Camp A,Kabul,34.5207,69.18294,Wet,Piped,65.0,6.1,no,Unimproved,no,yes
+31/08/2025,Settlement D,Balkh,36.69975,67.1027,Dry,Piped,36.0,17.6,yes,Unimproved,yes,yes
+10/01/2026,Camp B,Herat,34.36425,62.19452,Wet,Protected well,49.0,9.7,no,Unimproved,yes,yes
+29/07/2025,Settlement C,Nangarhar,34.41231,70.44979,Dry,Protected well,60.0,21.6,no,Unimproved,yes,yes
+06/06/2026,Camp B,Herat,34.33621,62.18947,Dry,Protected well,45.0,13.3,no,Improved,no,yes
+24/09/2025,Settlement D,Balkh,36.71603,67.10215,Wet,Protected well,23.0,8.9,yes,Improved,no,yes
+29/01/2026,Camp B,Herat,34.36131,62.1922,Dry,Water trucking,35.0,19.2,yes,Improved,no,yes
+11/03/2025,Camp B,Herat,34.35192,62.18231,Dry,Surface water,19.0,12.7,no,Unimproved,yes,yes
+09/01/2026,Settlement C,Nangarhar,34.42912,70.43818,Wet,Piped,33.0,7.3,no,Open defecation,yes,yes
+19/12/2025,Settlement C,Nangarhar,34.4351,70.45081,Dry,Piped,43.0,23.5,yes,Unimproved,yes,yes
+18/01/2025,Settlement D,Balkh,36.70064,67.13399,Dry,Water trucking,27.0,12.7,no,Unimproved,no,yes
+11/03/2026,Camp A,Kabul,34.52164,69.16345,Dry,Protected well,46.0,20.7,no,Improved,yes,yes
+22/05/2025,Settlement D,Balkh,36.68516,67.12579,Wet,Protected well,32.0,3.3,no,Improved,yes,no
+21/05/2025,Camp A,Kabul,34.51952,69.16036,Dry,Protected well,60.0,13.9,no,Improved,no,no
+12/07/2025,Camp B,Herat,34.34987,62.17932,Wet,Piped,17.0,18.6,no,Improved,no,yes
+13/06/2026,Settlement D,Balkh,36.69968,67.11386,Dry,Unprotected well,38.0,2.9,no,Improved,no,yes
+03/04/2026,Settlement C,Nangarhar,34.41149,70.46219,Wet,Water trucking,18.0,9.5,no,Improved,yes,yes
+13/09/2025,Settlement C,Nangarhar,34.42629,70.43254,Dry,Protected well,27.0,6.5,yes,Improved,yes,yes
+23/10/2025,Settlement D,Balkh,36.688,67.08335,Dry,Protected well,27.0,14.4,yes,Improved,yes,yes
+12/12/2025,Settlement D,Balkh,36.70021,67.12026,Dry,Water trucking,11.0,10.3,no,Improved,no,yes
+04/09/2025,Settlement C,Nangarhar,34.44458,70.44771,Dry,Unprotected well,64.0,9.5,no,Unimproved,yes,yes
+11/05/2026,Camp A,Kabul,34.51602,69.15779,Dry,Piped,73.0,12.2,no,Unimproved,no,no
+28/02/2026,Settlement C,Nangarhar,34.43726,70.45063,Dry,Water trucking,69.0,20.7,no,Improved,no,no
+11/04/2026,Settlement D,Balkh,36.70302,67.10245,Wet,Protected well,29.0,16.4,yes,Unimproved,no,yes
+19/10/2025,Camp B,Herat,34.34566,62.19386,Dry,Protected well,32.0,12.8,no,Improved,yes,yes
+12/05/2025,Camp A,Kabul,34.53382,69.16292,Dry,Piped,23.0,13.5,yes,Improved,yes,yes
+12/10/2025,Settlement C,Nangarhar,34.41224,70.45976,Dry,Protected well,14.0,5.2,yes,Improved,no,yes
+20/12/2025,Settlement D,Balkh,36.71213,67.10875,Dry,Surface water,21.0,20.5,no,Open defecation,no,yes
+02/07/2025,Camp B,Herat,34.32947,62.22817,Dry,Piped,65.0,17.2,yes,Unimproved,no,yes
+09/03/2026,Settlement C,Nangarhar,34.42042,70.43838,Wet,Piped,19.0,10.4,yes,Unimproved,yes,yes
+28/03/2026,Camp B,Herat,34.3559,62.20745,Wet,Unprotected well,16.0,15.3,no,Unimproved,no,yes
+20/03/2025,Camp B,Herat,34.35227,62.21011,Dry,Protected well,15.0,2.0,yes,Unimproved,no,no
+23/02/2026,Settlement C,Nangarhar,34.42122,70.44754,Wet,Surface water,44.0,10.7,no,Improved,no,no
+20/03/2025,Camp A,Kabul,34.50701,69.17237,Wet,Protected well,43.0,11.4,yes,Improved,no,yes
+18/06/2025,Camp B,Herat,34.34386,62.21218,Wet,Surface water,6.0,9.3,yes,Improved,no,yes
+07/03/2026,Camp B,Herat,34.33836,62.21033,Dry,Protected well,20.0,16.7,yes,Improved,no,no
+10/05/2025,Camp B,Herat,34.35327,62.19044,Dry,Piped,41.0,23.3,yes,Improved,yes,yes
+24/07/2025,Camp B,Herat,34.33988,62.20995,Dry,Protected well,30.0,22.7,no,Improved,yes,yes
+07/03/2025,Settlement C,Nangarhar,34.42479,70.44633,Dry,Protected well,49.0,16.2,no,Improved,no,no
+20/10/2025,Settlement C,Nangarhar,34.43964,70.44805,Wet,Piped,33.0,8.3,no,Improved,yes,yes
+18/06/2025,Settlement D,Balkh,36.68279,67.11129,Wet,Surface water,11.0,15.4,no,Improved,no,yes
+02/06/2025,Camp B,Herat,34.36666,62.20278,Dry,Unprotected well,16.0,12.3,yes,Open defecation,no,yes
+28/03/2025,Settlement D,Balkh,36.70637,67.11358,Dry,Piped,28.0,6.3,no,Improved,no,yes
+18/12/2025,Camp B,Herat,34.34948,62.18608,Wet,Unprotected well,34.0,9.5,no,Improved,no,yes
+25/12/2025,Camp B,Herat,34.35733,62.18068,Wet,Piped,6.0,19.5,no,Unimproved,no,no
+09/09/2025,Settlement C,Nangarhar,34.41436,70.43928,Wet,Protected well,19.0,14.3,no,Unimproved,no,yes
+30/05/2025,Settlement D,Balkh,36.69484,67.09291,Dry,Protected well,29.0,17.8,no,Unimproved,yes,yes
+10/02/2026,Camp B,Herat,34.35342,62.19213,Dry,Water trucking,20.0,14.6,no,Improved,yes,yes
+18/06/2025,Camp A,Kabul,34.52023,69.15951,Dry,Protected well,40.0,10.1,yes,Improved,yes,yes
+02/06/2025,Settlement C,Nangarhar,34.42815,70.44332,Dry,Surface water,27.0,16.8,no,Improved,yes,no
+24/05/2026,Settlement D,Balkh,36.70396,67.08937,Dry,Protected well,48.0,12.5,no,Improved,no,no
+21/04/2025,Settlement D,Balkh,36.70116,67.11533,Wet,Protected well,33.0,22.1,yes,Improved,yes,no
+19/09/2025,Settlement D,Balkh,36.70058,67.10555,Dry,Unprotected well,14.0,6.3,no,Unimproved,no,yes
+20/02/2025,Camp B,Herat,34.33721,62.19629,Dry,Protected well,46.0,11.2,no,Unimproved,no,yes
+11/02/2026,Settlement D,Balkh,36.69914,67.12487,Wet,Piped,54.0,19.5,no,Improved,yes,yes
+02/05/2025,Settlement D,Balkh,36.68914,67.13555,Dry,Unprotected well,26.0,9.2,no,Improved,yes,yes
+29/07/2025,Camp A,Kabul,34.52378,69.16752,Wet,Unprotected well,6.0,17.8,no,Improved,yes,yes
+27/09/2025,Camp B,Herat,34.36946,62.20817,Dry,Protected well,96.0,9.3,no,Unimproved,yes,no
+05/03/2026,Camp A,Kabul,34.5221,69.16521,Dry,Unprotected well,19.0,10.9,yes,Improved,no,yes
+11/05/2026,Camp B,Herat,34.3529,62.18843,Dry,Unprotected well,48.0,13.5,yes,Unimproved,yes,no
+27/04/2025,Camp B,Herat,34.3283,62.20917,Dry,Protected well,23.0,21.6,no,Unimproved,yes,yes
+22/08/2025,Settlement C,Nangarhar,34.41241,70.42631,Dry,Protected well,39.0,22.3,yes,Unimproved,no,yes
+16/10/2025,Camp A,Kabul,34.51252,69.16352,Wet,Protected well,46.0,11.2,yes,Improved,no,yes
+04/08/2025,Settlement D,Balkh,36.70457,67.10989,Dry,Surface water,21.0,6.7,yes,Unimproved,yes,yes
+06/04/2026,Settlement C,Nangarhar,34.41816,70.45783,Wet,Unprotected well,7.0,11.1,no,Unimproved,yes,yes
+13/05/2025,Settlement C,Nangarhar,34.42514,70.45082,Wet,Protected well,70.0,10.1,no,Unimproved,no,yes
+07/07/2025,Settlement D,Balkh,36.71364,67.12065,Dry,Surface water,19.0,19.7,no,Improved,no,yes
+23/05/2025,Settlement C,Nangarhar,34.43217,70.44729,Wet,Protected well,35.0,8.6,yes,Improved,no,yes
+11/04/2025,Settlement C,Nangarhar,34.41877,70.44213,Wet,Piped,24.0,16.3,yes,Unimproved,yes,yes
+23/04/2025,Settlement C,Nangarhar,34.44289,70.45186,Wet,Piped,19.0,8.6,no,Improved,yes,yes
+05/05/2026,Camp B,Herat,34.34255,62.19643,Wet,Piped,25.0,6.0,yes,Unimproved,yes,no
+18/01/2026,Camp B,Herat,34.33591,62.20625,Dry,Water trucking,23.0,8.8,no,Unimproved,no,yes
+03/01/2026,Settlement C,Nangarhar,34.42345,70.44768,Wet,Surface water,25.0,19.2,yes,Improved,no,no
+30/07/2025,Settlement C,Nangarhar,34.41447,70.46369,Wet,Unprotected well,14.0,9.2,yes,Unimproved,yes,yes
+20/08/2025,Camp B,Herat,34.34213,62.19473,Wet,Protected well,10.0,10.9,no,Unimproved,no,yes
+07/09/2025,Camp A,Kabul,34.50135,69.15988,Dry,Protected well,13.0,20.1,yes,Improved,yes,yes
+08/02/2025,Settlement D,Balkh,36.708,67.11134,Dry,Protected well,44.0,17.5,no,Improved,yes,yes
+14/05/2026,Settlement C,Nangarhar,34.41845,70.44851,Dry,Water trucking,89.0,13.2,no,Improved,yes,yes
+12/07/2025,Settlement C,Nangarhar,34.43573,70.44655,Wet,Piped,36.0,8.3,yes,Improved,no,no
+07/05/2026,Settlement D,Balkh,36.70597,67.10136,Wet,Piped,22.0,6.5,no,Improved,yes,yes
+24/02/2025,Settlement C,Nangarhar,34.42359,70.42644,Dry,Piped,29.0,6.7,no,Unimproved,no,yes
+21/03/2025,Settlement D,Balkh,36.67777,67.12127,Wet,Protected well,12.0,19.2,no,Unimproved,yes,yes
+04/06/2026,Camp A,Kabul,34.51997,69.14333,Dry,Protected well,19.0,13.2,no,Unimproved,yes,yes
+24/11/2025,Camp A,Kabul,34.5222,69.17908,Dry,Unprotected well,23.0,12.8,no,Unimproved,yes,yes
+07/06/2026,Camp A,Kabul,34.50902,69.16644,Dry,Unprotected well,29.0,18.8,yes,Improved,no,yes
+19/02/2025,Settlement C,Nangarhar,34.43293,70.43939,Dry,Protected well,52.0,17.2,no,Improved,yes,yes
+03/03/2025,Settlement C,Nangarhar,34.41853,70.46086,Wet,Unprotected well,39.0,16.2,no,Improved,no,yes
+11/02/2026,Camp A,Kabul,34.52736,69.1719,Dry,Protected well,56.0,24.0,yes,Unimproved,no,yes
+15/03/2026,Settlement C,Nangarhar,34.43655,70.46166,Dry,Protected well,25.0,9.8,no,Unimproved,yes,yes
+28/07/2025,Settlement C,Nangarhar,34.417,70.44374,Wet,Piped,16.0,11.4,no,Unimproved,no,yes
+18/12/2025,Camp A,Kabul,34.50523,69.17189,Wet,Protected well,42.0,10.9,yes,Improved,no,yes
+12/12/2025,Settlement D,Balkh,36.71107,67.1112,Wet,Protected well,20.0,5.8,no,Improved,no,no
+02/07/2025,Settlement D,Balkh,36.68348,67.11751,Wet,Surface water,25.0,4.6,yes,Unimproved,no,no
+19/10/2025,Camp A,Kabul,34.52455,69.16312,Dry,Water trucking,36.0,14.5,no,Unimproved,yes,yes
+27/01/2025,Settlement D,Balkh,36.70441,67.10537,Dry,Protected well,29.0,14.7,no,Improved,no,no
+23/04/2026,Settlement D,Balkh,36.70046,67.11543,Dry,Piped,32.0,14.7,yes,Improved,no,no
+10/09/2025,Settlement C,Nangarhar,34.44461,70.47019,Dry,Surface water,31.0,10.4,no,Improved,yes,no
+07/02/2026,Settlement C,Nangarhar,34.41857,70.46059,Wet,Piped,15.0,13.5,yes,Unimproved,yes,no
+26/12/2025,Settlement C,Nangarhar,34.42329,70.43551,Wet,Piped,27.0,16.4,no,Unimproved,no,no
+21/12/2025,Settlement D,Balkh,36.70477,67.10024,Wet,Unprotected well,17.0,15.9,no,Unimproved,yes,yes
+14/06/2026,Camp B,Herat,34.34562,62.18616,Dry,Protected well,61.0,15.0,no,Improved,yes,yes
+01/07/2025,Camp B,Herat,34.36481,62.2059,Wet,Protected well,15.0,21.7,no,Improved,yes,no
+18/02/2025,Camp B,Herat,34.35924,62.20183,Dry,Surface water,21.0,23.0,yes,Unimproved,yes,yes
+20/11/2025,Camp A,Kabul,34.51254,69.1629,Dry,Protected well,33.0,13.2,no,Improved,no,no
+14/05/2025,Settlement C,Nangarhar,34.40981,70.46281,Wet,Protected well,12.0,14.9,no,Unimproved,no,yes
+27/01/2025,Settlement C,Nangarhar,34.4277,70.45429,Wet,Protected well,39.0,8.5,no,Improved,no,no
+15/05/2026,Camp B,Herat,34.35143,62.19374,Dry,Protected well,25.0,14.5,no,Improved,no,yes
+10/10/2025,Settlement D,Balkh,36.69233,67.09967,Wet,Water trucking,33.0,7.8,no,Improved,no,yes
+20/02/2025,Camp A,Kabul,34.52191,69.16495,Dry,Protected well,35.0,18.6,no,Improved,no,yes
+02/08/2025,Camp B,Herat,34.35417,62.19305,Dry,Protected well,29.0,18.2,no,Improved,yes,yes
+08/12/2025,Settlement D,Balkh,36.7011,67.1128,Wet,Water trucking,35.0,15.1,no,Unimproved,no,no
+06/01/2026,Camp A,Kabul,34.54147,69.17285,Dry,Piped,28.0,15.0,no,Unimproved,no,no
+13/03/2026,Camp B,Herat,34.35674,62.18738,Dry,Protected well,15.0,16.7,no,Improved,yes,yes
+20/12/2025,Camp A,Kabul,34.52442,69.17074,Dry,Protected well,76.0,18.3,yes,Improved,no,yes
+07/12/2025,Settlement C,Nangarhar,34.42306,70.45393,Wet,Protected well,45.0,11.6,yes,Improved,no,yes
+11/07/2025,Camp B,Herat,34.34404,62.21314,Dry,Unprotected well,31.0,8.6,yes,Unimproved,no,no
+15/10/2025,Settlement C,Nangarhar,34.44007,70.45667,Wet,Protected well,9.0,12.5,yes,Unimproved,yes,yes
+03/09/2025,Settlement D,Balkh,36.70901,67.12644,Dry,Protected well,21.0,10.0,no,Improved,yes,yes
+31/10/2025,Camp B,Herat,34.33778,62.19704,Dry,Protected well,45.0,16.2,yes,Unimproved,yes,yes
+08/02/2026,Camp B,Herat,34.33203,62.19774,Dry,Water trucking,27.0,13.5,no,Improved,yes,yes
+16/03/2025,Settlement C,Nangarhar,34.42601,70.45747,Wet,Protected well,13.0,12.9,no,Unimproved,yes,yes
+13/04/2025,Settlement C,Nangarhar,34.42672,70.44841,Wet,Protected well,10.0,14.1,no,Improved,yes,no
+14/11/2025,Settlement D,Balkh,36.70008,67.09608,Dry,Unprotected well,38.0,21.5,no,Improved,no,yes
+03/09/2025,Settlement C,Nangarhar,34.43735,70.45098,Wet,Piped,25.0,18.5,no,Improved,yes,yes
+24/06/2025,Settlement C,Nangarhar,34.44018,70.44175,Dry,Protected well,30.0,13.3,yes,Improved,no,yes
+11/03/2026,Camp B,Herat,34.35207,62.20689,Dry,Water trucking,44.0,17.1,yes,Unimproved,yes,no
+23/06/2026,Settlement C,Nangarhar,34.44365,70.44982,Wet,Unprotected well,27.0,8.5,yes,Unimproved,yes,yes
+01/10/2025,Settlement D,Balkh,36.71357,67.11934,Wet,Water trucking,71.0,19.6,yes,Unimproved,no,yes
+19/02/2026,Camp A,Kabul,34.50754,69.1694,Wet,Protected well,16.0,9.5,no,Improved,yes,yes
+25/05/2025,Camp B,Herat,34.34277,62.20449,Dry,Protected well,20.0,6.8,no,Improved,yes,yes
+28/05/2025,Settlement C,Nangarhar,34.44024,70.44017,Dry,Protected well,32.0,19.4,no,Improved,no,yes
+20/02/2025,Camp A,Kabul,34.52558,69.17359,Dry,Water trucking,18.0,18.4,yes,Improved,no,yes
+27/02/2025,Settlement D,Balkh,36.70577,67.09501,Wet,Water trucking,19.0,20.4,yes,Improved,no,yes
+24/03/2026,Settlement D,Balkh,36.71714,67.11898,Wet,Surface water,9.0,8.0,yes,Improved,no,yes
+06/03/2025,Camp B,Herat,34.34312,62.20189,Dry,Water trucking,58.0,17.7,no,Unimproved,yes,no
+08/05/2026,Camp B,Herat,34.3584,62.21806,Dry,Surface water,28.0,11.9,yes,Unimproved,no,yes
+13/04/2025,Camp B,Herat,34.35143,62.22436,Wet,Piped,5.0,17.9,yes,Improved,yes,yes
+19/06/2026,Camp A,Kabul,34.52186,69.15885,Dry,Protected well,64.0,10.3,no,Unimproved,no,yes
+06/08/2025,Settlement D,Balkh,36.7005,67.11338,Wet,Unprotected well,28.0,19.8,yes,Open defecation,no,no
+18/11/2025,Camp B,Herat,34.35269,62.20431,Wet,Protected well,56.0,16.3,yes,Open defecation,yes,yes
+21/04/2026,Settlement D,Balkh,36.71151,67.1105,Dry,Piped,44.0,16.9,no,Open defecation,yes,yes
+24/06/2025,Camp B,Herat,34.35635,62.21195,Dry,Unprotected well,16.0,13.5,yes,Improved,yes,yes
+25/08/2025,Camp B,Herat,34.35449,62.20601,Wet,Piped,62.0,10.6,yes,Improved,yes,yes
+04/03/2025,Camp B,Herat,34.36031,62.174,Wet,Piped,10.0,10.1,no,Improved,no,no
+07/04/2025,Camp A,Kabul,34.52637,69.15469,Wet,Protected well,23.0,14.5,yes,Improved,yes,yes
+23/11/2025,Camp B,Herat,34.35874,62.20247,Dry,Protected well,51.0,13.1,no,Improved,no,yes
+08/04/2026,Settlement C,Nangarhar,34.45046,70.45483,Dry,Unprotected well,37.0,19.8,yes,Unimproved,yes,yes
+15/12/2025,Camp B,Herat,34.34683,62.18803,Dry,Piped,49.0,13.7,no,Improved,no,yes
+21/01/2025,Camp B,Herat,34.35723,62.19316,Dry,Unprotected well,31.0,19.4,no,Improved,yes,yes
+28/04/2026,Settlement C,Nangarhar,34.44678,70.43648,Dry,Protected well,51.0,6.7,yes,Improved,yes,yes
+15/01/2025,Settlement C,Nangarhar,34.42217,70.45301,Wet,Protected well,8.0,18.9,no,Unimproved,yes,yes
+01/11/2025,Camp B,Herat,34.35452,62.18785,Dry,Unprotected well,38.0,7.5,yes,Unimproved,no,yes
+09/01/2026,Camp A,Kabul,34.52362,69.17595,Wet,Piped,51.0,11.4,yes,Improved,yes,no
+06/02/2025,Camp A,Kabul,34.51078,69.17456,Wet,Surface water,42.0,12.0,no,Unimproved,yes,yes
+25/02/2025,Settlement D,Balkh,36.6957,67.11209,Dry,Unprotected well,20.0,9.3,no,Improved,yes,no
+26/02/2025,Settlement D,Balkh,36.70002,67.12134,Wet,Unprotected well,11.0,11.5,no,Improved,yes,yes
+09/01/2026,Camp B,Herat,34.34687,62.18389,Wet,Protected well,32.0,13.7,no,Improved,no,yes
+23/04/2026,Settlement D,Balkh,36.70711,67.11764,Wet,Unprotected well,8.0,13.8,no,Unimproved,no,yes
+10/03/2025,Settlement D,Balkh,36.6899,67.1188,Dry,Protected well,33.0,13.6,no,Improved,no,no
+30/08/2025,Settlement C,Nangarhar,34.4285,70.47273,Wet,Unprotected well,69.0,12.6,no,Improved,no,no
+17/05/2026,Settlement C,Nangarhar,34.43694,70.47547,Dry,Surface water,16.0,11.3,yes,Open defecation,yes,yes
+27/03/2026,Camp B,Herat,34.32944,62.19407,Wet,Unprotected well,15.0,15.0,no,Improved,no,no
+13/08/2025,Camp B,Herat,34.33757,62.20555,Wet,Protected well,22.0,9.6,no,Improved,yes,yes
+08/08/2025,Camp B,Herat,34.33688,62.19643,Dry,Surface water,34.0,10.7,yes,Improved,yes,yes
+04/06/2025,Settlement C,Nangarhar,34.44228,70.45287,Wet,Piped,60.0,16.7,yes,Open defecation,yes,yes
+07/09/2025,Settlement D,Balkh,36.68384,67.09857,Dry,Protected well,32.0,21.0,no,Unimproved,yes,yes
+28/05/2025,Settlement C,Nangarhar,34.43158,70.44759,Wet,Piped,7.0,8.5,yes,Improved,no,yes
+14/05/2025,Camp A,Kabul,34.5174,69.17728,Wet,Unprotected well,14.0,22.4,no,Improved,yes,yes
+21/06/2025,Camp A,Kabul,34.50566,69.1712,Wet,Protected well,25.0,14.5,no,Unimproved,yes,yes
+10/07/2025,Settlement D,Balkh,36.69027,67.109,Wet,Surface water,34.0,12.7,yes,Unimproved,no,yes
+25/06/2025,Camp B,Herat,34.36768,62.20371,Dry,Water trucking,56.0,18.8,no,Improved,no,yes
+08/06/2026,Camp B,Herat,34.35908,62.20139,Dry,Water trucking,11.0,14.4,yes,Improved,yes,yes
+28/12/2025,Settlement C,Nangarhar,34.4362,70.46066,Wet,Piped,47.0,4.2,no,Improved,no,yes
+27/06/2025,Camp A,Kabul,34.51552,69.15569,Wet,Protected well,11.0,20.5,no,Unimproved,yes,yes
+27/05/2025,Settlement C,Nangarhar,34.4353,70.44212,Dry,Protected well,29.0,10.4,no,Unimproved,no,yes
+19/01/2025,Settlement D,Balkh,36.67825,67.10844,Wet,Surface water,22.0,17.7,yes,Improved,yes,yes
+25/03/2026,Camp A,Kabul,34.52078,69.15727,Dry,Protected well,28.0,14.1,yes,Unimproved,yes,yes
+23/05/2025,Settlement C,Nangarhar,34.41865,70.43733,Wet,Surface water,21.0,14.2,yes,Unimproved,no,yes
+30/08/2025,Settlement C,Nangarhar,34.44159,70.45997,Dry,Protected well,19.0,13.4,no,Unimproved,yes,yes
+25/04/2026,Settlement D,Balkh,36.70102,67.12359,Dry,Protected well,90.0,16.8,no,Improved,no,yes
+15/05/2026,Settlement D,Balkh,36.68607,67.11059,Wet,Protected well,22.0,13.4,no,Improved,no,yes
+18/09/2025,Camp B,Herat,34.34231,62.19015,Dry,Unprotected well,25.0,10.6,yes,Unimproved,yes,no
+15/01/2025,Settlement D,Balkh,36.67855,67.10751,Dry,Surface water,23.0,21.7,no,Open defecation,yes,yes
+07/02/2026,Camp B,Herat,34.34914,62.17095,Wet,Piped,11.0,15.3,no,Unimproved,yes,yes
+23/05/2025,Settlement D,Balkh,36.70178,67.07917,Wet,Water trucking,42.0,19.7,no,Improved,no,yes
+29/11/2025,Settlement D,Balkh,36.69781,67.10147,Wet,Water trucking,18.0,10.4,no,Improved,no,no
+17/07/2025,Settlement C,Nangarhar,34.43162,70.44332,Wet,Protected well,26.0,18.5,yes,Improved,yes,yes
+26/12/2025,Settlement C,Nangarhar,34.44258,70.43662,Dry,Water trucking,36.0,12.1,no,Unimproved,no,yes
+14/09/2025,Camp B,Herat,34.34686,62.21432,Dry,Water trucking,71.0,9.8,no,Improved,yes,yes
+05/04/2025,Settlement D,Balkh,36.70772,67.12709,Wet,Protected well,43.0,12.1,yes,Improved,yes,yes
+09/04/2025,Camp B,Herat,34.34738,62.20414,Dry,Piped,21.0,17.3,yes,Improved,no,yes
+16/03/2025,Camp A,Kabul,34.52243,69.16019,Wet,Unprotected well,47.0,18.2,no,Improved,no,yes
+20/04/2025,Settlement C,Nangarhar,34.42194,70.473,Wet,Protected well,26.0,18.9,yes,Improved,yes,no
+24/11/2025,Settlement C,Nangarhar,34.4278,70.44999,Wet,Water trucking,18.0,12.4,no,Improved,yes,yes
+03/05/2026,Settlement C,Nangarhar,34.42167,70.45578,Wet,Unprotected well,7.0,19.6,yes,Improved,no,yes
+02/07/2025,Camp A,Kabul,34.51811,69.18105,Wet,Unprotected well,29.0,15.5,no,Unimproved,yes,yes
+18/11/2025,Settlement C,Nangarhar,34.43505,70.46125,Dry,Unprotected well,17.0,13.9,yes,Improved,yes,yes
+05/03/2025,Settlement C,Nangarhar,34.42923,70.44959,Dry,Protected well,14.0,23.5,no,Improved,no,yes
+11/09/2025,Settlement D,Balkh,36.69661,67.12256,Dry,Piped,36.0,12.0,yes,Improved,yes,yes
+24/10/2025,Settlement D,Balkh,36.70492,67.09976,Wet,Protected well,3.0,7.9,no,Open defecation,no,no
+07/03/2025,Settlement D,Balkh,36.69236,67.10802,Dry,Piped,25.0,10.9,yes,Improved,yes,yes
+03/04/2026,Settlement C,Nangarhar,34.44083,70.45319,Dry,Unprotected well,48.0,7.9,yes,Improved,no,no
+31/03/2025,Camp A,Kabul,34.53553,69.15146,Wet,Protected well,11.0,15.6,no,Unimproved,no,yes
+08/10/2025,Camp A,Kabul,34.50306,69.15273,Wet,Water trucking,39.0,11.4,no,Improved,yes,yes
+05/08/2025,Camp B,Herat,34.35728,62.20213,Dry,Unprotected well,36.0,3.8,yes,Unimproved,no,yes
+29/12/2025,Settlement C,Nangarhar,34.43798,70.44609,Dry,Protected well,61.0,21.3,yes,Improved,no,yes
+06/09/2025,Camp B,Herat,34.36254,62.19747,Dry,Protected well,18.0,15.0,yes,Unimproved,no,yes
+02/04/2026,Settlement D,Balkh,36.6962,67.11245,Dry,Protected well,40.0,15.6,no,Improved,yes,no
+25/05/2025,Settlement C,Nangarhar,34.42018,70.4482,Dry,Water trucking,25.0,15.9,no,Improved,no,no
+21/08/2025,Camp B,Herat,34.35234,62.17615,Dry,Piped,44.0,12.3,no,Improved,no,yes
+18/05/2026,Settlement D,Balkh,36.69226,67.11916,Wet,Water trucking,32.0,28.8,no,Unimproved,no,yes
+12/01/2025,Camp A,Kabul,34.51857,69.16284,Dry,Unprotected well,46.0,16.6,no,Improved,no,yes
+21/08/2025,Settlement D,Balkh,36.69742,67.10204,Wet,Protected well,8.0,15.1,yes,Improved,yes,yes
+30/05/2025,Settlement C,Nangarhar,34.44584,70.44412,Dry,Piped,29.0,23.2,no,Open defecation,yes,yes
+13/08/2025,Camp B,Herat,34.35806,62.18915,Wet,Unprotected well,31.0,12.9,no,Improved,no,yes
+24/09/2025,Settlement C,Nangarhar,34.43806,70.45101,Wet,Unprotected well,13.0,21.1,no,Improved,no,no
+04/01/2025,Camp A,Kabul,34.53433,69.176,Dry,Water trucking,10.0,15.0,yes,Unimproved,no,yes
+25/07/2025,Settlement C,Nangarhar,34.42579,70.44457,Dry,Unprotected well,42.0,11.3,no,Unimproved,yes,yes

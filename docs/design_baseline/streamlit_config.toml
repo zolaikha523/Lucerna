@@ -1,0 +1,21 @@
+[server]
+enableStaticServing = true
+headless = true
+maxUploadSize = 200
+enableXsrfProtection = true
+address = "127.0.0.1"   # local-only by default; see docs/DEPLOYMENT.md before exposing on a network
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false
+
+[theme]
+base = "light"
+primaryColor = "#18B6A4"
+backgroundColor = "#F5F7FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#101B2D"
+font = "sans serif"

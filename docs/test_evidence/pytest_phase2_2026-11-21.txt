@@ -1,0 +1,88 @@
+Lucerna 3.1.0-alpha — test run 2026-11-21 16:00 UTC, Python 3.13.18, Linux build container
+Command: python -m pytest tests -v
+
+============================= test session starts ==============================
+platform linux -- Python 3.13.18, pytest-9.1.1, pluggy-1.6.0 -- /usr/local/bin/python
+rootdir: /home/user/lucerna
+plugins: anyio-4.15.1, platformdirs-4.14.8
+collecting ... collected 70 items
+
+tests/test_dashboard_engine.py::TestDashboardEngine::test_01_upload_creates_datasets_for_every_format PASSED [  1%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_02_multi_sheet_workbooks_import_every_sheet PASSED [  2%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_03_primary_analytical_sheet_detected_whatever_its_name PASSED [  4%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_04_codebooks_and_documentation_never_become_the_dashboard PASSED [  5%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_05_profiling_finds_dates_locations_and_rating_scales PASSED [  7%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_06_quality_flags_planted_problems PASSED [  8%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_07_statistics_match_independent_calculation PASSED [ 10%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_08_domain_recognised_from_content_not_file_names PASSED [ 11%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_09_visuals_chosen_from_the_data PASSED [ 12%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_10_multi_page_dashboards_without_empty_pages PASSED [ 14%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_11_every_explanation_has_all_sections_and_only_real_numbers PASSED [ 15%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_12_filters_change_every_number_consistently PASSED [ 17%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_13_page_navigation_is_unique_and_ordered PASSED [ 18%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_14_all_four_themes_and_branding PASSED [ 20%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_15_generated_dashboard_is_saved_with_a_version PASSED [ 21%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_16_reopen_returns_the_same_dashboard PASSED [ 22%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_17_rename_duplicate_refresh_and_restore PASSED [ 24%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_18_pdf_export PASSED [ 25%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_19_excel_export PASSED [ 27%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_20_detailed_word_report PASSED [ 28%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_21_missing_values_are_reported_not_hidden PASSED [ 30%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_22_invalid_values_do_not_break_generation PASSED [ 31%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_23_insufficient_data_is_handled_honestly PASSED [ 32%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_dashboards_differ_across_datasets PASSED [ 34%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_engine_has_no_dataset_specific_rules PASSED [ 35%]
+tests/test_dashboard_engine.py::TestDashboardEngine::test_units_are_not_named_until_confirmed PASSED [ 37%]
+tests/test_lucerna.py::TestQuantitative::test_bar_chart_values_match_independent_calculation PASSED [ 38%]
+tests/test_lucerna.py::TestQuantitative::test_baseline_endline_comparison_checks_compatibility PASSED [ 40%]
+tests/test_lucerna.py::TestQuantitative::test_cleaning_never_touches_the_original_and_can_be_reverted PASSED [ 41%]
+tests/test_lucerna.py::TestQuantitative::test_every_dataset_gets_an_adaptive_dashboard_that_computes PASSED [ 42%]
+tests/test_lucerna.py::TestQuantitative::test_forecast_refused_with_short_history PASSED [ 44%]
+tests/test_lucerna.py::TestQuantitative::test_maps_only_from_valid_coordinates PASSED [ 45%]
+tests/test_lucerna.py::TestQuantitative::test_percentage_indicator_matches_manual_calculation_and_never_invents_targets PASSED [ 47%]
+tests/test_lucerna.py::TestQuantitative::test_power_bi_package_is_honest PASSED [ 48%]
+tests/test_lucerna.py::TestQuantitative::test_quality_detects_planted_issues_in_pdm PASSED [ 50%]
+tests/test_lucerna.py::TestQuantitative::test_suggested_indicators_are_provisional_without_targets PASSED [ 51%]
+tests/test_lucerna.py::TestQualitative::test_ai_coding_job_drops_invalid_references_and_rejects_fabrications PASSED [ 52%]
+tests/test_lucerna.py::TestQualitative::test_ai_failure_is_reported_not_hidden PASSED [ 54%]
+tests/test_lucerna.py::TestQualitative::test_exact_quote_verified PASSED [ 55%]
+tests/test_lucerna.py::TestQualitative::test_fabricated_quotes_rejected PASSED [ 57%]
+tests/test_lucerna.py::TestQualitative::test_ocr_documents_never_auto_verify PASSED [ 58%]
+tests/test_lucerna.py::TestQualitative::test_only_verified_quotes_can_be_approved_and_register_reverifies PASSED [ 60%]
+tests/test_lucerna.py::TestQualitative::test_paraphrase_ellipsis_and_moderator_rejected PASSED [ 61%]
+tests/test_lucerna.py::TestQualitative::test_segments_are_speaker_turns_with_exact_offsets_and_no_labels PASSED [ 62%]
+tests/test_lucerna.py::TestQualitative::test_speaker_label_cannot_be_part_of_quote PASSED [ 64%]
+tests/test_lucerna.py::TestQualitative::test_wrong_segment_goes_to_manual_review PASSED [ 65%]
+tests/test_lucerna.py::TestSecurity::test_external_ai_blocked_by_default PASSED [ 67%]
+tests/test_lucerna.py::TestSecurity::test_external_ai_restricted_project_always_blocked PASSED [ 68%]
+tests/test_lucerna.py::TestSecurity::test_login_lockout_after_repeated_failures PASSED [ 70%]
+tests/test_lucerna.py::TestSecurity::test_mfa_only_enabled_after_confirmation_and_disable_needs_password PASSED [ 71%]
+tests/test_lucerna.py::TestSecurity::test_organisation_and_project_isolation PASSED [ 72%]
+tests/test_lucerna.py::TestSecurity::test_permission_denials_are_audited PASSED [ 74%]
+tests/test_lucerna.py::TestSecurity::test_role_permissions_enforced_in_service_layer PASSED [ 75%]
+tests/test_lucerna.py::TestSecurity::test_sessions_revocation_and_expiry PASSED [ 77%]
+tests/test_lucerna.py::TestSecurity::test_upload_restrictions PASSED     [ 78%]
+tests/test_lucerna.py::TestSecurity::test_weak_passwords_rejected PASSED [ 80%]
+tests/test_lucerna.py::TestReports::test_approval_requires_review_steps PASSED [ 81%]
+tests/test_lucerna.py::TestReports::test_backup_contains_database PASSED [ 82%]
+tests/test_lucerna.py::TestReports::test_mixed_report_builds PASSED      [ 84%]
+tests/test_lucerna.py::TestReports::test_qualitative_report_uses_only_approved_verified_quotes PASSED [ 85%]
+tests/test_lucerna.py::TestReports::test_quantitative_report_all_formats_and_draft_label PASSED [ 87%]
+tests/test_lucerna.py::TestReports::test_version_compare PASSED          [ 88%]
+tests/test_lucerna.py::TestReports::test_viewer_cannot_approve PASSED    [ 90%]
+tests/test_quality_gate.py::EvidenceGateTests::test_code_and_theme_references_are_filtered PASSED [ 91%]
+tests/test_quality_gate.py::EvidenceGateTests::test_docx_ingestion_and_segment_ids PASSED [ 92%]
+tests/test_quality_gate.py::EvidenceGateTests::test_fake_quote_is_rejected PASSED [ 94%]
+tests/test_quality_gate.py::EvidenceGateTests::test_llm_pipeline_with_mocked_local_model PASSED [ 95%]
+tests/test_quality_gate.py::EvidenceGateTests::test_real_quote_is_verified PASSED [ 97%]
+tests/test_quality_gate.py::EvidenceGateTests::test_report_exports_are_nonempty_and_traceable PASSED [ 98%]
+tests/test_quality_gate.py::EvidenceGateTests::test_unknown_segment_is_rejected PASSED [100%]
+
+=============================== warnings summary ===============================
+tests/test_dashboard_engine.py::TestDashboardEngine::test_10_multi_page_dashboards_without_empty_pages
+tests/test_dashboard_engine.py::TestDashboardEngine::test_11_every_explanation_has_all_sections_and_only_real_numbers
+  /home/user/lucerna/lucerna/quant/explain.py:337: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+    rho, p = spearmanr(np.arange(len(s)), s["value"])
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+======================= 70 passed, 2 warnings in 56.12s ========================

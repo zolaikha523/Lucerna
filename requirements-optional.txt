@@ -1,0 +1,6 @@
+# Optional extras. Lucerna runs without them.
+# OCR for scanned PDFs (also install the Tesseract program: https://github.com/UB-Mannheim/tesseract/wiki)
+pytesseract>=0.3.10
+pypdfium2>=4.20
+# Running the automated tests
+pytest>=8

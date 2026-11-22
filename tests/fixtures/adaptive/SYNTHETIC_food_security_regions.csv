@@ -1,0 +1,1201 @@
+resp_id,region,district,hoh_sex,household_size,fcs_score,fcs_group,rcsi_score,hhs_category,lcs_strategy,food_expenditure_share,main_income_source,received_food_assistance
+1,west,WE-4,Female,10,37.5,Acceptable,23.0,None/slight,Stress,0.63,None,No
+2,south,SO-2,F,2,40.6,Acceptable,47.0,Severe,None,0.58,Petty trade,No
+3,South,SO-2,F,1,47.1,Acceptable,50.0,None/slight,Stress,0.7,Assistance,Yes
+4,Central,CE-1,Male,9,70.0,Acceptable,38.0,None/slight,None,0.44,Casual labour,No
+5,NORTH ,NO-4,Male,10,63.5,Acceptable,41.0,None/slight,None,0.73,Casual labour,Yes
+6,south,SO-2,M,12,48.7,Acceptable,38.0,None/slight,None,0.58,None,No
+7,west,WE-4,Male,3,19.8,Poor,34.0,None/slight,Crisis,0.59,Agriculture,Yes
+8,west,WE-4,Male,8,27.4,Borderline,32.0,None/slight,None,0.67,Casual labour,No
+9,west,WE-3,Male,8,27.4,Borderline,6.0,None/slight,Emergency,0.47,Agriculture,No
+10,Central,CE-4,Male,12,39.6,Acceptable,32.0,Severe,Stress,0.55,Agriculture,No
+11,north,NO-2,Female,1,24.2,Borderline,47.0,None/slight,None,0.79,Agriculture,Yes
+12,south,SO-4,F,8,32.1,Borderline,18.0,Moderate,Emergency,0.76,Remittances,No
+13,East,EA-2,female,7,54.6,Acceptable,4.0,Moderate,None,0.27,Assistance,No
+14,East,EA-2,F,12,61.7,Acceptable,16.0,Moderate,None,0.98,Remittances,Yes
+15,south,SO-4,male,13,39.2,Acceptable,31.0,None/slight,Crisis,0.68,Agriculture,Yes
+16,South,SO-2,Male,10,65.0,Acceptable,39.0,Moderate,None,0.78,Agriculture,No
+17,North,NO-1,M,12,0.0,Poor,20.0,None/slight,Crisis,0.7,Petty trade,Yes
+18,NORTH ,NO-1,Male,11,41.7,Acceptable,0.0,Moderate,None,0.68,Casual labour,No
+19,East,EA-4,Male,11,32.9,Borderline,15.0,Moderate,None,0.65,None,Yes
+20,East,EA-2,Male,6,53.7,Acceptable,35.0,Moderate,Emergency,0.71,Remittances,No
+21,Central,CE-2,Male,2,39.9,Acceptable,25.0,None/slight,None,0.66,Casual labour,No
+22,south,SO-4,female,10,45.6,Acceptable,53.0,None/slight,Stress,0.77,Casual labour,Yes
+23,Central,CE-1,Female,7,49.8,Acceptable,31.0,Moderate,Crisis,0.69,Remittances,No
+24,South,SO-4,Female,11,39.2,Acceptable,10.0,None/slight,None,0.45,Remittances,Yes
+25,north,NO-4,Female,11,51.3,Acceptable,24.0,Severe,Crisis,0.93,Agriculture,No
+26,North,NO-2,Female,11,35.0,Borderline,22.0,None/slight,Stress,0.62,Agriculture,Yes
+27,South,SO-1,male,3,23.0,Borderline,2.0,Moderate,None,0.51,Petty trade,No
+28,North,NO-2,F,1,31.8,Borderline,30.0,Moderate,Stress,0.78,None,Yes
+29,Central,CE-4,F,13,44.7,Acceptable,54.0,None/slight,None,0.47,Remittances,No
+30,Central,CE-1,Female,5,34.4,Borderline,43.0,Moderate,Stress,0.54,None,Yes
+31,Central,CE-4,Male,6,30.6,Borderline,9.0,Moderate,None,0.51,Casual labour,Yes
+32,East,EA-2,Male,3,15.5,Poor,33.0,Moderate,None,0.81,None,Yes
+33,north,NO-3,F,12,27.8,Borderline,56.0,Moderate,Crisis,0.78,Agriculture,No
+34,South,SO-3,Male,13,51.5,Acceptable,35.0,Severe,Emergency,0.72,None,Yes
+35,East,EA-1,F,4,47.9,Acceptable,4.0,None/slight,Crisis,0.74,Assistance,Yes
+36,East,EA-1,Male,9,53.7,Acceptable,14.0,None/slight,Crisis,0.53,Assistance,No
+37,East,EA-4,M,1,35.5,Acceptable,53.0,None/slight,Crisis,0.94,Remittances,No
+38,west,WE-2,Female,4,38.6,Acceptable,31.0,None/slight,Crisis,0.24,Remittances,No
+39,South,SO-2,M,10,52.9,Acceptable,23.0,None/slight,Stress,0.81,Casual labour,No
+40,West,WE-1,female,4,24.9,Borderline,26.0,None/slight,Crisis,0.65,None,No
+41,NORTH ,NO-2,Female,9,88.3,Acceptable,48.0,Moderate,Crisis,0.66,Remittances,No
+42,Central,CE-2,Female,2,25.8,Borderline,38.0,None/slight,Crisis,0.51,Casual labour,No
+43,East,EA-3,Female,12,50.7,Acceptable,50.0,Moderate,Stress,0.57,None,No
+44,NORTH ,NO-3,F,10,66.7,Acceptable,53.0,None/slight,None,0.67,Remittances,Yes
+45,Central,CE-4,M,11,31.1,Borderline,39.0,Severe,None,0.53,Assistance,No
+46,south,SO-3,F,5,2.7,Poor,48.0,Moderate,Stress,0.55,None,Yes
+47,Central,CE-1,Male,11,18.3,Poor,10.0,Moderate,Crisis,0.51,Remittances,Yes
+48,South,SO-2,Male,11,7.5,Poor,30.0,None/slight,Stress,0.78,Remittances,No
+49,Central,CE-2,Male,6,6.3,Poor,32.0,None/slight,Stress,0.64,Agriculture,No
+50,NORTH ,NO-3,Female,8,70.3,Acceptable,47.0,None/slight,Crisis,0.51,Casual labour,Yes
+51,East,EA-4,Male,10,56.2,Acceptable,47.0,None/slight,None,0.44,Remittances,No
+52,North,NO-1,Male,13,54.7,Acceptable,25.0,Moderate,None,0.74,Remittances,No
+53,East,EA-3,Male,7,27.2,Borderline,45.0,None/slight,Crisis,0.47,Remittances,No
+54,South,SO-1,Male,1,42.5,Acceptable,15.0,Moderate,None,0.58,Petty trade,No
+55,Central,CE-2,Male,13,34.4,Borderline,4.0,None/slight,Stress,0.65,Assistance,No
+56,South,SO-1,Female,11,37.4,Acceptable,15.0,None/slight,Crisis,0.41,Casual labour,Yes
+57,West,WE-2,Male,10,37.7,Acceptable,26.0,None/slight,Stress,0.6,Casual labour,Yes
+58,West,WE-1,female,4,58.4,Acceptable,45.0,None/slight,None,0.54,None,Yes
+59,South,SO-1,Male,1,46.9,Acceptable,56.0,Moderate,Stress,0.55,Agriculture,No
+60,East,EA-2,Female,13,44.6,Acceptable,15.0,Severe,Stress,0.6,Assistance,No
+61,NORTH ,NO-4,F,8,38.7,Acceptable,15.0,Moderate,Crisis,0.74,Assistance,No
+62,West,WE-2,Male,11,16.7,Poor,52.0,Severe,Crisis,0.66,Petty trade,No
+63,South,SO-2,Male,11,48.8,Acceptable,17.0,Moderate,Stress,0.17,Assistance,No
+64,South,SO-3,F,6,43.2,Acceptable,26.0,None/slight,None,0.33,Casual labour,Yes
+65,north,NO-2,F,4,70.2,Acceptable,27.0,None/slight,Crisis,0.42,Assistance,Yes
+66,north,NO-1,Female,11,13.3,Poor,54.0,None/slight,None,0.53,Petty trade,Yes
+67,Central,CE-3,Female,11,26.4,Borderline,45.0,Moderate,None,0.76,Assistance,Yes
+68,south,SO-4,M,5,42.6,Acceptable,32.0,None/slight,Stress,0.71,None,No
+69,Central,CE-1,Male,3,48.7,Acceptable,15.0,None/slight,Crisis,0.65,None,Yes
+70,NORTH ,NO-2,Female,5,49.8,Acceptable,49.0,Moderate,None,0.45,Casual labour,No
+71,north,NO-3,M,13,40.7,Acceptable,35.0,None/slight,None,0.46,Agriculture,Yes
+72,South,SO-2,M,9,32.8,Borderline,17.0,None/slight,None,0.79,Casual labour,No
+73,Central,CE-3,Male,8,43.5,Acceptable,54.0,Moderate,None,0.84,None,Yes
+74,East,EA-4,Male,7,70.1,Acceptable,24.0,Moderate,Emergency,0.4,Assistance,No
+75,west,WE-3,male,12,56.8,Acceptable,16.0,Moderate,Emergency,0.24,Casual labour,Yes
+76,West,WE-4,Female,7,22.7,Borderline,0.0,Moderate,Stress,0.73,Assistance,No
+77,west,WE-2,Male,4,34.0,Borderline,51.0,None/slight,Crisis,0.5,Assistance,No
+78,Central,CE-3,Male,4,15.3,Poor,47.0,Severe,Stress,0.49,Agriculture,No
+79,south,SO-3,Female,3,24.0,Borderline,39.0,None/slight,Crisis,0.56,Remittances,No
+80,North,NO-3,Female,7,56.0,Acceptable,55.0,None/slight,Emergency,0.82,Agriculture,No
+81,NORTH ,NO-4,Female,4,62.4,Acceptable,1.0,None/slight,Stress,0.6,Petty trade,Yes
+82,Central,CE-2,female,2,31.7,Borderline,39.0,None/slight,Stress,0.79,Remittances,No
+83,NORTH ,NO-4,Male,2,53.1,Acceptable,50.0,None/slight,None,0.78,Petty trade,Yes
+84,West,WE-3,Female,1,23.5,Borderline,52.0,Moderate,Stress,0.59,Assistance,Yes
+85,East,EA-1,Female,7,57.8,Acceptable,33.0,Moderate,Stress,0.8,Assistance,No
+86,Central,CE-2,Male,11,36.1,Acceptable,23.0,Moderate,Stress,0.61,Agriculture,No
+87,Central,CE-2,M,4,39.4,Acceptable,8.0,None/slight,None,0.76,Agriculture,No
+88,North,NO-3,Male,7,29.6,Borderline,29.0,None/slight,Stress,0.31,Agriculture,Yes
+89,NORTH ,NO-3,Male,8,33.2,Borderline,13.0,Moderate,None,0.45,Petty trade,No
+90,south,SO-4,M,3,71.3,Acceptable,34.0,Moderate,Stress,0.7,Remittances,No
+91,East,EA-1,F,5,48.6,Acceptable,2.0,None/slight,Stress,0.6,Agriculture,Yes
+92,East,EA-4,M,3,52.1,Acceptable,45.0,Moderate,None,0.62,Remittances,No
+93,NORTH ,NO-3,Male,12,36.9,Acceptable,12.0,Moderate,Crisis,0.76,Assistance,No
+94,West,WE-4,M,2,37.5,Acceptable,55.0,None/slight,None,0.58,Petty trade,No
+95,East,EA-3,M,1,36.8,Acceptable,56.0,Severe,Crisis,0.52,Casual labour,Yes
+96,South,SO-4,Female,2,28.1,Borderline,4.0,Moderate,None,0.51,None,Yes
+97,NORTH ,NO-2,Female,5,53.0,Acceptable,38.0,Moderate,Stress,0.61,Agriculture,No
+98,East,EA-2,Male,6,26.3,Borderline,38.0,None/slight,Stress,0.71,Casual labour,Yes
+99,Central,CE-2,Male,2,52.6,Acceptable,,Moderate,None,0.68,Agriculture,Yes
+100,South,SO-4,Male,11,64.7,Acceptable,36.0,Severe,Crisis,0.7,Agriculture,No
+101,south,SO-3,Female,6,54.9,Acceptable,50.0,Moderate,Crisis,0.77,None,No
+102,East,EA-1,Female,12,25.9,Borderline,41.0,None/slight,None,0.65,Petty trade,No
+103,West,WE-4,Male,12,67.4,Acceptable,,None/slight,None,0.74,None,Yes
+104,East,EA-2,Male,10,28.9,Borderline,26.0,Moderate,Crisis,0.57,Remittances,Yes
+105,West,WE-4,Female,7,38.4,Acceptable,,None/slight,Stress,0.32,None,Yes
+106,East,EA-2,Female,8,34.2,Borderline,17.0,None/slight,None,0.49,Agriculture,Yes
+107,East,EA-1,F,7,28.0,Borderline,34.0,None/slight,Crisis,0.77,Petty trade,Yes
+108,west,WE-4,Female,8,26.0,Borderline,29.0,None/slight,None,0.4,Remittances,No
+109,Central,CE-2,Male,6,34.9,Borderline,6.0,None/slight,Stress,0.73,Remittances,No
+110,south,SO-3,M,1,41.6,Acceptable,41.0,Moderate,None,0.61,None,Yes
+111,west,WE-2,M,2,44.5,Acceptable,12.0,None/slight,None,0.47,Remittances,No
+112,west,WE-3,M,9,19.8,Poor,49.0,None/slight,Crisis,0.62,Remittances,No
+113,south,SO-1,Male,1,65.8,Acceptable,50.0,None/slight,Crisis,0.35,Assistance,Yes
+114,north,NO-4,F,6,46.0,Acceptable,48.0,Moderate,Stress,0.52,Remittances,No
+115,West,WE-2,Male,1,44.2,Acceptable,48.0,None/slight,None,0.65,Agriculture,No
+116,West,WE-1,F,13,44.2,Acceptable,3.0,None/slight,Stress,0.59,None,Yes
+117,East,EA-2,F,10,54.5,Acceptable,52.0,Severe,Stress,0.69,Casual labour,No
+118,East,EA-1,female,13,50.0,Acceptable,52.0,Moderate,Crisis,0.51,Assistance,No
+119,South,SO-3,female,12,46.5,Acceptable,15.0,None/slight,Stress,0.71,Agriculture,No
+120,NORTH ,NO-4,M,10,29.8,Borderline,0.0,Moderate,Crisis,0.77,Assistance,Yes
+121,south,SO-3,Male,1,53.0,Acceptable,36.0,Severe,None,0.7,Petty trade,No
+122,South,SO-3,female,7,42.2,Acceptable,27.0,None/slight,Emergency,0.72,Casual labour,No
+123,Central,CE-1,Female,10,42.2,Acceptable,52.0,None/slight,Crisis,0.84,None,Yes
+124,North,NO-4,Male,10,37.3,Acceptable,7.0,None/slight,Stress,0.41,Agriculture,Yes
+125,Central,CE-1,Male,12,48.3,Acceptable,48.0,Severe,Stress,0.81,Agriculture,Yes
+126,South,SO-1,Male,4,49.3,Acceptable,24.0,Moderate,Crisis,0.55,Remittances,No
+127,south,SO-1,Male,13,47.6,Acceptable,4.0,None/slight,None,0.72,Casual labour,No
+128,East,EA-4,Male,7,68.2,Acceptable,21.0,None/slight,None,0.46,Petty trade,No
+129,East,EA-2,F,7,55.8,Acceptable,15.0,None/slight,None,0.51,None,No
+130,East,EA-2,Male,11,44.1,Acceptable,10.0,Moderate,Stress,0.55,Remittances,No
+131,west,WE-3,Male,12,49.9,Acceptable,25.0,None/slight,Crisis,0.63,Petty trade,No
+132,north,NO-4,Male,6,17.2,Poor,6.0,None/slight,Crisis,0.7,None,No
+133,Central,CE-4,Female,12,55.9,Acceptable,32.0,None/slight,Stress,0.69,Casual labour,No
+134,west,WE-3,F,12,35.5,Acceptable,20.0,Moderate,Crisis,0.6,Petty trade,Yes
+135,south,SO-1,Male,4,30.7,Borderline,55.0,Severe,None,0.48,Petty trade,Yes
+136,south,SO-1,Male,9,51.8,Acceptable,,None/slight,Emergency,0.48,Casual labour,No
+137,Central,CE-1,Male,4,26.5,Borderline,17.0,Moderate,Stress,0.57,Casual labour,Yes
+138,south,SO-3,Male,3,52.9,Acceptable,43.0,Moderate,Stress,0.68,Assistance,Yes
+139,south,SO-1,F,7,32.2,Borderline,35.0,None/slight,Stress,0.74,Casual labour,No
+140,Central,CE-2,Female,9,20.8,Poor,40.0,None/slight,Crisis,0.82,Petty trade,No
+141,South,SO-1,Female,13,39.3,Acceptable,53.0,Severe,Crisis,0.34,Remittances,No
+142,West,WE-4,Female,8,55.0,Acceptable,10.0,None/slight,Crisis,0.88,Petty trade,Yes
+143,west,WE-2,Female,10,33.5,Borderline,43.0,Moderate,Emergency,0.65,None,No
+144,west,WE-4,Female,7,52.0,Acceptable,55.0,Moderate,Crisis,0.57,Remittances,No
+145,East,EA-4,Female,8,41.0,Acceptable,53.0,Moderate,Crisis,0.77,Assistance,Yes
+146,East,EA-1,Male,5,42.7,Acceptable,21.0,None/slight,Stress,0.53,Petty trade,No
+147,west,WE-1,male,9,57.4,Acceptable,16.0,None/slight,Stress,0.61,Assistance,Yes
+148,south,SO-3,Male,9,43.1,Acceptable,13.0,Severe,Stress,0.56,Casual labour,Yes
+149,Central,CE-4,F,7,85.3,Acceptable,43.0,Moderate,Crisis,0.67,Agriculture,No
+150,NORTH ,NO-1,Male,2,37.6,Acceptable,53.0,Moderate,None,0.5,Casual labour,Yes
+151,Central,CE-1,Female,1,28.7,Borderline,40.0,Moderate,Crisis,0.62,None,No
+152,North,NO-2,M,5,12.0,Poor,12.0,None/slight,Stress,0.55,None,No
+153,East,EA-2,Male,5,23.3,Borderline,0.0,Moderate,Crisis,0.47,Agriculture,Yes
+154,south,SO-2,F,9,41.1,Acceptable,,None/slight,Crisis,0.78,Agriculture,Yes
+155,East,EA-2,Female,9,14.4,Poor,55.0,None/slight,Stress,0.65,Petty trade,Yes
+156,north,NO-1,Female,11,19.5,Poor,23.0,Moderate,Crisis,0.58,Remittances,No
+157,south,SO-1,Male,12,48.5,Acceptable,39.0,None/slight,Stress,0.7,Casual labour,Yes
+158,East,EA-3,male,10,37.4,Acceptable,4.0,None/slight,Stress,0.59,None,Yes
+159,West,WE-4,Male,6,27.1,Borderline,7.0,None/slight,Stress,0.51,None,No
+160,Central,CE-3,Male,13,15.1,Poor,18.0,None/slight,Stress,0.53,Agriculture,No
+161,Central,CE-4,female,5,29.0,Borderline,44.0,None/slight,Crisis,0.72,Remittances,Yes
+162,west,WE-4,Male,6,38.2,Acceptable,2.0,None/slight,None,0.69,Agriculture,Yes
+163,Central,CE-2,Male,5,37.0,Acceptable,12.0,Moderate,Crisis,0.56,Remittances,No
+164,South,SO-1,Female,11,37.9,Acceptable,41.0,None/slight,Stress,0.71,None,No
+165,Central,CE-1,F,3,36.5,Acceptable,41.0,None/slight,Emergency,0.4,None,No
+166,South,SO-4,Male,12,34.8,Borderline,35.0,None/slight,None,0.41,Assistance,No
+167,NORTH ,NO-2,F,2,46.6,Acceptable,27.0,None/slight,None,0.66,Petty trade,Yes
+168,West,WE-4,female,3,55.9,Acceptable,36.0,None/slight,Emergency,0.47,Petty trade,Yes
+169,South,SO-1,Female,9,51.4,Acceptable,45.0,Moderate,Stress,0.91,Agriculture,No
+170,Central,CE-1,Male,4,33.2,Borderline,56.0,Severe,Crisis,0.46,Remittances,Yes
+171,West,WE-2,Female,9,54.6,Acceptable,5.0,Moderate,Emergency,0.73,Agriculture,Yes
+172,West,WE-1,Female,10,49.3,Acceptable,16.0,None/slight,Crisis,0.67,Casual labour,No
+173,East,EA-3,male,13,49.3,Acceptable,38.0,None/slight,None,0.75,Petty trade,No
+174,south,SO-2,Female,13,51.8,Acceptable,52.0,None/slight,Crisis,0.74,Agriculture,No
+175,Central,CE-4,F,3,51.6,Acceptable,24.0,Moderate,Emergency,0.74,Remittances,No
+176,East,EA-1,Male,11,25.1,Borderline,29.0,None/slight,Crisis,0.81,Petty trade,No
+177,Central,CE-1,Female,9,41.8,Acceptable,39.0,None/slight,None,0.69,Remittances,No
+178,NORTH ,NO-4,female,10,36.0,Acceptable,42.0,None/slight,None,0.72,Remittances,No
+179,East,EA-1,Male,1,25.8,Borderline,,None/slight,Crisis,0.62,Petty trade,No
+180,East,EA-2,Female,1,86.9,Acceptable,20.0,None/slight,Crisis,0.72,None,Yes
+181,north,NO-4,F,1,37.4,Acceptable,39.0,None/slight,Stress,0.58,Petty trade,No
+182,Central,CE-1,Male,9,29.9,Borderline,48.0,Moderate,None,0.52,None,Yes
+183,north,NO-3,Male,9,49.9,Acceptable,37.0,None/slight,Emergency,0.31,Assistance,No
+184,south,SO-2,Female,5,38.1,Acceptable,14.0,None/slight,Crisis,0.72,Casual labour,No
+185,North,NO-4,F,9,34.0,Borderline,45.0,None/slight,Stress,0.58,Casual labour,Yes
+186,East,EA-2,Male,5,45.8,Acceptable,29.0,Moderate,Crisis,0.61,Remittances,Yes
+187,north,NO-2,Male,12,52.3,Acceptable,22.0,Moderate,Emergency,0.48,Casual labour,No
+188,West,WE-1,Female,1,48.3,Acceptable,53.0,None/slight,Stress,0.66,None,Yes
+189,NORTH ,NO-3,F,7,54.0,Acceptable,19.0,None/slight,Stress,0.72,Remittances,No
+190,Central,CE-2,Male,10,29.3,Borderline,25.0,None/slight,Crisis,0.61,Petty trade,No
+191,west,WE-1,Female,10,27.9,Borderline,41.0,Moderate,None,0.68,None,No
+192,West,WE-2,Female,10,63.4,Acceptable,11.0,Moderate,Stress,0.51,Assistance,Yes
+193,Central,CE-1,Female,6,25.9,Borderline,47.0,None/slight,Crisis,0.64,Petty trade,Yes
+194,East,EA-3,M,2,50.5,Acceptable,36.0,Severe,Crisis,0.47,Petty trade,Yes
+195,Central,CE-1,Female,10,35.7,Acceptable,39.0,Moderate,None,0.61,Assistance,Yes
+196,West,WE-4,Male,10,20.9,Poor,17.0,None/slight,None,0.7,Assistance,No
+197,East,EA-1,Female,7,51.0,Acceptable,2.0,None/slight,Stress,0.56,Remittances,No
+198,south,SO-1,F,9,54.3,Acceptable,53.0,None/slight,None,0.44,Petty trade,No
+199,South,SO-1,M,5,6.6,Poor,23.0,Moderate,Stress,0.73,Petty trade,No
+200,North,NO-3,F,12,29.0,Borderline,22.0,None/slight,Stress,0.6,Assistance,Yes
+201,NORTH ,NO-1,M,9,43.2,Acceptable,8.0,None/slight,Crisis,0.64,Agriculture,No
+202,Central,CE-1,Male,9,10.8,Poor,11.0,Moderate,Emergency,0.36,Assistance,No
+203,West,WE-3,male,5,49.0,Acceptable,1.0,Severe,Stress,0.39,Remittances,No
+204,East,EA-3,Female,3,8.5,Poor,17.0,Moderate,Stress,0.71,Petty trade,No
+205,East,EA-3,Male,1,63.3,Acceptable,27.0,None/slight,Crisis,0.61,None,No
+206,Central,CE-1,Male,13,25.0,Borderline,32.0,Moderate,Emergency,0.75,Remittances,Yes
+207,West,WE-1,Female,4,43.2,Acceptable,32.0,Moderate,Crisis,0.72,Assistance,No
+208,North,NO-2,Male,6,19.8,Poor,45.0,None/slight,Stress,0.56,Remittances,No
+209,West,WE-4,Male,9,61.3,Acceptable,43.0,None/slight,Emergency,0.79,Agriculture,No
+210,NORTH ,NO-4,Male,13,34.1,Borderline,2.0,None/slight,Stress,0.56,Agriculture,No
+211,Central,CE-2,female,12,27.2,Borderline,28.0,Moderate,Stress,0.42,Agriculture,No
+212,East,EA-4,Male,2,43.2,Acceptable,21.0,Severe,Stress,0.67,Assistance,No
+213,west,WE-2,Female,12,37.0,Acceptable,9.0,Moderate,Crisis,0.7,None,Yes
+214,west,WE-1,Male,9,0.0,Poor,25.0,None/slight,Emergency,0.4,Assistance,Yes
+215,south,SO-3,Male,10,32.0,Borderline,,None/slight,Stress,0.59,None,Yes
+216,Central,CE-3,F,13,44.6,Acceptable,5.0,Severe,Emergency,0.88,Agriculture,No
+217,North,NO-3,Female,8,27.1,Borderline,20.0,None/slight,None,0.8,Remittances,No
+218,west,WE-2,Male,9,44.2,Acceptable,3.0,Severe,Stress,0.6,Petty trade,No
+219,South,SO-1,M,4,37.3,Acceptable,18.0,Moderate,Crisis,0.53,None,No
+220,NORTH ,NO-2,M,3,53.4,Acceptable,,None/slight,Stress,0.82,None,No
+221,north,NO-4,Female,13,33.4,Borderline,32.0,Moderate,Stress,0.76,Agriculture,No
+222,East,EA-4,F,1,64.5,Acceptable,47.0,Moderate,None,0.96,None,No
+223,West,WE-4,female,8,32.4,Borderline,48.0,None/slight,None,0.34,Remittances,No
+224,South,SO-3,Female,7,40.5,Acceptable,28.0,None/slight,None,0.61,None,No
+225,west,WE-2,Female,13,34.6,Borderline,44.0,Moderate,None,0.74,Casual labour,No
+226,NORTH ,NO-1,Male,1,24.0,Borderline,0.0,None/slight,Stress,0.63,Remittances,Yes
+227,East,EA-1,Male,2,39.6,Acceptable,30.0,Moderate,None,0.62,Agriculture,No
+228,Central,CE-3,Female,7,31.7,Borderline,25.0,Moderate,Stress,0.5,None,Yes
+229,North,NO-2,Female,8,54.3,Acceptable,53.0,Moderate,None,0.65,None,Yes
+230,west,WE-4,Male,4,40.4,Acceptable,40.0,None/slight,None,0.64,Casual labour,No
+231,West,WE-4,M,4,55.8,Acceptable,40.0,None/slight,Stress,0.71,Petty trade,Yes
+232,Central,CE-4,Male,10,55.5,Acceptable,12.0,None/slight,Stress,0.52,Casual labour,No
+233,South,SO-1,Female,6,35.5,Acceptable,,None/slight,None,0.9,None,Yes
+234,West,WE-2,male,13,39.5,Acceptable,41.0,Moderate,Stress,0.78,Casual labour,Yes
+235,South,SO-2,Male,9,83.0,Acceptable,39.0,Moderate,Stress,0.98,Agriculture,No
+236,west,WE-3,Female,13,57.2,Acceptable,39.0,Severe,None,0.64,Casual labour,No
+237,East,EA-1,Male,13,46.5,Acceptable,25.0,None/slight,None,0.68,Assistance,Yes
+238,West,WE-3,female,6,68.9,Acceptable,52.0,None/slight,Crisis,0.72,Agriculture,No
+239,West,WE-2,male,7,31.8,Borderline,31.0,None/slight,None,0.68,Petty trade,No
+240,South,SO-2,male,11,18.6,Poor,15.0,None/slight,Crisis,0.64,Casual labour,Yes
+241,Central,CE-3,Male,13,57.7,Acceptable,16.0,None/slight,None,0.58,Assistance,Yes
+242,East,EA-3,male,12,36.7,Acceptable,16.0,None/slight,Crisis,0.45,Assistance,No
+243,West,WE-3,Male,8,17.7,Poor,25.0,Severe,None,0.7,Casual labour,Yes
+244,Central,CE-2,M,7,30.9,Borderline,50.0,Moderate,Stress,0.47,None,No
+245,north,NO-1,F,8,43.6,Acceptable,51.0,Severe,Emergency,0.48,Agriculture,No
+246,South,SO-3,Male,1,26.4,Borderline,48.0,None/slight,None,0.43,Casual labour,Yes
+247,East,EA-2,Male,1,43.6,Acceptable,14.0,None/slight,Stress,0.6,Remittances,No
+248,north,NO-3,Female,1,52.8,Acceptable,19.0,None/slight,Stress,0.64,Agriculture,No
+249,East,EA-4,Female,1,50.1,Acceptable,54.0,Moderate,Emergency,0.49,Agriculture,Yes
+250,North,NO-1,Male,3,59.4,Acceptable,19.0,Severe,Stress,0.76,Petty trade,No
+251,East,EA-4,Male,10,20.0,Poor,48.0,None/slight,None,0.24,Assistance,Yes
+252,NORTH ,NO-1,male,5,77.0,Acceptable,33.0,None/slight,Stress,0.75,None,Yes
+253,East,EA-2,Female,3,9.6,Poor,37.0,None/slight,Stress,0.54,Petty trade,Yes
+254,East,EA-1,F,11,30.6,Borderline,45.0,None/slight,Emergency,0.64,Agriculture,No
+255,west,WE-1,female,6,23.6,Borderline,25.0,None/slight,None,0.77,Assistance,No
+256,North,NO-3,Male,8,51.3,Acceptable,25.0,None/slight,None,0.83,Assistance,No
+257,south,SO-1,male,13,46.0,Acceptable,12.0,Moderate,None,0.79,Casual labour,No
+258,west,WE-3,male,2,63.1,Acceptable,28.0,None/slight,Stress,0.77,Remittances,No
+259,Central,CE-2,Male,10,57.7,Acceptable,16.0,None/slight,None,0.48,Remittances,No
+260,West,WE-2,Male,7,54.7,Acceptable,9.0,None/slight,Stress,0.58,Petty trade,Yes
+261,East,EA-4,F,12,41.8,Acceptable,29.0,None/slight,Emergency,0.89,Agriculture,Yes
+262,Central,CE-2,Male,9,48.7,Acceptable,18.0,None/slight,Crisis,0.5,Casual labour,No
+263,Central,CE-2,Male,7,38.1,Acceptable,7.0,None/slight,Emergency,0.57,Petty trade,No
+264,west,WE-1,F,6,59.4,Acceptable,56.0,None/slight,None,0.9,None,Yes
+265,west,WE-4,male,4,53.3,Acceptable,39.0,Moderate,Crisis,0.83,Remittances,No
+266,East,EA-2,Male,10,62.7,Acceptable,40.0,None/slight,Crisis,0.66,Petty trade,No
+267,Central,CE-2,M,10,45.5,Acceptable,29.0,Moderate,None,0.65,Agriculture,No
+268,west,WE-2,Male,1,40.7,Acceptable,12.0,Moderate,None,0.74,Agriculture,No
+269,East,EA-4,Male,5,52.1,Acceptable,51.0,Severe,Stress,0.79,Petty trade,No
+270,West,WE-3,Male,3,36.0,Acceptable,50.0,None/slight,Crisis,0.69,Remittances,Yes
+271,Central,CE-4,Female,5,39.4,Acceptable,1.0,None/slight,Stress,0.56,Agriculture,No
+272,North,NO-2,Male,10,29.2,Borderline,,None/slight,None,0.44,Assistance,No
+273,South,SO-1,Male,8,51.1,Acceptable,28.0,None/slight,Crisis,0.66,Assistance,No
+274,North,NO-4,female,7,46.5,Acceptable,25.0,None/slight,Crisis,0.81,Agriculture,Yes
+275,West,WE-3,Male,4,32.7,Borderline,47.0,None/slight,None,0.34,Remittances,No
+276,North,NO-1,Female,12,73.5,Acceptable,,Moderate,Stress,0.46,Assistance,No
+277,west,WE-1,M,13,51.4,Acceptable,13.0,None/slight,Crisis,0.79,Petty trade,Yes
+278,Central,CE-3,Female,7,39.2,Acceptable,29.0,None/slight,Stress,0.48,Assistance,Yes
+279,East,EA-4,Female,3,28.8,Borderline,41.0,Moderate,Crisis,0.66,Assistance,No
+280,South,SO-2,male,4,29.8,Borderline,21.0,Moderate,Crisis,0.7,Assistance,Yes
+281,East,EA-3,male,6,40.4,Acceptable,13.0,Moderate,None,0.67,Agriculture,Yes
+282,Central,CE-2,Female,6,17.3,Poor,52.0,None/slight,None,0.67,Assistance,No
+283,North,NO-4,male,2,28.6,Borderline,25.0,None/slight,Stress,0.62,Remittances,No
+284,South,SO-2,Female,4,45.5,Acceptable,17.0,Moderate,None,0.59,Agriculture,No
+285,East,EA-1,Male,3,55.3,Acceptable,42.0,None/slight,Stress,0.51,None,Yes
+286,West,WE-2,Male,2,24.3,Borderline,11.0,Moderate,Crisis,0.55,None,No
+287,West,WE-2,Female,6,59.8,Acceptable,9.0,None/slight,Stress,0.46,Assistance,No
+288,south,SO-3,Female,8,54.3,Acceptable,11.0,None/slight,Crisis,0.61,Assistance,No
+289,East,EA-1,Female,4,26.1,Borderline,23.0,None/slight,Crisis,0.53,Casual labour,Yes
+290,Central,CE-2,Female,4,20.1,Poor,53.0,Moderate,Crisis,0.6,Casual labour,Yes
+291,West,WE-3,Female,12,50.9,Acceptable,20.0,Severe,None,0.77,Casual labour,Yes
+292,East,EA-3,Female,1,51.7,Acceptable,34.0,Moderate,Stress,0.62,Remittances,No
+293,south,SO-4,Female,13,38.3,Acceptable,54.0,None/slight,Crisis,0.69,Casual labour,Yes
+294,Central,CE-4,Male,10,53.4,Acceptable,40.0,None/slight,Stress,0.47,Petty trade,No
+295,south,SO-2,F,11,89.9,Acceptable,,None/slight,None,0.57,Agriculture,No
+296,Central,CE-1,Male,3,41.7,Acceptable,53.0,Moderate,None,0.62,None,No
+297,south,SO-3,F,5,63.6,Acceptable,26.0,Moderate,None,0.71,Casual labour,No
+298,Central,CE-2,male,6,34.6,Borderline,4.0,None/slight,None,0.85,Petty trade,Yes
+299,East,EA-4,Male,10,21.0,Poor,,None/slight,None,0.82,Remittances,Yes
+300,south,SO-1,M,11,26.5,Borderline,56.0,None/slight,Stress,0.44,Assistance,No
+301,East,EA-1,Female,4,18.0,Poor,40.0,None/slight,Crisis,0.51,Assistance,Yes
+302,south,SO-3,male,10,58.0,Acceptable,2.0,None/slight,Crisis,0.36,Agriculture,Yes
+303,Central,CE-3,Female,10,45.9,Acceptable,43.0,None/slight,Crisis,0.61,None,No
+304,West,WE-2,M,4,48.9,Acceptable,29.0,None/slight,Stress,0.34,Petty trade,No
+305,East,EA-3,female,2,51.1,Acceptable,52.0,Moderate,Emergency,0.68,Remittances,No
+306,West,WE-2,male,11,31.6,Borderline,9.0,Moderate,None,0.62,Remittances,No
+307,Central,CE-4,male,1,43.9,Acceptable,41.0,None/slight,None,0.68,Petty trade,Yes
+308,East,EA-3,Male,10,35.0,Borderline,56.0,None/slight,None,0.59,Casual labour,Yes
+309,west,WE-3,Male,8,36.5,Acceptable,38.0,None/slight,Stress,0.54,Assistance,Yes
+310,North,NO-1,M,9,25.5,Borderline,,None/slight,None,0.44,Remittances,Yes
+311,West,WE-1,female,2,18.1,Poor,7.0,None/slight,Stress,0.46,None,Yes
+312,South,SO-2,Male,5,41.9,Acceptable,45.0,Moderate,None,0.65,Casual labour,No
+313,West,WE-4,Male,8,29.7,Borderline,40.0,None/slight,Emergency,0.64,Petty trade,Yes
+314,Central,CE-4,Male,13,31.1,Borderline,4.0,None/slight,Stress,0.44,Remittances,Yes
+315,NORTH ,NO-1,female,9,56.6,Acceptable,47.0,None/slight,None,0.58,Casual labour,No
+316,south,SO-4,Male,13,44.4,Acceptable,47.0,Moderate,Stress,0.49,None,Yes
+317,NORTH ,NO-4,F,13,41.7,Acceptable,48.0,None/slight,Stress,0.6,Casual labour,Yes
+318,South,SO-2,Female,3,38.7,Acceptable,25.0,None/slight,None,0.7,Remittances,No
+319,East,EA-3,Male,9,40.5,Acceptable,43.0,None/slight,None,0.67,Assistance,Yes
+320,East,EA-1,M,5,57.6,Acceptable,40.0,Moderate,None,0.56,None,No
+321,Central,CE-2,Female,5,36.8,Acceptable,27.0,Moderate,Stress,0.68,Casual labour,Yes
+322,north,NO-2,Male,6,67.8,Acceptable,31.0,Moderate,Emergency,0.56,Casual labour,No
+323,West,WE-3,Male,3,63.5,Acceptable,,None/slight,Stress,0.49,Assistance,No
+324,north,NO-4,Male,11,22.7,Borderline,49.0,None/slight,Crisis,0.7,Agriculture,No
+325,Central,CE-2,Male,12,36.8,Acceptable,40.0,Moderate,None,0.5,Casual labour,No
+326,West,WE-4,male,1,56.1,Acceptable,30.0,None/slight,None,0.44,None,Yes
+327,south,SO-2,male,5,30.4,Borderline,51.0,Moderate,None,0.52,Agriculture,Yes
+328,East,EA-1,F,12,17.5,Poor,9.0,None/slight,None,0.7,Remittances,No
+329,south,SO-1,Male,11,46.3,Acceptable,1.0,None/slight,None,0.67,None,No
+330,south,SO-2,F,12,63.1,Acceptable,,Severe,None,0.83,Assistance,No
+331,Central,CE-2,Male,7,17.1,Poor,55.0,Moderate,Stress,0.58,Assistance,Yes
+332,Central,CE-4,Male,1,57.8,Acceptable,,None/slight,Stress,0.69,Casual labour,No
+333,North,NO-1,Male,8,21.5,Borderline,9.0,Moderate,None,0.75,Agriculture,No
+334,south,SO-3,Male,3,28.5,Borderline,2.0,Severe,None,0.74,Petty trade,No
+335,south,SO-4,Female,2,48.0,Acceptable,19.0,Moderate,Emergency,0.37,None,No
+336,west,WE-1,Male,7,36.1,Acceptable,,None/slight,Crisis,0.86,None,Yes
+337,NORTH ,NO-1,male,6,33.2,Borderline,55.0,None/slight,Crisis,0.45,Petty trade,Yes
+338,west,WE-1,M,13,35.4,Acceptable,35.0,None/slight,Crisis,0.48,Agriculture,No
+339,NORTH ,NO-3,Male,13,13.2,Poor,7.0,None/slight,Crisis,0.77,None,No
+340,north,NO-3,F,5,63.1,Acceptable,46.0,Moderate,Crisis,0.59,Remittances,Yes
+341,north,NO-1,Male,8,34.4,Borderline,55.0,None/slight,Stress,0.72,Assistance,No
+342,NORTH ,NO-1,M,12,25.1,Borderline,49.0,None/slight,Emergency,0.66,Assistance,No
+343,north,NO-3,F,4,23.6,Borderline,17.0,Moderate,Emergency,0.87,Petty trade,No
+344,West,WE-1,F,5,49.1,Acceptable,12.0,Severe,None,0.53,None,No
+345,Central,CE-3,F,8,45.3,Acceptable,31.0,None/slight,None,0.51,None,No
+346,North,NO-3,Female,9,14.2,Poor,44.0,Moderate,None,0.56,None,Yes
+347,Central,CE-2,Female,12,33.4,Borderline,14.0,Moderate,Crisis,0.71,None,No
+348,North,NO-1,Male,9,18.9,Poor,44.0,Moderate,Stress,0.67,Remittances,Yes
+349,Central,CE-2,Male,2,46.7,Acceptable,45.0,Severe,Crisis,0.69,Petty trade,Yes
+350,Central,CE-1,Male,6,31.0,Borderline,16.0,Moderate,Crisis,0.36,Assistance,No
+351,west,WE-2,Female,9,49.9,Acceptable,28.0,None/slight,Stress,0.48,Petty trade,Yes
+352,East,EA-4,Female,11,50.7,Acceptable,3.0,Moderate,None,0.4,Casual labour,No
+353,Central,CE-3,Male,13,57.5,Acceptable,44.0,Moderate,Stress,0.83,Assistance,No
+354,Central,CE-4,F,12,35.2,Acceptable,24.0,Moderate,Crisis,0.75,Casual labour,No
+355,north,NO-1,F,8,33.9,Borderline,2.0,Severe,Emergency,0.62,Remittances,Yes
+356,Central,CE-3,M,7,43.5,Acceptable,41.0,None/slight,Crisis,0.68,Petty trade,Yes
+357,North,NO-3,Male,12,55.4,Acceptable,31.0,Severe,None,0.75,Agriculture,No
+358,West,WE-2,Female,1,35.5,Acceptable,41.0,Moderate,Crisis,0.63,Remittances,No
+359,Central,CE-4,male,12,34.3,Borderline,8.0,None/slight,Stress,0.33,Petty trade,No
+360,north,NO-2,Male,3,56.1,Acceptable,5.0,None/slight,Stress,0.45,Assistance,Yes
+361,East,EA-2,male,4,14.0,Poor,4.0,Moderate,Crisis,0.34,Petty trade,Yes
+362,East,EA-1,Male,13,63.7,Acceptable,52.0,Moderate,None,0.68,Assistance,No
+363,Central,CE-3,Male,12,39.7,Acceptable,23.0,None/slight,Stress,0.43,Remittances,No
+364,South,SO-4,Female,3,46.7,Acceptable,7.0,Moderate,None,0.27,None,Yes
+365,East,EA-3,Male,11,58.3,Acceptable,54.0,None/slight,None,0.66,Petty trade,No
+366,north,NO-2,M,11,29.0,Borderline,2.0,None/slight,Stress,0.93,Casual labour,Yes
+367,west,WE-2,Male,2,45.5,Acceptable,43.0,None/slight,Crisis,0.67,Assistance,No
+368,East,EA-4,F,4,59.8,Acceptable,43.0,None/slight,None,0.53,None,No
+369,Central,CE-4,Female,6,46.5,Acceptable,8.0,None/slight,None,0.81,Remittances,No
+370,Central,CE-4,M,9,53.5,Acceptable,6.0,Moderate,Crisis,0.39,Agriculture,No
+371,Central,CE-1,Female,5,31.7,Borderline,3.0,Moderate,Stress,0.7,Assistance,No
+372,Central,CE-3,Female,13,53.2,Acceptable,52.0,Moderate,Stress,0.87,None,No
+373,North,NO-2,male,10,45.1,Acceptable,7.0,None/slight,Crisis,0.64,Assistance,No
+374,East,EA-2,Male,10,35.9,Acceptable,5.0,Moderate,None,0.52,None,No
+375,South,SO-1,F,5,22.3,Borderline,23.0,None/slight,Crisis,0.84,None,No
+376,East,EA-3,male,11,48.6,Acceptable,30.0,None/slight,Stress,0.49,Petty trade,No
+377,North,NO-2,Female,3,26.1,Borderline,19.0,None/slight,Emergency,0.69,Petty trade,No
+378,Central,CE-2,M,9,47.0,Acceptable,37.0,None/slight,Crisis,0.65,Assistance,No
+379,West,WE-4,female,6,64.1,Acceptable,24.0,None/slight,Stress,0.64,Remittances,No
+380,East,EA-4,Female,12,36.7,Acceptable,18.0,None/slight,Stress,0.61,Casual labour,No
+381,Central,CE-2,Female,6,47.6,Acceptable,33.0,None/slight,None,0.53,Petty trade,Yes
+382,Central,CE-4,F,9,25.4,Borderline,,None/slight,Stress,0.67,Assistance,No
+383,East,EA-2,Female,1,53.7,Acceptable,11.0,Moderate,Stress,0.34,Remittances,No
+384,East,EA-1,Female,6,10.6,Poor,46.0,Moderate,Crisis,0.83,Petty trade,No
+385,North,NO-2,Female,8,42.1,Acceptable,26.0,None/slight,Stress,0.53,Assistance,No
+386,Central,CE-4,M,10,24.3,Borderline,33.0,Severe,Stress,0.42,Petty trade,No
+387,NORTH ,NO-4,F,7,26.9,Borderline,13.0,Severe,Crisis,0.62,Assistance,Yes
+388,West,WE-3,Male,10,27.1,Borderline,19.0,None/slight,None,0.66,Petty trade,Yes
+389,East,EA-4,F,4,66.1,Acceptable,36.0,Moderate,None,0.57,Casual labour,No
+390,East,EA-1,Female,10,28.1,Borderline,39.0,None/slight,Emergency,0.76,Petty trade,No
+391,NORTH ,NO-1,Male,5,63.2,Acceptable,4.0,Moderate,Stress,0.63,Assistance,No
+392,NORTH ,NO-2,Female,9,40.4,Acceptable,30.0,Severe,Stress,0.91,Remittances,Yes
+393,Central,CE-3,Male,9,31.4,Borderline,51.0,None/slight,Stress,0.65,Agriculture,No
+394,Central,CE-4,Female,8,40.9,Acceptable,27.0,None/slight,Crisis,0.51,Agriculture,No
+395,East,EA-2,Male,13,39.2,Acceptable,36.0,Moderate,None,0.66,Petty trade,No
+396,north,NO-3,M,9,39.9,Acceptable,19.0,None/slight,Stress,0.62,Remittances,No
+397,west,WE-1,F,4,57.1,Acceptable,19.0,Moderate,None,0.64,Petty trade,Yes
+398,North,NO-3,M,2,16.2,Poor,4.0,None/slight,Crisis,0.71,Casual labour,No
+399,west,WE-3,F,10,46.2,Acceptable,21.0,None/slight,Crisis,0.39,None,No
+400,NORTH ,NO-2,F,7,41.2,Acceptable,12.0,Moderate,Stress,0.81,Petty trade,No
+401,west,WE-1,Male,5,47.7,Acceptable,,None/slight,Stress,0.45,None,No
+402,Central,CE-2,Male,2,30.4,Borderline,4.0,Moderate,Crisis,0.64,Remittances,No
+403,Central,CE-3,Female,9,68.8,Acceptable,33.0,None/slight,Stress,0.55,None,Yes
+404,west,WE-3,M,5,47.4,Acceptable,48.0,None/slight,Stress,0.59,None,No
+405,East,EA-2,Female,7,27.8,Borderline,0.0,None/slight,Stress,0.51,Assistance,No
+406,NORTH ,NO-4,M,12,35.1,Acceptable,43.0,None/slight,Crisis,0.68,Petty trade,Yes
+407,south,SO-3,F,1,38.0,Acceptable,34.0,Moderate,None,0.66,Agriculture,No
+408,North,NO-3,Male,5,34.4,Borderline,16.0,None/slight,Crisis,0.36,Agriculture,Yes
+409,West,WE-3,Male,4,56.0,Acceptable,13.0,None/slight,Crisis,0.72,None,Yes
+410,NORTH ,NO-1,Male,4,25.2,Borderline,17.0,Moderate,Crisis,0.57,Petty trade,No
+411,East,EA-4,Male,13,80.0,Acceptable,14.0,Moderate,Stress,0.71,Remittances,Yes
+412,west,WE-1,Female,2,34.9,Borderline,,None/slight,None,0.58,Assistance,Yes
+413,north,NO-3,Male,8,39.3,Acceptable,19.0,None/slight,None,0.82,Remittances,No
+414,South,SO-1,Male,6,39.3,Acceptable,13.0,None/slight,Stress,0.51,Petty trade,Yes
+415,west,WE-3,Female,6,50.7,Acceptable,5.0,Moderate,Stress,0.67,Casual labour,No
+416,Central,CE-4,Female,9,9.7,Poor,39.0,Moderate,Crisis,0.46,Petty trade,No
+417,South,SO-3,Female,11,41.1,Acceptable,10.0,Moderate,None,0.74,Assistance,No
+418,Central,CE-3,Male,3,53.1,Acceptable,28.0,None/slight,None,0.6,Agriculture,No
+419,Central,CE-2,Female,2,36.4,Acceptable,54.0,None/slight,None,0.58,Petty trade,No
+420,west,WE-1,Female,1,48.3,Acceptable,,Moderate,None,0.4,None,Yes
+421,East,EA-3,Female,11,68.5,Acceptable,24.0,None/slight,Stress,0.68,None,No
+422,East,EA-2,Male,8,25.9,Borderline,0.0,Severe,Crisis,0.69,Agriculture,No
+423,East,EA-3,M,7,29.3,Borderline,52.0,Moderate,Crisis,0.66,Casual labour,No
+424,Central,CE-1,Female,1,41.5,Acceptable,27.0,None/slight,Crisis,0.79,Assistance,No
+425,South,SO-1,Male,1,44.7,Acceptable,13.0,None/slight,Crisis,0.55,Agriculture,No
+426,south,SO-3,M,5,40.8,Acceptable,21.0,None/slight,None,0.28,Remittances,No
+427,west,WE-2,Female,4,28.5,Borderline,42.0,None/slight,Crisis,0.52,Casual labour,No
+428,West,WE-1,F,11,31.0,Borderline,51.0,Moderate,Stress,0.68,None,No
+429,West,WE-3,Female,8,34.2,Borderline,42.0,None/slight,None,0.53,Remittances,No
+430,North,NO-3,Male,10,48.6,Acceptable,48.0,None/slight,Stress,0.56,Assistance,Yes
+431,south,SO-4,Female,5,80.2,Acceptable,5.0,Moderate,Crisis,0.58,Remittances,No
+432,South,SO-4,Female,1,43.4,Acceptable,31.0,None/slight,None,0.41,None,No
+433,north,NO-3,male,6,18.9,Poor,19.0,None/slight,Stress,0.72,None,No
+434,West,WE-2,male,4,67.6,Acceptable,20.0,Moderate,Stress,0.56,Assistance,Yes
+435,west,WE-4,Female,12,35.9,Acceptable,24.0,Moderate,None,0.36,None,No
+436,west,WE-4,male,9,53.9,Acceptable,2.0,Moderate,None,0.76,Agriculture,No
+437,East,EA-1,Female,2,48.7,Acceptable,39.0,Moderate,Stress,0.82,Casual labour,No
+438,East,EA-4,Female,8,40.8,Acceptable,35.0,None/slight,Crisis,0.62,Petty trade,No
+439,Central,CE-4,F,11,43.9,Acceptable,11.0,None/slight,Crisis,0.66,Remittances,Yes
+440,East,EA-2,Male,6,9.7,Poor,6.0,Moderate,Emergency,0.48,Petty trade,Yes
+441,West,WE-1,M,12,57.7,Acceptable,6.0,Moderate,None,0.55,Assistance,No
+442,West,WE-3,female,8,4.3,Poor,22.0,None/slight,Emergency,0.66,Petty trade,No
+443,West,WE-1,Female,4,64.2,Acceptable,36.0,Moderate,Stress,0.49,None,No
+444,West,WE-1,M,12,40.3,Acceptable,20.0,Moderate,None,0.92,Casual labour,No
+445,Central,CE-1,Male,8,12.5,Poor,53.0,Severe,None,0.58,None,Yes
+446,west,WE-2,Male,11,47.3,Acceptable,6.0,None/slight,None,0.49,Remittances,Yes
+447,west,WE-2,female,10,68.9,Acceptable,24.0,Moderate,None,0.44,None,No
+448,Central,CE-1,F,10,68.1,Acceptable,7.0,Moderate,None,0.81,Agriculture,Yes
+449,South,SO-4,Female,8,50.7,Acceptable,48.0,None/slight,Stress,0.44,Petty trade,No
+450,north,NO-4,M,6,51.6,Acceptable,12.0,Moderate,None,0.44,Remittances,No
+451,Central,CE-3,female,8,46.9,Acceptable,4.0,None/slight,Emergency,0.52,None,No
+452,south,SO-4,Female,13,56.4,Acceptable,10.0,None/slight,Crisis,0.7,Agriculture,No
+453,Central,CE-4,M,11,39.4,Acceptable,42.0,None/slight,None,0.86,Petty trade,No
+454,west,WE-4,Female,12,53.6,Acceptable,,Moderate,None,0.63,Remittances,No
+455,East,EA-4,Female,8,24.6,Borderline,35.0,None/slight,Crisis,0.89,Assistance,Yes
+456,Central,CE-4,male,6,49.3,Acceptable,35.0,Moderate,None,0.9,Remittances,No
+457,South,SO-3,F,5,22.7,Borderline,12.0,None/slight,Crisis,0.84,Agriculture,Yes
+458,Central,CE-4,Male,3,25.5,Borderline,26.0,Severe,Stress,0.56,Assistance,Yes
+459,south,SO-2,Male,12,64.0,Acceptable,54.0,None/slight,Crisis,0.68,Remittances,No
+460,East,EA-2,M,1,46.6,Acceptable,8.0,Severe,None,0.69,Casual labour,No
+461,Central,CE-1,Male,3,73.0,Acceptable,45.0,Moderate,Stress,0.62,Assistance,Yes
+462,West,WE-1,male,6,27.4,Borderline,11.0,Moderate,None,0.52,Petty trade,No
+463,west,WE-3,Male,10,14.4,Poor,34.0,Moderate,None,0.73,Assistance,Yes
+464,East,EA-3,Female,7,26.7,Borderline,29.0,None/slight,Stress,0.54,Assistance,Yes
+465,East,EA-1,Male,6,56.6,Acceptable,48.0,None/slight,Stress,0.65,Assistance,No
+466,NORTH ,NO-4,Female,12,53.6,Acceptable,12.0,None/slight,Crisis,0.53,None,No
+467,south,SO-2,Female,6,20.8,Poor,12.0,Severe,Stress,0.73,None,Yes
+468,Central,CE-2,Female,13,33.9,Borderline,52.0,None/slight,Stress,0.72,Agriculture,Yes
+469,South,SO-1,M,9,44.3,Acceptable,2.0,None/slight,None,0.71,Assistance,Yes
+470,East,EA-1,F,13,35.4,Acceptable,17.0,Moderate,Stress,0.57,Agriculture,No
+471,Central,CE-1,Female,4,9.5,Poor,,None/slight,None,0.62,None,No
+472,NORTH ,NO-4,female,9,82.2,Acceptable,19.0,None/slight,Emergency,0.73,None,No
+473,south,SO-4,Male,7,74.6,Acceptable,29.0,Moderate,None,0.95,Remittances,Yes
+474,South,SO-2,M,6,55.0,Acceptable,27.0,Severe,Crisis,0.74,Remittances,Yes
+475,East,EA-4,Male,3,26.5,Borderline,19.0,Moderate,Stress,0.7,Petty trade,No
+476,south,SO-4,Female,13,15.2,Poor,55.0,None/slight,Stress,0.43,None,No
+477,north,NO-2,Male,7,54.2,Acceptable,40.0,Moderate,Crisis,0.55,Casual labour,No
+478,NORTH ,NO-2,Female,3,51.0,Acceptable,54.0,None/slight,None,0.82,Petty trade,No
+479,Central,CE-3,Male,7,59.6,Acceptable,2.0,Moderate,Crisis,0.81,None,No
+480,Central,CE-2,M,7,62.2,Acceptable,35.0,None/slight,Crisis,0.29,Petty trade,No
+481,south,SO-4,Male,2,38.1,Acceptable,21.0,None/slight,None,0.43,Assistance,Yes
+482,East,EA-2,M,4,37.5,Acceptable,27.0,None/slight,Crisis,0.77,Assistance,Yes
+483,NORTH ,NO-3,male,6,44.6,Acceptable,55.0,None/slight,Crisis,0.69,Casual labour,No
+484,East,EA-4,Female,7,38.1,Acceptable,6.0,Moderate,Emergency,0.7,Assistance,Yes
+485,South,SO-4,M,7,24.1,Borderline,12.0,None/slight,Crisis,0.45,Casual labour,No
+486,East,EA-2,male,2,42.1,Acceptable,24.0,Severe,Crisis,0.94,Casual labour,Yes
+487,East,EA-2,F,9,62.0,Acceptable,,None/slight,Crisis,0.54,Remittances,No
+488,Central,CE-2,Male,8,43.2,Acceptable,53.0,None/slight,None,0.63,Petty trade,No
+489,NORTH ,NO-3,Male,7,47.3,Acceptable,50.0,Moderate,None,0.73,Assistance,Yes
+490,East,EA-1,Male,6,71.8,Acceptable,32.0,Moderate,Stress,0.5,Casual labour,No
+491,Central,CE-2,Female,13,33.1,Borderline,44.0,None/slight,Crisis,0.82,Assistance,No
+492,South,SO-2,Male,13,42.4,Acceptable,13.0,None/slight,None,0.57,Assistance,No
+493,South,SO-3,male,7,38.6,Acceptable,18.0,Moderate,Stress,0.6,Agriculture,No
+494,East,EA-3,F,5,41.7,Acceptable,43.0,Moderate,Emergency,0.57,Assistance,Yes
+495,West,WE-4,Male,11,48.0,Acceptable,,None/slight,None,0.36,Remittances,No
+496,south,SO-4,female,13,26.6,Borderline,13.0,Severe,None,0.72,Assistance,Yes
+497,West,WE-2,female,7,40.1,Acceptable,25.0,Moderate,None,0.52,Casual labour,Yes
+498,West,WE-1,Male,6,77.1,Acceptable,20.0,Moderate,None,0.62,Agriculture,No
+499,west,WE-1,male,4,25.9,Borderline,29.0,None/slight,None,0.57,Remittances,Yes
+500,Central,CE-1,Male,11,46.9,Acceptable,5.0,None/slight,None,0.56,Remittances,No
+501,West,WE-3,Male,4,64.3,Acceptable,24.0,None/slight,Crisis,0.71,Remittances,No
+502,NORTH ,NO-2,Male,8,74.5,Acceptable,17.0,None/slight,Stress,0.65,Remittances,No
+503,west,WE-2,Female,3,55.3,Acceptable,25.0,None/slight,None,0.7,Agriculture,No
+504,NORTH ,NO-3,Female,12,27.2,Borderline,35.0,Moderate,Crisis,0.72,Agriculture,No
+505,Central,CE-3,M,9,38.0,Acceptable,15.0,None/slight,Crisis,0.37,Petty trade,No
+506,Central,CE-2,Female,7,62.8,Acceptable,36.0,None/slight,Stress,0.67,Remittances,No
+507,south,SO-1,Male,7,62.3,Acceptable,49.0,None/slight,Crisis,0.55,Assistance,No
+508,west,WE-4,Male,4,33.9,Borderline,32.0,Severe,None,0.65,Remittances,Yes
+509,South,SO-4,M,10,41.7,Acceptable,20.0,None/slight,Emergency,0.67,Casual labour,No
+510,Central,CE-1,Male,6,64.2,Acceptable,14.0,None/slight,Emergency,0.39,Casual labour,No
+511,East,EA-3,Female,13,26.6,Borderline,47.0,Moderate,Crisis,0.62,Remittances,No
+512,south,SO-3,Male,10,65.8,Acceptable,28.0,Severe,Crisis,0.58,None,Yes
+513,north,NO-4,Female,6,13.6,Poor,27.0,Moderate,Emergency,0.42,Casual labour,No
+514,north,NO-2,M,4,25.5,Borderline,5.0,None/slight,Stress,0.34,Petty trade,No
+515,north,NO-4,female,13,51.3,Acceptable,8.0,Severe,Crisis,0.55,Remittances,No
+516,Central,CE-3,F,13,49.9,Acceptable,7.0,None/slight,None,0.85,None,No
+517,west,WE-4,Male,11,25.9,Borderline,42.0,Severe,None,0.52,Petty trade,Yes
+518,North,NO-3,male,9,70.6,Acceptable,43.0,Severe,None,0.67,Casual labour,No
+519,East,EA-2,male,11,29.9,Borderline,8.0,None/slight,Stress,0.69,Remittances,No
+520,West,WE-3,Male,4,48.3,Acceptable,34.0,None/slight,Stress,0.48,Agriculture,Yes
+521,Central,CE-1,male,12,71.2,Acceptable,16.0,None/slight,Stress,0.44,Agriculture,No
+522,West,WE-2,Male,1,50.7,Acceptable,8.0,Moderate,Stress,0.53,Agriculture,No
+523,south,SO-4,Female,11,61.0,Acceptable,37.0,Moderate,Stress,0.56,Assistance,No
+524,Central,CE-2,Male,11,24.6,Borderline,4.0,Moderate,None,0.59,Petty trade,No
+525,west,WE-1,Female,5,34.1,Borderline,27.0,Moderate,Emergency,0.62,Assistance,Yes
+526,East,EA-4,Female,1,22.5,Borderline,12.0,None/slight,Stress,0.7,Petty trade,No
+527,Central,CE-2,Female,6,46.1,Acceptable,43.0,None/slight,Stress,0.66,Petty trade,Yes
+528,south,SO-3,Male,10,41.7,Acceptable,22.0,None/slight,None,0.41,Casual labour,Yes
+529,East,EA-4,F,12,31.2,Borderline,17.0,Severe,None,0.43,Agriculture,No
+530,north,NO-4,Male,7,52.3,Acceptable,47.0,None/slight,Crisis,0.74,Casual labour,Yes
+531,East,EA-3,male,13,35.2,Acceptable,38.0,None/slight,Crisis,0.6,Casual labour,No
+532,East,EA-1,Male,7,61.5,Acceptable,49.0,Severe,Crisis,0.69,Agriculture,Yes
+533,north,NO-2,Female,11,49.8,Acceptable,7.0,Moderate,Stress,0.61,Petty trade,Yes
+534,Central,CE-3,F,13,34.3,Borderline,14.0,None/slight,None,0.55,None,No
+535,Central,CE-2,Male,4,54.1,Acceptable,50.0,Severe,Stress,0.72,Agriculture,No
+536,South,SO-3,F,3,45.6,Acceptable,1.0,None/slight,Emergency,0.84,Remittances,Yes
+537,Central,CE-3,Female,2,66.7,Acceptable,22.0,None/slight,Stress,0.41,Casual labour,Yes
+538,East,EA-3,M,3,26.8,Borderline,41.0,Severe,None,0.49,Petty trade,Yes
+539,West,WE-2,Female,7,58.9,Acceptable,41.0,None/slight,Stress,0.57,Remittances,Yes
+540,NORTH ,NO-3,Male,10,40.4,Acceptable,7.0,None/slight,Stress,0.54,Assistance,No
+541,NORTH ,NO-2,Female,13,29.6,Borderline,17.0,Moderate,Crisis,0.71,Remittances,No
+542,West,WE-2,Female,13,57.5,Acceptable,15.0,Moderate,Stress,0.82,Assistance,No
+543,North,NO-1,Male,13,26.7,Borderline,53.0,Moderate,Stress,0.66,Assistance,No
+544,Central,CE-1,Male,13,38.5,Acceptable,27.0,None/slight,Crisis,0.58,None,No
+545,Central,CE-4,Female,11,45.3,Acceptable,31.0,None/slight,None,0.71,Agriculture,No
+546,south,SO-3,M,11,54.4,Acceptable,1.0,Moderate,Crisis,0.61,None,No
+547,North,NO-4,M,8,45.2,Acceptable,6.0,Moderate,None,0.82,None,No
+548,East,EA-2,Female,7,29.1,Borderline,18.0,None/slight,Stress,0.74,Remittances,No
+549,south,SO-1,Male,4,49.0,Acceptable,43.0,None/slight,Stress,0.43,Casual labour,No
+550,south,SO-2,Female,10,18.0,Poor,,Moderate,Stress,0.48,None,No
+551,South,SO-4,female,11,17.1,Poor,3.0,None/slight,None,0.38,Agriculture,No
+552,south,SO-2,Female,12,25.6,Borderline,36.0,Moderate,None,0.4,Petty trade,No
+553,South,SO-4,Female,8,51.5,Acceptable,7.0,Severe,None,0.46,Agriculture,Yes
+554,North,NO-3,Male,1,29.2,Borderline,54.0,None/slight,Crisis,0.6,None,No
+555,north,NO-3,female,9,46.7,Acceptable,38.0,None/slight,Crisis,0.51,Remittances,Yes
+556,East,EA-1,Female,6,39.3,Acceptable,52.0,None/slight,Crisis,0.64,Petty trade,No
+557,East,EA-4,Male,1,33.5,Borderline,44.0,None/slight,Emergency,0.69,Assistance,No
+558,Central,CE-3,F,3,39.7,Acceptable,32.0,Moderate,Crisis,0.62,Agriculture,No
+559,west,WE-4,Female,9,69.8,Acceptable,11.0,Severe,Stress,0.62,Petty trade,No
+560,West,WE-3,Female,7,57.7,Acceptable,35.0,Moderate,Emergency,0.54,Casual labour,No
+561,North,NO-4,male,1,42.1,Acceptable,17.0,None/slight,None,0.61,Petty trade,No
+562,west,WE-3,Male,10,39.7,Acceptable,16.0,None/slight,Crisis,0.58,Agriculture,No
+563,west,WE-2,Female,9,10.3,Poor,53.0,Moderate,Stress,0.86,Casual labour,No
+564,south,SO-3,Male,12,61.5,Acceptable,18.0,None/slight,Stress,0.63,Casual labour,No
+565,south,SO-3,female,2,45.2,Acceptable,34.0,Moderate,Crisis,0.74,Casual labour,Yes
+566,East,EA-1,Male,10,53.7,Acceptable,23.0,None/slight,Crisis,0.63,Casual labour,No
+567,East,EA-2,M,8,64.4,Acceptable,34.0,None/slight,Crisis,0.48,Assistance,No
+568,West,WE-2,Female,9,35.8,Acceptable,46.0,None/slight,Stress,0.62,Petty trade,Yes
+569,South,SO-2,Female,3,69.4,Acceptable,41.0,Moderate,None,0.78,Casual labour,Yes
+570,north,NO-3,F,6,16.9,Poor,41.0,None/slight,Stress,0.67,Casual labour,No
+571,NORTH ,NO-2,Female,4,34.9,Borderline,12.0,Moderate,Emergency,0.5,Assistance,No
+572,Central,CE-3,Male,13,29.0,Borderline,36.0,Moderate,Crisis,0.28,Remittances,No
+573,south,SO-4,Female,1,30.6,Borderline,7.0,None/slight,None,0.83,Agriculture,No
+574,South,SO-3,Male,7,62.7,Acceptable,32.0,Moderate,Crisis,0.49,Remittances,No
+575,south,SO-4,Female,8,53.0,Acceptable,34.0,None/slight,Stress,0.68,Petty trade,No
+576,South,SO-1,Female,4,54.8,Acceptable,56.0,None/slight,None,0.55,Remittances,Yes
+577,South,SO-1,F,1,32.3,Borderline,35.0,None/slight,Emergency,0.69,None,No
+578,north,NO-4,Male,12,48.0,Acceptable,0.0,Moderate,Crisis,0.77,Agriculture,No
+579,North,NO-4,M,10,16.8,Poor,26.0,Moderate,None,0.63,Assistance,No
+580,East,EA-2,female,9,52.4,Acceptable,9.0,None/slight,Crisis,0.64,Petty trade,No
+581,south,SO-2,Male,4,19.1,Poor,56.0,None/slight,None,0.65,None,No
+582,West,WE-1,Male,5,32.0,Borderline,46.0,Moderate,None,0.74,Assistance,No
+583,East,EA-4,female,8,24.7,Borderline,27.0,None/slight,Emergency,0.86,Petty trade,No
+584,East,EA-2,Male,3,48.4,Acceptable,38.0,Moderate,Emergency,0.73,Petty trade,Yes
+585,West,WE-3,Male,9,24.7,Borderline,17.0,None/slight,Stress,0.74,None,Yes
+586,East,EA-4,F,10,49.2,Acceptable,29.0,None/slight,Crisis,0.82,Remittances,No
+587,Central,CE-3,Female,1,50.0,Acceptable,36.0,None/slight,None,0.57,Remittances,No
+588,West,WE-3,Female,3,18.5,Poor,,None/slight,None,0.87,Casual labour,No
+589,North,NO-1,Male,3,62.8,Acceptable,46.0,None/slight,None,0.55,Agriculture,Yes
+590,Central,CE-1,Male,2,51.5,Acceptable,13.0,None/slight,Crisis,0.96,Remittances,No
+591,north,NO-2,Male,10,32.4,Borderline,43.0,None/slight,Stress,0.46,Casual labour,Yes
+592,Central,CE-1,Male,3,33.6,Borderline,15.0,Moderate,None,0.43,Remittances,Yes
+593,Central,CE-2,Male,9,39.4,Acceptable,18.0,Moderate,Crisis,0.63,Casual labour,No
+594,East,EA-3,Male,1,46.1,Acceptable,36.0,None/slight,Stress,0.71,Agriculture,No
+595,north,NO-1,Male,3,44.7,Acceptable,18.0,None/slight,Stress,0.44,Casual labour,No
+596,south,SO-2,M,13,30.0,Borderline,4.0,Moderate,Stress,0.72,Casual labour,No
+597,Central,CE-3,M,9,53.2,Acceptable,2.0,None/slight,Emergency,0.5,Casual labour,Yes
+598,Central,CE-2,Female,5,34.8,Borderline,9.0,Severe,Stress,0.47,Petty trade,No
+599,East,EA-4,F,10,38.2,Acceptable,36.0,Moderate,None,0.55,None,No
+600,East,EA-3,male,9,30.5,Borderline,9.0,Moderate,Stress,0.65,Casual labour,Yes
+601,South,SO-3,Male,3,54.6,Acceptable,,None/slight,Stress,0.5,Assistance,No
+602,Central,CE-2,M,1,54.2,Acceptable,56.0,Moderate,Crisis,0.46,None,Yes
+603,Central,CE-4,M,4,60.3,Acceptable,17.0,None/slight,Emergency,0.65,Casual labour,No
+604,north,NO-2,M,4,31.1,Borderline,35.0,Moderate,Crisis,0.55,Petty trade,Yes
+605,Central,CE-4,Male,12,42.0,Acceptable,43.0,Moderate,None,0.92,Agriculture,Yes
+606,south,SO-3,Female,3,50.9,Acceptable,,Moderate,Stress,0.83,Petty trade,Yes
+607,East,EA-2,Male,4,26.2,Borderline,45.0,None/slight,Stress,0.63,Assistance,Yes
+608,west,WE-2,Male,6,23.7,Borderline,38.0,None/slight,Crisis,0.58,Remittances,No
+609,East,EA-1,Female,10,49.3,Acceptable,24.0,Severe,None,0.45,None,Yes
+610,East,EA-4,Male,6,27.5,Borderline,19.0,None/slight,None,0.72,Casual labour,Yes
+611,East,EA-3,female,3,37.9,Acceptable,39.0,Moderate,Crisis,0.63,None,No
+612,South,SO-1,Male,12,28.1,Borderline,26.0,None/slight,Stress,0.59,Agriculture,No
+613,North,NO-3,Male,5,61.8,Acceptable,15.0,None/slight,None,0.65,Casual labour,Yes
+614,south,SO-2,Male,7,52.6,Acceptable,10.0,None/slight,Crisis,0.55,Assistance,No
+615,South,SO-3,female,12,46.4,Acceptable,43.0,Moderate,Stress,0.54,Agriculture,No
+616,South,SO-3,male,2,57.2,Acceptable,34.0,Moderate,Emergency,0.81,Petty trade,Yes
+617,East,EA-4,male,13,44.0,Acceptable,0.0,None/slight,Emergency,0.73,Remittances,Yes
+618,West,WE-2,F,13,34.3,Borderline,55.0,Moderate,Stress,0.41,Petty trade,No
+619,East,EA-4,male,1,75.2,Acceptable,18.0,Moderate,None,0.6,None,No
+620,north,NO-4,Male,1,33.5,Borderline,21.0,None/slight,Crisis,0.76,Petty trade,Yes
+621,north,NO-2,Female,11,96.3,Acceptable,32.0,Severe,None,0.68,Assistance,Yes
+622,South,SO-2,male,13,33.6,Borderline,,Moderate,None,0.35,Remittances,No
+623,East,EA-1,Male,5,54.3,Acceptable,54.0,None/slight,Stress,0.89,Casual labour,No
+624,West,WE-1,male,11,16.2,Poor,15.0,None/slight,Stress,0.65,Agriculture,No
+625,south,SO-4,Female,6,49.2,Acceptable,39.0,None/slight,Crisis,0.49,Remittances,Yes
+626,NORTH ,NO-2,Female,10,37.7,Acceptable,44.0,Moderate,None,0.63,None,Yes
+627,Central,CE-4,Male,10,35.7,Acceptable,51.0,Moderate,Crisis,0.81,Agriculture,No
+628,West,WE-1,F,5,39.2,Acceptable,54.0,None/slight,Crisis,0.46,Casual labour,Yes
+629,south,SO-2,Male,11,36.3,Acceptable,54.0,Severe,Stress,0.52,Casual labour,No
+630,East,EA-3,Male,13,51.1,Acceptable,30.0,Severe,None,0.42,Casual labour,Yes
+631,north,NO-4,Female,6,70.2,Acceptable,40.0,None/slight,Crisis,0.56,Assistance,No
+632,Central,CE-2,female,1,32.9,Borderline,34.0,Severe,Stress,0.77,Agriculture,Yes
+633,West,WE-1,Female,7,14.3,Poor,26.0,None/slight,Crisis,0.57,Agriculture,No
+634,west,WE-4,Male,3,30.3,Borderline,55.0,Moderate,Stress,0.32,None,No
+635,South,SO-2,Male,9,39.4,Acceptable,,None/slight,Stress,0.56,Casual labour,No
+636,South,SO-4,F,11,27.7,Borderline,46.0,Moderate,Crisis,0.42,Agriculture,No
+637,NORTH ,NO-2,Female,2,47.4,Acceptable,55.0,Moderate,Crisis,0.66,Petty trade,No
+638,South,SO-1,male,6,33.0,Borderline,0.0,Moderate,None,0.61,None,No
+639,West,WE-3,female,9,57.8,Acceptable,0.0,Moderate,Crisis,0.76,Assistance,No
+640,NORTH ,NO-3,female,6,45.1,Acceptable,23.0,Moderate,Crisis,0.61,Assistance,No
+641,East,EA-1,Female,8,49.3,Acceptable,38.0,None/slight,Crisis,0.63,Agriculture,Yes
+642,East,EA-1,Male,10,35.8,Acceptable,36.0,None/slight,Crisis,0.29,None,No
+643,south,SO-1,Male,13,43.9,Acceptable,0.0,None/slight,None,0.62,Casual labour,Yes
+644,East,EA-3,male,11,31.0,Borderline,13.0,None/slight,None,0.76,Petty trade,No
+645,south,SO-2,Female,4,52.3,Acceptable,54.0,Moderate,Stress,0.65,None,No
+646,west,WE-2,Female,5,42.2,Acceptable,28.0,None/slight,None,0.64,None,No
+647,Central,CE-2,female,2,27.2,Borderline,2.0,None/slight,Stress,0.58,Assistance,No
+648,west,WE-2,Female,10,61.5,Acceptable,26.0,Moderate,None,0.51,Remittances,Yes
+649,Central,CE-3,male,5,36.1,Acceptable,,Moderate,Stress,0.61,Agriculture,Yes
+650,west,WE-1,Female,9,52.2,Acceptable,8.0,Moderate,Crisis,0.71,Petty trade,No
+651,NORTH ,NO-3,Male,4,43.1,Acceptable,29.0,None/slight,Stress,0.46,Remittances,Yes
+652,west,WE-1,F,1,63.4,Acceptable,17.0,None/slight,None,0.5,Petty trade,No
+653,East,EA-4,Female,11,37.9,Acceptable,55.0,Moderate,None,0.69,Petty trade,No
+654,west,WE-3,Male,13,39.1,Acceptable,3.0,Severe,None,0.6,Petty trade,No
+655,South,SO-4,F,12,46.2,Acceptable,42.0,None/slight,None,0.54,Petty trade,No
+656,East,EA-3,Male,11,25.8,Borderline,26.0,None/slight,Stress,0.7,Assistance,Yes
+657,Central,CE-3,Female,10,41.6,Acceptable,23.0,Moderate,Crisis,0.63,Agriculture,No
+658,South,SO-2,Female,12,50.3,Acceptable,12.0,None/slight,None,0.75,Remittances,No
+659,Central,CE-2,Male,12,36.9,Acceptable,5.0,None/slight,Stress,0.61,Agriculture,No
+660,west,WE-3,Male,12,39.6,Acceptable,53.0,None/slight,Stress,0.54,Petty trade,No
+661,East,EA-1,F,9,36.8,Acceptable,42.0,None/slight,None,0.78,None,No
+662,west,WE-4,Male,11,50.7,Acceptable,21.0,None/slight,Emergency,0.78,None,Yes
+663,Central,CE-1,F,2,47.8,Acceptable,13.0,None/slight,Crisis,0.47,Assistance,No
+664,NORTH ,NO-2,Male,9,56.1,Acceptable,,None/slight,Stress,0.6,None,No
+665,West,WE-3,Female,7,35.8,Acceptable,47.0,Moderate,Crisis,0.3,None,No
+666,south,SO-1,Male,5,61.7,Acceptable,30.0,Moderate,Stress,0.79,Petty trade,No
+667,west,WE-3,Male,4,38.3,Acceptable,10.0,None/slight,None,0.5,Remittances,Yes
+668,East,EA-1,Female,1,48.4,Acceptable,56.0,None/slight,None,0.67,None,No
+669,north,NO-2,M,1,27.4,Borderline,51.0,None/slight,Crisis,0.74,Petty trade,No
+670,south,SO-4,Female,4,17.9,Poor,7.0,None/slight,Emergency,0.61,Assistance,No
+671,Central,CE-3,Male,7,51.4,Acceptable,21.0,Severe,None,0.7,Remittances,No
+672,East,EA-2,Male,9,24.2,Borderline,53.0,Moderate,Crisis,0.75,Assistance,Yes
+673,Central,CE-3,Female,3,61.7,Acceptable,43.0,Moderate,Stress,0.54,None,Yes
+674,Central,CE-4,Female,10,19.4,Poor,48.0,None/slight,None,0.48,Agriculture,Yes
+675,South,SO-1,Male,2,21.1,Borderline,43.0,Moderate,None,0.21,Casual labour,Yes
+676,South,SO-2,F,11,20.3,Poor,30.0,Moderate,None,0.74,None,No
+677,East,EA-3,female,1,44.2,Acceptable,,None/slight,Stress,0.77,Assistance,Yes
+678,West,WE-2,F,12,27.0,Borderline,29.0,Moderate,Crisis,0.55,Remittances,No
+679,East,EA-4,M,11,28.5,Borderline,23.0,None/slight,Stress,0.48,Agriculture,Yes
+680,East,EA-2,Male,12,50.9,Acceptable,56.0,None/slight,Crisis,0.67,Remittances,Yes
+681,Central,CE-4,Male,6,24.7,Borderline,13.0,None/slight,Crisis,0.75,Agriculture,No
+682,South,SO-4,Female,2,45.6,Acceptable,17.0,None/slight,Stress,0.52,Agriculture,No
+683,West,WE-1,M,9,66.8,Acceptable,8.0,Moderate,Crisis,0.75,Assistance,No
+684,South,SO-3,Female,10,26.1,Borderline,43.0,Severe,Stress,0.55,None,No
+685,West,WE-2,Male,13,12.8,Poor,41.0,None/slight,None,0.4,Remittances,No
+686,East,EA-4,Male,11,61.8,Acceptable,12.0,Moderate,Stress,0.48,Assistance,No
+687,South,SO-2,male,4,50.5,Acceptable,30.0,None/slight,None,0.9,None,Yes
+688,North,NO-1,male,9,14.2,Poor,48.0,Moderate,Crisis,0.61,Petty trade,No
+689,East,EA-2,female,5,43.4,Acceptable,19.0,None/slight,None,0.6,Remittances,No
+690,NORTH ,NO-4,Male,6,10.0,Poor,36.0,Moderate,Stress,0.74,Casual labour,Yes
+691,Central,CE-1,Female,7,53.2,Acceptable,31.0,None/slight,Stress,0.42,Agriculture,No
+692,west,WE-1,F,4,57.2,Acceptable,18.0,Severe,None,0.54,Assistance,No
+693,NORTH ,NO-2,Male,10,23.3,Borderline,47.0,Moderate,Stress,0.7,Assistance,Yes
+694,NORTH ,NO-3,Male,2,57.3,Acceptable,41.0,None/slight,Crisis,0.43,Assistance,Yes
+695,Central,CE-1,Female,5,46.7,Acceptable,34.0,None/slight,Emergency,0.65,Assistance,Yes
+696,South,SO-3,Male,13,54.4,Acceptable,3.0,Moderate,Stress,0.86,Remittances,No
+697,West,WE-1,M,2,55.0,Acceptable,29.0,None/slight,None,0.34,None,No
+698,East,EA-4,F,13,34.5,Borderline,35.0,None/slight,None,0.45,Agriculture,Yes
+699,East,EA-3,F,1,53.0,Acceptable,0.0,Moderate,Stress,0.63,None,No
+700,Central,CE-2,Male,1,43.7,Acceptable,55.0,None/slight,Crisis,0.6,Agriculture,No
+701,Central,CE-3,Male,11,51.5,Acceptable,35.0,None/slight,None,0.22,Assistance,No
+702,West,WE-4,Female,9,28.7,Borderline,18.0,None/slight,Stress,0.76,Remittances,No
+703,East,EA-2,Female,8,9.3,Poor,38.0,None/slight,Emergency,0.52,Casual labour,No
+704,East,EA-1,Male,9,84.7,Acceptable,34.0,None/slight,Stress,0.46,Assistance,No
+705,south,SO-4,M,6,32.4,Borderline,17.0,None/slight,Crisis,0.5,Petty trade,Yes
+706,West,WE-1,Female,11,33.8,Borderline,26.0,None/slight,Crisis,0.77,None,No
+707,Central,CE-4,Male,6,14.0,Poor,48.0,Moderate,Crisis,0.71,Agriculture,No
+708,south,SO-1,Female,5,64.2,Acceptable,16.0,None/slight,Crisis,0.55,Assistance,No
+709,South,SO-4,F,5,21.6,Borderline,54.0,None/slight,None,0.29,Casual labour,No
+710,Central,CE-3,Male,11,16.4,Poor,39.0,Moderate,Stress,0.75,None,No
+711,south,SO-1,F,1,30.9,Borderline,3.0,Moderate,Stress,0.55,Assistance,Yes
+712,NORTH ,NO-3,M,11,45.9,Acceptable,9.0,Moderate,Stress,0.76,Petty trade,No
+713,Central,CE-2,M,12,41.3,Acceptable,33.0,Moderate,None,0.65,Remittances,No
+714,south,SO-3,Male,4,10.1,Poor,41.0,None/slight,Stress,0.66,Assistance,Yes
+715,north,NO-1,Female,13,60.4,Acceptable,8.0,Severe,Crisis,0.39,Assistance,No
+716,south,SO-1,M,11,65.5,Acceptable,25.0,Moderate,Crisis,0.62,Remittances,No
+717,south,SO-4,M,3,52.2,Acceptable,40.0,Moderate,Crisis,0.71,Agriculture,Yes
+718,East,EA-3,Male,9,41.1,Acceptable,17.0,None/slight,Stress,0.52,Assistance,No
+719,Central,CE-1,F,12,45.8,Acceptable,51.0,Severe,Stress,0.81,Casual labour,No
+720,north,NO-4,Male,8,77.1,Acceptable,50.0,Severe,Stress,0.56,Casual labour,No
+721,Central,CE-3,F,6,29.6,Borderline,24.0,Moderate,Stress,0.82,Assistance,Yes
+722,Central,CE-1,Female,12,50.7,Acceptable,,None/slight,Stress,0.84,None,No
+723,East,EA-2,Female,9,43.5,Acceptable,37.0,Moderate,Emergency,0.48,Remittances,Yes
+724,South,SO-4,M,6,34.8,Borderline,51.0,Severe,Stress,0.69,Remittances,Yes
+725,Central,CE-4,Female,2,40.9,Acceptable,38.0,Moderate,Crisis,0.61,None,Yes
+726,East,EA-3,M,11,39.3,Acceptable,23.0,Moderate,Stress,0.32,None,No
+727,West,WE-3,Female,2,73.5,Acceptable,19.0,None/slight,None,0.74,Remittances,No
+728,NORTH ,NO-2,Male,8,55.7,Acceptable,47.0,Moderate,None,0.77,Petty trade,No
+729,East,EA-2,Male,7,28.0,Borderline,7.0,None/slight,None,0.58,Agriculture,No
+730,East,EA-3,Male,13,25.9,Borderline,0.0,Moderate,Stress,0.49,None,No
+731,East,EA-3,female,9,38.7,Acceptable,38.0,Severe,None,0.86,None,Yes
+732,East,EA-1,M,1,60.1,Acceptable,5.0,None/slight,Emergency,0.79,Casual labour,No
+733,South,SO-2,female,7,46.4,Acceptable,27.0,Moderate,None,0.44,None,Yes
+734,North,NO-3,Female,6,53.6,Acceptable,40.0,Moderate,None,0.72,Assistance,No
+735,north,NO-4,Male,11,61.5,Acceptable,19.0,Moderate,Crisis,0.65,Casual labour,Yes
+736,East,EA-3,Male,13,38.1,Acceptable,38.0,Severe,Crisis,0.8,None,Yes
+737,Central,CE-3,Male,2,56.5,Acceptable,8.0,None/slight,None,0.64,Remittances,Yes
+738,west,WE-1,M,8,49.0,Acceptable,0.0,None/slight,Stress,0.8,Casual labour,Yes
+739,Central,CE-4,male,5,62.3,Acceptable,31.0,None/slight,None,0.36,Remittances,No
+740,Central,CE-1,Male,2,49.1,Acceptable,7.0,Severe,Stress,0.8,Assistance,No
+741,Central,CE-2,Male,7,73.6,Acceptable,32.0,Moderate,Stress,0.8,Casual labour,Yes
+742,West,WE-3,Male,12,40.8,Acceptable,20.0,None/slight,None,0.68,Remittances,No
+743,Central,CE-4,female,12,45.8,Acceptable,28.0,None/slight,None,0.67,Casual labour,Yes
+744,West,WE-3,M,10,31.9,Borderline,6.0,None/slight,Crisis,0.72,Assistance,Yes
+745,west,WE-4,Female,9,51.8,Acceptable,31.0,None/slight,Crisis,0.65,Agriculture,No
+746,West,WE-2,F,13,47.4,Acceptable,9.0,Moderate,Crisis,0.59,Remittances,No
+747,East,EA-3,Male,4,9.5,Poor,23.0,None/slight,None,0.46,Agriculture,Yes
+748,west,WE-4,Female,5,15.0,Poor,25.0,None/slight,None,0.61,Petty trade,No
+749,south,SO-3,Male,11,24.0,Borderline,34.0,None/slight,Stress,0.7,Casual labour,Yes
+750,East,EA-1,Male,8,31.1,Borderline,36.0,None/slight,Crisis,0.69,Casual labour,No
+751,Central,CE-4,M,3,67.5,Acceptable,30.0,None/slight,Crisis,0.43,Assistance,No
+752,East,EA-1,Female,6,40.6,Acceptable,48.0,Moderate,Stress,0.48,Assistance,No
+753,south,SO-4,male,5,40.4,Acceptable,25.0,Moderate,None,0.54,Casual labour,Yes
+754,South,SO-1,Female,7,48.8,Acceptable,43.0,Severe,Stress,0.75,Petty trade,No
+755,south,SO-4,M,10,46.8,Acceptable,35.0,None/slight,Crisis,0.65,None,No
+756,west,WE-4,F,4,59.9,Acceptable,32.0,Moderate,None,0.7,Remittances,No
+757,south,SO-2,Female,10,39.7,Acceptable,56.0,None/slight,Crisis,0.56,Assistance,No
+758,East,EA-2,Male,10,32.1,Borderline,40.0,Moderate,Stress,0.5,Remittances,Yes
+759,South,SO-3,M,10,49.2,Acceptable,11.0,Severe,Stress,0.63,Remittances,No
+760,East,EA-4,male,7,58.4,Acceptable,9.0,None/slight,Crisis,0.5,Assistance,No
+761,Central,CE-2,Male,2,43.9,Acceptable,13.0,None/slight,Stress,0.61,Remittances,No
+762,Central,CE-4,Male,12,31.7,Borderline,55.0,None/slight,Crisis,0.55,Remittances,Yes
+763,North,NO-2,Male,4,45.9,Acceptable,32.0,None/slight,Stress,0.73,Casual labour,Yes
+764,West,WE-2,F,4,38.3,Acceptable,50.0,Moderate,Stress,0.66,Agriculture,No
+765,East,EA-2,Male,2,30.2,Borderline,28.0,None/slight,None,0.51,Casual labour,No
+766,East,EA-3,Male,5,59.7,Acceptable,25.0,None/slight,Crisis,0.61,Petty trade,No
+767,North,NO-4,Female,11,31.3,Borderline,12.0,Moderate,Stress,0.73,Agriculture,Yes
+768,East,EA-4,Male,4,34.3,Borderline,45.0,Moderate,None,0.53,Petty trade,Yes
+769,East,EA-3,Male,7,25.9,Borderline,11.0,None/slight,Stress,0.62,Casual labour,No
+770,west,WE-2,Male,11,38.3,Acceptable,44.0,None/slight,Stress,0.88,Assistance,No
+771,Central,CE-3,F,2,53.4,Acceptable,44.0,None/slight,Stress,0.64,Casual labour,No
+772,west,WE-3,M,8,24.7,Borderline,23.0,Moderate,Stress,0.54,None,No
+773,South,SO-3,Male,3,47.9,Acceptable,2.0,None/slight,Stress,0.71,Petty trade,No
+774,Central,CE-3,M,7,39.1,Acceptable,39.0,Moderate,Stress,0.61,Petty trade,Yes
+775,North,NO-2,M,8,29.8,Borderline,32.0,None/slight,Emergency,0.61,Casual labour,No
+776,south,SO-1,M,12,81.7,Acceptable,32.0,Moderate,Stress,0.51,Remittances,No
+777,NORTH ,NO-2,F,9,44.4,Acceptable,,Moderate,None,0.63,Agriculture,No
+778,East,EA-3,female,4,47.2,Acceptable,42.0,None/slight,Crisis,0.68,Casual labour,Yes
+779,South,SO-4,Male,10,17.7,Poor,56.0,Moderate,None,0.98,None,No
+780,East,EA-4,Male,10,80.8,Acceptable,27.0,Moderate,None,0.7,Petty trade,Yes
+781,NORTH ,NO-4,male,2,46.5,Acceptable,26.0,Severe,Crisis,0.7,None,No
+782,west,WE-4,Male,6,46.2,Acceptable,,None/slight,Crisis,0.74,Assistance,No
+783,Central,CE-1,M,4,60.3,Acceptable,43.0,None/slight,None,0.7,Casual labour,Yes
+784,East,EA-4,Male,9,41.0,Acceptable,39.0,Severe,Crisis,0.5,Assistance,No
+785,south,SO-3,Male,13,43.6,Acceptable,40.0,Moderate,Stress,0.62,Agriculture,No
+786,NORTH ,NO-2,Male,11,23.8,Borderline,30.0,Moderate,None,0.69,Remittances,No
+787,Central,CE-4,Male,5,34.1,Borderline,15.0,None/slight,Crisis,0.48,Assistance,No
+788,West,WE-4,Female,11,34.1,Borderline,47.0,None/slight,None,0.48,None,Yes
+789,west,WE-1,Male,12,56.3,Acceptable,21.0,Moderate,Stress,0.73,Remittances,Yes
+790,North,NO-4,Male,3,65.9,Acceptable,29.0,None/slight,Stress,0.67,Petty trade,Yes
+791,north,NO-2,M,4,24.9,Borderline,40.0,Moderate,None,0.63,Agriculture,Yes
+792,East,EA-3,Male,13,56.9,Acceptable,29.0,Moderate,Stress,0.81,Agriculture,No
+793,south,SO-3,female,11,53.2,Acceptable,44.0,None/slight,Crisis,0.68,Agriculture,No
+794,Central,CE-2,Female,9,44.1,Acceptable,28.0,None/slight,Stress,0.76,Remittances,Yes
+795,south,SO-4,Female,7,41.9,Acceptable,55.0,None/slight,Stress,0.56,Assistance,No
+796,Central,CE-2,Male,13,47.0,Acceptable,33.0,None/slight,None,0.57,Remittances,Yes
+797,south,SO-3,Male,1,39.9,Acceptable,53.0,Severe,Emergency,0.58,Petty trade,No
+798,Central,CE-3,F,2,72.3,Acceptable,30.0,None/slight,Stress,0.57,Remittances,No
+799,South,SO-1,M,13,21.9,Borderline,44.0,None/slight,Crisis,0.34,None,No
+800,south,SO-3,Female,4,45.3,Acceptable,,None/slight,Stress,0.28,None,No
+801,south,SO-2,Male,11,60.0,Acceptable,8.0,None/slight,Crisis,0.86,Remittances,No
+802,North,NO-4,Female,13,52.3,Acceptable,50.0,Severe,Stress,0.69,None,No
+803,Central,CE-2,Male,11,46.2,Acceptable,19.0,None/slight,None,0.79,Assistance,Yes
+804,NORTH ,NO-3,M,7,61.1,Acceptable,29.0,Moderate,Stress,0.67,Assistance,Yes
+805,Central,CE-1,Male,7,52.0,Acceptable,38.0,None/slight,Stress,0.74,Casual labour,Yes
+806,west,WE-4,M,2,63.7,Acceptable,47.0,None/slight,Stress,0.65,Assistance,Yes
+807,west,WE-4,Female,10,58.4,Acceptable,7.0,Moderate,Crisis,0.64,Petty trade,Yes
+808,Central,CE-2,Male,1,46.2,Acceptable,41.0,None/slight,Crisis,0.44,Remittances,Yes
+809,West,WE-2,Female,6,47.7,Acceptable,55.0,Moderate,Stress,0.58,Petty trade,No
+810,Central,CE-2,Male,8,51.3,Acceptable,20.0,Moderate,Stress,0.5,Agriculture,Yes
+811,East,EA-1,Female,11,23.3,Borderline,38.0,Moderate,Crisis,0.53,Agriculture,No
+812,East,EA-2,Male,2,40.2,Acceptable,36.0,None/slight,Crisis,0.4,Casual labour,Yes
+813,west,WE-4,Male,9,55.9,Acceptable,54.0,None/slight,Crisis,0.44,Agriculture,Yes
+814,west,WE-4,M,3,38.2,Acceptable,38.0,None/slight,Crisis,0.54,Assistance,Yes
+815,west,WE-1,female,12,46.4,Acceptable,3.0,Moderate,Stress,0.64,Remittances,No
+816,Central,CE-4,Male,7,43.9,Acceptable,43.0,Moderate,Stress,0.65,None,No
+817,South,SO-3,Male,4,47.1,Acceptable,31.0,Moderate,Stress,0.65,Agriculture,Yes
+818,North,NO-2,Male,13,26.7,Borderline,19.0,None/slight,Emergency,0.63,Petty trade,No
+819,south,SO-3,Female,13,44.7,Acceptable,36.0,Severe,Stress,0.71,Casual labour,No
+820,East,EA-2,M,5,55.7,Acceptable,51.0,None/slight,None,0.54,Agriculture,No
+821,Central,CE-1,Male,6,14.7,Poor,54.0,None/slight,Crisis,0.41,Petty trade,No
+822,West,WE-1,Male,8,8.2,Poor,15.0,Moderate,Crisis,0.48,Petty trade,Yes
+823,East,EA-3,F,5,38.7,Acceptable,,None/slight,None,0.62,None,No
+824,south,SO-4,M,2,42.8,Acceptable,24.0,None/slight,None,0.79,Casual labour,Yes
+825,north,NO-2,Female,4,47.2,Acceptable,52.0,None/slight,None,0.39,Remittances,Yes
+826,East,EA-1,Male,5,56.2,Acceptable,35.0,Moderate,Stress,0.29,None,Yes
+827,East,EA-2,Female,4,28.6,Borderline,48.0,Moderate,Crisis,0.59,Agriculture,No
+828,NORTH ,NO-4,male,6,47.6,Acceptable,35.0,None/slight,Stress,0.69,Petty trade,Yes
+829,north,NO-2,Male,7,53.3,Acceptable,1.0,None/slight,Crisis,0.55,Petty trade,Yes
+830,NORTH ,NO-1,F,8,50.8,Acceptable,52.0,None/slight,None,0.49,Casual labour,No
+831,Central,CE-4,M,1,29.3,Borderline,36.0,None/slight,Crisis,0.66,None,No
+832,North,NO-4,male,11,31.9,Borderline,29.0,Moderate,Crisis,0.55,None,Yes
+833,Central,CE-2,Female,11,40.4,Acceptable,13.0,Moderate,None,0.68,Casual labour,Yes
+834,East,EA-2,Male,5,48.3,Acceptable,48.0,None/slight,None,0.59,Agriculture,No
+835,south,SO-4,Male,10,42.6,Acceptable,3.0,Severe,Stress,0.48,Agriculture,No
+836,Central,CE-3,male,2,25.9,Borderline,38.0,Moderate,Crisis,0.71,Assistance,No
+837,north,NO-1,Male,5,58.8,Acceptable,22.0,None/slight,None,0.44,Agriculture,No
+838,west,WE-1,F,5,63.0,Acceptable,56.0,Moderate,Stress,0.56,Casual labour,Yes
+839,Central,CE-2,F,7,74.1,Acceptable,26.0,None/slight,Emergency,0.6,Petty trade,Yes
+840,East,EA-2,Male,13,36.0,Acceptable,36.0,Moderate,None,0.71,Assistance,Yes
+841,Central,CE-3,Male,4,40.6,Acceptable,56.0,Severe,Stress,0.48,Casual labour,Yes
+842,south,SO-4,Male,1,50.6,Acceptable,4.0,Moderate,None,0.74,Casual labour,No
+843,north,NO-1,M,3,22.7,Borderline,52.0,None/slight,Crisis,0.53,Petty trade,Yes
+844,NORTH ,NO-1,M,7,27.8,Borderline,27.0,Moderate,None,0.62,Casual labour,Yes
+845,South,SO-2,Female,12,24.9,Borderline,27.0,None/slight,Emergency,0.98,Agriculture,No
+846,East,EA-1,Male,8,57.8,Acceptable,30.0,Moderate,Crisis,0.3,Assistance,No
+847,NORTH ,NO-1,Male,6,48.7,Acceptable,6.0,Moderate,Stress,0.66,Agriculture,Yes
+848,East,EA-1,Female,6,32.9,Borderline,17.0,Moderate,Crisis,0.62,None,No
+849,South,SO-2,M,12,20.8,Poor,18.0,None/slight,Emergency,0.87,Remittances,No
+850,south,SO-2,Male,10,35.2,Acceptable,33.0,None/slight,Crisis,0.35,Petty trade,No
+851,Central,CE-2,Female,11,59.7,Acceptable,19.0,Moderate,Crisis,0.48,Petty trade,Yes
+852,NORTH ,NO-1,Male,8,42.8,Acceptable,20.0,None/slight,Stress,0.56,Petty trade,Yes
+853,south,SO-4,Male,10,58.4,Acceptable,41.0,Moderate,Crisis,0.57,None,Yes
+854,Central,CE-2,Female,3,41.7,Acceptable,15.0,None/slight,Emergency,0.55,Casual labour,No
+855,South,SO-4,Male,4,64.6,Acceptable,55.0,None/slight,Crisis,0.69,Petty trade,No
+856,West,WE-4,male,7,34.9,Borderline,53.0,None/slight,None,0.7,Assistance,No
+857,Central,CE-3,Female,8,39.4,Acceptable,7.0,None/slight,None,0.79,Agriculture,Yes
+858,East,EA-1,Male,9,43.2,Acceptable,15.0,None/slight,Crisis,0.71,None,No
+859,south,SO-1,M,10,31.7,Borderline,6.0,Moderate,Stress,0.56,Petty trade,No
+860,East,EA-4,F,8,38.2,Acceptable,21.0,None/slight,Stress,0.67,None,No
+861,Central,CE-4,F,4,38.2,Acceptable,55.0,None/slight,None,0.92,Casual labour,Yes
+862,East,EA-1,Male,11,30.4,Borderline,13.0,None/slight,Stress,0.74,None,No
+863,East,EA-1,male,10,62.8,Acceptable,42.0,None/slight,Crisis,0.71,Casual labour,Yes
+864,East,EA-4,Male,6,47.8,Acceptable,52.0,Severe,None,0.67,Remittances,No
+865,south,SO-1,Male,6,27.5,Borderline,39.0,None/slight,Stress,0.85,Agriculture,Yes
+866,west,WE-4,Female,12,28.6,Borderline,17.0,None/slight,None,0.55,Agriculture,No
+867,North,NO-1,Male,8,42.3,Acceptable,22.0,None/slight,Emergency,0.61,None,No
+868,south,SO-3,M,4,28.3,Borderline,17.0,Moderate,None,0.7,Casual labour,Yes
+869,south,SO-4,Male,13,62.0,Acceptable,13.0,None/slight,Stress,0.69,Agriculture,No
+870,North,NO-2,M,13,56.9,Acceptable,0.0,Moderate,Crisis,0.47,Remittances,No
+871,west,WE-2,Female,1,37.2,Acceptable,44.0,None/slight,None,0.63,Assistance,No
+872,East,EA-2,Female,8,57.3,Acceptable,41.0,Moderate,Stress,0.44,Casual labour,No
+873,west,WE-2,male,5,30.9,Borderline,41.0,None/slight,None,0.48,Casual labour,Yes
+874,Central,CE-2,female,7,41.5,Acceptable,44.0,Moderate,Crisis,0.5,Assistance,No
+875,Central,CE-3,M,5,43.9,Acceptable,26.0,None/slight,Emergency,0.45,Remittances,No
+876,East,EA-2,Male,7,12.6,Poor,1.0,None/slight,Stress,0.87,Petty trade,No
+877,NORTH ,NO-4,F,4,50.1,Acceptable,33.0,Moderate,Crisis,0.43,None,No
+878,East,EA-3,Male,5,52.8,Acceptable,32.0,None/slight,Crisis,0.72,Casual labour,No
+879,North,NO-1,F,9,32.3,Borderline,,Moderate,None,0.55,None,No
+880,North,NO-2,Male,3,65.0,Acceptable,38.0,Moderate,Crisis,0.2,None,No
+881,West,WE-3,male,5,45.0,Acceptable,45.0,Moderate,None,0.77,Agriculture,No
+882,East,EA-4,female,11,35.1,Acceptable,47.0,Moderate,None,0.56,Agriculture,Yes
+883,north,NO-4,Male,10,68.5,Acceptable,,Moderate,Stress,0.66,Assistance,No
+884,south,SO-2,F,12,57.5,Acceptable,7.0,None/slight,Crisis,0.73,Casual labour,No
+885,West,WE-3,Male,13,39.0,Acceptable,47.0,Moderate,Stress,0.62,Assistance,No
+886,Central,CE-2,Male,2,72.2,Acceptable,50.0,Moderate,Crisis,0.55,Remittances,Yes
+887,East,EA-4,F,10,71.4,Acceptable,52.0,None/slight,None,0.38,None,Yes
+888,North,NO-1,F,10,39.6,Acceptable,19.0,Severe,Crisis,0.47,Assistance,Yes
+889,East,EA-3,M,8,54.7,Acceptable,6.0,None/slight,Crisis,0.58,Casual labour,No
+890,south,SO-1,Female,6,74.2,Acceptable,41.0,Severe,Crisis,0.9,Petty trade,No
+891,Central,CE-3,M,12,2.4,Poor,36.0,Severe,Crisis,0.53,Assistance,Yes
+892,west,WE-4,Female,6,66.7,Acceptable,9.0,None/slight,Crisis,0.75,Agriculture,No
+893,South,SO-2,Female,13,34.0,Borderline,0.0,None/slight,Stress,0.44,None,No
+894,NORTH ,NO-4,Male,12,21.4,Borderline,35.0,None/slight,Crisis,0.54,Remittances,No
+895,NORTH ,NO-1,F,2,66.3,Acceptable,3.0,None/slight,Crisis,0.27,None,No
+896,south,SO-3,Male,6,32.0,Borderline,14.0,None/slight,Stress,0.93,Casual labour,No
+897,East,EA-1,Male,3,14.1,Poor,40.0,Moderate,None,0.82,Remittances,No
+898,East,EA-4,Male,11,53.9,Acceptable,,None/slight,None,0.7,Remittances,Yes
+899,Central,CE-1,Male,2,18.8,Poor,16.0,Severe,Stress,0.68,Assistance,No
+900,East,EA-1,F,9,45.1,Acceptable,17.0,Moderate,None,0.75,Casual labour,Yes
+901,Central,CE-3,Male,2,37.5,Acceptable,53.0,None/slight,Crisis,0.47,Petty trade,Yes
+902,East,EA-2,Male,7,47.2,Acceptable,40.0,Moderate,Stress,0.77,Petty trade,No
+903,South,SO-3,Male,13,39.9,Acceptable,4.0,None/slight,None,0.82,Casual labour,Yes
+904,Central,CE-3,Male,5,24.2,Borderline,10.0,None/slight,None,0.71,Assistance,No
+905,East,EA-1,M,5,38.1,Acceptable,52.0,None/slight,Crisis,0.3,Remittances,No
+906,north,NO-1,F,11,42.6,Acceptable,7.0,None/slight,Stress,0.52,Casual labour,No
+907,Central,CE-2,Male,8,47.5,Acceptable,30.0,Moderate,Crisis,0.7,Assistance,Yes
+908,west,WE-1,M,10,46.3,Acceptable,16.0,Moderate,Stress,0.65,None,No
+909,East,EA-4,F,12,32.6,Borderline,44.0,None/slight,Stress,0.69,Petty trade,No
+910,south,SO-4,Male,11,32.1,Borderline,26.0,Moderate,Stress,0.69,None,Yes
+911,Central,CE-4,Female,12,41.1,Acceptable,,None/slight,Stress,0.65,Agriculture,Yes
+912,south,SO-4,M,11,39.8,Acceptable,37.0,Moderate,Stress,0.51,None,Yes
+913,East,EA-1,Male,5,86.9,Acceptable,20.0,Moderate,Stress,0.17,Casual labour,Yes
+914,NORTH ,NO-4,Female,10,52.9,Acceptable,31.0,Severe,Crisis,0.55,Casual labour,Yes
+915,Central,CE-1,Male,11,49.8,Acceptable,0.0,Moderate,Stress,0.27,Agriculture,Yes
+916,south,SO-2,Male,4,57.2,Acceptable,0.0,Moderate,Crisis,0.67,Petty trade,Yes
+917,north,NO-1,M,1,49.5,Acceptable,27.0,Severe,None,0.82,Agriculture,Yes
+918,Central,CE-2,Male,6,67.1,Acceptable,42.0,Moderate,None,0.71,Petty trade,No
+919,East,EA-3,male,5,36.7,Acceptable,50.0,None/slight,Crisis,0.51,None,Yes
+920,Central,CE-3,M,9,45.6,Acceptable,4.0,None/slight,Stress,0.36,Remittances,No
+921,Central,CE-3,M,13,26.2,Borderline,19.0,None/slight,Crisis,0.62,Petty trade,Yes
+922,Central,CE-2,Male,2,47.0,Acceptable,2.0,None/slight,Crisis,0.9,Agriculture,No
+923,East,EA-2,F,11,36.0,Acceptable,48.0,Moderate,Stress,0.61,Assistance,No
+924,East,EA-2,Female,12,8.8,Poor,26.0,None/slight,Crisis,0.86,Assistance,Yes
+925,NORTH ,NO-2,M,4,29.6,Borderline,40.0,None/slight,Emergency,0.74,Petty trade,No
+926,north,NO-3,F,4,61.1,Acceptable,29.0,None/slight,None,0.65,Remittances,Yes
+927,south,SO-3,M,12,48.8,Acceptable,37.0,None/slight,None,0.7,Remittances,No
+928,north,NO-4,F,10,50.9,Acceptable,51.0,Severe,None,0.61,Petty trade,No
+929,East,EA-1,Female,11,36.6,Acceptable,24.0,None/slight,Emergency,0.57,Petty trade,No
+930,south,SO-3,Male,11,69.8,Acceptable,50.0,None/slight,Crisis,0.37,None,Yes
+931,South,SO-1,Male,9,51.4,Acceptable,22.0,Moderate,Stress,0.58,Petty trade,Yes
+932,East,EA-2,Female,13,25.3,Borderline,6.0,None/slight,Crisis,0.56,Petty trade,Yes
+933,south,SO-4,Female,4,32.6,Borderline,9.0,None/slight,Emergency,0.73,Petty trade,No
+934,East,EA-1,Male,3,59.7,Acceptable,43.0,None/slight,Stress,0.55,Assistance,No
+935,west,WE-3,F,3,30.8,Borderline,43.0,Severe,None,0.58,Petty trade,No
+936,Central,CE-4,M,7,59.2,Acceptable,31.0,None/slight,None,0.56,Remittances,No
+937,north,NO-3,M,4,67.0,Acceptable,,Moderate,Stress,0.7,Agriculture,Yes
+938,East,EA-4,M,2,19.6,Poor,31.0,None/slight,Crisis,0.54,Casual labour,No
+939,Central,CE-3,Male,11,35.3,Acceptable,22.0,None/slight,Crisis,0.53,Petty trade,Yes
+940,West,WE-4,Male,3,44.6,Acceptable,6.0,None/slight,None,0.66,None,No
+941,north,NO-2,Female,7,42.6,Acceptable,34.0,Moderate,Stress,0.7,Assistance,No
+942,South,SO-4,Male,7,43.5,Acceptable,24.0,Moderate,None,0.49,Assistance,No
+943,West,WE-3,M,11,56.9,Acceptable,50.0,Moderate,Stress,0.49,Agriculture,No
+944,Central,CE-3,Male,2,59.7,Acceptable,24.0,Moderate,Crisis,0.86,Casual labour,No
+945,North,NO-3,Male,10,51.5,Acceptable,39.0,Moderate,None,0.9,None,Yes
+946,Central,CE-4,male,5,38.6,Acceptable,14.0,None/slight,Stress,0.39,Remittances,No
+947,East,EA-4,Female,5,48.2,Acceptable,13.0,Moderate,Crisis,0.59,Petty trade,No
+948,South,SO-4,M,8,48.7,Acceptable,11.0,None/slight,Stress,0.63,Assistance,No
+949,Central,CE-4,male,13,41.3,Acceptable,36.0,Moderate,Stress,0.82,Petty trade,Yes
+950,Central,CE-1,M,7,33.3,Borderline,41.0,None/slight,None,0.52,Remittances,Yes
+951,west,WE-1,Female,10,30.2,Borderline,50.0,None/slight,Stress,0.65,Agriculture,Yes
+952,west,WE-4,Male,6,53.0,Acceptable,45.0,None/slight,None,0.55,Assistance,Yes
+953,west,WE-1,Male,4,44.2,Acceptable,2.0,Moderate,Emergency,0.62,Assistance,Yes
+954,South,SO-3,M,6,33.4,Borderline,43.0,None/slight,None,0.79,Petty trade,No
+955,west,WE-1,Male,8,38.0,Acceptable,11.0,None/slight,Stress,0.79,None,No
+956,South,SO-3,Female,5,65.1,Acceptable,30.0,None/slight,None,0.8,Remittances,Yes
+957,West,WE-2,Male,1,28.9,Borderline,12.0,None/slight,None,0.47,Remittances,Yes
+958,East,EA-1,Female,1,41.4,Acceptable,18.0,Moderate,None,0.66,Remittances,Yes
+959,Central,CE-4,Male,2,58.6,Acceptable,5.0,Moderate,Stress,0.79,Petty trade,No
+960,NORTH ,NO-1,Female,1,43.5,Acceptable,56.0,Moderate,None,0.77,Casual labour,Yes
+961,south,SO-1,Female,10,15.9,Poor,1.0,Moderate,None,0.6,None,No
+962,West,WE-1,Male,5,50.5,Acceptable,24.0,None/slight,Emergency,0.85,Petty trade,Yes
+963,north,NO-2,Male,1,29.7,Borderline,47.0,None/slight,Crisis,0.56,Petty trade,Yes
+964,south,SO-3,Female,2,45.4,Acceptable,,None/slight,Stress,0.7,None,No
+965,North,NO-3,Female,4,39.9,Acceptable,22.0,None/slight,Crisis,0.7,None,Yes
+966,West,WE-1,female,9,68.3,Acceptable,14.0,Severe,Stress,0.51,Assistance,Yes
+967,north,NO-1,Male,10,45.2,Acceptable,41.0,Moderate,Stress,0.6,Assistance,Yes
+968,NORTH ,NO-2,Female,4,30.5,Borderline,6.0,Moderate,Crisis,0.7,Assistance,No
+969,East,EA-3,Male,10,44.5,Acceptable,28.0,Moderate,Crisis,0.58,Remittances,No
+970,East,EA-1,Male,3,42.0,Acceptable,14.0,Moderate,Crisis,0.6,Casual labour,Yes
+971,NORTH ,NO-4,Male,4,39.1,Acceptable,6.0,None/slight,None,0.67,None,No
+972,North,NO-2,Male,11,68.1,Acceptable,26.0,None/slight,Crisis,0.84,Remittances,No
+973,south,SO-4,Female,12,53.3,Acceptable,32.0,Moderate,None,0.52,Agriculture,No
+974,East,EA-2,F,11,44.9,Acceptable,52.0,Moderate,None,0.74,Petty trade,No
+975,East,EA-3,Male,9,17.8,Poor,36.0,Severe,Emergency,0.45,None,No
+976,west,WE-2,Female,9,30.4,Borderline,56.0,None/slight,None,0.85,Agriculture,No
+977,west,WE-1,M,10,75.2,Acceptable,54.0,None/slight,Crisis,0.61,Assistance,No
+978,East,EA-4,Female,6,59.2,Acceptable,52.0,Moderate,None,0.65,Assistance,No
+979,East,EA-1,F,5,55.7,Acceptable,4.0,Moderate,Stress,0.81,Petty trade,No
+980,North,NO-3,female,10,51.1,Acceptable,24.0,Moderate,None,0.95,Casual labour,No
+981,north,NO-3,Male,12,20.8,Poor,50.0,Moderate,Crisis,0.58,Remittances,No
+982,Central,CE-1,Female,3,44.3,Acceptable,16.0,Moderate,None,0.46,Agriculture,No
+983,north,NO-3,male,8,58.0,Acceptable,42.0,None/slight,Crisis,0.7,Remittances,No
+984,Central,CE-3,Male,3,49.5,Acceptable,,None/slight,Crisis,0.45,Agriculture,No
+985,West,WE-1,Male,10,35.4,Acceptable,38.0,Moderate,None,0.57,Remittances,No
+986,Central,CE-1,male,3,50.6,Acceptable,42.0,Moderate,None,0.55,Casual labour,Yes
+987,west,WE-3,F,2,56.4,Acceptable,18.0,None/slight,Stress,0.76,Petty trade,Yes
+988,East,EA-2,M,6,25.9,Borderline,38.0,None/slight,Stress,0.64,Agriculture,Yes
+989,South,SO-4,Female,8,25.3,Borderline,0.0,Moderate,Emergency,0.54,Agriculture,No
+990,East,EA-3,Male,5,30.8,Borderline,54.0,None/slight,Stress,0.51,Agriculture,No
+991,West,WE-4,M,4,16.1,Poor,26.0,Moderate,Crisis,0.92,None,Yes
+992,north,NO-2,F,6,22.8,Borderline,6.0,Severe,Crisis,0.51,Assistance,No
+993,East,EA-2,female,9,24.1,Borderline,28.0,None/slight,Stress,0.96,None,No
+994,North,NO-1,female,9,19.1,Poor,26.0,None/slight,Crisis,0.58,Petty trade,No
+995,East,EA-4,M,10,31.5,Borderline,15.0,Moderate,Stress,0.75,Agriculture,No
+996,West,WE-3,Male,3,18.8,Poor,16.0,None/slight,None,0.72,Remittances,No
+997,East,EA-4,Female,9,24.1,Borderline,17.0,Moderate,Stress,0.44,Remittances,Yes
+998,West,WE-4,M,7,51.5,Acceptable,32.0,Moderate,None,0.59,Remittances,Yes
+999,South,SO-2,F,5,39.8,Acceptable,21.0,None/slight,Stress,0.44,Casual labour,No
+1000,East,EA-3,Male,10,39.3,Acceptable,,None/slight,Crisis,0.55,Petty trade,No
+1001,Central,CE-3,M,2,36.0,Acceptable,9.0,None/slight,None,0.69,Casual labour,No
+1002,West,WE-1,female,6,37.6,Acceptable,31.0,Moderate,None,0.76,Remittances,No
+1003,North,NO-1,M,9,42.5,Acceptable,30.0,Severe,None,0.77,Petty trade,No
+1004,West,WE-4,Female,2,62.2,Acceptable,25.0,Severe,Stress,0.82,Assistance,No
+1005,west,WE-1,Female,4,32.6,Borderline,11.0,None/slight,None,0.36,Petty trade,No
+1006,East,EA-2,Female,7,31.7,Borderline,54.0,None/slight,None,0.67,Remittances,No
+1007,West,WE-3,F,6,36.6,Acceptable,40.0,None/slight,Crisis,0.61,Remittances,No
+1008,East,EA-1,Male,11,52.4,Acceptable,14.0,None/slight,Stress,0.46,None,No
+1009,East,EA-2,Female,11,39.8,Acceptable,9.0,None/slight,Emergency,0.59,Agriculture,Yes
+1010,Central,CE-3,F,3,61.0,Acceptable,26.0,Moderate,Stress,0.56,Casual labour,No
+1011,North,NO-1,M,6,51.2,Acceptable,46.0,None/slight,None,0.59,Remittances,No
+1012,North,NO-4,female,5,41.7,Acceptable,13.0,Moderate,Stress,0.6,None,No
+1013,North,NO-3,M,1,55.1,Acceptable,12.0,Severe,Stress,0.61,Agriculture,Yes
+1014,South,SO-2,Male,2,58.2,Acceptable,30.0,None/slight,Stress,0.84,Assistance,No
+1015,South,SO-4,Male,8,26.2,Borderline,50.0,None/slight,Emergency,0.61,Assistance,Yes
+1016,Central,CE-1,F,9,58.7,Acceptable,39.0,Moderate,None,0.4,Assistance,Yes
+1017,East,EA-2,Male,8,49.3,Acceptable,37.0,None/slight,Stress,0.75,Petty trade,No
+1018,west,WE-2,male,1,22.0,Borderline,39.0,None/slight,Crisis,0.48,None,Yes
+1019,south,SO-1,female,1,28.5,Borderline,49.0,Moderate,None,0.5,Petty trade,No
+1020,East,EA-1,Male,6,24.8,Borderline,51.0,None/slight,None,0.54,Agriculture,Yes
+1021,Central,CE-1,Female,8,54.2,Acceptable,48.0,None/slight,Stress,0.38,Remittances,No
+1022,East,EA-3,M,2,55.1,Acceptable,12.0,None/slight,Stress,0.52,None,No
+1023,NORTH ,NO-4,Male,3,66.5,Acceptable,37.0,None/slight,Stress,0.7,Assistance,No
+1024,South,SO-4,Female,8,39.2,Acceptable,,None/slight,Emergency,0.76,None,No
+1025,West,WE-2,Female,8,87.4,Acceptable,0.0,None/slight,None,0.73,Casual labour,No
+1026,west,WE-1,Female,6,53.0,Acceptable,15.0,Severe,Stress,0.83,None,Yes
+1027,South,SO-4,Male,7,39.2,Acceptable,35.0,None/slight,None,0.65,Remittances,Yes
+1028,East,EA-2,Male,13,38.6,Acceptable,7.0,Moderate,Emergency,0.75,Petty trade,Yes
+1029,West,WE-3,Female,11,40.5,Acceptable,28.0,Severe,Emergency,0.59,Petty trade,No
+1030,south,SO-1,Male,7,28.1,Borderline,,None/slight,None,0.42,Agriculture,No
+1031,Central,CE-4,F,3,53.8,Acceptable,40.0,None/slight,Stress,0.61,Agriculture,No
+1032,East,EA-4,Female,8,35.2,Acceptable,19.0,None/slight,Crisis,0.91,Agriculture,No
+1033,south,SO-2,F,8,45.0,Acceptable,49.0,Moderate,Stress,0.71,Assistance,Yes
+1034,East,EA-3,Male,12,62.8,Acceptable,21.0,None/slight,Crisis,0.56,Remittances,Yes
+1035,Central,CE-4,Female,6,51.2,Acceptable,8.0,None/slight,Stress,0.54,Casual labour,No
+1036,west,WE-4,F,3,50.4,Acceptable,0.0,Moderate,Stress,0.57,Assistance,No
+1037,west,WE-1,Female,1,34.7,Borderline,29.0,Moderate,Stress,0.84,Assistance,No
+1038,north,NO-2,Male,3,62.6,Acceptable,52.0,Severe,Emergency,0.45,Remittances,No
+1039,west,WE-4,Female,12,36.7,Acceptable,38.0,None/slight,Stress,0.49,Remittances,Yes
+1040,North,NO-1,Female,6,42.6,Acceptable,35.0,Moderate,Crisis,0.42,Assistance,Yes
+1041,Central,CE-3,Female,8,71.5,Acceptable,39.0,Moderate,Crisis,0.45,Petty trade,No
+1042,NORTH ,NO-3,Female,13,13.4,Poor,,Moderate,None,0.68,Agriculture,No
+1043,North,NO-1,female,9,53.8,Acceptable,13.0,None/slight,Stress,0.44,None,Yes
+1044,East,EA-4,Male,11,40.7,Acceptable,3.0,None/slight,Crisis,0.51,Assistance,No
+1045,west,WE-3,male,8,18.5,Poor,4.0,None/slight,Stress,0.57,None,No
+1046,East,EA-2,Male,12,40.2,Acceptable,24.0,Severe,Emergency,0.71,Agriculture,No
+1047,north,NO-2,M,11,54.4,Acceptable,56.0,Moderate,Stress,0.34,None,No
+1048,west,WE-2,Female,3,37.0,Acceptable,25.0,None/slight,None,0.64,None,No
+1049,Central,CE-4,Female,8,57.9,Acceptable,54.0,Severe,Stress,0.68,Casual labour,Yes
+1050,East,EA-3,Female,12,36.6,Acceptable,28.0,None/slight,Stress,0.33,Assistance,No
+1051,West,WE-3,Male,11,50.9,Acceptable,38.0,None/slight,Stress,0.52,Petty trade,No
+1052,Central,CE-4,F,13,32.2,Borderline,49.0,Moderate,None,0.51,None,No
+1053,south,SO-4,female,6,5.6,Poor,5.0,None/slight,None,0.43,Petty trade,Yes
+1054,East,EA-4,Male,9,38.2,Acceptable,31.0,None/slight,Crisis,0.64,Casual labour,Yes
+1055,north,NO-4,Male,4,5.8,Poor,42.0,Moderate,Crisis,0.81,None,Yes
+1056,North,NO-1,Female,4,44.5,Acceptable,49.0,None/slight,Crisis,0.69,Assistance,Yes
+1057,South,SO-1,Female,2,53.2,Acceptable,54.0,Moderate,Stress,0.98,Agriculture,No
+1058,NORTH ,NO-3,Female,1,72.6,Acceptable,46.0,Severe,Crisis,0.58,Casual labour,No
+1059,West,WE-2,male,13,49.5,Acceptable,10.0,Severe,Stress,0.69,Remittances,Yes
+1060,East,EA-1,F,5,31.4,Borderline,14.0,None/slight,Stress,0.62,Agriculture,No
+1061,South,SO-3,F,12,66.3,Acceptable,52.0,None/slight,Stress,0.75,None,No
+1062,south,SO-3,Male,5,39.2,Acceptable,44.0,None/slight,Stress,0.44,None,Yes
+1063,south,SO-3,Female,4,62.2,Acceptable,0.0,None/slight,Emergency,0.81,None,No
+1064,north,NO-1,Male,3,40.4,Acceptable,18.0,None/slight,None,0.85,Remittances,No
+1065,NORTH ,NO-3,F,5,19.0,Poor,51.0,None/slight,Crisis,0.48,Casual labour,No
+1066,South,SO-1,M,6,29.9,Borderline,25.0,None/slight,Stress,0.73,Remittances,Yes
+1067,west,WE-1,F,9,29.8,Borderline,2.0,Severe,Stress,0.66,Agriculture,No
+1068,west,WE-1,M,12,46.8,Acceptable,,None/slight,None,0.47,None,No
+1069,Central,CE-4,Male,9,50.3,Acceptable,43.0,None/slight,Crisis,0.51,Casual labour,Yes
+1070,Central,CE-1,Male,4,30.8,Borderline,36.0,None/slight,Crisis,0.78,Petty trade,No
+1071,Central,CE-2,F,7,34.7,Borderline,32.0,None/slight,Stress,0.64,None,Yes
+1072,NORTH ,NO-2,Male,7,20.1,Poor,42.0,Severe,Crisis,0.75,Petty trade,No
+1073,North,NO-4,M,2,42.1,Acceptable,0.0,Moderate,Crisis,0.58,None,Yes
+1074,north,NO-4,Male,7,37.0,Acceptable,,Moderate,None,0.57,Petty trade,No
+1075,NORTH ,NO-4,Male,6,13.8,Poor,49.0,None/slight,None,0.67,Remittances,Yes
+1076,NORTH ,NO-2,Male,8,50.5,Acceptable,31.0,Moderate,Stress,0.67,Remittances,No
+1077,North,NO-3,F,8,55.3,Acceptable,49.0,Severe,Emergency,0.56,Petty trade,Yes
+1078,South,SO-3,Male,13,38.6,Acceptable,50.0,None/slight,Stress,0.39,Agriculture,Yes
+1079,Central,CE-3,M,5,59.9,Acceptable,42.0,None/slight,None,0.69,Agriculture,Yes
+1080,south,SO-4,Male,1,72.2,Acceptable,44.0,Moderate,None,0.74,None,Yes
+1081,East,EA-2,Male,7,76.1,Acceptable,20.0,None/slight,Stress,0.66,Agriculture,No
+1082,south,SO-2,Male,3,50.6,Acceptable,47.0,None/slight,Crisis,0.44,None,Yes
+1083,East,EA-2,male,13,44.8,Acceptable,52.0,None/slight,Stress,0.8,Assistance,Yes
+1084,West,WE-1,Female,11,54.5,Acceptable,40.0,None/slight,Crisis,0.54,Agriculture,No
+1085,Central,CE-3,female,4,65.6,Acceptable,46.0,None/slight,Stress,0.38,Assistance,No
+1086,South,SO-4,Female,2,49.4,Acceptable,9.0,None/slight,None,0.91,Casual labour,No
+1087,North,NO-4,Male,12,54.0,Acceptable,15.0,Severe,None,0.6,Petty trade,No
+1088,South,SO-4,Male,4,27.4,Borderline,50.0,None/slight,None,0.52,None,Yes
+1089,north,NO-2,Female,11,54.3,Acceptable,3.0,None/slight,Stress,0.58,None,No
+1090,south,SO-2,Female,6,52.3,Acceptable,5.0,None/slight,Emergency,0.65,Assistance,No
+1091,Central,CE-1,Male,9,41.8,Acceptable,56.0,None/slight,None,0.5,Remittances,No
+1092,East,EA-3,Male,10,39.5,Acceptable,53.0,None/slight,Crisis,0.54,None,No
+1093,North,NO-1,M,8,38.1,Acceptable,21.0,None/slight,None,0.71,Assistance,No
+1094,south,SO-3,M,3,48.5,Acceptable,44.0,Moderate,Stress,0.47,Remittances,No
+1095,NORTH ,NO-1,F,8,40.5,Acceptable,34.0,Moderate,Stress,0.36,Petty trade,No
+1096,West,WE-1,M,12,48.0,Acceptable,51.0,None/slight,Stress,0.6,None,No
+1097,East,EA-4,F,3,54.0,Acceptable,42.0,None/slight,Stress,0.51,None,Yes
+1098,East,EA-2,Male,13,38.3,Acceptable,39.0,None/slight,None,0.68,Petty trade,Yes
+1099,west,WE-2,Female,3,49.8,Acceptable,17.0,None/slight,None,0.65,Assistance,Yes
+1100,west,WE-3,Female,3,33.5,Borderline,16.0,None/slight,None,0.43,Assistance,No
+1101,south,SO-2,Male,12,34.4,Borderline,21.0,Severe,None,0.78,Assistance,No
+1102,East,EA-4,Female,1,37.4,Acceptable,7.0,None/slight,Crisis,0.42,Assistance,No
+1103,South,SO-2,Male,8,31.6,Borderline,51.0,None/slight,None,0.75,Remittances,No
+1104,south,SO-3,F,4,37.4,Acceptable,,None/slight,Crisis,0.44,Assistance,No
+1105,East,EA-3,M,8,47.6,Acceptable,,Moderate,Stress,0.66,Agriculture,No
+1106,East,EA-1,M,9,43.0,Acceptable,0.0,Moderate,Stress,0.52,Assistance,No
+1107,Central,CE-4,M,9,29.2,Borderline,15.0,None/slight,Stress,0.74,Assistance,No
+1108,west,WE-3,Female,3,48.1,Acceptable,7.0,Severe,Stress,0.65,None,No
+1109,East,EA-4,Female,6,44.6,Acceptable,27.0,Moderate,Emergency,0.55,Assistance,Yes
+1110,Central,CE-4,Male,11,55.6,Acceptable,18.0,Moderate,Emergency,0.4,None,No
+1111,Central,CE-3,Male,1,38.2,Acceptable,56.0,Severe,Stress,0.57,Casual labour,No
+1112,west,WE-3,Male,8,45.4,Acceptable,29.0,None/slight,None,0.6,Casual labour,Yes
+1113,East,EA-1,M,1,32.5,Borderline,10.0,None/slight,Stress,0.62,Casual labour,Yes
+1114,South,SO-2,Female,12,31.2,Borderline,17.0,None/slight,None,0.57,None,Yes
+1115,west,WE-4,Male,9,52.0,Acceptable,53.0,Severe,Crisis,0.66,Remittances,No
+1116,south,SO-4,Female,13,50.4,Acceptable,45.0,Severe,Emergency,0.61,Casual labour,No
+1117,East,EA-1,Male,3,44.8,Acceptable,,None/slight,None,0.52,Petty trade,No
+1118,West,WE-1,Female,4,25.7,Borderline,53.0,Moderate,Emergency,0.53,Casual labour,No
+1119,west,WE-2,Female,2,70.8,Acceptable,4.0,None/slight,None,0.68,None,No
+1120,Central,CE-3,Female,11,40.5,Acceptable,,None/slight,Stress,0.61,Remittances,No
+1121,East,EA-3,Female,9,40.0,Acceptable,0.0,Severe,Crisis,0.34,Agriculture,No
+1122,South,SO-4,Female,9,60.3,Acceptable,36.0,None/slight,Crisis,0.42,Agriculture,No
+1123,Central,CE-1,Female,10,15.2,Poor,25.0,None/slight,Emergency,0.81,Casual labour,No
+1124,South,SO-3,M,3,54.5,Acceptable,24.0,Severe,Crisis,0.56,Remittances,Yes
+1125,West,WE-3,Male,4,38.9,Acceptable,27.0,None/slight,None,0.69,Petty trade,No
+1126,North,NO-1,Female,4,33.9,Borderline,45.0,Moderate,Crisis,0.49,None,Yes
+1127,South,SO-3,Male,2,58.3,Acceptable,36.0,Moderate,None,0.77,Casual labour,No
+1128,West,WE-1,M,4,21.2,Borderline,29.0,None/slight,Stress,0.75,Remittances,No
+1129,West,WE-4,Male,2,26.5,Borderline,20.0,None/slight,Crisis,0.73,Casual labour,No
+1130,NORTH ,NO-2,F,9,61.9,Acceptable,8.0,None/slight,Stress,0.54,Assistance,No
+1131,East,EA-1,Female,3,3.7,Poor,13.0,None/slight,Emergency,0.84,Agriculture,Yes
+1132,West,WE-2,Female,2,35.9,Acceptable,30.0,Moderate,None,0.72,Remittances,Yes
+1133,East,EA-4,Female,11,29.2,Borderline,51.0,Moderate,Stress,0.6,Petty trade,No
+1134,East,EA-4,Male,1,38.8,Acceptable,45.0,Severe,Crisis,0.58,Casual labour,Yes
+1135,Central,CE-1,Male,3,35.6,Acceptable,49.0,None/slight,Crisis,0.54,Assistance,No
+1136,West,WE-3,Male,7,34.1,Borderline,45.0,None/slight,Stress,0.52,Casual labour,No
+1137,Central,CE-4,Female,12,51.8,Acceptable,37.0,None/slight,Emergency,0.76,Casual labour,Yes
+1138,East,EA-3,M,2,42.6,Acceptable,7.0,Moderate,None,0.6,Assistance,Yes
+1139,West,WE-4,Male,11,40.0,Acceptable,46.0,None/slight,Emergency,0.43,Remittances,No
+1140,East,EA-2,Male,5,19.6,Poor,3.0,None/slight,None,0.75,None,No
+1141,south,SO-3,Female,5,50.3,Acceptable,34.0,Moderate,None,0.63,Assistance,Yes
+1142,Central,CE-1,Male,13,56.1,Acceptable,,None/slight,Stress,0.42,Assistance,Yes
+1143,north,NO-2,Female,11,33.2,Borderline,10.0,None/slight,Emergency,0.32,Remittances,No
+1144,North,NO-2,male,7,50.7,Acceptable,13.0,Severe,None,0.67,Agriculture,No
+1145,West,WE-1,Female,5,38.9,Acceptable,36.0,None/slight,Stress,0.62,None,Yes
+1146,South,SO-2,M,5,39.3,Acceptable,23.0,None/slight,Stress,0.58,Remittances,No
+1147,East,EA-4,Male,2,65.3,Acceptable,34.0,None/slight,Emergency,0.43,Remittances,No
+1148,East,EA-3,Female,2,56.3,Acceptable,38.0,None/slight,Stress,0.76,Petty trade,Yes
+1149,South,SO-4,F,2,52.8,Acceptable,51.0,None/slight,Crisis,0.58,Remittances,No
+1150,Central,CE-2,Female,13,36.0,Acceptable,52.0,None/slight,Crisis,0.72,Casual labour,Yes
+1151,Central,CE-2,Female,6,36.9,Acceptable,1.0,Moderate,Stress,0.9,None,No
+1152,East,EA-4,M,12,21.7,Borderline,32.0,None/slight,Crisis,0.68,None,Yes
+1153,North,NO-2,Male,3,34.6,Borderline,46.0,None/slight,Crisis,0.57,Remittances,No
+1154,south,SO-2,Male,4,42.6,Acceptable,17.0,Moderate,None,0.53,Agriculture,No
+1155,north,NO-3,M,7,28.8,Borderline,13.0,Moderate,Stress,0.64,Remittances,Yes
+1156,west,WE-4,M,2,63.6,Acceptable,2.0,Moderate,None,0.34,None,Yes
+1157,NORTH ,NO-2,Male,4,52.6,Acceptable,21.0,None/slight,Stress,0.64,Casual labour,No
+1158,East,EA-4,Male,11,50.1,Acceptable,28.0,Moderate,Crisis,0.52,Remittances,No
+1159,south,SO-4,female,7,35.1,Acceptable,16.0,Moderate,Crisis,0.78,Remittances,No
+1160,south,SO-2,Female,5,70.5,Acceptable,22.0,None/slight,None,0.62,Petty trade,No
+1161,north,NO-3,Male,11,39.9,Acceptable,13.0,Moderate,Crisis,0.44,Casual labour,No
+1162,East,EA-2,M,10,34.1,Borderline,56.0,Moderate,Emergency,0.5,None,Yes
+1163,south,SO-3,F,1,52.9,Acceptable,44.0,Moderate,Crisis,0.85,Remittances,No
+1164,north,NO-3,Male,8,51.3,Acceptable,11.0,None/slight,Crisis,0.69,Assistance,No
+1165,Central,CE-2,Male,13,48.6,Acceptable,40.0,None/slight,Crisis,0.73,Remittances,No
+1166,north,NO-2,Male,6,44.2,Acceptable,34.0,None/slight,Crisis,0.45,Assistance,Yes
+1167,West,WE-4,F,12,45.2,Acceptable,46.0,Severe,Crisis,0.56,None,No
+1168,East,EA-3,Female,1,33.9,Borderline,44.0,Severe,Stress,0.58,Remittances,Yes
+1169,Central,CE-1,Male,13,40.5,Acceptable,55.0,Moderate,Emergency,0.63,Remittances,Yes
+1170,East,EA-3,Female,3,61.7,Acceptable,25.0,None/slight,Stress,0.52,None,Yes
+1171,Central,CE-2,Male,12,42.5,Acceptable,17.0,Moderate,Stress,0.65,Agriculture,No
+1172,south,SO-1,M,3,45.8,Acceptable,10.0,None/slight,None,0.53,None,No
+1173,South,SO-1,Male,5,61.0,Acceptable,9.0,None/slight,Crisis,0.86,Petty trade,No
+1174,south,SO-3,Male,10,40.7,Acceptable,46.0,None/slight,None,0.8,None,Yes
+1175,South,SO-2,M,13,52.7,Acceptable,36.0,Moderate,Emergency,0.43,Remittances,Yes
+1176,East,EA-1,M,6,31.2,Borderline,50.0,Moderate,Stress,0.71,Casual labour,No
+1177,Central,CE-3,Male,12,60.4,Acceptable,3.0,None/slight,None,0.79,Assistance,No
+1178,north,NO-1,female,1,58.9,Acceptable,44.0,None/slight,Crisis,0.67,Casual labour,No
+1179,Central,CE-4,Male,13,56.5,Acceptable,19.0,None/slight,Stress,0.66,Remittances,Yes
+1180,NORTH ,NO-2,Male,5,57.7,Acceptable,4.0,None/slight,Stress,0.54,Petty trade,No
+1181,West,WE-2,male,12,39.3,Acceptable,18.0,None/slight,Emergency,0.68,Petty trade,No
+1182,East,EA-3,male,9,55.2,Acceptable,40.0,None/slight,None,0.67,None,No
+1183,East,EA-4,F,6,24.1,Borderline,36.0,None/slight,Crisis,0.71,Casual labour,No
+1184,north,NO-2,Female,10,21.1,Borderline,39.0,Moderate,None,0.77,Assistance,Yes
+1185,East,EA-1,Male,5,33.7,Borderline,19.0,None/slight,Crisis,0.85,Petty trade,No
+1186,south,SO-4,Male,7,23.7,Borderline,22.0,Severe,Stress,0.74,Petty trade,Yes
+1187,East,EA-2,Female,9,42.0,Acceptable,55.0,Moderate,Emergency,0.52,Agriculture,Yes
+1188,south,SO-2,Female,12,64.8,Acceptable,32.0,Moderate,Stress,0.69,Remittances,No
+1189,south,SO-1,Male,3,29.9,Borderline,48.0,Severe,Stress,0.76,None,No
+1190,south,SO-1,Male,4,36.0,Acceptable,19.0,Severe,Crisis,0.68,Casual labour,No
+1191,East,EA-4,Female,2,25.9,Borderline,40.0,Moderate,Stress,0.65,Petty trade,Yes
+1192,East,EA-1,Male,7,53.1,Acceptable,15.0,Moderate,Stress,0.88,Casual labour,No
+1193,Central,CE-2,Male,1,54.1,Acceptable,56.0,Moderate,None,0.45,Petty trade,No
+1194,West,WE-3,Male,4,50.2,Acceptable,32.0,None/slight,None,0.73,Agriculture,No
+1195,west,WE-2,Female,12,40.9,Acceptable,56.0,Severe,Stress,0.62,Remittances,No
+1196,North,NO-4,Male,10,48.0,Acceptable,46.0,None/slight,None,0.79,Casual labour,Yes
+1197,south,SO-2,M,2,63.4,Acceptable,,Moderate,Stress,0.75,Assistance,No
+1198,Central,CE-3,Female,13,64.6,Acceptable,5.0,Moderate,Crisis,0.41,Agriculture,Yes
+1199,South,SO-4,Male,6,62.0,Acceptable,9.0,Moderate,None,0.59,Remittances,No
+1200,West,WE-1,Male,10,45.8,Acceptable,,None/slight,Crisis,0.46,Casual labour,No

@@ -1,0 +1,60 @@
+{"ticket": "T000", "date": "2026-01-10", "channel": "Hotline", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T001", "date": "2026-02-11", "channel": "Help desk", "category": "Delay", "resolved": "no"}
+{"ticket": "T002", "date": "2026-03-12", "channel": "Community leader", "category": "Amount", "resolved": "yes"}
+{"ticket": "T003", "date": "2026-04-13", "channel": "Hotline", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T004", "date": "2026-05-14", "channel": "Help desk", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T005", "date": "2026-06-15", "channel": "Community leader", "category": "Delay", "resolved": "no"}
+{"ticket": "T006", "date": "2026-01-16", "channel": "Hotline", "category": "Amount", "resolved": "yes"}
+{"ticket": "T007", "date": "2026-02-17", "channel": "Help desk", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T008", "date": "2026-03-18", "channel": "Community leader", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T009", "date": "2026-04-10", "channel": "Hotline", "category": "Delay", "resolved": "no"}
+{"ticket": "T010", "date": "2026-05-11", "channel": "Help desk", "category": "Amount", "resolved": "yes"}
+{"ticket": "T011", "date": "2026-06-12", "channel": "Community leader", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T012", "date": "2026-01-13", "channel": "Hotline", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T013", "date": "2026-02-14", "channel": "Help desk", "category": "Delay", "resolved": "no"}
+{"ticket": "T014", "date": "2026-03-15", "channel": "Community leader", "category": "Amount", "resolved": "yes"}
+{"ticket": "T015", "date": "2026-04-16", "channel": "Hotline", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T016", "date": "2026-05-17", "channel": "Help desk", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T017", "date": "2026-06-18", "channel": "Community leader", "category": "Delay", "resolved": "no"}
+{"ticket": "T018", "date": "2026-01-10", "channel": "Hotline", "category": "Amount", "resolved": "yes"}
+{"ticket": "T019", "date": "2026-02-11", "channel": "Help desk", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T020", "date": "2026-03-12", "channel": "Community leader", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T021", "date": "2026-04-13", "channel": "Hotline", "category": "Delay", "resolved": "no"}
+{"ticket": "T022", "date": "2026-05-14", "channel": "Help desk", "category": "Amount", "resolved": "yes"}
+{"ticket": "T023", "date": "2026-06-15", "channel": "Community leader", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T024", "date": "2026-01-16", "channel": "Hotline", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T025", "date": "2026-02-17", "channel": "Help desk", "category": "Delay", "resolved": "no"}
+{"ticket": "T026", "date": "2026-03-18", "channel": "Community leader", "category": "Amount", "resolved": "yes"}
+{"ticket": "T027", "date": "2026-04-10", "channel": "Hotline", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T028", "date": "2026-05-11", "channel": "Help desk", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T029", "date": "2026-06-12", "channel": "Community leader", "category": "Delay", "resolved": "no"}
+{"ticket": "T030", "date": "2026-01-13", "channel": "Hotline", "category": "Amount", "resolved": "yes"}
+{"ticket": "T031", "date": "2026-02-14", "channel": "Help desk", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T032", "date": "2026-03-15", "channel": "Community leader", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T033", "date": "2026-04-16", "channel": "Hotline", "category": "Delay", "resolved": "no"}
+{"ticket": "T034", "date": "2026-05-17", "channel": "Help desk", "category": "Amount", "resolved": "yes"}
+{"ticket": "T035", "date": "2026-06-18", "channel": "Community leader", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T036", "date": "2026-01-10", "channel": "Hotline", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T037", "date": "2026-02-11", "channel": "Help desk", "category": "Delay", "resolved": "no"}
+{"ticket": "T038", "date": "2026-03-12", "channel": "Community leader", "category": "Amount", "resolved": "yes"}
+{"ticket": "T039", "date": "2026-04-13", "channel": "Hotline", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T040", "date": "2026-05-14", "channel": "Help desk", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T041", "date": "2026-06-15", "channel": "Community leader", "category": "Delay", "resolved": "no"}
+{"ticket": "T042", "date": "2026-01-16", "channel": "Hotline", "category": "Amount", "resolved": "yes"}
+{"ticket": "T043", "date": "2026-02-17", "channel": "Help desk", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T044", "date": "2026-03-18", "channel": "Community leader", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T045", "date": "2026-04-10", "channel": "Hotline", "category": "Delay", "resolved": "no"}
+{"ticket": "T046", "date": "2026-05-11", "channel": "Help desk", "category": "Amount", "resolved": "yes"}
+{"ticket": "T047", "date": "2026-06-12", "channel": "Community leader", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T048", "date": "2026-01-13", "channel": "Hotline", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T049", "date": "2026-02-14", "channel": "Help desk", "category": "Delay", "resolved": "no"}
+{"ticket": "T050", "date": "2026-03-15", "channel": "Community leader", "category": "Amount", "resolved": "yes"}
+{"ticket": "T051", "date": "2026-04-16", "channel": "Hotline", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T052", "date": "2026-05-17", "channel": "Help desk", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T053", "date": "2026-06-18", "channel": "Community leader", "category": "Delay", "resolved": "no"}
+{"ticket": "T054", "date": "2026-01-10", "channel": "Hotline", "category": "Amount", "resolved": "yes"}
+{"ticket": "T055", "date": "2026-02-11", "channel": "Help desk", "category": "Staff conduct", "resolved": "no"}
+{"ticket": "T056", "date": "2026-03-12", "channel": "Community leader", "category": "Inclusion", "resolved": "yes"}
+{"ticket": "T057", "date": "2026-04-13", "channel": "Hotline", "category": "Delay", "resolved": "no"}
+{"ticket": "T058", "date": "2026-05-14", "channel": "Help desk", "category": "Amount", "resolved": "yes"}
+{"ticket": "T059", "date": "2026-06-15", "channel": "Community leader", "category": "Staff conduct", "resolved": "no"}

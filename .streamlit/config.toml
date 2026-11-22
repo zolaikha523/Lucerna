@@ -1,0 +1,67 @@
+[server]
+enableStaticServing = true
+headless = true
+maxUploadSize = 200
+enableXsrfProtection = true
+address = "127.0.0.1"   # local-only by default; see docs/DEPLOYMENT.md before exposing on a network
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false
+
+[theme]
+# Lucerna application theme (system A): dark navy, azure/teal accents. Dashboards style themselves (systems B and C).
+base = "dark"
+primaryColor = "#3D7BFF"
+backgroundColor = "#070D1C"
+secondaryBackgroundColor = "#111B33"
+textColor = "#E8EEF8"
+linkColor = "#7EA6FF"
+borderColor = "#22304D"
+dataframeBorderColor = "#22304D"
+dataframeHeaderBackgroundColor = "#0F1930"
+showWidgetBorder = true
+baseRadius = "10px"
+buttonRadius = "10px"
+font = "Inter, Vazirmatn, 'Segoe UI', sans-serif"
+headingFont = "Inter, Vazirmatn, 'Segoe UI', sans-serif"
+chartCategoricalColors = ["#5B8DFF", "#2CD3C0", "#A48CFF", "#FFC56B", "#F27AA8", "#46C46E", "#F08A4B", "#8FD3FF"]
+greenColor = "#22B573"
+redColor = "#E5484D"
+orangeColor = "#E0A030"
+blueColor = "#5B8DFF"
+violetColor = "#A48CFF"
+
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/fonts/inter-latin-400-normal.woff2"
+weight = 400
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/fonts/inter-latin-500-normal.woff2"
+weight = 500
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/fonts/inter-latin-600-normal.woff2"
+weight = 600
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/fonts/inter-latin-700-normal.woff2"
+weight = 700
+[[theme.fontFaces]]
+family = "Vazirmatn"
+url = "app/static/fonts/vazirmatn-arabic-400-normal.woff2"
+weight = 400
+[[theme.fontFaces]]
+family = "Vazirmatn"
+url = "app/static/fonts/vazirmatn-arabic-600-normal.woff2"
+weight = 600
+
+[theme.sidebar]
+backgroundColor = "#060B18"
+secondaryBackgroundColor = "#0E1830"
+textColor = "#C9D3E3"
+borderColor = "#1A2540"

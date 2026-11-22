@@ -1,0 +1,18 @@
+# Lucerna — tested on Python 3.13 (Windows and Linux). Install with setup_windows.bat.
+streamlit>=1.50,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+scipy>=1.12,<2
+statsmodels>=0.14,<1
+plotly>=6,<8
+matplotlib>=3.8,<4
+python-docx>=1.1,<2
+reportlab>=4.1,<6
+openpyxl>=3.1,<4
+xlrd>=2.0,<3
+pyarrow>=15,<30
+pypdf>=4,<7
+pdfplumber>=0.11,<1
+requests>=2.31,<3
+python-dotenv>=1,<2
+segno>=1.6,<2

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180">
+  <title>SYNTHETIC — Lumen Learning Collective (fictional)</title>
+  <circle cx="90" cy="90" r="70" fill="#5B2A86"/>
+  <path d="M60 120 L90 45 L120 120 Z" fill="#F2B705"/>
+  <text x="180" y="95" font-family="sans-serif" font-size="48" font-weight="700" fill="#5B2A86">LUMEN</text>
+  <text x="182" y="135" font-family="sans-serif" font-size="24" fill="#A47CC4">LEARNING COLLECTIVE</text>
+</svg>

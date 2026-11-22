@@ -1,0 +1,12 @@
+data/uploads/*
+data/outputs/*
+data/*.sqlite3
+.env
+__pycache__/
+*.pyc
+data/*
+!data/.gitkeep
+*.sqlite3
+*.parquet
+.pytest_cache/
+.venv/
